@@ -1,0 +1,22 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+BUSHES LLC|THE STATION|402-00142|Center - Type 1|Suspended|3005 28th Street|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BUSHES LLC||403-01106|Optional Premises|Suspended|2650 West 6th Avenue, Unit 101|Denver CO  80204|Denver|Denver|CO|80204|
+BUSHES LLC|THE STATION|402R-00234|Retail Marijuana Store|Suspended|3005 28th Street|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BUSHES LLC|THE STATION|403R-00309|Retail Marijuana Cultivation Facility|Suspended|2650 West 6th Avenue Unit 101|Denver CO  80204|Denver|Denver|CO|80204|
+DELTA 17 LLC||403R-01034|Retail Marijuana Cultivation Facility|Suspended|61401 County Road B|Center CO  81125|Center|Saguache|CO|81125|
+HGCO LLC||403-00192|Optional Premises|Suspended|12555 East 37th Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+HGCO LLC||403R-00060|Retail Marijuana Cultivation Facility|Suspended|12555 East 37th Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+HGCO LLC||404-00481|Infused Product Manufacturer|Suspended|4745 Town Center Drive, Unit 140|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+HGCO LLC||403-01705|Optional Premises|Suspended|4454 North York Street|Denver CO  80216|Denver|Denver|CO|80216|
+HGCO LLC||402-01149|Center - Type 1|Suspended|4745 Town Center Drive, Unit 160|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+HGCO LLC||403-01759|Optional Premises|Suspended|4735 Town Center Drive|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+HGCO LLC||403-01760|Optional Premises|Suspended|4745 Town Center Drive, Unit 100 & Unit 110|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+HGCO LLC||403-01826|Optional Premises|Suspended|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HGCO LLC||403-01827|Optional Premises|Suspended|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HGCO LLC||404R-00279|Retail Marijuana Products Mfg|Suspended|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HGCO LLC||404R-00280|Retail Marijuana Products Mfg|Suspended|3725 Salem Street|Denver CO  80239|Denver|Denver|CO|80239|
+HGCO LLC||403R-00823|Retail Marijuana Cultivation Facility|Suspended|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HGCO LLC||404-00584|Infused Product Manufacturer|Suspended|3106 North Stone Avenue, Unit C|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+HGCO LLC||403-01868|Optional Premises|Suspended|3106 North Stone Avenue, Unit C|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+HGCO LLC||403-01869|Optional Premises|Suspended|3106 North Stone Avenue, Unit C|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+HGCO LLC||403R-00868|Retail Marijuana Cultivation Facility|Suspended|4454 York Street|Denver CO  80216|Denver|Denver|CO|80216|

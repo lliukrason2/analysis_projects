@@ -1,0 +1,543 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+1617 WAZEE STREET LLC|LODO WELLNESS CENTER|403-00019|Optional Premises|Expired|1617 Wazee Street, Unit B|Denver CO  80202|Denver|Denver|CO|80202|
+3 GUYS AND A GAL|PURE|404R-00362|Retail Marijuana Products Mfg|Expired|101 Cardinal Way #6|Parachute CO  81635|Parachute|Garfield|CO|81635|
+36 RESEARCH LLC||403R-00801|Retail Marijuana Cultivation Facility|Expired|36C North Research Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+3-D DENVERS DISCREET DISPENSARY LLC|3D DISPENSARY AND/OR 3D CANNABIS CENTER|402-00078|Center - Type 1|Expired|4305 Brighton Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+3-D DENVERS DISCREET DISPENSARY LLC|3D DISPENSARY AND/OR 3D CANNABIS CENTER|403-00114|Optional Premises|Expired|4305 Brighton Blvd.|Denver CO  80216|Denver|Denver|CO|80216|
+3-D DENVERS DISCREET DISPENSARY LLC|3D CANNABIS CENTER|403-01482|Optional Premises|Expired|7706 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+420 GREEN GENIE INC||402R-00471|Retail Marijuana Store|Expired|106 East 4th Avenue|Antonito CO  81120|Antonito|Conejos|CO|81120|
+4625 EAST COLFAX LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|403-00194|Optional Premises|Expired|4625 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+4th DIMENSION INC|GAS FACTORY|403R-00534|Retail Marijuana Cultivation Facility|Expired|3144 Verde Road|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+50 SHADES OF GREEN LLC||403R-00701|Retail Marijuana Cultivation Facility|Expired|4791 North Interstate 25|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+5110 RACE LLC|THE SANCTUARY WELLNESS CENTER|403-01342|Optional Premises|Expired|890 7th Street|Penrose CO  81240|Penrose|Fremont|CO|81240|
+5280 WELLNESS LLC|MMJ AMERICA GOLDEN TRIANGLE|402R-00018|Retail Marijuana Store|Expired|1321 Elati Street|Denver CO  80204|Denver|Denver|CO|80204|
+A GROWING CONCERN LLC|A GROWING CONCERN|403R-01036|Retail Marijuana Cultivation Facility|Expired|51956 County Road T|Saguache CO  81149|Saguache|Saguache|CO|81149|
+ABCO LLC|QUANTUM CONCENTRATES LLC|404-00463|Infused Product Manufacturer|Expired|4800 North Brighton Boulevard, Suite 100|Denver CO  80216|Denver|Denver|CO|80216|
+ACME HEALING CENTER OF CARBONDALE LLC||402R-00347|Retail Marijuana Store|Expired|958 Highway 133|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+ACME HEALING CENTER OF CORTEZ LLC||402R-00433|Retail Marijuana Store|Expired|980 South Broadway Guess|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+ACME HEALING CENTER OF RIDGWAY LLC|ACME HEALING CENTER|403-00712|Optional Premises|Expired|22327 US Highway 550 Lot B |Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+ADAMS GREEN CROSSING LLC|THE CHRONIC BOUTIQUE|403-01783|Optional Premises|Expired|2727 Palmer Park Boulevard, Suite A|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ADAMS GREEN CROSSING LLC|ADAMS GREEN CROSSING|404-00541|Infused Product Manufacturer|Expired|790 West Evans|Denver CO  80219|Denver|Denver|CO|80219|
+ADAMS GREEN CROSSING LLC|ADAMS GREEN CROSSING|403-01812|Optional Premises|Expired|4595 Stapleton Drive North|Denver CO  80216|Denver|Denver|CO|80216|
+ADAMS GREEN CROSSING LLC|ADAMS GREEN CROSSING|403-01813|Optional Premises|Expired|4595 Stapleton Drive North|Denver CO  80216|Denver|Denver|CO|80216|
+ADG HERBAL MEDICINE INC|FROSTED LEAF|402-00665|Center - Type 1|Expired|11 West Hampden Avenue, Suite 102|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+ADVANCED MEDICAL ALTERNATIVES LLC|ADVANCED MEDICAL ALTERNATIVES LLC|403-00351|Optional Premises|Expired|221 North Wyandot Street|Denver CO  80212|Denver|Denver|CO|80212|
+AJC INDUSTRIES LLC|TWEEDLEAF|403-01910|Optional Premises|Expired|19469 County Road H|Ordway CO  81063|Ordway|Crowley|CO|81063|
+ALL HIS GREEN LLC||403R-01016|Retail Marijuana Cultivation Facility|Expired|1313 Blue Spruce Drive Unit B|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+ALL HIS GREEN LLC||404R-00371|Retail Marijuana Products Mfg|Expired|1313 Blue Spruce Drive Unit B|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+ALLGREENS LLC||403R-00660|Retail Marijuana Cultivation Facility|Expired|762 Kalamath Street|Denver CO  80204|Denver|Denver|CO|80204|
+ALPINE INNOVATIONS LLC|ALPINE EXTRACTS|404R-00238|Retail Marijuana Products Mfg|Expired|850 A & B Commercial Lane|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+ALPINE WELLNESS LLC||404-00035|Infused Product Manufacturer|Expired|757 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+ALTERNATIVE MEDICAL SOLUTIONS LTD||402R-00279|Retail Marijuana Store|Expired|106 South Mill Street, Suite 201 and 202|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+ALWAYS GREEN CBD 1 LLC||403R-00969|Retail Marijuana Cultivation Facility|Expired|67 North Silicon Drive Unit 110-120|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+ALWAYS GREEN CBD 1 LLC||403R-00970|Retail Marijuana Cultivation Facility|Expired|57935 East US Highway 50 Units 100-110|Boone CO  81025|Boone|Pueblo|CO|81025|
+AMERICAN PRIDE GROWERS LLC|THE LEAF|402R-00669|Retail Marijuana Store|Expired|875 Crane Ridge Drive|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+AMERIJUANA INC||403R-00517|Retail Marijuana Cultivation Facility|Expired|39327 Harbour Road|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+AMH LTD|ASPEN MOUNTAIN HIGH|404R-00130|Retail Marijuana Products Mfg|Expired|Aspen Business Center, Building 300 Unit A|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+ANAPORT ENTERPRISES LLC|GREEN CROSS OF LONGMONT|402R-00728|Retail Marijuana Store|Expired|165 Primrose Court Unit B|Longmont CO  80501|Longmont|Boulder|CO|80501|
+ANCIENT ALTERNATIVES LLC|GREEN TREE MEDICINALS|402R-00726|Retail Marijuana Store|Expired|455 Weaver Park Road, Suite 900|Longmont CO  80501|Longmont|Boulder|CO|80501|
+ANCIENT ALTERNATIVES LLC|GREEN TREE MEDICINALS|402-01274|Center - Type 1|Expired|455 Weaver Park Road, Suite 900|Longmont CO  80501|Longmont|Boulder|CO|80501|
+ASCEND II LLC|ASCEND II|403-00478|Optional Premises|Expired|638 Kalamath Street|Denver CO  80204|Denver|Denver|CO|80204|
+AYA||403R-00924|Retail Marijuana Cultivation Facility|Expired|462 Laredo Street, Unit H|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+BALLPARK HOLISTIC DISPENSARY CORP|BALLPARK CONCENTRATES|404R-00375|Retail Marijuana Products Mfg|Expired|4228 York Street Unit 105|Denver CO  80216|Denver|Denver|CO|80216|
+BERLIN INTERNATIONAL LLC|PURE GREENS|403-01466|Optional Premises|Expired|7800 County Road 152|Salida CO  81201|Salida|Chaffee|CO|81201|
+BEST BUDS INC||402R-00507|Retail Marijuana Store|Expired|811 North Main Street|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+BEULAH VALLEY FARMS LLC||404R-00373|Retail Marijuana Products Mfg|Expired|7791 Highway 78 West|Beulah CO  81023|Beulah|Pueblo|CO|81023|
+BGOOD VENTURES LLC|BGOOD APOTHECARY|403-01662|Optional Premises|Expired|2165 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+BGOOD VENTURES LLC|BGOOD APOTHECARY|403R-00964|Retail Marijuana Cultivation Facility|Expired|2165 Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+BIG MEDICINE LLC|BIG MEDICINE CANNABISSARY|404-00614|Infused Product Manufacturer|Expired|2909 North El Paso Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+BIOENERGETIC HEALING CENTER LLC||403-00185|Optional Premises|Expired|5105 East 38th Avenue, Unit 102&103|Denver CO  80207|Denver|Denver|CO|80207|
+BIOENERGETIC HEALING CENTER LLC|Bioenergetic Healing Center|403-01253|Optional Premises|Expired|5105 E 38th Avenue #102|Denver CO  80207|Denver|Denver|CO|80207|
+BLACK DOG VALLEY LLC||402-01175|Center - Type 1|Expired|985 Highway 133|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+BLACK DOG VALLEY LLC||403-01795|Optional Premises|Expired|695 Buggy Circle|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+BLACK DOG VALLEY LLC||403R-00705|Retail Marijuana Cultivation Facility|Expired|695 Buggy Circle|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+BOARDLIFE LLC|KUSH LIFE|403R-00663|Retail Marijuana Cultivation Facility|Expired|5715 Fairfax Street|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+BODHI TREE EXTRACTS LLC||404R-00136|Retail Marijuana Products Mfg|Expired|1818 North Santa Fe Drive|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+BORIS DYNOWSKI LLC|I & I|404R-00342|Retail Marijuana Products Mfg|Expired|6185 Arapahoe Avenue Unit C|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOTICA DEL SOL LLC|BOTICA DEL SOL|402-00724|Center - Type 1|Expired|754 South Broadway|Denver CO  80209|Denver|Denver|CO|80209|
+BOTICA DEL SOL LLC|BOTICA DEL SOL|403-01094|Optional Premises|Expired|150 North Tejon |Denver CO  80223|Denver|Denver|CO|80223|
+BOULDER ALTERNATIVE CARE LLC|THE GREEN ROOM|402R-00719|Retail Marijuana Store|Expired|1600 Hover Street #C-1|Longmont CO  80501|Longmont|Boulder|CO|80501|
+BOULDER MEDICINALS LLC|8th STREET WELLNESS CENTER|403-00723|Optional Premises|Expired|2450 Central Ave, Ste L|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOULDER MEDICINALS LLC|8th STREET WELLNESS CENTER|402-00574|Center - Type 1|Expired|1990 8th Street, Suite B|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOULDER RX LLC|NATIVE ROOTS BOULDER|403R-00795|Retail Marijuana Cultivation Facility|Expired|2100 53rd Lane |Boone CO  81025|Boone|Pueblo|CO|81025|
+BRONNOR CORP|BRONNER CORP|404-00200|Infused Product Manufacturer|Expired|4809 Colorado Boulevard |Denver CO  80216|Denver|Denver|CO|80216|
+B'S TREATS LLC||403-01566|Optional Premises|Expired|1952 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+BUDDIES WELLNESS LLC|LA BODEGA|402R-00178|Retail Marijuana Store|Expired|1270 West Cedar Avenue, Suite A|Denver CO  80223|Denver|Denver|CO|80223|
+BUDDIES WELLNESS LLC|LA BODEGA|403R-00234|Retail Marijuana Cultivation Facility|Expired|1270 West Cedar Avenue, Suite A|Denver CO  80223|Denver|Denver|CO|80223|
+BUDS, LIMITED||403R-00737|Retail Marijuana Cultivation Facility|Expired|8495 Highway 6 & 24|Parachute CO  81635|Parachute|Garfield|CO|81635|
+BULLDOG GREEN LLC||403R-00949|Retail Marijuana Cultivation Facility|Expired|60810 Highway 96 East|Boone CO  81025|Boone|Pueblo|CO|81025|
+BUSHES LLC|ROCKY FORD STATION LLC|404-00592|Infused Product Manufacturer|Expired|1701 Elm Aveune|Rocky Ford CO  81067|Rocky Ford|Otero|CO|81067|
+C A WILLIAMS ENTERPRISES LLC||403R-00695|Retail Marijuana Cultivation Facility|Expired|2300 East State Highway 96|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|403-00990|Optional Premises|Expired|375 Shoop Drive|Penrose CO  81240|Penrose|Fremont|CO|81240|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|403-00992|Optional Premises|Expired|375 Shoop Drive|Penrose CO  81240|Penrose|Fremont|CO|81240|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|402R-00562|Retail Marijuana Store|Expired|2565 North Interstate 25|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+CADISA ENTERPRISES||403R-00577|Retail Marijuana Cultivation Facility|Expired|6859 North Foothills Highway, Building C, Unit 600|Boulder CO  80302|Boulder|Boulder|CO|80302|
+CADISA ENTERPRISES||404R-00154|Retail Marijuana Products Mfg|Expired|6859 North Foothills Highway, Building C, Unit 600|Boulder CO  80302|Boulder|Boulder|CO|80302|
+CAKRAFARM |CAKRAFARM|403R-00971|Retail Marijuana Cultivation Facility|Expired|7440 Rex Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+CANNA CABANA LLC||402R-00447|Retail Marijuana Store|Expired|66803 Highway 285|Bailey CO  80421|Bailey|Park|CO|80421|
+CANNA CABANA LLC||403R-00522|Retail Marijuana Cultivation Facility|Expired|66803 US Highway 285|Bailey CO  80421|Bailey|Park|CO|80421|
+CANNA CANDIES LLC||404-00113|Infused Product Manufacturer|Expired|4986 Morrison Road Unit 1|Denver CO  80219|Denver|Denver|CO|80219|
+CANNA CANDIES LLC|Canna Candies, LLC|403-01437|Optional Premises|Expired|688 North Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+CANNA CENTER LLC|CANNA CENTER LLC|402-00057|Center - Type 1|Expired|5670 East Evans Avenue #216|Denver CO  80222|Denver|Denver|CO|80222|
+CANNA CENTER LLC||403-00078|Optional Premises|Expired|3819 North Quentin Street|Denver CO  80239|Denver|Denver|CO|80239|
+CANNA KING|CANNA KING|402-00845|Center - Type 1|Expired|5740 South College Avenue, Unit B|Fort Collins CO  80526|Fort Collins|Larimer|CO|80526|
+CANNA KING|CANNA KING|403-01301|Optional Premises|Expired|1225 Blue Spruce, Unit F|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+CANNABICARE INC||403-00156|Optional Premises|Expired|1472 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+CANNABIS CORP|CANNABIS|403-00289|Optional Premises|Expired|1055 South Fox Street|Denver CO  80223|Denver|Denver|CO|80223|
+CANNABIS MAXIMUS LLC|CANNABIS MAXIMUS|403R-00588|Retail Marijuana Cultivation Facility|Expired|472 Laredo Street, Unit L|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+CANNABIS QUEEN LLC||403R-00950|Retail Marijuana Cultivation Facility|Expired|44895 Commanche Creek Road|Bennett CO  80102|Bennett|Elbert|CO|80102|
+CC GROUP|CANNA CREATIONS|403-01329|Optional Premises|Expired|2306 North Powers Boulevard, #100|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+CCOMAG INC|H.O.G. PHARM|403R-00402|Retail Marijuana Cultivation Facility|Expired|24C North Research Drive|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+CCOMAG INC|HOG PHARM|403R-00715|Retail Marijuana Cultivation Facility|Expired|24C North Research Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+CERES COLORADO LLC|CERES GROUP|403R-00613|Retail Marijuana Cultivation Facility|Expired|3815 County Road 2 - P.O. Box 767|Silverton CO  81433|Silverton|San Juan|CO|81433|
+CG NETWORK LLC|GROUNDSWELL|402-00161|Center - Type 1|Expired|3121 East Colfax Avenue|Denver CO  80206|Denver|Denver|CO|80206|
+CGE LLC|CANN GROW ENTERPRISES|403R-00545|Retail Marijuana Cultivation Facility|Expired|6040 Big Sky Drive, Building A|Rye CO  81069|Rye|Pueblo|CO|81069|
+CH II LLC|TERPS N PURPS|402-01172|Center - Type 1|Expired|285 South Pearl Street|Denver CO  80209|Denver|Denver|CO|80209|
+CH II LLC|TERPS N PURPS|403-01791|Optional Premises|Expired|155 South Pecos Street|Denver CO  80223|Denver|Denver|CO|80223|
+CHOICE ORGANICS INC||404R-00076|Retail Marijuana Products Mfg|Expired|813 Smithfield Drive|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+CLAVIS AUREA LLC|THE GOLDEN KEY|403R-00925|Retail Marijuana Cultivation Facility|Expired|23054 State Highway 160 Site 4|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+CO-AGRONOMICS LLC|THE GREEN DEPOT|402-01060|Center - Type 1|Expired|4414 Vine Street|Denver CO  80216|Denver|Denver|CO|80216|
+CO-AGRONOMICS LLC|THE GREEN DEPOT|403-01654|Optional Premises|Expired|4414 Vine Street|Denver CO  80216|Denver|Denver|CO|80216|
+CO-AGRONOMICS LLC|THE GREEN DEPOT|402R-00709|Retail Marijuana Store|Expired|4414 Vine Street|Denver CO  80216|Denver|Denver|CO|80216|
+COLLECTED SUN LLC|COLLECTED SUN|403R-00738|Retail Marijuana Cultivation Facility|Expired|6183 Red Creek Springs Road West|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+COLONA WILDCAT FARMS LLC||403R-00595|Retail Marijuana Cultivation Facility|Expired|37047 Highway 550|Montrose CO  81403|Montrose|Ouray|CO|81403|
+COLORADO CANNABIS ASSOCIATES LLC|THE SPOT|402-00319|Center - Type 1|Expired|748 East Industrial Blvd.|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COLORADO CANNABIS ASSOCIATES LLC|NATURES REMEDY WELLNESS|403-00476|Optional Premises|Expired|748 East Industrial Blvd.|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COLORADO COLITAS LLC|HERBAL REMEDIES |403-00985|Optional Premises|Expired|5109 West Alameda Avenue|Denver CO  80219|Denver|Denver|CO|80219|
+COLORADO DREAM SUPPLIES LLC|COLORADO DREAM|402R-00348|Retail Marijuana Store|Expired|24040 Highway 9|Hartsel CO  80449|Hartsel|Park|CO|80449|
+COLORADO DREAM SUPPLIES LLC|COLORADO DREAM |403R-00386|Retail Marijuana Cultivation Facility|Expired|24040 Highway 9|Hartsel CO  80449|Hartsel|Park|CO|80449|
+COLORADO DREAM SUPPLIES LLC|COLORADO DREAM SUPPLIES LLC|404R-00095|Retail Marijuana Products Mfg|Expired|24040 Highway 9|Hartsel CO  80449|Hartsel|Park|CO|80449|
+COLORADO GOLD LLP|COLORADO GOLD|403R-00819|Retail Marijuana Cultivation Facility|Expired|36530 East Highway 96|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+COLORADO GROW CORPORATION|CGC|404-00075|Infused Product Manufacturer|Expired|1239 West Nevada Place|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO GROW CORPORATION|CGC|403-01264|Optional Premises|Expired|1239 West Nevada Place|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO GROW CORPORATION|COLORADO GROW CORPORATION|404-00471|Infused Product Manufacturer|Expired|1239 West Nevada Place|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO GROW CORPORATION|COLORADO GROW CORPORATION|403-01691|Optional Premises|Expired|1239 West Nevada Place|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO HEALTH CONSULTANTS LLC|STARBUDS|402-00851|Center - Type 1|Expired|4690 Brighton Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO HEALTH CONSULTANTS LLC|STARBUDS|403-01312|Optional Premises|Expired|4690 Brighton Boulevard|Denver CO  80201|Denver|Denver|CO|80201|
+COLORADO HEALTH CONSULTANTS LLC|STARBUDS|403R-00026|Retail Marijuana Cultivation Facility|Expired|4690 Brighton Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|THE ORIGINAL LEAF|402-00803|Center - Type 1|Expired|555 East Durant Avenue, Suite 2E|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|LEAF|403-01214|Optional Premises|Expired|1676 CR 100 Unit N-2|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|LEAF|404-00324|Infused Product Manufacturer|Expired|730 East Cooper Avenue|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|LEAF ASPEN|403-01461|Optional Premises|Expired|3010 Airport Road|Rifle CO  81650|Rifle|Garfield|CO|81650|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|THE ORIGINAL LEAF|402R-00321|Retail Marijuana Store|Expired|555 East Durant Street, Unit 2E|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|LEAF ASPEN|403R-00371|Retail Marijuana Cultivation Facility|Expired|3010 Airport Road|Rifle CO  81650|Rifle|Garfield|CO|81650|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|LEAF ASPEN|404R-00091|Retail Marijuana Products Mfg|Expired|730 East Cooper Avenue, Unit 103|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|THE LEAF ASPEN|404R-00252|Retail Marijuana Products Mfg|Expired|0898 Highway 133, Suite 104|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COLORADO NATIONAL LEASING LLC||403R-00910|Retail Marijuana Cultivation Facility|Expired|74 North Fabrication Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COLORADO PRODUCT SERVICES LLC|DOCTOR?S GARDEN|402-00126|Center - Type 1|Expired|580 Main Street, Suite 300|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COLORADO PRODUCT SERVICES LLC|DOCTORS GARDEN|403-00177|Optional Premises|Expired|1121 Village Road, Unit D|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COLORADO WELLNESS CENTERS LLC|LUSH|402R-00088|Retail Marijuana Store|Expired|2490 West 2nd Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO WELLNESS CENTERS LLC|LUSH|403R-00111|Retail Marijuana Cultivation Facility|Expired|2490 West 2nd Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+COMMERCE SOLUTIONS LLC|COMMERCE SOLUTIONS LLC|404R-00364|Retail Marijuana Products Mfg|Expired|5445 Dahlia Street, Unit B|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+COMMERCE SOLUTIONS LLC|COMMERCE SOLUTIONS LLC|404-00611|Infused Product Manufacturer|Expired|5445 Dahlia Street, Unit B|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+COMPASSIONATE CARE COOP.|COMPASSIONATE CARE COOP LLC|404-00394|Infused Product Manufacturer|Expired|38 N Silicon Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COMPASSIONATE CARE COOP.|COMPASSIONATE CARE COOP LLC|403-01493|Optional Premises|Expired|38 N. Silicon Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COMPASSIONATE CARE GIVERS INC|ROCKY MOUNTAIN HIGH|403-00064|Optional Premises|Expired|4228 York Street, Units 104, 106 & 107|Denver CO  80216|Denver|Denver|CO|80216|
+COMPASSIONATE CARE GIVERS INC|ROCKY MOUNTAIN HIGH|403-00066|Optional Premises|Expired|4228 York Street, Units 104, 106 & 107|Denver CO  80216|Denver|Denver|CO|80216|
+COMPASSIONATE CARE GIVERS INC|ROCKY MOUNTAIN HIGH|404-00017|Infused Product Manufacturer|Expired|4237 Josephine Street|Denver CO  80216|Denver|Denver|CO|80216|
+COMPASSIONATE CARE GIVERS INC||403R-00085|Retail Marijuana Cultivation Facility|Expired|4228 York Street, Unit 104|Denver CO  80216|Denver|Denver|CO|80216|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALT HEALTH/WELLNESS|404-00404|Infused Product Manufacturer|Expired|9000 S Interstate 25|Colorado City CO  81004|Colorado City|Pueblo|CO|81004|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-01507|Optional Premises|Expired|9000 South Interstate 25|Colorado City CO  81019|Colorado City|Pueblo|CO|81019|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-01508|Optional Premises|Expired|9000 South Interstate 25|Colorado City CO  81019|Colorado City|Pueblo|CO|81019|
+COMPOUND EXTRACTS LLC|COMPOUND EXTRACTS|404R-00204|Retail Marijuana Products Mfg|Expired|10001 East 102nd Avenue, Unit C|Henderson CO  80640|Henderson|Adams|CO|80640|
+CONNOISSEURS GENETICS & CONCENTRATES LLC||403-00451|Optional Premises|Expired|2255 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+CONNOISSEURS GENETICS & CONCENTRATES LLC||403R-00817|Retail Marijuana Cultivation Facility|Expired|2255 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+COOPER MASON VENTURES LLC|SILVERPEAK APOTHECARY|404-00307|Infused Product Manufacturer|Expired|11556 Highway 133|Carbondale CO  81623|Carbondale|Pitkin|CO|81623|
+COSMIC CULTURE LLC|AUTONOMY CANNABIS COMPANY|403R-00732|Retail Marijuana Cultivation Facility|Expired|555 South 10th Street|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+COSMIC CULTURE LLC|AUTONOMY CANNABIS COMPANY|404R-00228|Retail Marijuana Products Mfg|Expired|555 South 10th Street|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+CPM LAKEWOOD LLC|AJOYA MEDICAL CANNABIS|403R-00674|Retail Marijuana Cultivation Facility|Expired|1975 South Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+CREATIVE MOUNTAIN CONSULTANTS INC|OXFORD GARDENS CANNABIS |403R-01060|Retail Marijuana Cultivation Facility|Expired|7305 State Highway 172|Ignacio CO  81137|Ignacio|La Plata|CO|81137|
+CRESTED BUTTE CONCENTRATES LLC|CRESTED BUTTE CANNABIS|404R-00149|Retail Marijuana Products Mfg|Expired|398 Riverland Drive, Suite 1A|Crested Butte CO  81224|Crested Butte|Gunnison|CO|81224|
+CSS INDUSTRIES INC||403R-00840|Retail Marijuana Cultivation Facility|Expired|12600 Smith Road|Aurora CO  80011|Aurora|Adams|CO|80011|
+CT MANAGEMENT SERVICES LLC|GARO DEPOT|402-01059|Center - Type 1|Expired|37671 Highway 9|Fairplay CO  80440|Fairplay|Park|CO|80440|
+CT MANAGEMENT SERVICES LLC|GARO DEPOT|403-01653|Optional Premises|Expired|37671 Highway 9|Fairplay CO  80440|Fairplay|Park|CO|80440|
+CT MANAGEMENT SERVICES LLC|GARO DEPOT|402R-00448|Retail Marijuana Store|Expired|37671 Highway 9|Fairplay CO  80440|Fairplay|Park|CO|80440|
+CUERNO VERDE LIMITED LLC|CUERNO VERDE|403R-00940|Retail Marijuana Cultivation Facility|Expired|250 Parsons Road Unit B|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+DANIEL BURNETT VIGUERIA|RECREATIONAL SERVICES COMPANY|403R-00372|Retail Marijuana Cultivation Facility|Expired|336 King Avenue|Somerset CO  81434|Somerset|Gunnison|CO|81434|
+DARK HORSE GENETICS LLC||403R-00597|Retail Marijuana Cultivation Facility|Expired|63520 East State Highway 96|Boone CO  81025-9621|Boone|Pueblo|CO|810259621|
+DAWN ANALYTICAL LLC|DAWN ANALYTICAL LABORATORIES|405R-00012|RMJ Testing Facility|Expired|4150 Darley Avenue, Suite 10|Boulder CO  80305|Boulder|Boulder|CO|80305|
+DEBEQUE FARM LLC||403R-00659|Retail Marijuana Cultivation Facility|Expired|311 Stewart Avenue|De Beque CO  81630|De Beque|Mesa|CO|81630|
+DEEP GREEN RIVER LLC|DEEP GREEN RIVER LLC|402-00886|Center - Type 1|Expired|1155 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+DEEP GREEN RIVER LLC||403-01404|Optional Premises|Expired|1155 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+DEEP GREEN RIVER LLC||404-00366|Infused Product Manufacturer|Expired|1155 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+DELTA-9 DELIGHTS LLC|REEFER MADNESS|404-00606|Infused Product Manufacturer|Expired|4425 East 46th Avenue, Unit A,|Denver CO  80216|Denver|Denver|CO|80216|
+DENVER BUD COMPANY LLC|DENVER BUD COMPANY|403R-00324|Retail Marijuana Cultivation Facility|Expired|3217 Lake Avenue|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+DENVER GREEN LABS LLC|COLORADO GREEN LAB|405R-00021|RMJ Testing Facility|Expired|2539 West 8th Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+DENVER PACKAGING COMPANY||403-01423|Optional Premises|Expired|5100 Cook Street|Denver CO  80216|Denver|Denver|CO|80216|
+DGS INC|THE KIND BLOOM|404-00535|Infused Product Manufacturer|Expired|1870 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+DIGIPATH LABS COLORADO LLC|DIGIPATH LABS|405R-00023|RMJ Testing Facility|Expired|1150 Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+DKC LLC|VAPOR EXTRACTS|404R-00059|Retail Marijuana Products Mfg|Expired|4960 Jackson Street|Denver CO  80216|Denver|Denver|CO|80216|
+DKC LLC|DENVER KUSH CLUB|403R-00285|Retail Marijuana Cultivation Facility|Expired|5 Rex Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+DR J's LLC|DR J's LLC|403-01471|Optional Premises|Expired|3850 East 48th Avenue, Unit E|Denver CO  80216|Denver|Denver|CO|80216|
+DR REEFER.COM PUEBLO DISPENSARY LLC|DR REEFER.COM PUEBLO DISPENSARY LLC|402-00632|Center - Type 1|Expired|2334 East Boulder Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+DR REEFER.COM PUEBLO DISPENSARY LLC|DR REEFER.COM PUEBLO DISPENSARY LLC|403-00954|Optional Premises|Expired|2334 East Boulder Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+DR TREEZ INC|DR TREEZ INC|403R-00906|Retail Marijuana Cultivation Facility|Expired|2897 59th Lane|Boone CO  81025|Boone|Pueblo|CO|81025|
+DURANGO ALTERNATIVE LLC|ROCKY MOUNTAIN HIGH|403-00241|Optional Premises|Expired|4228 York Street, Unit 103, 106 & 107|Denver CO  80216|Denver|Denver|CO|80216|
+DURANGO ALTERNATIVE LLC|ROCKY MOUNTAIN HIGH|402-00578|Center - Type 1|Expired|120 East 36th Street|Durango CO  81301|Durango|La Plata|CO|81301|
+DWARF STAR EDIBLES LLC|DWARF STAR EDIBLES|404R-00399|Retail Marijuana Products Mfg|Expired|35715 US Highway 40, Building D, Unit 304|Evergreen CO  80439|Evergreen|Jefferson|CO|80439|
+DWARF STAR EDIBLES LLC|DWARF STAR EDIBLES|404-00625|Infused Product Manufacturer|Expired|35715 US Highway 40, Building D, Unit 304|Evergreen CO  80439|Evergreen|Jefferson|CO|80439|
+EAGLES NEST WELLNESS CENTER LLC||402-00266|Center - Type 1|Expired|8455 West Highway 24|Cascade CO  80809|Cascade|El Paso|CO|80809|
+EAGLES NEST WELLNESS CENTER LLC||403-00399|Optional Premises|Expired|8455 West Highway 24|Cascade CO  80809|Cascade|El Paso|CO|80809|
+EARTH ENERGY UNLIMITED LLC|EARTH ENERGY UNLIMITED LLC|404-00620|Infused Product Manufacturer|Expired|24 North Electronic Drive Suite B|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+ELEV8ED EXCELLENCE INC||403R-00590|Retail Marijuana Cultivation Facility|Expired|14890 CR .2|San Acacio CO  81151|San Acacio|Conejos|CO|81151|
+ELITE INFUSED LLC||404R-00386|Retail Marijuana Products Mfg|Expired|5724 South College Avenue|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+ELITE INFUSED LLC||403R-01045|Retail Marijuana Cultivation Facility|Expired|5724 South College Avenue|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+EMERALD CITY WELLNESS LLC|EMERALD CITY|402R-00393|Retail Marijuana Store|Expired|893 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+EUREKA SUPPLY CO LLC||402R-00291|Retail Marijuana Store|Expired|109 Eureka Street|Central City CO  80427|Central City|Gilpin|CO|80427|
+EVERGREEN NURSERY FARMS LLC||403R-00883|Retail Marijuana Cultivation Facility|Expired|2367 Little Burnt Mill Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+EXTREME GREEN GENETICS LLC||403R-00375|Retail Marijuana Cultivation Facility|Expired|3150 Verde Road|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+FIELD OF GREENS LLC||403R-00992|Retail Marijuana Cultivation Facility|Expired|861 East Enterprise Drive, Unit A,|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+FIFTY2EIGHTY LLC||404-00590|Infused Product Manufacturer|Expired|393 East 2nd Street Unit 1A|Parachute CO  81635|Parachute|Garfield|CO|81635|
+FL89 LLC|FROSTED LEAF|403-01631|Optional Premises|Expired|4935 Pearl Street|Denver CO  80216|Denver|Denver|CO|80216|
+FL89 LLC|FROSTED LEAF|402-01068|Center - Type 1|Expired|7380 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+FOUNTAIN ORGANICS LLC|FOUNTAIN ORGANICS|403-01606|Optional Premises|Expired|1752 Shasta Draive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+FOX STREET WELLNESS LLC|THE PROPER EXTRACTS|404-00053|Infused Product Manufacturer|Expired|4773 Fox Street|Denver CO  80216|Denver|Denver|CO|80216|
+FREDRICK JENKINS LLC|MT GROWERS|403R-00583|Retail Marijuana Cultivation Facility|Expired|705 Elm Street|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+FRONT RANGE ANALYTICAL LLC|STEEP HILL HALENT OF COLORADO|405R-00002|RMJ Testing Facility|Expired|4890 Ironton Street  Units I-J|Denver CO  80239|Denver|Denver|CO|80239|
+FRONT RANGE ANALYTICAL LLC|STEEP HILL HALENT OF COLORADO|405-00015|MMJ Testing Facility|Expired|4890 Ironton Street, Units I-J|Denver CO  80239|Denver|Denver|CO|80239|
+G AND D EQUITY VISION LLC||404-00400|Infused Product Manufacturer|Expired|3106 N Stone Ave, Unit A|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+G AND D EQUITY VISION LLC||403-01496|Optional Premises|Expired|3106 North Stone Avenue, Unit A|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+GG-MMD INC|THE MESA|402-00921|Center - Type 1|Expired|920 East Spaulding Avenue|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+GG-MMD INC|GG-MMD INC|403-01454|Optional Premises|Expired|920 East Spaulding Avenue|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+GMC LLC|GREEN MAN CANNABIS|402-00500|Center - Type 2|Expired|1355 Santa Fe Drive, Suite F|Denver CO  80204|Denver|Denver|CO|80204|
+GMC LLC|GREEN MAN CANNABIS|403-00738|Optional Premises|Expired|2175 South Platte River Drive |Denver CO  80223|Denver|Denver|CO|80223|
+GRAND TRAVERSE HOLDINGS LLC||403-01651|Optional Premises|Expired|4430 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+GRAND TRAVERSE HOLDINGS LLC||404-00453|Infused Product Manufacturer|Expired|4444 North Garfield Street, Suite 101|Denver CO  80216|Denver|Denver|CO|80216|
+GREEN CROSS LLC|GREEN CROSS OF CHERRY CREEK|402R-00609|Retail Marijuana Store|Expired|3400 South Oneida Way, Suite 101|Denver CO  80224|Denver|Denver|CO|80224|
+GREEN ESSENTIALS MEDICAL LLC|GREEN ESSENTIALS MEDICAL LLC|403-00163|Optional Premises|Expired|3768 Hwy 82, Unit 103-203B|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC||403-01359|Optional Premises|Expired|2520 Lower River Road|Snowmass CO  81654|Snowmass|Pitkin|CO|81654|
+GREEN KIWI 4 LLC|THE BEACON|402-00580|Center - Type 1|Expired|1740 East Main Street, Suite 2|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+GREEN KIWI 4 LLC|THE BEACON|403-00861|Optional Premises|Expired|1740 East Main Street|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+GREEN LAB SOLUTIONS COMPANY LLC||405R-00024|RMJ Testing Facility|Expired|146 Sawyer Drive, Unit D|Durango CO  81303|Durango|La Plata|CO|81303|
+GREEN LAB SOLUTIONS COMPANY LLC||405-00012|MMJ Testing Facility|Expired|146 Sawyer Drive, Unit D|Durango CO  81303|Durango|La Plata|CO|81303|
+GREEN LEAF LLC||403-00014|Optional Premises|Expired|1441 West 46th Avenue, Units 1, 2 & 3|Denver CO  80211|Denver|Denver|CO|80211|
+GREEN LEAF LLC||403-01361|Optional Premises|Expired|1441 West 46th Avenue, Units 20, 21 & 22|Denver CO  80211|Denver|Denver|CO|80211|
+GREEN MEDICALS INC|GREEN DOOR WELLNESS CENTER#2|403-01107|Optional Premises|Expired|777 Umatilla Street, Suite E|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN MEDICALS WELLNESS CENTER #5 LLC|SMOKEYS|402R-00349|Retail Marijuana Store|Expired|5740 S College Ave, Unit C|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+GREEN MEDICALS WELLNESS CENTER #5 LLC|SMOKEY?S|403R-00387|Retail Marijuana Cultivation Facility|Expired|2515 7th Avenue|Garden City CO  80631|Garden City|Weld|CO|80631|
+GREEN MEDICINE RANCH LLC||403R-00793|Retail Marijuana Cultivation Facility|Expired|7872 West State Highway 96|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GREEN MOUNTAIN CARE GROUP LLC|GREEN MOUNTAIN CARE|403-00263|Optional Premises|Expired|777 Canosa Court, Unit 101|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN MOUNTAIN CARE GROUP LLC|GREEN MOUNTAIN CARE|402-00253|Center - Type 1|Expired|5423 South Prince Street|Littleton CO  80120|Littleton|Arapahoe|CO|80120|
+GREEN NATURAL SOLUTIONS INC||403-00382|Optional Premises|Expired|3 Seven Oaks Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN NATURAL SOLUTIONS INC||403-01249|Optional Premises|Expired|4501 Silt Mesa Road|Rifle CO  81650|Rifle|Garfield|CO|81650|
+GREEN THUMB ORGANICS INC||402-00278|Center - Type 1|Expired|4945 Pearl St|Denver CO  80216|Denver|Denver|CO|80216|
+GREEN THUMB ORGANICS INC||403-00412|Optional Premises|Expired|4945 Pearl St|Denver CO  80216|Denver|Denver|CO|80216|
+GREEN THUMB ORGANICS INC||404-00112|Infused Product Manufacturer|Expired|4941 Pearl St|Denver CO  80216|Denver|Denver|CO|80216|
+GREEN THUMBZ LLC|GREEN THUMBS LLC|403R-00680|Retail Marijuana Cultivation Facility|Expired|77 North Laser Drive, Suite X|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+GREENHILL LABORATORIES LLC||405R-00017|RMJ Testing Facility|Expired|1101 Village Road,  Suite LL4C and LL5C|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+GREENHILL LABORATORIES LLC|GREENHILL LABORATORIES LLC|405-00007|MMJ Testing Facility|Expired|1101 Village Road, Suite LL4C & LL5C|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+GREG INC||403R-00789|Retail Marijuana Cultivation Facility|Expired|0 County Road 330|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+GROW GREEN GROUP LLC|GROW GREEN CANNABIS COMPANY|403R-00769|Retail Marijuana Cultivation Facility|Expired|2190 Pope Valley Ranch Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GSTVA ENTERPRISES LLC|GSTVA ENTERPRISES LLC|403R-00956|Retail Marijuana Cultivation Facility|Expired|631 East Industrial Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HALL CANNABIS FARMS||403R-00616|Retail Marijuana Cultivation Facility|Expired|101 North Dayton Avenue, Building A|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+HAPPY BUDDHA WELLNESS CENTER LLC||403-01164|Optional Premises|Expired|1419 Woolsey Heights |Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HAPPY BUDDHA WELLNESS CENTER LLC|HONEY COMB EXTRACTS|404-00569|Infused Product Manufacturer|Expired|1415 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HAPPY GARDEN INC||403R-01066|Retail Marijuana Cultivation Facility|Expired|3746 Canyon Heights Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+HAYDEN GREEN GROW LLC||403R-00846|Retail Marijuana Cultivation Facility|Expired|431 Enterprise Street|Hayden CO  81639|Hayden|Routt|CO|81639|
+HEALTHY CREATION EDIBLES||404-00292|Infused Product Manufacturer|Expired|1650 East 47th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+HEALTHY CREATION EDIBLES||403-01169|Optional Premises|Expired|1650 East 47th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+HEALTHY FOODS LLC||404-00331|Infused Product Manufacturer|Expired|2000 South Dahlia Street, Unit 250C|Denver CO  80222|Denver|Denver|CO|80222|
+HEALTHY FOODS LLC||404R-00043|Retail Marijuana Products Mfg|Expired|2000 South Dahlia Street, 250C|Denver CO  80222|Denver|Denver|CO|80222|
+HEAVYBAG SUPPLY COMPANY LLC||403R-00352|Retail Marijuana Cultivation Facility|Expired|521 SANTA FE DRIVE|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+HEAVYBAG SUPPLY COMPANY LLC||404R-00082|Retail Marijuana Products Mfg|Expired|521 SANTA FE DRIVE|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+HERBAL WELLNESS LLC||402R-00731|Retail Marijuana Store|Expired|1428 East Third Avenue|Longmont CO  80501|Longmont|Boulder|CO|80501|
+HERE WE GO INC||403R-00799|Retail Marijuana Cultivation Facility|Expired|4825 North Interstate 25|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+HERIKAT INC|ROSE BUD PRODUCTIONS|402-00908|Center - Type 1|Expired|202 South Neilson|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+HERIKAT INC|ROSE BUD PRODUCTIONS|403-01435|Optional Premises|Expired|2298 East State Highway 96|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+HERIKAT INC|ROSE BUD PRODUCTIONS|402R-00201|Retail Marijuana Store|Expired|2298 East State Highway 96|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+HERITAGE ORGANICS LLC|HERITAGE ORGANICS|402-00068|Center - Type 1|Expired|401 Broadway, Suite A|Penrose CO  81240|Penrose|Fremont|CO|81240|
+HERITAGE ORGANICS LLC|HERITAGE ORGANICS|403-00092|Optional Premises|Expired|84 North Precision Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HGCO LLC||403-01706|Optional Premises|Expired|3725 Salem Street|Denver CO  80239|Denver|Denver|CO|80239|
+HGCO LLC||402-01177|Center - Type 1|Expired|12545 East 37th Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+HGCO LLC||404-00533|Infused Product Manufacturer|Expired|3725 Salem  Street|Denver CO  80239|Denver|Denver|CO|80239|
+HGCO LLC||404-00534|Infused Product Manufacturer|Expired|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HIGH ALTITUDE FARMS LLC||403R-00504|Retail Marijuana Cultivation Facility|Expired|1035 Newton Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+HIGH DESERT CULTIVATIONS LLC||403R-00740|Retail Marijuana Cultivation Facility|Expired|41435 Harbour Road|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+HIGHER FUNCTION LLC||402R-00541|Retail Marijuana Store|Expired|21801 US Highway 6|Keystone CO  80435|Keystone|Summit|CO|80435|
+HQ CLIFFS LLC|HIGH Q PALISADE|402R-00714|Retail Marijuana Store|Expired|528 Iowa Avenue, Units A & B|Palisade CO  81526|Palisade|Mesa|CO|81526|
+HWMF LLC|ROCKIN EXTRACTS|403R-01047|Retail Marijuana Cultivation Facility|Expired|2307 Pope Valley Ranch Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+INDOOR HORTICULTURE CENTERS LLC|SANTE ALTERNATIVE WELLNESS|402-00515|Center - Type 1|Expired|742 1/2 Main Avenue |Durango CO  81301|Durango|La Plata|CO|81301|
+INSPIRED SPECIALTY PRODUCTS LLC|THE MAGIC BUZZ|404R-00081|Retail Marijuana Products Mfg|Expired|1101 Village Road, Unit UL3B|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+J & J MOUNTAIN MEDICALS LLC||402-00586|Center - Type 1|Expired|11505 US Highway 24 West|Divide CO  80814|Divide|Teller|CO|80814|
+J & J MOUNTAIN MEDICALS LLC||403-00871|Optional Premises|Expired|11505 US Highway 24 West|Divide CO  80814|Divide|Teller|CO|80814|
+J&R PARTNERS LLC|J&R PARTNERS LLC|403-01415|Optional Premises|Expired|041290 Highway 6, Unit B5|Avon CO  81620|Avon|Eagle|CO|81620|
+J&R PARTNERS LLC|NATIVE ROOTS VAIL|403R-00292|Retail Marijuana Cultivation Facility|Expired|041290 Highway 6, Unit B5|Avon CO  81620|Avon|Eagle|CO|81620|
+J2JCO LLC|FIRE MEDS|404-00565|Infused Product Manufacturer|Expired|1428 North Circle Drive, Unit #2|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+JAG FARMS LLC||403R-00746|Retail Marijuana Cultivation Facility|Expired|428 South McCulloch Boulevard Unit B|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+JCS YUYO DOSTIPOS LLC|YUYO|402R-00469|Retail Marijuana Store|Expired|12365 U.S. Highway 34|Grand Lake CO  80447|Grand Lake|Grand|CO|80447|
+JDC LLC|A KIND PLACE|402-00855|Center - Type 1|Expired|938 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+JDC LLC|A KIND PLACE|403-01318|Optional Premises|Expired|938 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+JOHN SECKMAN AND ASSOCIATES LLC|JOHN SECKMAN AND ASSOCIATES LLC|407-00004|MMJ Operator|Expired|961 Colorado Highway 103|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+JPJR AND ASSOCIATES LLC|WIDESPREAD BANNOCK|403R-00260|Retail Marijuana Cultivation Facility|Expired|1196 South Bannock  Street|Denver CO  80223|Denver|Denver|CO|80223|
+JPJR AND ASSOCIATES LLC|STASH HOUSE|402R-00591|Retail Marijuana Store|Expired|4707 Lipan Street |Denver CO  80211|Denver|Denver|CO|80211|
+JSC PRODUCTS INC||404R-00292|Retail Marijuana Products Mfg|Expired|12600 Smith Road|Aurora CO  80011|Aurora|Adams|CO|80011|
+JTR CAREGIVERS LLC|HELPING HANDS HERBALS|403-01436|Optional Premises|Expired|5735 Arapahoe Avenue, Unit B1|Boulder CO  80303|Boulder|Boulder|CO|80303|
+JVT ENTERPRISES INC|COLORADO CANNABIS CONNECTION|404-00393|Infused Product Manufacturer|Expired|1075 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+KGBI COLORADO LLC|SENSE OF HEALING|404-00554|Infused Product Manufacturer|Expired|1005 Federal Boulevard|Denver CO  80204|Denver|Denver|CO|80204|
+KIND CARE OF COLORADO LLC|KIND CARE OF COLORADO LLC|403-01295|Optional Premises|Expired|5716 Bueno Drive|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+KIND CARE OF COLORADO LLC|KIND CONCENTRATES OF COLORADO|404-00332|Infused Product Manufacturer|Expired|6617 South College Avenue|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+KIND THERAPEUTICS INC|KIND THERAPEUTICS INC|404-00530|Infused Product Manufacturer|Expired|549 East Cimarron Street|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+KIND THERAPEUTICS INC|KIND THERAPEUTICS  INC|403-01799|Optional Premises|Expired|549 East Cimarron Street|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+KORU HEALING LLC|KORU HEALING|404-00572|Infused Product Manufacturer|Expired|345 Rogers Lane|Durango CO  81303|Durango|La Plata|CO|81303|
+KORU HEALING LLC|KORU HEALING|403-01861|Optional Premises|Expired|345 Rogers Lane|Durango CO  81303|Durango|La Plata|CO|81303|
+KP LLC|BINSKE|403-01671|Optional Premises|Expired|228 Arthur Avenue|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+KTA LLC|THE LODGE|403-01591|Optional Premises|Expired|3944 High Street|Denver CO  80205|Denver|Denver|CO|80205|
+KTA LLC|THE LODGE|403R-00866|Retail Marijuana Cultivation Facility|Expired|3944 High Street|Denver CO  80205|Denver|Denver|CO|80205|
+LA MONTAGNE LLC||404-00469|Infused Product Manufacturer|Expired|643 Kalamath Street, 2nd Floor|Denver CO  80204|Denver|Denver|CO|80204|
+LA PATRONAS LLC|HERBZ|402R-00653|Retail Marijuana Store|Expired|150 West 10th Street|Durango CO  81301|Durango|La Plata|CO|81301|
+LARSEN GROUP II LLC||404R-00240|Retail Marijuana Products Mfg|Expired|206 Elm Street|Log Lane Village CO  80705|Log Lane Village|Morgan|CO|80705|
+LARSEN GROUP II LLC||404-00557|Infused Product Manufacturer|Expired|206 Elm Street|Log Lane Village CO  80705|Log Lane Village|Morgan|CO|80705|
+LARSEN GROUP II LLC|KJL COMPOUNDS|404-00563|Infused Product Manufacturer|Expired|3215 East 42nd Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+LARSEN GROUP LLC|THE GREEN STOP|402-00937|Center - Type 1|Expired|206 Elm Street|Log Lane Village CO  80705|Log Lane Village|Morgan|CO|80705|
+LARSEN GROUP LLC|THE GREEN STOP|403-01476|Optional Premises|Expired|206 Elm Drive|Log Lane Village CO  80705|Log Lane Village|Morgan|CO|80705|
+LARSEN GROUP LLC||404-00387|Infused Product Manufacturer|Expired|130 Maine Street, Unit B|Log Lane Village CO  80705|Log Lane Village|Morgan|CO|80705|
+LIGHTSHADE LABS LLC|LIGHTSHADE|402R-00292|Retail Marijuana Store|Expired|5380 S Parker Rd|Aurora CO  80015|Aurora|Arapahoe|CO|80015|
+LIGHTSHADE LABS LLC|LIGHTSHADE LABS|403R-00739|Retail Marijuana Cultivation Facility|Expired|4665 Nautilus Court, Suite 400|Boulder CO  80301|Boulder|Boulder|CO|80301|
+LIGHTSHADE LABS LLC|LIGHTSHADE|403-01918|Optional Premises|Expired|4665 Nautilus Court, Suite 400|Boulder CO  80301|Boulder|Boulder|CO|80301|
+LITTLE BROWN HOUSE DISPENSARY LLC|LITTLE BROWN HOUSE|403-00440|Optional Premises|Expired|4425 East 46th Avenue, Unit A|Denver CO  80216|Denver|Denver|CO|80216|
+LJM INC|LJM INC|403R-00648|Retail Marijuana Cultivation Facility|Expired|8250 Mallory Drive|Colorado City CO  81019|Colorado City|Pueblo|CO|81019|
+LONGMONT P&P LLC|EUFLORA|402R-00720|Retail Marijuana Store|Expired|230 South Main Street Suite B|Longmont CO  80501|Longmont|Boulder|CO|80501|
+LOTUS MEDICAL II LLC||402-00318|Center - Type 1|Expired|3107 28th Street, Unit B|Boulder CO  80301|Boulder|Boulder|CO|80301|
+LOTUS MEDICAL II LLC||403-00475|Optional Premises|Expired|2257 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+LUCID RESEARCH LLC|RINO RESEARCH|404-00528|Infused Product Manufacturer|Expired|1138 Yuma Court|Denver CO  80204|Denver|Denver|CO|80204|
+LUCID RESEARCH LLC|RINO RESEARCH|403-01796|Optional Premises|Expired|1138 Yuma Court|Denver CO  80204|Denver|Denver|CO|80204|
+LUX INC|THE LUX LEAF|404-00462|Infused Product Manufacturer|Expired|2222 West Colorado Avenue|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+MADBYT LLC||403R-00626|Retail Marijuana Cultivation Facility|Expired|4582 44th Lane|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+MADISON ENTERPRISES LLC|PINK HOUSE CHERRY|402-00334|Center - Type 1|Expired|111 South Madison Street, Suite 111|Denver CO  80209|Denver|Denver|CO|80209|
+MADISON ENTERPRISES LLC|PINK HOUSE CHERRY|403-00501|Optional Premises|Expired|10665 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+MADISON ENTERPRISES LLC|PINK HOUSE CHERRY|402R-00710|Retail Marijuana Store|Expired|111 South Madison Street Suite 111|Denver CO  80239|Denver|Denver|CO|80239|
+MARICARE LLC||404-00034|Infused Product Manufacturer|Expired|3512 North Tejon Street, Suite 100|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MARY JANES MEDICINALS LLC|MARY JANE'S MEDICINALS|403R-00446|Retail Marijuana Cultivation Facility|Expired|761 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+MEACHAM & CO LLC|RX GREEN|404-00413|Infused Product Manufacturer|Expired|730 East Cooper Avenue, Suite 103 |Aspen CO  81611|Aspen|Pitkin|CO|81611|
+MEACHAM & CO LLC|RX GREEN|404R-00109|Retail Marijuana Products Mfg|Expired|730 East Cooper Avenue, Suite 103|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+MEDIBIS LLC||402-00780|Center - Type 1|Expired|3701 North Nevada Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MEDIBIS LLC||403-01185|Optional Premises|Expired|3701 North Nevada Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MEDICAL MJ SUPPLY LLC|BEST COLORADO MEDS|403-01424|Optional Premises|Expired|120 Hemlock, Units 110 & 120|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+MEDICINAL WELLNESS CENTER LLC|OASIS CANNABIS CONCENTRATES|404-00051|Infused Product Manufacturer|Expired|5195 East 39th Avenue, Suite 101|Denver CO  80207|Denver|Denver|CO|80207|
+MEDICINAL WELLNESS CENTER LLC||403-00833|Optional Premises|Expired|5195 East 39th Avenue Unit 102|Denver CO  80207|Denver|Denver|CO|80207|
+MEDICINAL WELLNESS CENTER LLC|MEDICINAL OASIS LLC|403-01260|Optional Premises|Expired|1255 West Virginia Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+MEGA GIANT LLC|WEHI|404-00380|Infused Product Manufacturer|Expired|3845 Forest Street|Denver CO  80227|Denver|Denver|CO|80227|
+MHSDGO LLC|MHS|402-00535|Center - Type 1|Expired|789 Tech Center Drive, Unit E|Durango CO  81301|Durango|La Plata|CO|81301|
+MHSDGO LLC|MHS|403-00792|Optional Premises|Expired|789 Tech Center Drive, Unit E|Durango CO  81301|Durango|La Plata|CO|81301|
+MILE HIGH CANDY COMPANY LLC|MILE HIGH CONFECTIONS|403-01625|Optional Premises|Expired|1055 South Fox Street|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH CANDY COMPANY LLC|MILE HIGH CONFECTIONS|404-00444|Infused Product Manufacturer|Expired|1055 South Fox Street|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH GREEN CROSS LLC||402-00920|Center - Type 1|Expired|852 North Broadway|Denver CO  80203|Denver|Denver|CO|80203|
+MILE HIGH HOLISTICS LLC|MILE HIGH HOLSITICS LLC|402-00638|Center - Type 1|Expired|198 County Line Road|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+MILE HIGH HOLISTICS LLC||403-00966|Optional Premises|Expired|198 County Line Road|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+MILE HIGH THERAPEUTIC NETWORK LLC|MILE HIGH THERAPEUTICS|402-00203|Center - Type 1|Expired|1568 South Federal Boulevard|Denver CO  80219|Denver|Denver|CO|80219|
+MILE HIGH THERAPEUTIC NETWORK LLC|ALTITUDE WEST|403-00295|Optional Premises|Expired|900 North Vallejo Street|Denver CO  80204|Denver|Denver|CO|80204|
+MISSION LTD||403R-01050|Retail Marijuana Cultivation Facility|Expired|27 North Mission Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+MISTY MOUNTAIN MEDICAL LLC|MISTY MOUNTAIN MEDICAL|403R-00784|Retail Marijuana Cultivation Facility|Expired|3030 East 4th Street |Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+MMJ AMERICA PRODUCTION COMPANY LLC||404-00603|Infused Product Manufacturer|Expired|1209 West Evans Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+MMJ AMERICA PRODUCTION COMPANY LLC||404R-00348|Retail Marijuana Products Mfg|Expired|1209 West Evans Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+MMK LIMITED|GRAND LIFE SOLUTIONS|402R-00478|Retail Marijuana Store|Expired|10863 US Highway 34, Unit A|Grand Lake CO  80447|Grand Lake|Grand|CO|80447|
+MMRD LLC||403-01911|Optional Premises|Expired|59 Fabrication Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+MOTHER NATURES MIRACLE LLC||402-00163|Center - Type 1|Expired|315 West Littleton Boulevard|Littleton CO  80120|Littleton|Arapahoe|CO|80120|
+MOTHER NATURES MIRACLE LLC||403-00240|Optional Premises|Expired|315 West Littleton Boulevard|Littleton CO  80120|Littleton|Arapahoe|CO|80120|
+MOUNTAIN HIGH WELLNESS III LLC|Native Roots Apothecary II|403-00458|Optional Premises|Expired|501 Raritan Way|Denver CO  80204|Denver|Denver|CO|80204|
+MOUNTAIN HIGH WELLNESS III LLC|COLORADO HARVEST MOON|402-00365|Center - Type 1|Expired|1890 South Wadsworth Boulevard|Lakewood CO  80232|Lakewood|Jefferson|CO|80232|
+NATIVE GROWERS LLC|NATIVE INFUSIONS|404-00252|Infused Product Manufacturer|Expired|198 County Line Road|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+NATURAL RELEAF LLC|NATURAL RELEAF|404R-00127|Retail Marijuana Products Mfg|Expired|62160 Highway 285|Bailey CO  80421|Bailey|Park|CO|80421|
+NATURAL RELEAF LLC|NATURAL RELEAF|403R-00487|Retail Marijuana Cultivation Facility|Expired|62160 Highway 285|Bailey CO  80421|Bailey|Park|CO|80421|
+NATURES CURE LLC||403-00619|Optional Premises|Expired|4425 East 46th Avenue, Room 1|Denver CO  80216|Denver|Denver|CO|80216|
+NATURES GARDEN INC|NATURES GARDEN|404-00156|Infused Product Manufacturer|Expired|3936 West Colfax Avenue, Unit 1|Denver CO  80204|Denver|Denver|CO|80204|
+NATURES GARDEN INC|NATURES GARDEN|404R-00002|Retail Marijuana Products Mfg|Expired|3936 West Colfax Avenue Unit 1|Denver CO  80204|Denver|Denver|CO|80204|
+NATURES KISS CANNABIS SERVICES HEALTH & WELLNESS|NATURE'S KISS|403-01883|Optional Premises|Expired|153 Vallejo Street Suite 102|Denver CO  80223|Denver|Denver|CO|80223|
+NATURES OWN WELLNESS CENTER||402-00213|Center - Type 1|Expired|927 Highway 3|Durango CO  81301|Durango|La Plata|CO|81301|
+NATURES OWN WELLNESS CENTER||403-00311|Optional Premises|Expired|2744 West 4th Avenue, Unit 202|Denver CO  80219|Denver|Denver|CO|80219|
+NEAT THINGS LLC|THE STATION|402R-00753|Retail Marijuana Store|Expired|174 Midland Avenue|Basalt CO  81621|Basalt|Eagle|CO|81621|
+NEW AMSTERDAM ORGANICS LTD|NEW AMSTERDAM ORGANICS|404-00435|Infused Product Manufacturer|Expired|150 Rio Grande Boulevard|Denver CO  80223|Denver|Denver|CO|80223|
+NEW AMSTERDAM ORGANICS LTD|NEW AMSTERDAM ORGANICS|402R-00621|Retail Marijuana Store|Expired|150 Rio Grande Boulevard|Denver CO  80223|Denver|Denver|CO|80223|
+NEW AMSTERDAM ORGANICS LTD|NEW AMSTERDAM ORGANICS|404R-00315|Retail Marijuana Products Mfg|Expired|150 Rio Grande Boulevard|Denver CO  80223|Denver|Denver|CO|80223|
+NPN LLC|ROOT 420|402-00853|Center - Type 1|Expired|1629 South Nevada Avenue #120|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+NPN LLC|ROOT 420|403-01315|Optional Premises|Expired|1629 South Nevada Avenue #120|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+NR LLC|THE PHARM|402-00468|Center - Type 1|Expired|920 E. Spaulding|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+NR LLC|THE PHARM|403-00702|Optional Premises|Expired|920 E. Spaulding|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+NR LLC|THE PHARM|404-00191|Infused Product Manufacturer|Expired|920 E. Spaulding|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+NUHI LLC||403-01735|Optional Premises|Expired|658 Kalamath Street|Denver CO  80204|Denver|Denver|CO|80204|
+OG MEDICINALS LLC||404-00579|Infused Product Manufacturer|Expired|4995 Lima Street|Denver CO  80239|Denver|Denver|CO|80239|
+OG MEDICINALS LLC||404R-00296|Retail Marijuana Products Mfg|Expired|4995 Lima Street|Denver CO  80239|Denver|Denver|CO|80239|
+OLIVE LEAF LLC||404-00369|Infused Product Manufacturer|Expired|4500 North Washington Street, Unit B|Denver CO  80216|Denver|Denver|CO|80216|
+OPTI NATURAL CAREGIVERS INC|OPTI  NATURAL CAREGIVERS INC|402-00353|Center - Type 1|Expired|1 W First Street, Unit 1D|Nederland CO  80466|Nederland|Boulder|CO|80466|
+OPTI NATURAL CAREGIVERS INC|TREE OF LIFE ALTERNATIVE MEDICINE|403-00531|Optional Premises|Expired|2510 - 47th St, #A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+OPTI NATURAL CAREGIVERS INC|OPTI NATURAL CAREGIVERS INC|404-00140|Infused Product Manufacturer|Expired|1 W First St, Unit 1D|Nederland CO  80466|Nederland|Boulder|CO|80466|
+OPTIONS MEDICAL CENTER WR LLC|OPTIONS|402R-00721|Retail Marijuana Store|Expired|455 Weaver Park Road, Unit 100|Longmont CO  80501|Longmont|Boulder|CO|80501|
+ORGANIC SOLUTIONS INC|STEEL CITY CANNABIS COMPANY|402R-00651|Retail Marijuana Store|Expired|74 North McCulloch Blvd  Suite 120|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+PAIN MANAGEMENT SOLUTIONS LLC|PAIN MANAGEMENT SOLUTIONS LLC|404-00346|Infused Product Manufacturer|Expired|1022 South Royer Street|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+PANK LLC|PANK|402R-00397|Retail Marijuana Store|Expired|150 North Jefferson Street, B-3|Nederland CO  80466|Nederland|Boulder|CO|80466|
+PANK LLC|PANK|403R-00455|Retail Marijuana Cultivation Facility|Expired|7084 Winchester Circle|Boulder CO  80301|Boulder|Boulder|CO|80301|
+PEARL CENTER LLC|PINK HOUSE PEARL|402-00335|Center - Type 1|Expired|1445 South Pearl Street|Denver CO  80210|Denver|Denver|CO|80210|
+PEARL CENTER LLC|PINK HOUSE PEARL|403-00502|Optional Premises|Expired|4925 East 38th Avenue, Unit 105|Denver CO  80207|Denver|Denver|CO|80207|
+PHARM AIDE PHARMS LLC|PHARM AIDE PHARMS|403R-00914|Retail Marijuana Cultivation Facility|Expired|480 Turkey Ridge Road East|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+PHILLIPS GREEN ACRES LLC||403R-00874|Retail Marijuana Cultivation Facility|Expired|386 County Road 333|Ignacio CO  81137|Ignacio|La Plata|CO|81137|
+PHILOSOPHIZE LLC|HIGH ROLLERS|402R-00657|Retail Marijuana Store|Expired|1445 South Pearl Street|Denver CO  80210|Denver|Denver|CO|80210|
+PHYSICIAN PREFERRED PRODUCTS LLC||404-00424|Infused Product Manufacturer|Expired|4080 Globeville Road|Denver CO  80216|Denver|Denver|CO|80216|
+PHYSICIAN PREFERRED PRODUCTS LLC||403-01568|Optional Premises|Expired|4080 Globeville Road|Denver CO  80216|Denver|Denver|CO|80216|
+PHYSICIAN PREFERRED PRODUCTS LLC||402-00999|Center - Type 1|Expired|4080 Globeville Road|Denver CO  80216|Denver|Denver|CO|80216|
+PHYSICIAN PREFERRED PRODUCTS LLC||403-01569|Optional Premises|Expired|4080 Globeville Road|Denver CO  80216|Denver|Denver|CO|80216|
+PIKES PEAK INDUSTRIES LLC|BUD EZ|402-01203|Center - Type 1|Expired|236 West Fillmore Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+PIKES PEAK INDUSTRIES LLC|BUD EZ|403-01851|Optional Premises|Expired|236 West Fillmore Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+PIKES PEAK INDUSTRIES LLC|BUD EZ|403-01852|Optional Premises|Expired|510 East Pikes Peak Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+PINKHOUSE BLOOMS LLC|PINKHOUSE BLOOMS LLC|404-00283|Infused Product Manufacturer|Expired|4701 Jackson Street|Denver CO  80216|Denver|Denver|CO|80216|
+PINKHOUSE BLOOMS LLC|PINKHOUSE BLOOMS LLC|403-01099|Optional Premises|Expired|4925 East 38th Avenue, Suite 108|Denver CO  80207|Denver|Denver|CO|80207|
+PM ET AL LLC|HERBOSIS|404R-00322|Retail Marijuana Products Mfg|Expired|45735 County Road N|Center CO  81149|Center|Saguache|CO|81149|
+PM ET AL LLC|HERBOSIS|403R-00900|Retail Marijuana Cultivation Facility|Expired|45735 County Road N|Center CO  81125|Center|Saguache|CO|81125|
+PREFERRED ORGANIC THERAPY & WELLNESS LLC|PREFERRED ORGANIC THERAPY & WELLNESS|402R-00442|Retail Marijuana Store|Expired|1569 South Colorado Boulevard|Denver CO  80222|Denver|Denver|CO|80222|
+PREMIUM CUT INC|PREMIUM CUT INC|403R-00417|Retail Marijuana Cultivation Facility|Expired|5810 W State Highway 78|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+PREMIUM MEDICINE OF COLORADO LLC|PREMIUM PETES|407R-00002|RMJ Operator|Expired|7704 South Brentwood Street|Littleton CO  80128|Littleton|Jefferson|CO|80128|
+PREMIUM MEDICINE OF COLORADO LLC|PREMIUM PETES|407-00002|MMJ Operator|Expired|7704 South Brentwood Street|Littleton CO  80128|Littleton|Jefferson|CO|80128|
+PRIMA BRANDS LLC|PRIMA CANNABIS COMPANY|403-00259|Optional Premises|Expired|5475 Peoria Street, Unit 1-101,102,103|Denver CO  80239|Denver|Denver|CO|80239|
+PUEBLO FARMS LLC|PUEBLO FARMS|403R-00425|Retail Marijuana Cultivation Facility|Expired|63496 East Highway 96|Boone CO  81025|Boone|Pueblo|CO|81025|
+PUEBLO FARMS LLC||403R-00461|Retail Marijuana Cultivation Facility|Expired|68200 East Highway 96|Boone CO  81025|Boone|Pueblo|CO|81025|
+PURE MEDICAL LLC|PURE MEDICAL|403-00517|Optional Premises|Expired|440 8th Street|Penrose CO  81240|Penrose|Fremont|CO|81240|
+PURE MEDICAL LLC||403-00519|Optional Premises|Expired|398 South Forty Road|Woodland Park CO  80863|Woodland Park|Teller|CO|80863|
+PURPLE CARE LLC||403R-01054|Retail Marijuana Cultivation Facility|Expired|2000 County Road 524|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+QUALITY CHOICE ALTERNATIVE CARE CENTER LLC|QUALITY CHOICE|403-00754|Optional Premises|Expired|1905 North Academy Boulevard, Suite 100|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+QUALITY CHOICE ALTERNATIVE CARE CENTER LLC|QUALITY CHOICE|403R-00939|Retail Marijuana Cultivation Facility|Expired|7434 Rex Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+QUANTUM137||403R-00560|Retail Marijuana Cultivation Facility|Expired|24 North Fabrication Drive|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+REESER FAMILY FUTURE LLC||403R-00972|Retail Marijuana Cultivation Facility|Expired|62301 Garnett Road|Fowler CO  81039|Fowler|Pueblo|CO|81039|
+REVTEC LLC||403-01513|Optional Premises|Expired|2640 East 43rd Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+RINO SUPPLY CO INC||403-01201|Optional Premises|Expired|2200 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+RINO SUPPLY CO INC||403-01327|Optional Premises|Expired|1830 55th Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+RINO SUPPLY CO INC||403R-00698|Retail Marijuana Cultivation Facility|Expired|2200 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+RJJ MORRISON II LLC|NATIVE ROOTS WEST DENVER|403-01344|Optional Premises|Expired|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ SANTA FE LLC|NATIVE ROOTS SANTA FE |403-01878|Optional Premises|Expired|2100 53rd Lane|Boone CO  81025|Boone|Pueblo|CO|81025|
+RJJ SHERIDAN LLC|NATIVE ROOTS SOUTH|403-00196|Optional Premises|Expired|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RME GROUP LLC|AFFINITY|403R-00690|Retail Marijuana Cultivation Facility|Expired|5200 East Smith Road|Denver CO  80216|Denver|Denver|CO|80216|
+ROCKY MOUNTAIN CANNABIS COLORADO LLC|RMCCO|404R-00319|Retail Marijuana Products Mfg|Expired|2185 45 1/2 Road, Suite 101|De Beque CO  81630|De Beque|Mesa|CO|81630|
+ROCKY MOUNTAIN FIRE LLC||404R-00368|Retail Marijuana Products Mfg|Expired|65 North Laser Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+ROCKY MOUNTAIN FIRE LLC||403R-01002|Retail Marijuana Cultivation Facility|Expired|66 North Laser Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+ROCKY MOUNTAIN HIGH KITCHEN LLC||404-00026|Infused Product Manufacturer|Expired|209 Nancy Crawford Boulevard|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+ROCKY MOUNTAIN HIGH PAIN MANAGEMENT INC|ROCKY MOUNTAIN HIGH|402-00046|Center - Type 1|Expired|0105 Edwards Village Boulevard, Unit C104|Edwards CO  81632|Edwards|Eagle|CO|81632|
+ROCKY MOUNTAIN HIGH PAIN MANAGEMENT INC||403-00061|Optional Premises|Expired|4237 Josephine Street, Unit 102|Denver CO  80216|Denver|Denver|CO|80216|
+ROCKY MOUNTAIN RETAIL MANAGEMENT LLC|ROCKY MOUNTAIN HIGH|402-00901|Center - Type 1|Expired|11455 Washington Street|Northglenn CO  80233|Northglenn|Adams|CO|80233|
+ROCKY MOUNTAIN RETAIL MANAGEMENT LLC|ROCKY MOUNTAIN HIGH|403-01429|Optional Premises|Expired|4228 York Street|Denver CO  80216|Denver|Denver|CO|80216|
+ROCKY ROAD REMEDIES LLC||403-00444|Optional Premises|Expired|2575 Weston Road|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+ROOT 64 LLC|ROOT 64|403R-00871|Retail Marijuana Cultivation Facility|Expired|6545 East 49th Avenue|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+ROOT 64 LLC|ROOT 64|404R-00312|Retail Marijuana Products Mfg|Expired|6545 East 49th Avenue|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+SAGUACHE FARMS LLC||403R-01067|Retail Marijuana Cultivation Facility|Expired|51597 County Road T|Saguache CO  81149|Saguache|Saguache|CO|81149|
+SAN TOURE LLC||403R-00389|Retail Marijuana Cultivation Facility|Expired|765 N Telluride St, Unit B15|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+SAYCOR ENTERPRISES LLC||404-00473|Infused Product Manufacturer|Expired|621 East Industrial Boulevard|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+SAYCOR ENTERPRISES LLC||404R-00157|Retail Marijuana Products Mfg|Expired|621 East Industrial Boulevard|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+SECRET MINT COMPANY|SECRET MINT COMPANY|404-00365|Infused Product Manufacturer|Expired|4900 Acoma Street, Unit C|Denver CO  80216|Denver|Denver|CO|80216|
+SECRET MINT COMPANY|SECRET MINT COMPANY|403-01417|Optional Premises|Expired|4900 Acoma Street, Unit C|Denver CO  80216|Denver|Denver|CO|80216|
+SERENITY MOON WELLNESS CENTER LLC|FROSTED LEAF|402-00176|Center - Type 1|Expired|50 Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+SERENITY MOON WELLNESS CENTER LLC|FROSTED LEAF|403-00267|Optional Premises|Expired|3819 Quentin Street|Denver CO  80239|Denver|Denver|CO|80239|
+SERENITY MOON WELLNESS CENTER LLC|FROSTED LEAF|403-00668|Optional Premises|Expired|50 Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+SEVEN TEN CREATIONS LLC||407R-00004|RMJ Operator|Expired|7831 East 26th Avenue|Denver CO  80238|Denver|Denver|CO|80238|
+SHILO LABS LLC||405R-00027|RMJ Testing Facility|Expired|4840 North Broadway|Denver CO  80216|Denver|Denver|CO|80216|
+SHILO LABS LLC||405-00013|MMJ Testing Facility|Expired|4840 North Broadway|Denver CO  80216|Denver|Denver|CO|80216|
+SIMPLY PURE COLORADO LLC|SIMPLY PURE|402-01050|Center - Type 1|Expired|2000 West 32nd Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+SIMPLY PURE COLORADO LLC|SIMPLY PURE|403-01645|Optional Premises|Expired|2154 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+SINDUSTRIES INC||403R-00744|Retail Marijuana Cultivation Facility|Expired|4260 County Road 110|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+SKY UNLIMITED LLC|SKY UNLIMITED LLC|404R-00135|Retail Marijuana Products Mfg|Expired|59 North Fabrication Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+SMART CARE LLC|SMART CARE EXTRACTS |404-00536|Infused Product Manufacturer|Expired|4696 Glencoe Street|Denver CO  80216|Denver|Denver|CO|80216|
+SMART CARE LLC|SMART CARE EXTRACTS |403-01805|Optional Premises|Expired|4668 Glencoe Street|Denver CO  80216|Denver|Denver|CO|80216|
+SMOKED COLORADO INC||403-01897|Optional Premises|Expired|1990 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+SMOKED COLORADO INC||403-01898|Optional Premises|Expired|1990 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+SOUTHERN COLORADO THERAPEUTICS INC|HIGHLAND HEALTH|404R-00102|Retail Marijuana Products Mfg|Expired|63003 County Road CC|Moffat CO  81143|Moffat|Saguache|CO|81143|
+SOUTHERN COLORADO THERAPEUTICS INC|HIGHLAND HEALTH|403R-00420|Retail Marijuana Cultivation Facility|Expired|63003 County Road CC|Moffat CO  81143|Moffat|Saguache|CO|81143|
+SPACE AGE HYDROPONICS LLC||403R-01055|Retail Marijuana Cultivation Facility|Expired|601 Catalpa Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+STANDING AKIMBO LLC|ABLAZE|404-00285|Infused Product Manufacturer|Expired|3801 West Jason Street|Denver CO  80221|Denver|Denver|CO|80221|
+STAY CONCENTRATED COLORADO LLC||404-00375|Infused Product Manufacturer|Expired|4986 Morrison Road|Denver CO  80219|Denver|Denver|CO|80219|
+STAY CONCENTRATED COLORADO LLC||403-01455|Optional Premises|Expired|688 North Bryant Street, Suite 105|Denver CO  80204|Denver|Denver|CO|80204|
+STEEL CITY SUPPLY LLC||403R-00529|Retail Marijuana Cultivation Facility|Expired|7571 Vanessa Drive|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+STONE AGE CREATIONS LLC|PRIMAL INFUSIONS|404R-00106|Retail Marijuana Products Mfg|Expired|15327 Highway 140|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+STRAIGHT RIVER LLC||403R-00725|Retail Marijuana Cultivation Facility|Expired|52868 Yatze Road|Boone CO  81025|Boone|Pueblo|CO|81025|
+SUNSHINE EXTRACTS LLC||404R-00313|Retail Marijuana Products Mfg|Expired|7183 Arapahoe Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+SUNSHINE EXTRACTS LLC||403R-00873|Retail Marijuana Cultivation Facility|Expired|7183 Arapahoe Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+SWEET LEAF LLC||403-00352|Optional Premises|Expired|110 Yuma Street, Unit 3|Denver CO  80223|Denver|Denver|CO|80223|
+TABLE MESA WELLNESS CENTER LLC|NORTH BOULDER WELLNESS CENTER|402-00381|Center - Type 1|Expired|1495 Yarmouth Avenue|Boulder CO  80304|Boulder|Boulder|CO|80304|
+TABLE MESA WELLNESS CENTER LLC|NORTH BOULDER WELLNESS CENTER|403-00571|Optional Premises|Expired|7161 Valtec Court, Unit A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+TASTEBUDZ MIP LLC|TASTEBUDZ MIP LLC|404-00390|Infused Product Manufacturer|Expired|1805 Sante Fe Drive Unit C|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+TASTEBUDZ MIP LLC|TASTEBUDZ MIP LLC|404R-00178|Retail Marijuana Products Mfg|Expired|1805 Sante Fe Drive Unit C|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+TDM LLC|TREES|403-01682|Optional Premises|Expired|4140 North York Street, Suite 130|Denver CO  80216|Denver|Denver|CO|80216|
+TEAJUANA LTD||404-00589|Infused Product Manufacturer|Expired|34093 Highway 285|Villa Grove CO  81155|Villa Grove|Saguache|CO|81155|
+TELLURIDE GREEN ROOM LLC|TELLURIDE GREEN ROOM|403R-00175|Retail Marijuana Cultivation Facility|Expired|711 South Park Road, #E & #F|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+TEN THOUSAND ACRES LLC||403R-00526|Retail Marijuana Cultivation Facility|Expired|37671 Highway 9|Fairplay CO  80440|Fairplay|Park|CO|80440|
+TENBELLS INC|MEDICINE MEN NATURAL REMEDY|402-00873|Center - Type 1|Expired|880 Marilyn|Penrose CO  81240|Penrose|Fremont|CO|81240|
+TENBELLS INC|TENBELLS INC|403-01360|Optional Premises|Expired|880 Marilyn |Penrose CO  81240|Penrose|Fremont|CO|81240|
+TENDERFOOT HEALTH COLLECTIVE||402-00701|Center - Type 1|Expired|840 Oak Street|Salida CO  81201|Salida|Chaffee|CO|81201|
+TENDERFOOT HEALTH COLLECTIVE||403-01400|Optional Premises|Expired|2510 47th Street, #GG|Boulder CO  80301|Boulder|Boulder|CO|80301|
+TERRA CURA LLC||403R-00672|Retail Marijuana Cultivation Facility|Expired|77 North Laser Drive Suite E|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TETRAHYDROCENTER LLC|TETRAHYDROCENTER |402-00442|Center - Type 1|Expired|9206 East Hampden Avenue|Denver CO  80231|Denver|Denver|CO|80231|
+TETRAHYDROCENTER LLC|TETRAHYDROCENTER |403-00662|Optional Premises|Expired|221 Wyandot Street|Denver CO  80223|Denver|Denver|CO|80223|
+TETRAHYDROCENTER LLC|TETRAHYDROCENTER |403-00663|Optional Premises|Expired|9206 East Hampden Avenue|Denver CO  80231|Denver|Denver|CO|80231|
+THC INC||403R-01012|Retail Marijuana Cultivation Facility|Expired|26758 Hammond Avenue|Moffat CO  81143|Moffat|Saguache|CO|81143|
+THCULTIVATION LLC|THCULTIVATION|403R-00679|Retail Marijuana Cultivation Facility|Expired|718 Southpark Road, Lot 418|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+THCULTIVATION LLC|THCULTIVATION|404R-00210|Retail Marijuana Products Mfg|Expired|718 Southpark Road, Lot 418|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+THE CANNABIST CASTLE SUPERMARKET & DISPENSARY LOUNGE LLC|THE KIND CASTLE|402R-00473|Retail Marijuana Store|Expired|818 Grand Avenue|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+THE DUKES OF EARL LLC|ASANOHA|403R-00865|Retail Marijuana Cultivation Facility|Expired|66701 US 285|Bailey CO  80421|Bailey|Park|CO|80421|
+THE GIVING TREE OF DENVER LLC||403R-00149|Retail Marijuana Cultivation Facility|Expired|1255 South Huron Street|Denver CO  80223|Denver|Denver|CO|80223|
+THE GOOD SEED|THE GOOD SEED|402R-00549|Retail Marijuana Store|Expired|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+THE GOOD SEED|THE GOOD SEED|403R-00658|Retail Marijuana Cultivation Facility|Expired|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+THE GREENEST GREEN LLC|THE GREENEST GREEN|402-00230|Center - Type 1|Expired|5290 Arapahoe Avenue, Unit J|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE GREENEST GREEN LLC|THE GREENEST GREEN|403-00337|Optional Premises|Expired|1900 55th Street Building B|Boulder CO  80302|Boulder|Boulder|CO|80302|
+THE GREENEST GREEN LLC||404-00097|Infused Product Manufacturer|Expired|1900 55th Street Building B Suite 105C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+THE GREENEST GREEN LLC|MADRONE EXTRACTS|404R-00038|Retail Marijuana Products Mfg|Expired|1900 55th Street, Building B, Suite 105C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+THE GREENEST GREEN LLC|MADRONE BOULDER|403R-00258|Retail Marijuana Cultivation Facility|Expired|1900 55th Street, Building B-105B |Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE HERBAL CURE LLC||403R-00184|Retail Marijuana Cultivation Facility|Expired|985 South Logan Street|Denver CO  80209|Denver|Denver|CO|80209|
+THE ORGANIC SEED LLC||403-01452|Optional Premises|Expired|1785 Kit Carson Trail|Cotopaxi CO  81223|Cotopaxi|Fremont|CO|81223|
+THE PURPLE DRAGON LLC||402R-00025|Retail Marijuana Store|Expired|2243 Federal Boulevard|Denver CO  80211|Denver|Denver|CO|80211|
+THE PURPLE DRAGON LLC||403R-00030|Retail Marijuana Cultivation Facility|Expired|1237 Shoshone Street|Denver CO  80204|Denver|Denver|CO|80204|
+THREE LIONS CORP LLC|THREE LIONS CORP LLC|404-00406|Infused Product Manufacturer|Expired|1434 North Ulster Street|Denver CO  80220|Denver|Denver|CO|80220|
+THREE LIONS CORP LLC|THREE LIONS CORP LLC|403-01511|Optional Premises|Expired|1434 North Ulster Street|Denver CO  80220|Denver|Denver|CO|80220|
+THREE RIVERS DEVELOPMENT LLC|THREE RIVERS DISPENSARY|403-01879|Optional Premises|Expired|83 North Magneto Drive|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+THREE RIVERS DEVELOPMENT LLC|THREE RIVERS DISPENSARY|402R-00660|Retail Marijuana Store|Expired|83 North Magneto Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THREE RIVERS DEVELOPMENT LLC|THREE RIVERS MEDICAL EXPRESS|402-01241|Center - Type 1|Expired|83 North Magneto Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TIMBERLINE HERBAL CLINIC AND WELLNESS CENTER LLC||402-00284|Center - Type 1|Expired|3995 East 50th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+TIMBERLINE HERBAL CLINIC AND WELLNESS CENTER LLC||403-00421|Optional Premises|Expired|665 Kalamath Street|Denver CO  80204|Denver|Denver|CO|80204|
+TMED LLC|THE GRASS STATION|403R-00143|Retail Marijuana Cultivation Facility|Expired|3800 East 48th Street|Denver CO  80216|Denver|Denver|CO|80216|
+TONKA CONSTRUCTION LLC|TONKA CONSTRUCTION LLC|404R-00092|Retail Marijuana Products Mfg|Expired|224 Arthur Avenue|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+TREE LINE PREMIER BOULDER LLC|LIVWELL|402-00783|Center - Type 1|Expired|3000 Folsom Street|Boulder CO  80304|Boulder|Boulder|CO|80304|
+TREE LINE PREMIER NEDERLAND LLC|TREE LINE PREMIER |402-00782|Center - Type 1|Expired|40801 US Highway 6 & 24, Suite 5|Avon CO  81620|Avon|Eagle|CO|81620|
+TREE LINE PREMIER NEDERLAND LLC|TREE LINE PREMIER|403-01427|Optional Premises|Expired|688 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+TREMBLY ENTERPRISES LLC||403R-00838|Retail Marijuana Cultivation Facility|Expired|36 North Research Drive Suite B|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TRICHOME ANALYTICS LLC|TRICHOME ANALYTICS|405R-00006|RMJ Testing Facility|Expired|217 Racquette Drive, Unit #12|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+TRINIDADS HIGHER CALLING U LLC||404R-00083|Retail Marijuana Products Mfg|Expired|1000 Independence Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+TRUST GROUP LLC|TRUST GROUP LLC|403R-00764|Retail Marijuana Cultivation Facility|Expired|6748 Highway 17|Moffat CO  81143|Moffat|Saguache|CO|81143|
+TRUST GROUP LLC|TRUST GROUP LLC|403R-00765|Retail Marijuana Cultivation Facility|Expired| 6754 Highway 17|Moffat CO  81143|Moffat|Saguache|CO|81143|
+TWISTED ORGANICS LLC|TWISTED ORGANICS LLC|404R-00080|Retail Marijuana Products Mfg|Expired|311 South Main Street|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+TWISTED ORGANICS LLC|TWISTED ORGANICS LLC|403R-00351|Retail Marijuana Cultivation Facility|Expired|311 South Main Street|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+TWO DOG PRODUCTS LLC||403R-00341|Retail Marijuana Cultivation Facility|Expired|615 South Highway 24, Unit D|Leadville CO  80461|Leadville|Lake|CO|80461|
+TWOGM WALNUT LLC|BUDDY BOY|404-00037|Infused Product Manufacturer|Expired|3814 Walnut Street |Denver CO  80205|Denver|Denver|CO|80205|
+UNDERWOOD CORPORATION|CANNA ELIXIRS|404-00330|Infused Product Manufacturer|Expired|1940 West Mississippi Avenue, Suite F|Denver CO  80223|Denver|Denver|CO|80223|
+UNIVERSAL HERBS LLC|UNIVERSAL HERBS|403R-00491|Retail Marijuana Cultivation Facility|Expired|5959 East 39th Avenue, Unit 102|Denver CO  80216|Denver|Denver|CO|80216|
+UNIVERSAL HERBS LLC|UNIVERSAL HERBS|402R-00427|Retail Marijuana Store|Expired|800 Park Avenue West|Denver CO  80205|Denver|Denver|CO|80205|
+URBAN HEALTH & WELLNESS INC|URBAN KITCHEN|404-00384|Infused Product Manufacturer|Expired|966 West 41st Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+URBAN HEALTH & WELLNESS INC|URBAN DISPENSARY|403-01758|Optional Premises|Expired|5395 Montezuma Road|Montezuma CO  80435|Montezuma|Summit|CO|80435|
+URBAN HEALTH & WELLNESS INC|URBAN DISPENSARY|404R-00325|Retail Marijuana Products Mfg|Expired|966 West 41st Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+VAIL BUD BREWERY LLC|VAIL BUDZ|404R-00115|Retail Marijuana Products Mfg|Expired|40928 Highway 6, Unit 2-C|Avon CO  81620|Avon|Eagle|CO|81620|
+VALLEY MEDS LLC||402-00423|Center - Type 1|Expired|6512 Cramer Road|Alamosa CO  81101|Alamosa|Alamosa|CO|81101|
+VALLEY MEDS LLC||403-00642|Optional Premises|Expired|6512 Cramer Road|Alamosa CO  81101|Alamosa|Alamosa|CO|81101|
+VALLEY MEDS LLC|VALLEY MEDS LLC|402-01118|Center - Type 1|Expired|1805 Sante Fe Drive Unit E|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+VALLEY MEDS LLC|VALLEY MEDS LLC|403-01722|Optional Premises|Expired|1805 Sante Fe Drive Suites F, G, H|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+VIRIDIS POLLEX LLC||403R-00601|Retail Marijuana Cultivation Facility|Expired|900 Conductor Court|Rye CO  81069|Rye|Pueblo|CO|81069|
+VIRIDIS POLLEX LLC||403R-01011|Retail Marijuana Cultivation Facility|Expired|900 Conductor Court|Rye CO  81069|Rye|Pueblo|CO|81069|
+VIRTUAL MARKETING LLC|MAGGIES FARM|402-00991|Center - Type 1|Expired|74 Component Drive,  Suite 160|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+VIRTUAL MARKETING LLC|MAGGIES FARM|403-01562|Optional Premises|Expired|74 North Component Drive, #160|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+VIRTUAL MARKETING LLC|MAGGIES FARM|402R-00407|Retail Marijuana Store|Expired|4803 North Interstate 25|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+VIRTUAL MARKETING LLC|Maggie's Farm, LLC.|403-01718|Optional Premises|Expired|4211 Fremont County Road 84|Florence CO  81226|Florence|Fremont|CO|81226|
+VISION QUEST ANALYTICS INC||405R-00018|RMJ Testing Facility|Expired|3924 Youngfield Street|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+VITA MEDS LLC|MR NICE GUYS|402-00368|Center - Type 1|Expired|4501 Adams Street|Denver CO  80216|Denver|Denver|CO|80216|
+VITA MEDS LLC|PHAT DADDYZ|404-00464|Infused Product Manufacturer|Expired|1397 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+VITA MEDS LLC|MR NICE GUYS|403-01674|Optional Premises|Expired|4421 Inca Street|Denver CO  80211|Denver|Denver|CO|80211|
+VSO LLC||404R-00194|Retail Marijuana Products Mfg|Expired|5305 Vasquez Boulevard|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+WALKING RAVEN II LLC|WALKING RAVEN|403-00353|Optional Premises|Expired|875 Navajo Street|Denver CO  80204|Denver|Denver|CO|80204|
+WALKING RAVEN II LLC|WALKING RAVEN |402-00805|Center - Type 1|Expired|2001 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+WASH PARK BOUTIQUE LLC|LUCKY SKY DISPENSARY|402R-00686|Retail Marijuana Store|Expired|3480 South Galena Street, Unit B-4|Denver CO  80231|Denver|Denver|CO|80231|
+WEISS & COMPANY LLC||403-01908|Optional Premises|Expired|90 North Dynamics Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+WESTERN SLOPE CAREGIVERS LLC||403-00667|Optional Premises|Expired|3244 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+WESTSIDE WELLNESS CENTER LLC|MAGGIES FARM|404R-00097|Retail Marijuana Products Mfg|Expired|1400 Santa Fe Drive, Units A & B|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+WESTSIDE WELLNESS CENTER LLC|MAGGIES FARM|404-00427|Infused Product Manufacturer|Expired|1400 Santa Fe Drive, Units A & B|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+WILD HORSE ENTERPRISES LLC||403R-00881|Retail Marijuana Cultivation Facility|Expired|4939 North Broadway Units 55 & 56|Boulder CO  80304|Boulder|Boulder|CO|80304|
+WILD WEST WEED LLC|WILD WEST WEED|403R-00585|Retail Marijuana Cultivation Facility|Expired|1765 D-K Drive|Durango CO  81301|Durango|La Plata|CO|81301|
+WILLOW NORTH LLC|BUD FARM|402-00860|Center - Type 1|Expired|385 North Willow|Mancos CO  81328|Mancos|Montezuma|CO|81328|
+WILLOW NORTH LLC|BUD FARM|403-01335|Optional Premises|Expired|385 North Willow|Mancos CO  81328|Mancos|Montezuma|CO|81328|
+WILLOWBROOK FARMS LLC|TIERRA ROJA|403R-00931|Retail Marijuana Cultivation Facility|Expired|6003 County Road 110|Rye CO  81069|Rye|Pueblo|CO|81069|
+WM CONCENTRATES LLC|WM CONCENTRATES LLC|404R-00330|Retail Marijuana Products Mfg|Expired|5120 Havana Street|Denver CO  80239|Denver|Denver|CO|80239|
+XG PLATINUM CORPORATION||403R-00161|Retail Marijuana Cultivation Facility|Expired|422 26th Street|Garden City CO  80631|Garden City|Weld|CO|80631|
+XG PLATINUM CORPORATION||403-01572|Optional Premises|Expired|525 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+ZBZ CORP|ANTERO JUNCTION|402R-00250|Retail Marijuana Store|Expired|100 West Highway 24|Hartsel CO  80449|Hartsel|Park|CO|80449|
+ZBZ CORP|ANTERO JUNCTION|403R-00331|Retail Marijuana Cultivation Facility|Expired|100 West Highway 24|Hartsel CO  80449|Hartsel|Park|CO|80449|
+ZBZ CORP|ANTERO JUNCTION|404R-00075|Retail Marijuana Products Mfg|Expired|100 West Highway 24|Hartsel CO  80449|Hartsel|Park|CO|80449|

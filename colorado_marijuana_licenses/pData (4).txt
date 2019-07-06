@@ -1,0 +1,188 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+Aaron Michael Morris||M77925|Associated Key - Non-Resident|Approved|||||||
+Adam Denmark Cohen||M61175|Associated Key - Non-Resident|Approved|||||||
+Amanda Jeanne Butler||M57073|Associated Key - Non-Resident|Approved|||||||
+Amanda Maitland Fuhrman||M60633|Associated Key - Non-Resident|Approved|||||||
+Amanda Paige Von Kamp||M64298|Associated Key - Non-Resident|Administratively Continued - MED|||||||
+Andrew Jay Rashkow||M59129|Associated Key - Non-Resident|Approved|||||||
+Andrew Kyle Kutzenberger||M73604|Associated Key - Non-Resident|Approved|||||||
+Andrew Pierre Redmond||M63169|Associated Key - Non-Resident|Approved|||||||
+Antonio De La Guardia||M70166|Associated Key - Non-Resident|Expired|||||||
+Ashley Holliday Peebles||M76558|Associated Key - Non-Resident|Approved|||||||
+Benedetto Thomas Celani||M59157|Associated Key - Non-Resident|Withdrawn|||||||
+Brian Seth Bernatsky||M79120|Associated Key - Non-Resident|Approved|||||||
+Brook Anthony Hall||M67214|Associated Key - Non-Resident|Approved|||||||
+Brooke Sarno Royse-Mallers||M81911|Associated Key - Non-Resident|Approved|||||||
+Bryan Lawrence Becker||M72327|Associated Key - Non-Resident|Approved|||||||
+Bryan Phillip Rutcofsky||M78835|Associated Key - Non-Resident|Approved|||||||
+Carl Boston Standridge, III||M74273|Associated Key - Non-Resident|Approved|||||||
+Carna Jean Anderson||M59364|Associated Key - Non-Resident|Approved|||||||
+Chad Kenneth Bronkie||M85604|Associated Key - Non-Resident|Approved|||||||
+Chapman Charles Ducote||M74669|Associated Key - Non-Resident|Approved|||||||
+Charlene Michelle Dawes||M78614|Associated Key - Non-Resident|Approved|||||||
+Charles Rand Briggs||M56943|Associated Key - Non-Resident|Approved|||||||
+Christopher Daniel Joseph||M78009|Associated Key - Non-Resident|Approved|||||||
+Christopher David Rivas||M95910|Associated Key - Non-Resident|Withdrawn|||||||
+Christopher Joseph Nicolau||M79078|Associated Key - Non-Resident|Approved|||||||
+Christopher Ray Bratton||M91462|Associated Key - Non-Resident|Approved|||||||
+Cihan Kutuk||M72670|Associated Key - Non-Resident|Approved|||||||
+Clifford James Kirvan, Jr||M60134|Associated Key - Non-Resident|Approved|||||||
+Colleen Marie Scanlon-Maynard||M63886|Associated Key - Non-Resident|Approved|||||||
+Corey James Norford||M80481|Associated Key - Non-Resident|Approved|||||||
+Corey William Rosen||M73193|Associated Key - Non-Resident|Approved|||||||
+Cory Streater McCabe||M78805|Associated Key - Non-Resident|Approved|||||||
+Cynthia Cortez||M80611|Associated Key - Non-Resident|Approved|||||||
+Daniel Louis Miremont||M69274|Associated Key - Non-Resident|Approved|||||||
+Daniel St. Clair Kreitzberg||M77912|Associated Key - Non-Resident|Approved|||||||
+Darrell Kurt Anderson||M59374|Associated Key - Non-Resident|Approved|||||||
+David Americus Rosazza||M85871|Associated Key - Non-Resident|Approved|||||||
+David Andrew Goodheart|Kayak Concentrates|M67978|Associated Key - Non-Resident|Withdrawn|||||||
+David Cluskey Cromwell||M72615|Associated Key - Non-Resident|Approved|||||||
+David Gene Cosentino||M62254|Associated Key - Non-Resident|Expired|||||||
+David Patrick Elmore||M90803|Associated Key - Non-Resident|Withdrawn|||||||
+David Scott Lee||M80493|Associated Key - Non-Resident|Approved|||||||
+Delmer Billy Tom Smith||M57568|Associated Key - Non-Resident|Approved|||||||
+Dennis Wayne Duff||M68097|Associated Key - Non-Resident|Approved|||||||
+Dominic Anthony Visconsi, Jr||M68743|Associated Key - Non-Resident|Withdrawn|||||||
+Douglas Cyril Weller||M63557|Associated Key - Non-Resident|Approved|||||||
+Dustin Thomas Murray||M56234|Associated Key - Non-Resident|Expired|||||||
+Edmund Herbert Wake||M67976|Associated Key - Non-Resident|Withdrawn|||||||
+Edmund Pellegrino Soriero||M77239|Associated Key - Non-Resident|Approved|||||||
+Edward Boettner||M72737|Associated Key - Non-Resident|Approved|||||||
+Elizabeth Christine Nichols||M57051|Associated Key - Non-Resident|Approved|||||||
+Felix Jeff Vulis||M60224|Associated Key - Non-Resident|Withdrawn|||||||
+Frank Friedler, III||M68716|Associated Key - Non-Resident|Approved|||||||
+Frank Leon Levy||M69276|Associated Key - Non-Resident|Approved|||||||
+Frank Palmieri, Jr||M57119|Associated Key - Non-Resident|Approved|||||||
+Frantseco Francisco||M55878|Associated Key - Non-Resident|Withdrawn|||||||
+George Gregory Jackson||M57389|Associated Key - Non-Resident|Approved|||||||
+George Louis Bergeron||M65054|Associated Key - Non-Resident|Approved|||||||
+Gerald Stuart Lindenmuth||M78446|Associated Key - Non-Resident|Approved|||||||
+Hope Elizabeth Shackelford||M83027|Associated Key - Non-Resident|Approved|||||||
+Howard Alexander Morrison, III||M59951|Associated Key - Non-Resident|Approved|||||||
+Huyen Hoang Thi Nguyen||M57072|Associated Key - Non-Resident|Approved|||||||
+Jacob Keith Strider||M57077|Associated Key - Non-Resident|Approved|||||||
+Jan Francis Talamo||M80503|Associated Key - Non-Resident|Approved|||||||
+Jared Wren Hartman||M73837|Associated Key - Non-Resident|Approved|||||||
+Jason Cash Post||M72324|Associated Key - Non-Resident|Withdrawn|||||||
+Jason Lee McLemore||M55383|Associated Key - Non-Resident|Approved|||||||
+Jeffrey Damavandi||M63599|Associated Key - Non-Resident|Approved|||||||
+Jeffrey Neil Schiller||M68310|Associated Key - Non-Resident|Voluntary Surrender|||||||
+Jeffrey Paul Legrand||M63472|Associated Key - Non-Resident|Withdrawn|||||||
+Jeffrey Scott Luffey||M74305|Associated Key - Non-Resident|Approved|||||||
+Jennifer Christina Thier||M58235|Associated Key - Non-Resident|Denied|||||||
+Jenny Ping Tran||M79118|Associated Key - Non-Resident|Approved|||||||
+Jeremy Neil Heidl||M64292|Associated Key - Non-Resident|Administratively Continued - MED|||||||
+Jesus Vidal Suarez||M59304|Associated Key - Non-Resident|Approved|||||||
+Jiafeng Yang||M86291|Associated Key - Non-Resident|Approved|||||||
+Jinxin Piao||M92149|Associated Key - Non-Resident|Approved|||||||
+Jody Michael O'Donnell||M56703|Associated Key - Non-Resident|Approved|||||||
+Jody Ray Boyd||M66072|Associated Key - Non-Resident|Approved|||||||
+Johannes Antonius Van Lieshout||M80448|Associated Key - Non-Resident|Withdrawn|||||||
+John Charles Gunn||M56548|Associated Key - Non-Resident|Approved|||||||
+John Joseph Curtin||M60133|Associated Key - Non-Resident|Approved|||||||
+John Robert Marek||M79014|Associated Key - Non-Resident|Approved|||||||
+John Taylor Trippett||M79000|Associated Key - Non-Resident|Approved|||||||
+Jon Guven||M70808|Associated Key - Non-Resident|Approved|||||||
+Jonathan Ethan Daniels||M80477|Associated Key - Non-Resident|Approved|||||||
+Jonathan Paul McIntosh||M86739|Associated Key - Non-Resident|Approved|||||||
+Jonathan Thomas Levin||M79375|Associated Key - Non-Resident|Approved|||||||
+Jorge Luis Ferrin||M69182|Associated Key - Non-Resident|Approved|||||||
+Joseph John Severino||M77770|Associated Key - Non-Resident|Approved|||||||
+Joseph Steuterman Hardison||M79136|Associated Key - Non-Resident|Approved|||||||
+Juan Carlos Jimenez||M92709|Associated Key - Non-Resident|Approved|||||||
+Justin David Hackler||M65451|Associated Key - Non-Resident|Approved|||||||
+Justin Dewitt Jones||M68026|Associated Key - Non-Resident|Approved|||||||
+Kabira Eihab Wahdan||M95517|Associated Key - Non-Resident|Approved|||||||
+Kaleb Micah Duong||M57076|Associated Key - Non-Resident|Approved|||||||
+Kate Alexandra Talamo||M57122|Associated Key - Non-Resident|Withdrawn|||||||
+Kathleen Ann Chaffee||M67959|Associated Key - Non-Resident|Approved|||||||
+Kathy Marie Cullum||M76489|Associated Key - Non-Resident|Voluntary Surrender|||||||
+Kelsey Rebecca Fox||M79380|Associated Key - Non-Resident|Approved|||||||
+Kenneth Scott Rubin||M77399|Associated Key - Non-Resident|Withdrawn|||||||
+Kunal Ajit Patel||M93278|Associated Key - Non-Resident|Approved|||||||
+Lance Chadwick Bentley||M61752|Associated Key - Non-Resident|Withdrawn|||||||
+Laura Fani Hochberger||M58998|Associated Key - Non-Resident|Withdrawn|||||||
+Lawrence David Nassau||M73535|Associated Key - Non-Resident|Approved|||||||
+Lazaro Rodriguez||M93846|Associated Key - Non-Resident|Approved|||||||
+Lee David Olesen||M64647|Associated Key - Non-Resident|Approved|||||||
+Leroy Henry Chaney, Jr||M74272|Associated Key - Non-Resident|Approved|||||||
+Leslie Owen Paull||M78125|Associated Key - Non-Resident|Approved|||||||
+Lisa Ann Rosen||M58996|Associated Key - Non-Resident|Withdrawn|||||||
+Luis Enrique Sanchez||M55876|Associated Key - Non-Resident|Withdrawn|||||||
+Manuel Antonio Hane||M55877|Associated Key - Non-Resident|Withdrawn|||||||
+Martin Louis Sobel||M79115|Associated Key - Non-Resident|Approved|||||||
+Matthew Edward Noll||M63570|Associated Key - Non-Resident|Approved|||||||
+Matthew Michael Beard||M79854|Associated Key - Non-Resident|Approved|||||||
+Megan Anne Sanders||M95655|Associated Key - Non-Resident|Approved|||||||
+Michael Andrew Green||M79413|Associated Key - Non-Resident|Approved|||||||
+Michael Norman Hemlepp||M72946|Associated Key - Non-Resident|Approved|||||||
+Michael Reichbach Niakani||M67167|Associated Key - Non-Resident|Approved|||||||
+Michael Russell Kirk||M62342|Associated Key - Non-Resident|Approved|||||||
+Michael Ryan Sample||M74198|Associated Key - Non-Resident|Approved|||||||
+Michelle Denise Epps||M92341|Associated Key - Non-Resident|Withdrawn|||||||
+Miguel Poyastro||M58652|Associated Key - Non-Resident|Approved|||||||
+Nancy Marie Thompson||M65658|Associated Key - Non-Resident|Withdrawn|||||||
+Neal J Patel||M64537|Associated Key - Non-Resident|Withdrawn|||||||
+Ngoc Buu Tran||M64445|Associated Key - Non-Resident|Approved|||||||
+Nicholas Edward Eustace||M58097|Associated Key - Non-Resident|Approved|||||||
+Nicholas Glenn Haddad||M86936|Associated Key - Non-Resident|Approved|||||||
+Nicholas Randolph King||M61650|Associated Key - Non-Resident|Approved|||||||
+Patric Ford Bouton||M59230|Associated Key - Non-Resident|Approved|||||||
+Patricia Ann Dougherty||M78969|Associated Key - Non-Resident|Approved|||||||
+Patrick Anthony Kreitzberg||M77906|Associated Key - Non-Resident|Approved|||||||
+Patrick Joseph Leonard||M49241|Associated Key - Non-Resident|Approved|||||||
+Paul Berkins Moise||M59088|Associated Key - Non-Resident|Denied|||||||
+Paul Daniel Lapping||M65729|Associated Key - Non-Resident|Withdrawn|||||||
+Paul Elliot Kreitzberg||M77903|Associated Key - Non-Resident|Approved|||||||
+Paula Susan Bernard||M60186|Associated Key - Non-Resident|Withdrawn|||||||
+Penny Doreen Nobles||M56118|Associated Key - Non-Resident|Expired|||||||
+Ralph Todd McDaniel||M66358|Associated Key - Non-Resident|Approved|||||||
+Randy Julian Fertel||M69275|Associated Key - Non-Resident|Approved|||||||
+Rene James Kaza||M77920|Associated Key - Non-Resident|Approved|||||||
+Richard Austin Clay||M75162|Associated Key - Non-Resident|Approved|||||||
+Richard Iturriaga||M60036|Associated Key - Non-Resident|Approved|||||||
+Robert Alexis Hernandez||M69784|Associated Key - Non-Resident|Withdrawn|||||||
+Robert Harold Taggart, Jr||M85612|Associated Key - Non-Resident|Approved|||||||
+Robert Joseph Manna||M58596|Associated Key - Non-Resident|Expired|||||||
+Robert Kennon Terrell||M66363|Associated Key - Non-Resident|Approved|||||||
+Robert Mark Eisdorfer||M90661|Associated Key - Non-Resident|Approved|||||||
+Robert Walter Sluth||M69723|Associated Key - Non-Resident|Approved|||||||
+Ronald Joseph Stevens, Sr||M74119|Associated Key - Non-Resident|Approved|||||||
+Ronald Ted Grisak||M73894|Associated Key - Non-Resident|Approved|||||||
+Ronald Wayne Milor, Jr||M67673|Associated Key - Non-Resident|Approved|||||||
+Ronnie Wilde Treat||M79558|Associated Key - Non-Resident|Approved|||||||
+Rouzbeh John Nadjafi||M72665|Associated Key - Non-Resident|Approved|||||||
+Samuel Martin Carroll||M60992|Associated Key - Non-Resident|Approved|||||||
+Sasho Mitkov Belyanov||M58176|Associated Key - Non-Resident|Suspended|||||||
+Scott Robert Sterling||M64794|Associated Key - Non-Resident|Approved|||||||
+Scott Thomas Thomson||M60504|Associated Key - Non-Resident|Withdrawn|||||||
+Sean William Monaco||M77238|Associated Key - Non-Resident|Approved|||||||
+Sechung Oh Handley||M56718|Associated Key - Non-Resident|Withdrawn|||||||
+Seth Reuben Heller||M58653|Associated Key - Non-Resident|Approved|||||||
+Sharla Kaye Galan||M71333|Associated Key - Non-Resident|Approved|||||||
+Sharod Lamar White||M65813|Associated Key - Non-Resident|Approved|||||||
+Sherard Marshon Rogers||M60495|Associated Key - Non-Resident|Approved|||||||
+Stephen Frederick Stumpf, Jr||M69267|Associated Key - Non-Resident|Approved|||||||
+Stephen Harold Miller||M70844|Associated Key - Non-Resident|Approved|||||||
+Steven David Mackey||M72662|Associated Key - Non-Resident|Approved|||||||
+Steven Paul Kuiper||M65890|Associated Key - Non-Resident|Expired|||||||
+Taylor Grant Durbin||M69714|Associated Key - Non-Resident|Withdrawn|||||||
+Terence Anthony Fitch||M57645|Associated Key - Non-Resident|Withdrawn|||||||
+Thaddeus Mark Alexander||M68950|Associated Key - Non-Resident|Approved|||||||
+Thomas Albert McFall||M66345|Associated Key - Non-Resident|Approved|||||||
+Thomas Holmes Turner||M69271|Associated Key - Non-Resident|Approved|||||||
+Thomas Hulsey Hatton||M58465|Associated Key - Non-Resident|Approved|||||||
+Thomas Michael Dore||M84511|Associated Key - Non-Resident|Approved|||||||
+Timothy Neal Tonguis||M66866|Associated Key - Non-Resident|Approved|||||||
+Tingate Jue||M66796|Associated Key - Non-Resident|Approved|||||||
+Todd Alan Hammond||M56384|Associated Key - Non-Resident|Approved|||||||
+Todd Anderson Brady||M64923|Associated Key - Non-Resident|Approved|||||||
+Valerie Mae Pater||M58983|Associated Key - Non-Resident|Approved|||||||
+Walter Joseph Boasso||M69269|Associated Key - Non-Resident|Approved|||||||
+Will Alan Patterson||M79667|Associated Key - Non-Resident|Approved|||||||
+William Budicin||M66799|Associated Key - Non-Resident|Approved|||||||
+William Joseph Mallers||M81877|Associated Key - Non-Resident|Approved|||||||
+William Ray Chaney||M74274|Associated Key - Non-Resident|Approved|||||||
+Yao Ming Li||M86565|Associated Key - Non-Resident|Withdrawn|||||||
+Zengxi Gao||M89276|Associated Key - Non-Resident|Approved|||||||

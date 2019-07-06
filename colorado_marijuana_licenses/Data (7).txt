@@ -1,0 +1,95 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+2116 SYSTEMS LLC||403R-00413|Retail Marijuana Cultivation Facility|Revoked|2116 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+AJS EVANS LLC|SWEET LEAF|403-01564|Optional Premises|Revoked|1011 West 45th Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+AJS EVANS LLC|SWEET LEAF|403R-00806|Retail Marijuana Cultivation Facility|Revoked|1011 West 45th Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+AJS EVANS LLC|SWEET LEAF|402-00994|Center - Type 3|Revoked|4379 Tejon Street|Denver CO  80211|Denver|Denver|CO|80211|
+AJS FEDERAL LLC|SWEET LEAF|403-01567|Optional Premises|Revoked|136 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+AJS FEDERAL LLC|SWEET LEAF|402-01188|Center - Type 1|Revoked|468 South Federal Boulevard|Denver CO  80219|Denver|Denver|CO|80219|
+AJS FEDERAL LLC|SWEET LEAF|402R-00675|Retail Marijuana Store|Revoked|468 South Federal Boulevard|Denver CO  80219|Denver|Denver|CO|80219|
+BIG TOE LLC|FINE TREES|403-00290|Optional Premises|Revoked|5353 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+BIG TOE LLC|FINE TREES|403R-00304|Retail Marijuana Cultivation Facility|Revoked|5353 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+BIG TOE LLC|FINE TREES|402-00996|Center - Type 1|Revoked|5353 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+BIG TOE LLC|FINE TREES|402R-00597|Retail Marijuana Store|Revoked|5353 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+CAM CORPORATION||403-00021|Optional Premises|Revoked|2391 South Delaware, Suite100|Denver CO  80210|Denver|Denver|CO|80210|
+CAM CORPORATION||403-00846|Optional Premises|Revoked|5475 Peoria Street, Units 1-109|Denver CO  80239|Denver|Denver|CO|80239|
+CAM CORPORATION|CAM|402R-00090|Retail Marijuana Store|Revoked|2394 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+CAM CORPORATION||403R-00115|Retail Marijuana Cultivation Facility|Revoked|5475 Peoria Street|Denver CO  80239|Denver|Denver|CO|80239|
+CAM CORPORATION||402-00897|Center - Type 3|Revoked|2394 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+CAM CORPORATION||403-01425|Optional Premises|Revoked|4525 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+CAM CORPORATION|CAM|404-00376|Infused Product Manufacturer|Revoked|2391 South Delaware Street, Suite 200|Denver CO  80223|Denver|Denver|CO|80223|
+CAM CORPORATION|CAM|403R-00295|Retail Marijuana Cultivation Facility|Revoked|4525 Ironton Street |Denver CO  80239|Denver|Denver|CO|80239|
+CAM CORPORATION|CAM CORPORATION|404R-00078|Retail Marijuana Products Mfg|Revoked|4525 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+CANNLABS INC||405R-00003|RMJ Testing Facility|Revoked|3888 East Mexico Avenue, B50|Denver CO  80210|Denver|Denver|CO|80210|
+DGP 38th  LLC|SWEET LEAF|403-01707|Optional Premises|Revoked|124 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+DGP 38TH LLC|SWEET LEAF|402-00865|Center - Type 1|Revoked|2647 West 38th Avenue|Denver CO  80205|Denver|Denver|CO|80205|
+DGP 38TH LLC|SWEET LEAF|402R-00120|Retail Marijuana Store|Revoked|2647 West 38th Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+DGP ELATI LLC|SWEET LEAF|402R-00009|Retail Marijuana Store|Revoked|4125 Elati Street|Denver CO  80216|Denver|Denver|CO|80216|
+DGP ELATI LLC|SWEET LEAF|403R-00008|Retail Marijuana Cultivation Facility|Revoked|4715 Colorado Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+DGP ELATI LLC|SWEET LEAF|403R-00009|Retail Marijuana Cultivation Facility|Revoked|4125 Elati Street|Denver CO  80216|Denver|Denver|CO|80216|
+DGP SMITH LLC|SWEET LEAF|402R-00109|Retail Marijuana Store|Revoked|7200 East Smith Road|Denver CO  80207|Denver|Denver|CO|80207|
+DGP WALNUT LLC|SWEET LEAF|402-00152|Center - Type 1|Revoked|2609 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+DGP WALNUT LLC|SWEET LEAF|403-00221|Optional Premises|Revoked|2609 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+DGP WALNUT LLC|SWEET LEAF|402R-00119|Retail Marijuana Store|Revoked|2609 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+DGP WALNUT LLC|SWEET LEAF|403R-00156|Retail Marijuana Cultivation Facility|Revoked|2609 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+FEDERAL CORRIDOR LLC|SWEET LEAF|403-01626|Optional Premises|Revoked|1475 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+FEDERAL CORRIDOR LLC|SWEET LEAF|402-01189|Center - Type 1|Revoked|9462 Federal Boulevard|Federal Heights CO  80260|Federal Heights|Adams|CO|80260|
+FROST HARVEST CO INC||402-00471|Center - Type 1|Revoked|County Road 17, Highway 160 |Fort Garland CO  81133|Fort Garland|Costilla|CO|81133|
+FROST HARVEST CO INC||403-00705|Optional Premises|Revoked|County Road 17, Highway 160|Fort Garland CO  81133|Fort Garland|Costilla|CO|81133|
+FROST HARVEST CO INC||402-01132|Center - Type 1|Revoked|2970 West Severn Place|Denver CO  80204|Denver|Denver|CO|80204|
+FROST HARVEST CO INC||403-01737|Optional Premises|Revoked|811 West Bayaud Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+GREEN EARTH WELLNESS CENTER LLC||402-00079|Center - Type 1|Revoked|519 North 30th Street|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+GREEN EARTH WELLNESS CENTER LLC||403-00115|Optional Premises|Revoked|505 North 30th Street, Units B & H|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+HEAVENLY MEDICAL INC|HEAVENLY MEDICAL CAREGIVER|402-00856|Center - Type 1|Revoked|5323 Montbello Lane|Colorado Springs CO  80918|Colorado Springs|El Paso|CO|80918|
+HEAVENLY MEDICAL INC|HEAVENLY MEDICAL CAREGIVER|403-01319|Optional Premises|Revoked|2130 Reliable Circle|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+HERBAL WELLNESS|SWEET LEAF|403-00265|Optional Premises|Revoked|1475 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+HERBAL WELLNESS|SWEET LEAF|402R-00472|Retail Marijuana Store|Revoked|4400 East Evans Avenue|Denver CO  80222|Denver|Denver|CO|80222|
+HERBAL WELLNESS|SWEET LEAF|403R-00635|Retail Marijuana Cultivation Facility|Revoked|1475 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+HERBAL WELLNESS|SWEET LEAF|402-00995|Center - Type 3|Revoked|4400 East Evans Avenue|Denver CO  80222|Denver|Denver|CO|80222|
+HERBS NEST LLC|HERB HERB HERB IS THE WORD|402-00705|Center - Type 1|Revoked|3900 East 48th Ave|Denver CO  80216|Denver|Denver|CO|80216|
+HERBS NEST LLC|HERB HERB HERB IS THE WORD|403-01064|Optional Premises|Revoked|3900 East 48th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+HERBS NEST LLC|HERB HERB HERB IS THE WORD|402R-00080|Retail Marijuana Store|Revoked|3900 East 48th Ave|Denver CO  80216|Denver|Denver|CO|80216|
+HERBS NEST LLC|HERB HERB HERB IS THE WORD|403R-00101|Retail Marijuana Cultivation Facility|Revoked|3900 East 48th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+HIGH SIERRA NATURALS INCORPORATED|CALYPSO CANNABIS|403R-00646|Retail Marijuana Cultivation Facility|Revoked|3613 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+JUSTICE420 LLC||404R-00387|Retail Marijuana Products Mfg|Revoked|18028 County Road 59|Saguache CO  81149|Saguache|Saguache|CO|81149|
+JUSTICE420 LLC||403R-01049|Retail Marijuana Cultivation Facility|Revoked|18028 County Road 59|Saguache CO  81149|Saguache|Saguache|CO|81149|
+KIND ENTERPRISES LLC||403R-00581|Retail Marijuana Cultivation Facility|Revoked|6859 North Foothills Highway, Bldg C, C-100, C-200, C-300|Boulder CO  80302|Boulder|Boulder|CO|80302|
+PIKES PEAK SALES & SUPPLY LLC|THE CROWN|402-01017|Center - Type 1|Revoked|115 Garden of the Gods Road|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+PIKES PEAK SALES & SUPPLY LLC|THE CROWN|403-01610|Optional Premises|Revoked|115 East Garden of the Gods Road|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+PREFERRED ORGANIC THERAPY & WELLNESS LLC|PREFERRED ORGANIC THERAPY|402-00430|Center - Type 1|Revoked|1569 South Colorado Boulevard, 2nd Floor|Denver CO  80222|Denver|Denver|CO|80222|
+PREFERRED ORGANIC THERAPY & WELLNESS LLC||403-00979|Optional Premises|Revoked|4850 Jackson Street|Denver CO  80216|Denver|Denver|CO|80216|
+PREFERRED ORGANIC THERAPY & WELLNESS LLC|PREFERRED ORGANIC THERPY & WELLNESS|403R-00515|Retail Marijuana Cultivation Facility|Revoked|4850 Jackson Street|Denver CO  80246|Denver|Denver|CO|80246|
+PRISY & ASSOCIATES LLC|WELLSTONE|402-00083|Center - Type 1|Revoked|1602 West Colorado Avenue|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+PRISY & ASSOCIATES LLC|WELLSTONE|403-00125|Optional Premises|Revoked|2685 Durango Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+PRISY & ASSOCIATES LLC|WELLSTONE|403-00126|Optional Premises|Revoked|2685 Durango Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+SERENDIPITY ENTERPRISES INCORPORATED|SATICA|403-01006|Optional Premises|Revoked|860 Navajo Street|Denver CO  80223|Denver|Denver|CO|80223|
+SERENDIPITY ENTERPRISES INCORPORATED|SATICA|402-00669|Center - Type 1|Revoked|3480 S Galena Street,  B-4|Denver CO  80231|Denver|Denver|CO|80231|
+SERENDIPITY ENTERPRISES INCORPORATED|SATICA INC|402R-00403|Retail Marijuana Store|Revoked|3480 South Galena Street, Unit B4|Denver CO  80231|Denver|Denver|CO|80231|
+SERENDIPITY ENTERPRISES INCORPORATED|SATICA |403R-00464|Retail Marijuana Cultivation Facility|Revoked|860 Navajo Street|Denver CO  80204|Denver|Denver|CO|80204|
+SLAB LAB LLC|THE SLAB LAB|402-01099|Center - Type 1|Revoked|5385 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+SLAB LAB LLC|THE SLAB LAB|403-01698|Optional Premises|Revoked|5385 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+SOULSHINE MEDICAL CONSULTING LLC||402-00332|Center - Type 1|Revoked|1805 Airport Road, Unit B3|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+SOULSHINE MEDICAL CONSULTING LLC||403-00497|Optional Premises|Revoked|1805 Airport Road, Unit  B3|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+SUNCANNA LLC||403R-00549|Retail Marijuana Cultivation Facility|Revoked|39327 Harbour Road|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+SWEET LEAF LLC|SWEET LEAF|402-00234|Center - Type 1|Revoked|5100 West 38th Avenue|Denver CO  80212|Denver|Denver|CO|80212|
+SWEET LEAF LLC|SWEET LEAF|403-01333|Optional Premises|Revoked|136 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+SWEET LEAF LLC|SWEET LEAF|402R-00158|Retail Marijuana Store|Revoked|5100 West 38th Avenue|Denver CO  80212|Denver|Denver|CO|80212|
+SWEET LEAF LLC|SWEET LEAF|403R-00208|Retail Marijuana Cultivation Facility|Revoked|136 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+SWEET LEAF LLC|SWEET LEAF|404-00457|Infused Product Manufacturer|Revoked|136 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+SWEET LEAF LLC|SWEET LEAF|404R-00269|Retail Marijuana Products Mfg|Revoked|136 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+THE CANNABLISS COMPANY LLC|THE CANNABLISS COMPANY LLC|404-00386|Infused Product Manufacturer|Revoked|1785 North Academy Boulevard, Suite 100|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+THE CANNABLISS COMPANY LLC|THE CANNABLISS COMPANY LLC|403-01475|Optional Premises|Revoked|1785 North Academy Boulevard, Unit 100|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+THE GREENER SIDE CAREGIVING AND WELLNESS LLC||402-00571|Center - Type 1|Revoked|3321 Interstate 25 South|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+THE GREENER SIDE CAREGIVING AND WELLNESS LLC||403-00851|Optional Premises|Revoked|3321 Interstate 25 South|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+THE GREENER SIDE CAREGIVING AND WELLNESS LLC||402R-00110|Retail Marijuana Store|Revoked|3321 S Interstate 25|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+THE GREENER SIDE CAREGIVING AND WELLNESS LLC||403R-00145|Retail Marijuana Cultivation Facility|Revoked|3321 Interstate 25 South|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+THE GREENERSIDE WEST LLC||402-00885|Center - Type 1|Revoked|749 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE GREENERSIDE WEST LLC||403-01403|Optional Premises|Revoked|749 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE GREENERSIDE WEST LLC||404-00363|Infused Product Manufacturer|Revoked|749 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE GREENERSIDE WEST LLC||402R-00162|Retail Marijuana Store|Revoked|749 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE GREENERSIDE WEST LLC||403R-00212|Retail Marijuana Cultivation Facility|Revoked|749 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE GREENERSIDE WEST LLC|THE GREENERSIDE WEST, LLC|404R-00035|Retail Marijuana Products Mfg|Revoked|749 East Enterprise Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE HEALING CENTER OF COLORADO LLC|THE HEALING CENTER OF COLORADO|402-00045|Center - Type 1|Revoked|1452 Poplar Street|Denver CO  80220|Denver|Denver|CO|80220|
+THE HEALING CENTER OF COLORADO LLC||403-00060|Optional Premises|Revoked|1452 Poplar Street|Denver CO  80220|Denver|Denver|CO|80220|
+THE HEALING HOUSE LLC|GREEN CROSS CLINIC|402-00917|Center - Type 1|Revoked|4925 Federal Boulevard|Denver CO  80221|Denver|Denver|CO|80221|
+THE HEALING HOUSE LLC|GREEN CROSS CLINIC|403-01448|Optional Premises|Revoked|205 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+TRI-CANNA LLC||402R-00570|Retail Marijuana Store|Revoked|411 North Commercial Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|

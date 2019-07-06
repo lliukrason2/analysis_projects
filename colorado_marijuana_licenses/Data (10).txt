@@ -1,0 +1,1275 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+12 STEP POOL LLC|12 STEP POOL, LLC|404-00005|Infused Product Manufacturer|Withdrawn|1005 N FEDERAL BLVD|DENVER CO  80503|DENVER||CO|80503|
+1ST CMMD LLC|Alternative Medical Remedies|402-00191|Center - Type 1|Withdrawn|823 GRAND AVE|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+1ST CMMD LLC|Alternative Medical Remedies|403-00282|Optional Premises|Withdrawn|240 ARTHUR AVE|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+1ST CMMD LLC|Alternative Medical Remedies|404-00079|Infused Product Manufacturer|Withdrawn|823 GRAND AVE|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+21000 INC||402R-00272|Retail Marijuana Store|Withdrawn|21000 East 32nd Parkway|Aurora CO  80011|Aurora|Adams|CO|80011|
+2760 HAMPDEN INC|THE FIRE PLACE|402R-00745|Retail Marijuana Store|Withdrawn|2800 West Hampden Avenue|Sheridan CO  80110|Sheridan|Arapahoe|CO|80110|
+2BK LLC|THE GOLDEN GOAT|402-00456|Center - Type 1|Withdrawn|4800 Bighton Blvd.|Denver CO  80216|Denver|Denver|CO|80216|
+2BK LLC|THE GOLDEN GOAT|403-00688|Optional Premises|Withdrawn|4242 Elizabeth Street|Denver CO  80216|Denver|Denver|CO|80216|
+2BK LLC|THE GOLDEN GOAT|403-00689|Optional Premises|Withdrawn|4242 Elizabeth Street, Unit #6|Denver CO  80216|Denver|Denver|CO|80216|
+38TH AVENUE INC|THE RESERVE|402-01009|Center - Type 1|Withdrawn|4837 North Washington Street|Denver CO  80216|Denver|Denver|CO|80216|
+38TH AVENUE INC|THE RESERVE|403-01594|Optional Premises|Withdrawn|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+420 JUST BAKED LLC||404-00248|Infused Product Manufacturer|Withdrawn|9900 W. Stanford Avenue, Suite 109|Littleton CO  80123|Littleton|Jefferson|CO|80123|
+420 WELLNESS DISPENSARY LLC|420 WELLNESS DISPENSARY LLC|402-00327|Center - Type 3|Withdrawn|2748 W. Alameda Avenue|Denver CO  80219|Denver|Denver|CO|80219|
+420 WELLNESS DISPENSARY LLC|420 WELLNESS DISPENSARY LLC|403-00490|Optional Premises|Withdrawn|1156 S Kalamath St|Denver CO  80223|Denver|Denver|CO|80223|
+420 WELLNESS DISPENSARY LLC|420 WELLNESS DISPENSARY LLC|402-00328|Center - Type 1|Withdrawn|2426 S Federal Blvd|Denver CO  80219|Denver|Denver|CO|80219|
+420 WELLNESS DISPENSARY LLC|THE MEDICATION STATION|403-00491|Optional Premises|Withdrawn|2375 South Delaware Street|Denver CO  80223|Denver|Denver|CO|80223|
+420 WELLNESS DISPENSARY LLC|THE MEDICATION STATION|402-00329|Center - Type 1|Withdrawn|4611 Peoria Street|Denver CO  80239|Denver|Denver|CO|80239|
+420 WELLNESS DISPENSARY LLC|THE MEDICATION STATION|403-01011|Optional Premises|Withdrawn|3201 East Brighton Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+4625 EAST COLFAX LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|403-00191|Optional Premises|Withdrawn|1045 Zuni St|Denver CO  80204|Denver|Denver|CO|80204|
+4625 EAST COLFAX LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|403-00195|Optional Premises|Withdrawn|5801 W 6th Ave Units 5A-5B-5C|Lakewood CO  80214|Lakewood|Jefferson|CO|80214|
+4625 EAST COLFAX LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|404-00045|Infused Product Manufacturer|Withdrawn|4625 E COLFAX AVE|Denver CO  80220|Denver|Denver|CO|80220|
+5 EYED JACK LLC ||402R-00819|Retail Marijuana Store|Withdrawn|1411 Hecla Way |Louisville CO  80027|Louisville|Boulder|CO|80027|
+8TH STREET CARE CENTER LIMITED LIABILITY LLC|8TH STREET CARE CENTER LIMITED LIABILITY LLC|402-00252|Center - Type 1|Withdrawn|1990 - 8th St|Boulder CO  80302|Boulder|Boulder|CO|80302|
+8TH STREET CARE CENTER LIMITED LIABILITY LLC|8TH STREET CARE CENTER LIMITED LIABILITY LLC|403-00376|Optional Premises|Withdrawn|2345 S Delaware St|Denver CO  80223|Denver|Denver|CO|80223|
+A MILE HIGH LLC||402-00616|Center - Type 1|Withdrawn|63 W Alameda Ave|Denver CO  80223|Denver|Denver|CO|80223|
+A MILE HIGH LLC||403-00914|Optional Premises|Withdrawn|3860 to 3880 Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+A NEW DAWN WELLNESS CLINIC|A NEW DAWN WELLNESS CLINIC|402-00673|Center - Type 1|Withdrawn|520 1/2 Main Street|Windsor CO  80550|Windsor|Weld|CO|80550|
+A NEW DAWN WELLNESS CLINIC|A NEW DAWN WELLNESS CLINIC|403-01015|Optional Premises|Withdrawn|3801 17th Avenue|Evans CO  80620|Evans|Weld|CO|80620|
+A ROCKY MOUNTAIN MEDICAL MARIJUANA DISPENSARY LLC|A ROCKY MOUNTAIN MEDICAL MARIJUANA DISPENSARY LLC|402-00820|Center - Type 1|Withdrawn|302 CENTRAL AVENUE|Dolores CO  81323|Dolores|Montezuma|CO|81323|
+A ROCKY MOUNTAIN MEDICAL MARIJUANA DISPENSARY LLC|A ROCKY MOUNTAIN MEDICAL MARIJUANA DISPENSARY LLC|403-01246|Optional Premises|Withdrawn|302 CENTAL AVENUE|Dolores CO  81323|Dolores|Montezuma|CO|81323|
+ABERRENT LLC|CHAMELEON CONCOCTIONS|404-00483|Infused Product Manufacturer|Withdrawn|9780 East Girard Avenue|Denver CO  80237|Denver|Denver|CO|80237|
+ABREE LLC|ABREE|402R-00619|Retail Marijuana Store|Withdrawn|130 West 84th Aveune|Thornton CO  80260|Thornton|Adams|CO|80260|
+ABSOLUTE MANITOU WELLNESS CENTER LLC|ABSOLUTE MANITOU WELLNESS CENTER LLC|403-01032|Optional Premises|Withdrawn|3632 W. Colorado Ave.|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+ABSOLUTE MANITOU WELLNESS CENTER LLC|RESERVE 1 GLENDALE|402R-00197|Retail Marijuana Store|Withdrawn|4182 East Virginia Street, Unit C|Glendale CO  80246|Glendale|Denver|CO|80246|
+ABSOLUTE MANITOU WELLNESS CENTER LLC|RESERVE 1 GLENDALE|403R-00255|Retail Marijuana Cultivation Facility|Withdrawn|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+ACADEMY OF THE HEALING ARTS LLC|HIGH VALLEY RETAIL CANNABIS|402R-00206|Retail Marijuana Store|Withdrawn|60250 County Road T|Moffat CO  81143|Moffat|Saguache|CO|81143|
+ACADEMY OF THE HEALING ARTS LLC||403R-00266|Retail Marijuana Cultivation Facility|Withdrawn|17505 County Road 52|Saguache CO  81149|Saguache|Saguache|CO|81149|
+ACC, LLC|Cannabis & Co.|402-00615|Center - Type 1|Withdrawn|4379 Tejon Street|Denver CO  80211|Denver|Denver|CO|80211|
+ACC, LLC|Cannabis & Co.|404-00242|Infused Product Manufacturer|Withdrawn|4379 Tejon Street|Denver CO  80211|Denver|Denver|CO|80211|
+ACC, LLC|Cannabis & Co.|403-00913|Optional Premises|Withdrawn|40-44 South Galapago Street|Denver CO  80223|Denver|Denver|CO|80223|
+ACC, LLC|Cannabis & Co.|403-01250|Optional Premises|Withdrawn|4379 TEJON STREET|Denver CO  80211|Denver|Denver|CO|80211|
+ACME DISPENSARY INC|ACME DISPENSARY INC|403-01244|Optional Premises|Withdrawn|44001 COUNTY RD M|Saguache CO  81149|Saguache|Saguache|CO|81149|
+ADAMS GREEN CROSSING LLC|ADAMS GREEN CROSSING|403-01695|Optional Premises|Withdrawn|400 Quivas|Denver CO  80202|Denver|Denver|CO|80202|
+ADAMS GREEN CROSSING LLC|ADAMS GREEN CROSSING|403-01696|Optional Premises|Withdrawn|400 Quivas|Denver CO  80202|Denver|Denver|CO|80202|
+ADAMS GREEN CROSSING LLC|ADAMS GREEN CROSSING|404-00474|Infused Product Manufacturer|Withdrawn|400 Quivas|Denver CO  80202|Denver|Denver|CO|80202|
+ADG HERBAL MEDICINE INC|ADG HERBAL MEDICINE INC|403-01002|Optional Premises|Withdrawn|11 WEST HAMPDEN AVENUE|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+ADVANCE CURE FOR VERA BESTURA LLC|ADVANCE CURE FOR VERA BESTURA LLC|404-00305|Infused Product Manufacturer|Withdrawn|2755 Ore Miller Road Unit #13 & 14|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+AJS FEDERAL LLC||402R-00649|Retail Marijuana Store|Withdrawn|468 South Federal Boulevard|Denver CO  80223|Denver|Denver|CO|80223|
+AJS THORNTON LLC|SWEET LEAF|402R-00627|Retail Marijuana Store|Withdrawn|9191 Huron Street|Thornton CO  80260|Thornton|Adams|CO|80260|
+ALL GOOD CARE CENTER INC|ALL GOOD CARE CENTER INC|402-00391|Center - Type 1|Withdrawn|329 E Pikes Peak Ave|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+ALL GOOD CARE CENTER INC|ALL GOOD CARE CENTER INC|403-00586|Optional Premises|Withdrawn|329 E Pikes Peak Ave|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+ALL GOOD CARE CENTER INC|ALL GOOD CARE CENTER INC|403-00587|Optional Premises|Withdrawn|2803 N Prospect St|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+ALL GOOD CARE CENTER INC|ALL GOOD CARE CENTER INC|403-00588|Optional Premises|Withdrawn|2511 Durango Dr|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+ALL GOOD CARE CENTER INC|ALL GOOD CARE CENTER INC|403-00589|Optional Premises|Withdrawn|47835 Hwy 96 E|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+ALL GOOD CARE CENTER INC|ALL GOOD CARE CENTER INC|404-00160|Infused Product Manufacturer|Withdrawn|3536 N Acadmey Blvd.|Colorado Springs CO  80917|Colorado Springs|El Paso|CO|80917|
+ALL SAINTS MEDICAL LLC|ALL SAINTS MEDICAL LLC|402-00795|Center - Type 1|Withdrawn|2101 E. Platte|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ALL SAINTS MEDICAL LLC|ALL SAINTS MEDICAL LLC|403-01203|Optional Premises|Withdrawn|309 Mount View Lane Unit B|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ALLGREENS LLC||402R-00575|Retail Marijuana Store|Withdrawn|762 Kalamath Street|Denver CO  80204|Denver|Denver|CO|80204|
+ALOHA'S LLC|ALOHA?S LLC|402-00722|Center - Type 1|Withdrawn|21600 US Hwy 40|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+ALOHA'S LLC|ALOHA?S LLC|403-01092|Optional Premises|Withdrawn|21600 US Hwy 40|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+ALTERNATIVE HOLISTIC HEALING LLC|ABUNDANT HEALING|403-00083|Optional Premises|Withdrawn|5412 Hwy 119|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE HOLISTIC HEALING LLC|ABUNDANT HEALING|403-00084|Optional Premises|Withdrawn|5412 Hwy 119|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+Alternative Medical Foods, LLC|Alternative Medical Foods, LLC|404-00150|Infused Product Manufacturer|Withdrawn|2752 Welton St|Denver CO  80205|Denver|Denver|CO|80205|
+ALTERNATIVE MEDICAL SOLUTIONS LLC||403-01042|Optional Premises|Withdrawn|213 WOODY CREEK PLAZA|Woody Creek CO  81656|Woody Creek|Pitkin|CO|81656|
+ALTERNATIVE MEDICAL SOLUTIONS LLC||403-01043|Optional Premises|Withdrawn|444 CONESTOGA WAY|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+ALTERNATIVE MEDICAL SOLUTIONS LLC||403-01045|Optional Premises|Withdrawn|7800 Hwy 82 #105-106|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+ALTERNATIVE MEDICAL SOLUTIONS LTD||402-00694|Center - Type 1|Withdrawn|106 S MILL ST STE 203|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+ALTERNATIVE MEDICAL SOLUTIONS LTD||403-01044|Optional Premises|Withdrawn|24505 Highway 82, Unit 5A|Basalt CO  81621|Basalt|Eagle|CO|81621|
+ALTERNATIVE MEDICINE OF COLORADO SPRINGS LLC|ALTERNATIVE MEDICINE OF COLORADO SPRINGS LLC|402-00437|Center - Type 1|Withdrawn|4645 Spring Canyon Heights|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+ALTERNATIVE MEDICINE OF COLORADO SPRINGS LLC|ALTERNATIVE MEDICINE OF COLORADO SPRINGS LLC|403-00657|Optional Premises|Withdrawn|231 Wyandot St|Denver CO  80223|Denver|Denver|CO|80223|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS|402-01227|Center - Type 1|Withdrawn|10374 Colorado Boulevard|Thornton CO  80229|Thornton|Adams|CO|80229|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS|402-01229|Center - Type 1|Withdrawn|690 East 104th Avenue|Denver CO  80229|Denver|Adams|CO|80229|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS|402R-00624|Retail Marijuana Store|Withdrawn|10374 Colorado Boulevard|Thornton CO  80229|Thornton|Adams|CO|80229|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS|402R-00626|Retail Marijuana Store|Withdrawn|690 East 104th Avenue|Thornton CO  80229|Thornton|Adams|CO|80229|
+ALTITUDE WELLNESS CENTER LLC|ALTITUDE WELLNESS CENTER LLC|404-00077|Infused Product Manufacturer|Withdrawn|3435 S YOSEMITE|Denver CO  80231|Denver|Denver|CO|80231|
+AM81611 LLC|UTE CITY MEDICINALS|402-00595|Center - Type 1|Withdrawn|118 WEST MAIN ST|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+AM81611 LLC|AM81611 LLC|403-00890|Optional Premises|Withdrawn|2200 CENTRAL AVE UNIT H|Denver CO  80203|Denver|Denver|CO|80203|
+AMERICAN MEDICAL PAIN MANAGEMENT|AMERICAN MEDICAL PAIN MANAGEMENT|402-00196|Center - Type 1|Withdrawn|1401 SOUTH LINCOLN AVE|Loveland CO  80537|Loveland|Larimer|CO|80537|
+AMERICAN MEDICAL PAIN MANAGEMENT|AMERICAN MEDICAL PAIN MANAGEMENT|403-00287|Optional Premises|Withdrawn|2232 BRECKENRIDGE DRIVE|Berthoud CO  80513|Berthoud|Larimer|CO|80513|
+AMERICAN WELLNESS CENTER LLC|RESERVE1|404-00367|Infused Product Manufacturer|Withdrawn|3106 North Stone Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+ANCIENT ALTERNATIVES LLC|GREEN TREE MEDICINALS|403R-00857|Retail Marijuana Cultivation Facility|Withdrawn|4725 Oakland Street|Denver CO  80239|Denver|Denver|CO|80239|
+ANNIES TOBACCO EMPORIUM LLC|ANNIE?S DISPENSARY|403-00601|Optional Premises|Withdrawn|2994 Bald Mtn Rd|Golden CO  80401|Golden|Jefferson|CO|80401|
+APANI SECRETS|APANI SECRETS|404-00235|Infused Product Manufacturer|Withdrawn|4252 Milwaukee Street|Denver CO  80216|Denver|Denver|CO|80216|
+AREN & DAVES DREAM LLC|GOOD MEDS|403-01121|Optional Premises|Withdrawn|1402 Argentine Street|Georgetown CO  80444|Georgetown|Clear Creek|CO|80444|
+AULTERNATIVE MEDICINE LLC|AULTERNATIVE MEDICINE LLC|404-00297|Infused Product Manufacturer|Withdrawn|1st Street|Pierce CO  80650|Pierce|Weld|CO|80650|
+AURA MANAGEMENT INC|HEALTH ALTERNATIVE CHOICES|403-00793|Optional Premises|Withdrawn|3125 Sterling Circle 101|Boulder CO  80301|Boulder|Boulder|CO|80301|
+AURA MANAGEMENT INC|HEALTH ALTERNATIVE CHOICE|404-00212|Infused Product Manufacturer|Withdrawn|3125 Sterling Circle 101|BOULDER CO  80301|BOULDER||CO|80301|
+AURORA ALLIANCE LLC|METRO CANNABIS|402R-00295|Retail Marijuana Store|Withdrawn|1000 South Peoria Street|Aurora CO  80012|Aurora|Arapahoe|CO|80012|
+AURORA ROCKY MOUNTAIN HIGH LLC|ROCKY MOUNTAIN HIGH|402R-00313|Retail Marijuana Store|Withdrawn|1452 Kenton Street|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+AURORA ROCKY MOUNTAIN HIGH LLC|ROCKY MOUNTAIN HIGH|402R-00315|Retail Marijuana Store|Withdrawn|5350 South Parker Road|Aurora CO  80015|Aurora|Arapahoe|CO|80015|
+AWE AT THE MOTHERLODE LLC|PHANTOM CANYON APOTHECARY|402-00552|Center - Type 1|Withdrawn|415 Victor Avenue|Victor CO  80860|Victor|Teller|CO|80860|
+AWE AT THE MOTHERLODE LLC|PHANTOM CANYON APOTHECARY|403-00821|Optional Premises|Withdrawn|415 Victor Avenue|Victor CO  80860|Victor|Teller|CO|80860|
+AWE MEDICINALS|ARLIN WAYGOOD ENTERPRISES LLC|402-00492|Center - Type 1|Withdrawn|8250 LOUISE DR|Denver CO  80221|Denver|Adams|CO|80221|
+AWE MEDICINALS|ARLIN WAYGOOD ENTERPRISES LLC|403-00729|Optional Premises|Withdrawn|5820 LOWELL BLVD|Denver CO  80221|Denver|Adams|CO|80221|
+BAD EAR LLC|BAD EAR LLC|404-00145|Infused Product Manufacturer|Withdrawn|9900 W Stanford Ave, Ste #105|Littleton CO  80123|Littleton|Jefferson|CO|80123|
+BAKED AT A MILE HIGH|BAKED AT A MILE HIGH|404-00308|Infused Product Manufacturer|Withdrawn|3989 N. Ulster St.|Denver CO  80207|Denver|Denver|CO|80207|
+BALLPARK HOLISTIC DISPENSARY LLC|BALLPARK HOLISTIC DISPENSARY LLC|402R-00023|Retail Marijuana Store|Withdrawn|2119 Larimer Street|Denver CO  80205|Denver|Denver|CO|80205|
+BALLPARK HOLISTIC DISPENSARY LLC|BALLPARK HOLISTIC DISPENSARY LLC|403R-00028|Retail Marijuana Cultivation Facility|Withdrawn|4238 York Street, #102|Denver CO  80205|Denver|Denver|CO|80205|
+BASALT ALTERNATIVE MEDICINE|AJAX Wellness|402-00470|Center - Type 1|Withdrawn|300A Airport Business Center|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+BASALT ALTERNATIVE MEDICINE|BASALT ALTERNATIVE MEDICINE|403-00704|Optional Premises|Withdrawn|24505 Highway 82|Basalt CO  81621|Basalt|Eagle|CO|81621|
+BASKING RIDGE COMFORT CLINIC LLC|BASKING RIDGE COMFORT CLINIC|403-01003|Optional Premises|Withdrawn|22 SOUTH GALAPAGO ST UNIT B|Denver CO  80223|Denver|Denver|CO|80223|
+BEACON WELLNESS GROUP|BEACON WELLNESS GROUP|404-00230|Infused Product Manufacturer|Withdrawn|1740 E MAIN STREET|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+BEST BUDS CARE LLC|ELITE CARE|402-00388|Center - Type 1|Withdrawn|1001 S Royer St, Ste 200|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+BEST BUDS CARE LLC|ELITE CARE |403-00583|Optional Premises|Withdrawn|1001 S Royer St, Ste 200|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+BEST BUDS CARE LLC|ELITE CARE (REINVEST IN COLORADO, PARTNER CO)|404-00159|Infused Product Manufacturer|Withdrawn|1001 S Royer St, Ste 200|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+BGOOD VENTURES LLC|BGOOD APOTHECARY|403-01008|Optional Premises|Withdrawn|80 South Pennsylvania Street|Denver CO  80209|Denver|Denver|CO|80209|
+BGOOD VENTURES LLC|BGOOD APOTHECARY|403-01010|Optional Premises|Withdrawn|3060 Larimer Street|Denver CO  80202|Denver|Denver|CO|80202|
+BGOOD VENTURES LLC||402R-00057|Retail Marijuana Store|Withdrawn|80 South Pennsylvania Street|Denver CO  80209|Denver|Denver|CO|80209|
+BGOOD VENTURES LLC||403R-00071|Retail Marijuana Cultivation Facility|Withdrawn|1031 West Center Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+BIKER TOWN LLC|BIKER TOWN LLC|402-00765|Center - Type 1|Withdrawn|685 State Highway 115|Penrose CO  81240|Penrose|Fremont|CO|81240|
+BIOCARE INC||403-00366|Optional Premises|Withdrawn|2825 WILDERNESS  PL. #1000|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BIOCARE INC|NUGGS|403R-00827|Retail Marijuana Cultivation Facility|Withdrawn|3899 Quentin Street|Denver CO  80239|Denver|Denver|CO|80239|
+BIOCARE INC|NUGGS|402R-00607|Retail Marijuana Store|Withdrawn|3899 Quentin Street|Denver CO  80239|Denver|Denver|CO|80239|
+BLACK FOREST LLC|GATEWAY ALTERNATIVE WELLNESS|402-00128|Center - Type 1|Withdrawn|7210 VALTEC CT|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BLACK FOREST LLC|GATEWAY ALTERNATIVE WELLNESS|403-00180|Optional Premises|Withdrawn|7210 VALTEC CT|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BLUE DOT BOTANICALS LLC|BLUE DOT BOTANICALS LLC|402R-00309|Retail Marijuana Store|Withdrawn|2041 Dayton Street|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+BLUE SKY BAKERY INC||404-00010|Infused Product Manufacturer|Withdrawn|1005 N FEDERAL BLVD|Denver CO  80204|Denver|Denver|CO|80204|
+BLUE SKY CARE CONNECTION LLC|BLUE SKY CARE CONNECTION LLC|402-00415|Center - Type 1|Withdrawn|1449 W Littleton Blvd, #106 + #107|Littleton CO  80120|Littleton|Adams|CO|80120|
+BLUE SKY CARE CONNECTION LLC|BLUE SKY CARE CONNECTION LLC|403-00629|Optional Premises|Withdrawn|4242 Elizabeth St, #2|Denver CO  80216|Denver|Denver|CO|80216|
+BLUEBERRY LLC|BLUEBERRY LLC|403-01235|Optional Premises|Withdrawn|3983 COUNTY ROAD 122|Durango CO  81301|Durango|La Plata|CO|81301|
+BND LLC|A CUT ABOVE (PND LLC  HOBBY FARMS LLC  MYLAR GROUP LLC - PARTNER COMPANIES)|403-00526|Optional Premises|Withdrawn|3750 Astrozon Blvd #140|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+BOLDER VENTURES LTD|PEOPLES CHOICE WELLNESS CENTER|402-00220|Center - Type 1|Withdrawn|8401 West Baseline Road, Unit E|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOLDER VENTURES LTD|PEOPLES CHOICE|403-00321|Optional Premises|Withdrawn|6859 North Foothills Hwy,  Bldg. D|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOTANACARE LLC|BOTANACARE LLC|402-00787|Center - Type 1|Withdrawn|11450 Cherokee Street, Unit A7|Northglenn CO  80234|Northglenn|Adams|CO|80234|
+BOTANACARE LLC|BOTANACARE LLC|403-01193|Optional Premises|Withdrawn|11450 Cherokee Street, Units A4, A5, A6, A7|Northglenn CO  80234|Northglenn|Adams|CO|80234|
+BOTANICO INC|BOTANICO INC|403-00223|Optional Premises|Withdrawn|3122 LARIMER ST|Denver CO  80205|Denver|Denver|CO|80205|
+BOTICA DEL SOL LLC|BOTICA DEL SOL|403-01095|Optional Premises|Withdrawn|754 S BROADWAY|Denver CO  80209|Denver|Denver|CO|80209|
+BOULDER COUNTY CAREGIVERS LLC|BOULDER COUNTY CAREGIVERS LLC|402-00341|Center - Type 1|Withdrawn|2995 Baseline Rd, #110|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOULDER COUNTY CAREGIVERS LLC|BOULDER COUNTY CAREGIVERS LLC|403-00510|Optional Premises|Withdrawn|1224 Commerce Court, #1, 2, 3|Lafayette CO  80026|Lafayette|Adams|CO|80026|
+BOULDER COUNTY CAREGIVERS LLC|BOULDER COUNTY CAREGIVERS LLC|402-00342|Center - Type 1|Withdrawn|8830 W Colfax Ave|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER COUNTY CAREGIVERS LLC|BOULDER COUNTY CAREGIVERS LLC|403-00511|Optional Premises|Withdrawn|658 Kalamath Ave|Denver CO  80205|Denver|Denver|CO|80205|
+BOULDER COUNTY CAREGIVERS LLC|BOULDER COUNTY CAREGIVERS LLC|403-00512|Optional Premises|Withdrawn|658  Kalamath Avenue|Denver CO  80205|Denver|Denver|CO|80205|
+BOULDER COUNTY CAREGIVERS LLC|BOULDER COUNTY CAREGIVERS LLC|403-00513|Optional Premises|Withdrawn|5454 Conestoga Ct|Boulder CO  80305|Boulder|Boulder|CO|80305|
+BOULDER KIND CARE LLC|BOULDER KIND CARE LLC|402-00092|Center - Type 1|Withdrawn|2031 16th Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOULDER KIND CARE LLC|BOULDER KIND CARE LLC|404-00028|Infused Product Manufacturer|Withdrawn|2031 16th Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOULDER KUSH, LLC|BOULDER KUSH, LLC|402-00609|Center - Type 1|Withdrawn|1750 30th Street Unit 12|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER KUSH, LLC|BOULDER KUSH, LLC|404-00237|Infused Product Manufacturer|Withdrawn|1750 30th Street Unit 12|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER KUSH, LLC|BOULDER KUSH, LLC|403-00906|Optional Premises|Withdrawn|3893 Steele Street Unit B|Denver CO  80205|Denver|Denver|CO|80205|
+BOULDER MEDICAL MARIJUANA COOPERATIVE LLC|BMMC SERVICES|402-00052|Center - Type 1|Withdrawn|2206 PEARL ST|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOULDER MEDICAL MARIJUANA COOPERATIVE LLC|BOULDER MMC |403-00068|Optional Premises|Withdrawn|1150 W 5TH AVE|Denver CO  80204|Denver|Denver|CO|80204|
+BOULDER MEDS LLC|BOULDER MEDS LLC|403-00385|Optional Premises|Withdrawn|1845 Range St #G|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER PHARMA LLC|MOUNTAINSIDE WELLNESS CENTER|402-00754|Center - Type 1|Withdrawn|695 S BROADWAY|Boulder CO  80305|Boulder|Boulder|CO|80305|
+BOULDER PHARMA LLC|MOUNTAINSIDE WELLNESS CENTER|403-01152|Optional Premises|Withdrawn|8 CHESEVRO WAY|Eldorado Springs CO  80025|Eldorado Springs|Boulder|CO|80025|
+BOULDER RX LLC|NATIVE ROOTS BOULDER|403R-00671|Retail Marijuana Cultivation Facility|Withdrawn|2100 53rd Lane|Boone CO  81025|Boone|Pueblo|CO|81025|
+BOULDER VITAL HERBS LLC|BOULDER VITAL HERBS LLC|403-00214|Optional Premises|Withdrawn|8401 BASELINE RD|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOULDER VITAL HERBS LLC|BOULDER VITAL HERBS LLC|403-00215|Optional Premises|Withdrawn|5735 ARAPAHOE AVENUE|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOULDER WELLNESS CENTER LLC|BOULDER WELLNESS CENTER LLC|404-00253|Infused Product Manufacturer|Withdrawn|5420 ARAPAHOE AVE UNIT F|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOULDER WELLNESS CENTER LLC|BOULDER WELLNESS CENTER LLC|402R-00204|Retail Marijuana Store|Withdrawn|5420 Arapahoe Avenue, Units E&F|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BOULDER WELLNESS CENTER LLC|BOULDER WELLNESS CENTER LLC|403R-00264|Retail Marijuana Cultivation Facility|Withdrawn|2200 Central Avenue, Suite A-1|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BROWN BOX EDIBLES LLC||404-00132|Infused Product Manufacturer|Withdrawn|16632 CR 18|Lindon CO  80740|Lindon|Washington|CO|80740|
+BRYANT STREET WELLNESS CENTER LLC|ROCKY MOUNTAIN STAR|403-00989|Optional Premises|Withdrawn|543 BRYANT STREET|Denver CO  80204|Denver|Denver|CO|80204|
+BUCKETHEAD HERBAL HEALING CENTER|BUCKETHEAD HERBAL HEALING CENTER|402-00483|Center - Type 1|Withdrawn|313 Railroad|Dolores CO  81323|Dolores|Montezuma|CO|81323|
+BUCKETHEAD HERBAL HEALING CENTER|BUCKETHEAD HERBAL HEALING CENTER|403-00718|Optional Premises|Withdrawn|18390 HWY 145|Dolores CO  81323|Dolores|Montezuma|CO|81323|
+BUD MED HEALTH CENTERS LLC|BUD MED HEALTH CENTERS LLC|403-00864|Optional Premises|Withdrawn|2519 SHERIDAN BLVD|Denver CO  80214|Denver|Jefferson|CO|80214|
+BUKU LOUD LLC|BUKU LOUD|402-01113|Center - Type 1|Withdrawn|3079 South Academy Boulevard|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+BUKU LOUD LLC|BUKU LOUD|403-01713|Optional Premises|Withdrawn|3079 South Academy Boulevard|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+BUKU LOUD LLC|BUKU LOUD|404-00491|Infused Product Manufacturer|Withdrawn|3079 South Academy Boulevard|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+BUKU LOUD LLC|BUKU LOUD|403-01714|Optional Premises|Withdrawn|3079 South Academy Boulevard|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+BURNZWELL LLC|BURNZWELL LLC|403-01063|Optional Premises|Withdrawn|14624 WCR  12|Fort Lupton CO  80621|Fort Lupton|Weld|CO|80621|
+BUSHES LLC||403-00206|Optional Premises|Withdrawn|5735A ARAPAHOE AVE|Boulder CO  80302|Boulder|Boulder|CO|80302|
+C&V LLC|Medicine On The Hill|402-00339|Center - Type 1|Withdrawn|1089 - 13th St|BOULDER CO  80301|BOULDER||CO|80301|
+C&V LLC|Medicine On The Hill|403-00507|Optional Premises|Withdrawn|4919 N Broadway, Unit #22|Boulder CO  80304|Boulder|Boulder|CO|80304|
+C&V LLC|The Last Dime|402-00340|Center - Type 1|Withdrawn|1700 - 55th St, Unit A2|Boulder CO  80301|Boulder|Boulder|CO|80301|
+C&V LLC|C&V LLC|403-00508|Optional Premises|Withdrawn|1700 - 55th St, Unit GMSE|BOULDER CO  80301|BOULDER||CO|80301|
+C1B TRUE ORGANICS LLC||402R-00802|Retail Marijuana Store|Withdrawn|601 US HIGHWAY 85-87|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+CAB LLC|MOUNTAIN VIEW CANNIBUS LLC|404-00169|Infused Product Manufacturer|Withdrawn|21 N Circle Dr|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+CANASOL LLC||402R-00741|Retail Marijuana Store|Withdrawn|614 Arizona Avenue|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+CANDY GIRLS LLC|CANDY GIRLS LLC|404-00086|Infused Product Manufacturer|Withdrawn|No Current Address|Denver CO  80219|Denver|Denver|CO|80219|
+CANNA CENTER LLC|CANNA CENTER LLC|403-00077|Optional Premises|Withdrawn|3236 N NEVADA AVE|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+CANNABINOIDS LLC|CANNABINOIDS LLC|404-00250|Infused Product Manufacturer|Withdrawn|516 Arrawanna St.|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+CANNABINOIDS LLC|CANNABINOIDS LLC|403-00946|Optional Premises|Withdrawn|516 Arrawanna St.|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+CANNABINOIDS LLC|CANNABINOIDS LLC|402-00630|Center - Type 1|Withdrawn|516 Arrawanna St.|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+CANNABINOIDS LLC|CANNABINOIDS LLC|403-00948|Optional Premises|Withdrawn|516 Arrawanna St.|COLORADO SPRINGS CO  80909|COLORADO SPRINGS||CO|80909|
+CANNABIS CARE WELLNESS CENTERS LLC|CANNABIS CARE WELLNESS CENTER LLC|402-00420|Center - Type 1|Withdrawn|227 Jefferson St|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+CANNABIS CARE WELLNESS CENTERS LLC|CANNABIS CARE WELLNESS CENTER LLC|403-00639|Optional Premises|Withdrawn|2515 7th Ave|Garden City CO  80631|Garden City|Weld|CO|80631|
+CANNABIS CARE WELLNESS CENTERS LLC|CANNABIS CARE WELLNESS CENTER LLC|404-00174|Infused Product Manufacturer|Withdrawn|2515 - 7th Ave|Garden City CO  80631|Garden City|Adams|CO|80631|
+CANNABIS CORP|THE JOINT BY CANNABIS|402R-00639|Retail Marijuana Store|Withdrawn|8551 Washington Street|Denver CO  80229|Denver|Adams|CO|80229|
+CANNABIS CORP|THE JOINT BY CANNABIS|402R-00641|Retail Marijuana Store|Withdrawn|10376 North Colorado Boulevard|Thornton CO  80241|Thornton|Adams|CO|80241|
+CANNABIS FOR HEALTH LLC|CANNABIS FOR HEALTH|402R-00093|Retail Marijuana Store|Withdrawn|285 South Pearl Street|Denver CO  80209|Denver|Denver|CO|80209|
+CANNABIS FOR HEALTH LLC|CANNABIS FOR HEALTH|403R-00118|Retail Marijuana Cultivation Facility|Withdrawn|50 South Santa Fe Drive|Denver CO  80223|Denver|Denver|CO|80223|
+CANNABIS FOR HEALTH LLC|CANNABIS FOR HEALTH|403R-00119|Retail Marijuana Cultivation Facility|Withdrawn|155 South Pecos Street|Denver CO  80223|Denver|Denver|CO|80223|
+CANNABIS FOR HEALTH LLC|PIG N' WHISTLE|403R-00439|Retail Marijuana Cultivation Facility|Withdrawn|50 South Santa Fe Drive, Unit 80|Denver CO  80223|Denver|Denver|CO|80223|
+CANNABIS KING LLC|CANNABIS KING LLC|403-00225|Optional Premises|Withdrawn|38150 River Frontage Road|New Castle CO  81647|New Castle|Garfield|CO|81647|
+CANNABIS THERAPY CENTER INC|CANNABIS THERAPY CENTER|402-00824|Center - Type 1|Withdrawn|5947 OMAHA BLVD|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+CANNABIS THERAPY CENTER INC|CANNABIS THERAPY CENTER INC|403-01257|Optional Premises|Withdrawn|5947 OMAHA BLVD|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+CANNABIS THERAPY CENTER INC|CANNABIS THERAPY CENTER|403-01258|Optional Premises|Withdrawn|5947 OMAHA BLVD|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+CANNACOPIA LLC|CANNACOPIA LLC|402-00774|Center - Type 1|Withdrawn|3857 Elm Street|Denver CO  80207|Denver|Denver|CO|80207|
+CANNACOPIA LLC|CANNACOPIA LLC|403-01179|Optional Premises|Withdrawn|3857 Elm Street|Denver CO  80207|Denver|Denver|CO|80207|
+CANNA-POTHECARY LLC|CANNA-POTHECARY LLC|402-00516|Center - Type 1|Withdrawn|1730 W COLORADO AVE|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+CANNA-POTHECARY LLC|CANNA-POTHECARY LLC|403-00759|Optional Premises|Withdrawn|2809 N PROSPECT ST|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+CANNA-POTHECARY LLC|CANNA-POTHECARY LLC|402-00517|Center - Type 1|Withdrawn|2809 N PROSPECT ST|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+CANNA-POTHECARY LLC|CANNA-POTHECARY LLC|403-00760|Optional Premises|Withdrawn|2809 N. PROSPECT|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+CANNASTAR LLC|CANNASTAR LLC|404-00320|Infused Product Manufacturer|Withdrawn|23041 HWY 140|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+CANNIFARMS LLC|CANNIFARMS LLC|402-00356|Center - Type 1|Withdrawn|5454D CR 346|Silt CO  81652|Silt|Garfield|CO|81652|
+CANNIFARMS LLC|CANNIFARMS LLC|403-00534|Optional Premises|Withdrawn|5454D County Road 346|Silt CO  81652|Silt|Garfield|CO|81652|
+CANNIFARMS LLC|CANNIFARMS LLC|404-00142|Infused Product Manufacturer|Withdrawn|5454D CR 346|SILT CO  81652|SILT|Garfield|CO|81652|
+CAPITAL CAREGIVERS LLC|CAPITAL CAREGIVERS LLC|402-00818|Center - Type 1|Withdrawn|2008 SHELDON AVE|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+CAPITAL CAREGIVERS LLC|CAPITAL CAREGIVERS LLC|403-01239|Optional Premises|Withdrawn|2008 SHELDON AVE|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+CAPITAL CAREGIVERS LLC|CAPITAL CAREGIVERS LLC|404-00314|Infused Product Manufacturer|Withdrawn|2008 SHELDON AVE|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+CAREGIVERS FOR LIFE LLC||403R-00108|Retail Marijuana Cultivation Facility|Withdrawn|2744 West 4th Avenue, Unit 100|Denver CO  80219|Denver|Denver|CO|80219|
+CASSE'S CANDIES LLC||404-00128|Infused Product Manufacturer|Withdrawn|38150 River Frontage Rd|New Castle CO  81647|New Castle|Garfield|CO|81647|
+CASSE'S CANDIES LLC||403-00468|Optional Premises|Withdrawn|38150 River Frontage Rd|New Castle CO  81647|New Castle|Garfield|CO|81647|
+CASTLEGATE RETAIL LLC|TRU CANNABIS I-70|402-01136|Center - Type 1|Withdrawn|4611 E. 46th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+CASTLEGATE RETAIL LLC|TRU CANNABIS I-70|403-01744|Optional Premises|Withdrawn|4611 E. 46th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+CAVIAR CONCENTRATES, INC.|CAVIAR CONCENTRATES, INC.|404-00368|Infused Product Manufacturer|Withdrawn|4895 Washington Street, Unit A|Denver CO  80216|Denver|Denver|CO|80216|
+CB1 CANNABIS BOTANIX CB LLC|CANNABIS BOTONIX CB LLC|404-00130|Infused Product Manufacturer|Withdrawn|28951 Rd 58 EE|Moffat CO  81143|Moffat|Saguache|CO|81143|
+CC FOODS LLC||403-00401|Optional Premises|Withdrawn|240 Arthur Ave, Ste D|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+CG NETWORK LLC|CG NETWORK LLC|403-01224|Optional Premises|Withdrawn|1145 WEST CUSTER PLACE|Denver CO  80223|Denver|Denver|CO|80223|
+CG, LLC|CG, LLC|402-00712|Center - Type 1|Withdrawn|4501 Wynkoop #101|Denver CO  80216|Denver|Denver|CO|80216|
+CG, LLC|CG, LLC|403-01075|Optional Premises|Withdrawn|4501 Wynkoop #101|Denver CO  80216|Denver|Denver|CO|80216|
+CGFR GROUP INC||403R-00864|Retail Marijuana Cultivation Facility|Withdrawn|5301 Vasquez Boulevard, Suite 102|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+CGFR GROUP INC||404R-00308|Retail Marijuana Products Mfg|Withdrawn|5301 Vasquez Boulevard, Suite 102|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+CHERRY TOP FARMS LLC|CHERRY TOP FARMS LLC|402-00055|Center - Type 1|Withdrawn|4800 BRIGHTON BLVD|Denver CO  80216|Denver|Denver|CO|80216|
+CHERRY TOP FARMS LLC|CHERRY TOP FARMS LLC|403-00074|Optional Premises|Withdrawn|4800 BRIGHTON BLVD|Denver CO  80216|Denver|Denver|CO|80216|
+CHERRY TOP FARMS LLC|CHERRY TOP FARMS LLC|403-00075|Optional Premises|Withdrawn|4802 BRIGHTON BLVD|Denver CO  80216|Denver|Denver|CO|80216|
+CHERRY TOP FARMS LLC|CHERRY TOP FARMS LLC|404-00020|Infused Product Manufacturer|Withdrawn|4800 BRIGHTON BLVD|Denver CO  80216|Denver|Denver|CO|80216|
+CHRONIC WELLNESS LLC||402-00025|Center - Type 2|Withdrawn|3928 FEDERAL BLVD|Denver CO  80211|Denver|Denver|CO|80211|
+CHRONIC WELLNESS LLC|CHRONIC WELLNESS LLC|404-00008|Infused Product Manufacturer|Withdrawn|3928 FEDERAL BLVD|Denver CO  80211|Denver|Denver|CO|80211|
+CHRONIC WELLNESS LLC||403-00030|Optional Premises|Withdrawn|36679 Weld County Road 53|Eaton CO  80615|Eaton|Weld|CO|80615|
+CHRONIC WELLNESS LLC|CHRONIC WELLNESS LLC|403-00031|Optional Premises|Withdrawn|4300 YORK ST|Denver CO  80216|Denver|Denver|CO|80216|
+CJR DBA THE DOCTORS LLC||402-00269|Center - Type 1|Withdrawn|501 S Lipan St|Denver CO  80223|Denver|Denver|CO|80223|
+CJR DBA THE DOCTORS LLC|CJR DBA THE DOCTORS LLC|403-00403|Optional Premises|Withdrawn|501 S Lipan St|DENVER CO  80223|DENVER||CO|80223|
+CKSH LLC|SOPRIS MEDICINALS FOR YOUR WELL BEING|402-00099|Center - Type 1|Withdrawn|345 Colorado Ave #107|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+CKSH LLC|SOPRIS MEDICINALS FOR YOUR WELL BEING|403-00144|Optional Premises|Withdrawn|415 Widget St|Basalt CO  81621|Basalt|Eagle|CO|81621|
+CLOUD 9 CAREGIVERS LLC|CLOUD 9 CAREGIVERS LLC|404-00222|Infused Product Manufacturer|Withdrawn|2506 6th Avenue|Greeley CO  80631|Greeley|Weld|CO|80631|
+CO-AGRONOMICS LLC|DR. REEFER.COM|403-01088|Optional Premises|Withdrawn|2020 S. Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+COLORADO AGRICULTURAL CO-OP|COLORADO AGRICULTURAL CO-OP|404-00117|Infused Product Manufacturer|Withdrawn|150 Bullwinkle Cir|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLORADO AGRICULTURAL CO-OP|COLORADO AGRICULTURAL CO-OP|403-00428|Optional Premises|Withdrawn|150 Bullwinkle Cir|ASPEN CO  81611|ASPEN||CO|81611|
+COLORADO ALTERNATIVE CARE SERVICES, LLC|COLORADO ALTERNATIVE CARE SERVICES, LLC|402-00717|Center - Type 1|Withdrawn|1402 West Colorado Ave|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+COLORADO ALTERNATIVE CARE SERVICES, LLC|COLORADO ALTERNATIVE CARE SERVICES, LLC|403-01085|Optional Premises|Withdrawn|1402 West Colorado Ave|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+COLORADO ALTERNATIVE CARE SERVICES, LLC|COLORADO ALTERNATIVE CARE, LLC|403-01086|Optional Premises|Withdrawn|5725 Observation Street|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+COLORADO ALTERNATIVE HEALTH CARE LTD|PALISADES HEALTH CARE|404-00031|Infused Product Manufacturer|Withdrawn|125 Peach Ave Unit B|Palisade CO  81526|Palisade|Mesa|CO|81526|
+COLORADO APOTHECARY & WELLNESS CENTER INC||403R-00505|Retail Marijuana Cultivation Facility|Withdrawn|2160 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO APOTHECARY & WELLNESS CENTER INC||404R-00131|Retail Marijuana Products Mfg|Withdrawn|2160 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO APOTHECARY & WELLNESS CENTER INC||403R-00506|Retail Marijuana Cultivation Facility|Withdrawn|2160 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO APOTHECARY & WELLNESS CENTER INC||402R-00437|Retail Marijuana Store|Withdrawn|2160 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+Colorado Bottling Company, LLC|Colorado Bottling Company, LLC|403-00543|Optional Premises|Withdrawn|4635 Nautilus Ct South|Boulder CO  80301|Boulder|Boulder|CO|80301|
+Colorado Bottling Company, LLC|Colorado Bottling Company, LLC|404-00148|Infused Product Manufacturer|Withdrawn|4635 Nautilus Ct South|Boulder CO  80301|Boulder|Boulder|CO|80301|
+Colorado Bottling Company, LLC|Colorado Bottling Company, LLC|403-00544|Optional Premises|Withdrawn|4635 Nautilus Ct South|Boulder CO  80301|Boulder|Boulder|CO|80301|
+Colorado Bottling Company, LLC|Colorado Bottling Company, LLC|404-00149|Infused Product Manufacturer|Withdrawn|778 Mariposa St|Denver CO  80204|Denver|Denver|CO|80204|
+COLORADO CANNA CARE LLC|COLORADO CANNA CARE LLC|402-00720|Center - Type 1|Withdrawn|129 South Cleveland Ave|Loveland CO  80537|Loveland|Larimer|CO|80537|
+COLORADO CANNA CARE LLC|COLORADO CANNA CARE LLC|404-00281|Infused Product Manufacturer|Withdrawn|129 S CLEVELAND AVE|Loveland CO  80537|Loveland|Larimer|CO|80537|
+COLORADO CANNA CARE LLC|COLORADO CANNA CARE LLC|403-01090|Optional Premises|Withdrawn|5595 ARAPAHOE AVE SUITE C #2|Boulder CO  80310|Boulder|Boulder|CO|80310|
+COLORADO CANNABIS ASSOCIATES LLC|NATURE'S REMEDY|404-00129|Infused Product Manufacturer|Withdrawn|749 E Enterprise Dr|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+COLORADO CANNABIS CAREGIVERS LLC|C.C.C. LLC|402-00033|Center - Type 1|Withdrawn|2203 N WEBER ST|COLORADO SPRINGS CO  80907|COLORADO SPRINGS||CO|80907|
+COLORADO CANNABIS CAREGIVERS LLC|COLORADO CANNABIS CAREGIVERS LLC|403-00045|Optional Premises|Withdrawn|616 Arrawanna Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+COLORADO CANNABIS COMPANY LLC|COLORADO CANNABIS COMPANY LLC|403-00257|Optional Premises|Withdrawn|1224 COMMERCE CRT.|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+COLORADO CANNABIS INC|COLORADO CANNABIS INC|402-00589|Center - Type 1|Withdrawn|1905 N ACADEMY BLVD|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+COLORADO CANNABIS INC|COLORADO CANNABIS INC|403-00877|Optional Premises|Withdrawn|1905 N ACADEMY BLVD UNIT B|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+COLORADO CANNABIS INC|COLORADO CANNABIS INC|403-00878|Optional Premises|Withdrawn|1905 N ACADEMY BLVD UNIT D|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+COLORADO CANNABIS INC|COLORADO CANNABIS INC|403-00879|Optional Premises|Withdrawn|1335 CALVERT AVE|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+COLORADO CANNABIS SERVICES LLC|COLORADO CANNABIS SERVICES LLC|403-00608|Optional Premises|Withdrawn|6100 E 39th Ave|Denver CO  80207|Denver|Denver|CO|80207|
+COLORADO CARE INC|COLORADO CARE INC|402-00231|Center - Type 1|Withdrawn|2850 IRIS AVE. SUITE NORTH|BOULDER CO  80301|BOULDER||CO|80301|
+COLORADO CARE INC|COLORADO CARE INC|403-00338|Optional Premises|Withdrawn|4301 JASON ST.|Denver CO  80211|Denver|Denver|CO|80211|
+COLORADO COLITAS LLC|HERBAL REMEDIES|402R-00504|Retail Marijuana Store|Withdrawn|5109 West Alameda Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+COLORADO COLITAS LLC||403R-00612|Retail Marijuana Cultivation Facility|Withdrawn|1920 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO HEALING LLC|CVR LLC|404-00032|Infused Product Manufacturer|Withdrawn|4727 North Broadway, Unit I|Boulder CO  80304|Boulder|Adams|CO|80304|
+COLORADO HEALING LLC|Northern Colorado Natural Wellness|403-01228|Optional Premises|Withdrawn|1355 South Huron St Unit A|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO HERBAL REMEDIES LLC|CO HERBAL|402-00331|Center - Type 1|Withdrawn|1630 S College Ave Ste B-1|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+COLORADO HERBAL REMEDIES LLC|CO HERBAL|403-00496|Optional Premises|Withdrawn|1925 Timberline N-4|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+COLORADO HERBAL REMEDIES LLC|CO HERBAL|404-00133|Infused Product Manufacturer|Withdrawn|1630 S College Ave Ste B-1|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+COLORADO KIND HOLDINGS LLC|COLORADO KIND|404R-00285|Retail Marijuana Products Mfg|Withdrawn|4600 Ironton Street, Unit 101|Denver CO  80239|Denver|Denver|CO|80239|
+COLORADO MEDICAL CAREGIVERS CO-OP|COLORADO MEDICAL CAREGIVER CO-OP|404-00303|Infused Product Manufacturer|Withdrawn|6701 E. Stapleton Dr. North|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO MEDICAL CAREGIVERS CO-OP LLC|COLORADO MEDICAL CAREGIVERS CO-OP LLC|403-01243|Optional Premises|Withdrawn|6859 N. FOOTHILLS HWY|Boulder CO  80302|Boulder|Boulder|CO|80302|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|LEAF|403-01213|Optional Premises|Withdrawn|1577 CR 335|New Castle CO  81647|New Castle|Garfield|CO|81647|
+COLORADO NATIONAL LEASING LLC||403R-00831|Retail Marijuana Cultivation Facility|Withdrawn|74 North Fabrication Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COLORADO NATURAL CARE|COLORADO NATURAL CARE|402-00570|Center - Type 1|Withdrawn|4949 North Broadway Unit#104|Boulder CO  80304|Boulder|Boulder|CO|80304|
+COLORADO NATURAL CARE|COLORADO NATURAL CARE|403-00850|Optional Premises|Withdrawn|4939 NORTH BROADWAY UNIT 56|Boulder CO  80304|Boulder|Boulder|CO|80304|
+COLORADO PATIENT COALITION, LLC|COLORADO PATIENT COALITION, LLC|402-00713|Center - Type 1|Withdrawn|9460 Federal Blvd|Denver CO  80260|Denver|Adams|CO|80260|
+COLORADO PATIENT COALITION, LLC|COLORADO PATIENT COALITION, LLC|404-00279|Infused Product Manufacturer|Withdrawn|332 Norfolk #A|AURORA CO  80011|AURORA|Arapahoe|CO|80011|
+COLORADO PATIENT COALITION, LLC|COLORADO PATIENT COALITION, LLC|403-01077|Optional Premises|Withdrawn|860 East 50th Ave. Upper Level|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO PATIENT COALITION, LLC|COLORADO PATIENT COALITION, LLC|403-01078|Optional Premises|Withdrawn|9460 Federal Blvd|Denver CO  80260|Denver|Adams|CO|80260|
+COLORADO PATIENTS FIRST LLC|COLORADO PATIENTS FIRST LLC|402-00650|Center - Type 1|Withdrawn|1811 HOVER ST SUITE H-G|Longmont CO  80501|Longmont|Boulder|CO|80501|
+COLORADO PATIENTS FIRST LLC|COLORADO PATIENTS FIRST LLC|403-00981|Optional Premises|Withdrawn|6420 GUNPARK DR UNIT B|Boulder CO  80301|Boulder|Boulder|CO|80301|
+COLORADO PHOTOSYNTHETIC RESEARCH FACILITIES LLC|Rocky Mountain Organics|402-00040|Center - Type 1|Withdrawn|5419 Highway 119|Denver CO  80422|Denver|Denver|CO|80422|
+COLORADO PHOTOSYNTHETIC RESEARCH FACILITIES LLC|ROCKY MOUNTAIN ORGANICS|403-00056|Optional Premises|Withdrawn|2375 South Delaware Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO ROOTS LLC|COLORADO ROOTS LLC|402-00568|Center - Type 1|Withdrawn|835 E 50th Avenue Unit C|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO ROOTS LLC|COLORADO ROOTS LLC|403-00847|Optional Premises|Withdrawn|835 E 50th Avenue Unit C|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO TESTING COMPANY INC|EUROFINS CANNABIS TESTING|405R-00029|RMJ Testing Facility|Withdrawn|1371 Horizon Avenue|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+COLORADO TESTING COMPANY INC|EUROFINSCANNABIS|405-00016|MMJ Testing Facility|Withdrawn|1371 Horizon Avenue|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+COLORADO TREE FARMERS INC||402-00350|Center - Type 1|Withdrawn|7204 Cole View, Ste 130|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+COLORADO TREE FARMERS INC||403-00525|Optional Premises|Withdrawn|7204 Cole View, Ste 130|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+COLORADO WELLNESS PROVIDERS LLC|MEDICINE MAN|402-00599|Center - Type 1|Withdrawn|101 N MAIN ST SUITE 6|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+COLORADO WELLNESS PROVIDERS LLC|MEDICINE MAN|403-00895|Optional Premises|Withdrawn|113 HICKORY ST|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+COLORADO WELLNESS PROVIDERS LLC|MEDICINE MAN|403-00896|Optional Premises|Withdrawn|1700 55TH STREET|Boulder CO  80301|Boulder|Boulder|CO|80301|
+COLUMBINE NURSERY||403R-00760|Retail Marijuana Cultivation Facility|Withdrawn|785 South Jason Street|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+COMFORT CARE CENTERS|Woodland Wellness|402-00524|Center - Type 1|Withdrawn|213 Aspen Garden Way #2|Woodland Park CO  80863|Woodland Park|Teller|CO|80863|
+COMFORT CARE CENTERS|Woodland Wellness|403-00774|Optional Premises|Withdrawn|213 Aspen Garden Way #2|Woodland Park CO  80863|Woodland Park|Teller|CO|80863|
+COMFORT CARE CENTERS||403-00775|Optional Premises|Withdrawn|36 VALEY CIR|Florissant CO  80816|Florissant|Teller|CO|80816|
+COMPASSIONATE CARE GIVERS INC|ROCKY MOUNTAIN HIGH|403-00067|Optional Premises|Withdrawn|3985 County Road 510|Ignacio CO  81157|Ignacio|La Plata|CO|81157|
+COMPASSIONATE CARE GIVERS LLC|MEDICAL CANNABIZ CONSULTANTS|402-00245|Center - Type 1|Withdrawn|112-B West Rainbow Boulevard|Salida CO  81201|Salida|Chaffee|CO|81201|
+COMPASSIONATE CARE GIVERS LLC|MEDICAL CANNABIZ CONSULTANTS|403-00368|Optional Premises|Withdrawn|7618 County Road 253|Salida CO  81201|Salida|Chaffee|CO|81201|
+COMPASSIONATE CARE GIVERS LLC|COMPASSIONATE CAREGIVERS LLC|404-00103|Infused Product Manufacturer|Withdrawn|112-B West Rainbow Boulevard|Salida CO  81201|Salida|Chaffee|CO|81201|
+COMPASSIONATE CARE GIVERS LLC|MERCY WELLNESS CENTER  DBA MEDICAL CANNABIZ CONSULTANTS|402-00246|Center - Type 1|Withdrawn|417 North Circle Drive|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+COMPASSIONATE CARE GIVERS LLC|MERCY WELLNESS CENTER DBA MEDICAL CANNABIZ CONSULTANTS|403-00369|Optional Premises|Withdrawn|7618 County Road 253|Salida CO  81201|Salida|Chaffee|CO|81201|
+COMPASSIONATE CARE GIVERS LLC|COMPASSIONATE CAREGIVERS LLC|404-00104|Infused Product Manufacturer|Withdrawn|417 No Circle Drive|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+COMPASSIONATE ENTERPRISES LLC|PAIN MANAGEMENT OF COLORADO|403-00483|Optional Premises|Withdrawn|1791 CR 36|Berthoud CO  80513|Berthoud|Larimer|CO|80513|
+COMPASSIONATE ENTERPRISES LLC|PAIN MANAGEMENT OF COLORADO|403-00485|Optional Premises|Withdrawn|1791 CR 36|Berthoud CO  80513|Berthoud|Larimer|CO|80513|
+COMPCARE|COMPCARE|402-00822|Center - Type 1|Withdrawn|2703 27TH ST|Greeley CO  80634|Greeley|Weld|CO|80634|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-00247|Optional Premises|Withdrawn|1029 S SIERRA MADRE, UNIT B|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-00249|Optional Premises|Withdrawn|2845 ORE MILL ROAD,# 7|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+CONSTANT GARDENER LLC|NURTURE LLC|403-00783|Optional Premises|Withdrawn|12747 Hwy. 151|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+COOPER LAING HOLDINGS INC|TRANSITIONAL MEDICATION LLC|402-00226|Center - Type 1|Withdrawn|999 N  VALLEJO ST UNIT 1|Denver CO  80204|Denver|Denver|CO|80204|
+COOPER LAING HOLDINGS INC|TRANSITIONAL MEDICATION LLC|403-00330|Optional Premises|Withdrawn|999 N  VALLEJO ST UNIT 1|Denver CO  80204|Denver|Denver|CO|80204|
+COWBOY CANNABIS INCORPORATED||404R-00320|Retail Marijuana Products Mfg|Withdrawn|3613 Freedom Road Suite B|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+CRITICAL MASS INDUSTRIES LLC|Good Meds|404-00286|Infused Product Manufacturer|Withdrawn|1277 S BANNOCK STREET|Denver CO  80223|Denver|Denver|CO|80223|
+CRITICAL MASS INDUSTRIES LLC|CRITICAL MASS INDUSTRIES LLC|403-01117|Optional Premises|Withdrawn|221 N WYANDOT STREET|Denver CO  80223|Denver|Denver|CO|80223|
+CROSSPOINT MANUFACTURING LLC|CROSSPOINT MANUFACTURING LLC|404-00247|Infused Product Manufacturer|Withdrawn|1837 N. Circle Dr.|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+CROSSPOINT MANUFACTURING LLC|CROSSPOINT MANUFACTURING LLC|403-00940|Optional Premises|Withdrawn|2312 E. Bijou|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+CT LLC|CANNABIS THERAPEUTICS (GENOVATIONS CREATIONS LLC DBA GENOVATIONS LABORATORIES LLC - SUBSIDIARY COMPANY)|403-00522|Optional Premises|Withdrawn|907 E Fillmore St|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+DADDY FAT SACKS LLC|DADDY FAT SACKS LLC|402-00448|Center - Type 1|Withdrawn|945 S Federal Blvd, Ste A|Denver CO  80219|Denver|Denver|CO|80219|
+DADDY FAT SACKS LLC|DADDY FAT SACKS LLC|403-00674|Optional Premises|Withdrawn|7120 Perry Park Blvd|Larkspur CO  80118|Larkspur|Douglas|CO|80118|
+DADDY FAT SACKS LLC|DADDY FAT SACKS LLC|403-00675|Optional Premises|Withdrawn|2640 E 43rd Ave|Denver CO  80209|Denver|Denver|CO|80209|
+DAVID KRZYSZTOFIAK LLC|THE HERBAL ALTERNATIVE|404-00322|Infused Product Manufacturer|Withdrawn|1531 Lebanon Road|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+DAZYS LLC|COLORADO BUBBLE COMPANY|404-00301|Infused Product Manufacturer|Withdrawn|4986 Morrison Road Suite 5|Denver CO  80219|Denver|Denver|CO|80219|
+DEL MUNDO LLC|DEL MUNDO|403R-00796|Retail Marijuana Cultivation Facility|Withdrawn|5303 Vasquez Boulevard, Unit 101|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+DENCO LLC|DENCO |404-00078|Infused Product Manufacturer|Withdrawn|5155 E 46th Avenue|Denver CO  80221|Denver|Adams|CO|80221|
+DENCO LLC||402R-00061|Retail Marijuana Store|Withdrawn|4047 Tejon Street|Denver CO  80221|Denver|Adams|CO|80221|
+DENCO LLC||403R-00558|Retail Marijuana Cultivation Facility|Withdrawn|37477 Bush road|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+DENVER PACKAGING COMPANY||403R-00632|Retail Marijuana Cultivation Facility|Withdrawn|5100 Cook Street|Denver CO  80216|Denver|Denver|CO|80216|
+DIGIPATH LABS COLORADO LLC|DIGIPATH LABS COLORADO LLC|405R-00015|RMJ Testing Facility|Withdrawn|1150 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+DISCOUNT MEDICAL MARIJUANA LLC|DISCOUNT MEDICAL MARIJUANA LLC|402-00261|Center - Type 1|Withdrawn|1100 W Mississippi Ave|Denver CO  80223|Denver|Denver|CO|80223|
+DISCOUNT MEDICAL MARIJUANA LLC|DISCOUNT MEDICAL MARIJUANA LLC|403-00391|Optional Premises|Withdrawn|1100 W Mississippi Ave|Denver CO  80223|Denver|Denver|CO|80223|
+DKC LLC|DENVER KUSH CLUB|403-00807|Optional Premises|Withdrawn|1012 NE Frontage Rd|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+DMC PARTNERS LLC|HAWAIIAN HERBAL HEALTH LLC|402-00623|Center - Type 1|Withdrawn|3729 Austin Bluffs Parkway|Colorado Springs CO  80918|Colorado Springs|El Paso|CO|80918|
+DMC PARTNERS LLC|HAWAIIAN HERBAL HEALTH LLC|403-00933|Optional Premises|Withdrawn|2375 S. Delaware St., Unit 200|Denver CO  80223|Denver|Denver|CO|80223|
+DMC PARTNERS LLC|HAWAIIAN HERBAL HEALTH LLC|403-00934|Optional Premises|Withdrawn|3936 Niagara Street|Denver CO  80207|Denver|Denver|CO|80207|
+DMC PARTNERS LLC|HAWAIIAN HERBAL HEALTH LLC|403-00935|Optional Premises|Withdrawn|5475 Peoria Street|Denver CO  80239|Denver|Denver|CO|80239|
+DONNA FAYE CUPPLES|DONNA FAYE CUPPLES|404-00226|Infused Product Manufacturer|Withdrawn|6072 COUNTY RD 214|New Castle CO  81647|New Castle|Garfield|CO|81647|
+DPCO BRIGHTON LLC||404-00419|Infused Product Manufacturer|Withdrawn|4800 North Brighton Boulevard, Unit 100|Denver CO  80216|Denver|Denver|CO|80216|
+DPCO DENVER LLC|DPCO DENVER LLC|402-00984|Center - Type 1|Withdrawn|2949 West Alameda Avenue|Denver CO  80219|Denver|Denver|CO|80219|
+DPCO DENVER LLC|DPCO DENVER LLC|403-01552|Optional Premises|Withdrawn|4242 North Elizabeth  Street, Unit 2|Denver CO  80216|Denver|Denver|CO|80216|
+DPCO DENVER LLC|DPCO DENVER LLC|403-01553|Optional Premises|Withdrawn|4242 North Elizabeth  Street, Unit 3|Denver CO  80216|Denver|Denver|CO|80216|
+DPCO DENVER LLC|DPCO DENVER LLC|403-01554|Optional Premises|Withdrawn|4242 North Elizabeth Street, Unit 1|Denver CO  80216|Denver|Denver|CO|80216|
+DPCO JASON LLC|DPCO JASON LLC|402-00985|Center - Type 1|Withdrawn|755 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+DPCO JASON LLC|DPCO JASON LLC|403-01551|Optional Premises|Withdrawn|755 South Jason St|Denver CO  80223|Denver|Denver|CO|80223|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|404-00024|Infused Product Manufacturer|Withdrawn|2755 North Ave. Ste. 10|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00094|Optional Premises|Withdrawn|10 Tee Court|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00095|Optional Premises|Withdrawn|943 D ROAD|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|402-00070|Center - Type 1|Withdrawn|2755 North Ave. Ste. 1|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00096|Optional Premises|Withdrawn|943 D ROAD|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00097|Optional Premises|Withdrawn|10 Tee Court|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00098|Optional Premises|Withdrawn|847 26 Road|Grand Junction CO  81506-8609|Grand Junction|Mesa|CO|815068609|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00099|Optional Premises|Withdrawn|2224 Mesa Ave|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00100|Optional Premises|Withdrawn|2473 Commerce Blvd Unit A|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00101|Optional Premises|Withdrawn|3198 C Rd|Grand Junction CO  81503|Grand Junction|Mesa|CO|81503|
+DR ALTERNATIVE LLC|DR ALTERNATIVE LLC|403-00102|Optional Premises|Withdrawn|369 1/2 27 1/2 Rd. #D|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+DR REEFER.COM.INC|DR REEFER.COM.INC|402-00151|Center - Type 1|Withdrawn|1121 BROADWAY SUITE G|Boulder CO  80302|Boulder|Boulder|CO|80302|
+DR REEFER.COM.INC|DR REEFER.COM.INC|403-00219|Optional Premises|Withdrawn|LOT 12 1ST REPATE|PIERCE CO  80302|PIERCE||CO|80302|
+DR. GREENTHUMBS LLC|DR. GREENTHUMBS LLC|402-00799|Center - Type 1|Withdrawn|309 Mount View Lane   |Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+DR. GREENTHUMBS LLC|DR. GREENTHUMBS LLC|404-00309|Infused Product Manufacturer|Withdrawn|309 Mount View Lane|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+DR. GREENTHUMBS LLC|DR. GREENTHUMBS LLC|403-01208|Optional Premises|Withdrawn|309 Mount View Lane|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+DRAGON BREATH FARM INC|DRAGON BREATH FARM|403R-01111|Retail Marijuana Cultivation Facility|Withdrawn|4985 Colorado Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+DRAGON BREATH FARM INC|DRAGON BREATH FARM|404R-00413|Retail Marijuana Products Mfg|Withdrawn|4985 Colorado Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+DUFEK GROUP LLC|GREEN ROOSTER NATURAL MEDICINE|402-00199|Center - Type 1|Withdrawn|1925 TIMBERLINE RD. UNIT N 5A|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+DUFEK GROUP LLC|GREEN ROOSTER NATURAL MEDICINE|403-00291|Optional Premises|Withdrawn|1925 TIMBERLINE RD. UNIT N 5B|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+DUOIL, LLC|DUOIL, LLC|403-00007|Optional Premises|Withdrawn|117 E BIJOU UNIT B & D|COLORADO SPGS CO  80903|COLORADO SPGS||CO|80903|
+DUOIL, LLC|DUOIL, LLC|404-00006|Infused Product Manufacturer|Withdrawn|117 E BIJOU|COLORADO SPGS CO  80903|COLORADO SPGS||CO|80903|
+DURANGO ALTERNATIVE LLC|DURANGO ALTERNATIVE LLC|404-00228|Infused Product Manufacturer|Withdrawn|3985 CR 510|Pagosa Springs CO  81157|Pagosa Springs|Archuleta|CO|81157|
+DURANGO ALTERNATIVE LLC|DURANGO ALTERNATIVE LLC|403-00858|Optional Premises|Withdrawn|2014 SIERRA VERDE DR|Durango CO  81301|Durango|La Plata|CO|81301|
+DURANGO ALTERNATIVE LLC|DURANGO ALTERNATIVE LLC|403-00859|Optional Premises|Withdrawn|3985 CR 510|Ignacio CO  81137|Ignacio|La Plata|CO|81137|
+DURANGO HEALING CENTER LLC|DURANGO HEALING CENTER LLC|403-00822|Optional Premises|Withdrawn|900 Aurun St.|Ophir CO  81426|Ophir|San Miguel|CO|81426|
+DURANGO ORGANICS LLP|DURANGO ORGANICS LLP|403-00784|Optional Premises|Withdrawn|109 Saddle Trail|Durango CO  81301|Durango|La Plata|CO|81301|
+DURANGO ORGANICS LLP|DURANGO ORGANICS LLP|403-00785|Optional Premises|Withdrawn|607 Mira Monte Drive|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+DURANGO ORGANICS LLP|DURANGO ORGANICS LLP|403-00787|Optional Premises|Withdrawn|4673 La Posta Canyon Rd|Durango CO  81303|Durango|La Plata|CO|81303|
+DURANGO ORGANICS LLP|DURANGO ORGANICS LLP|403-00788|Optional Premises|Withdrawn|2694 CR 3674|Durango CO  81303|Durango|La Plata|CO|81303|
+DURANGO ORGANICS LLP|DURANGO ORGANICS LLP|403-00789|Optional Premises|Withdrawn|281 SKYLANE DR|Durango CO  81303|Durango|La Plata|CO|81303|
+DURANGO ORGANICS LLP|DURANGO ORGANICS LLP|404-00210|Infused Product Manufacturer|Withdrawn|72 Suttle Street #F|Durango CO  81303|Durango|La Plata|CO|81303|
+DURANGO WELLNESS LLC||402-00550|Center - Type 1|Withdrawn|1099 Main St., Suite 105 & 106|Durango CO  81301|Durango|La Plata|CO|81301|
+EAGLE SPRINGS ORGANIC LLC|EAGLE SPRINGS ORGANIC LLC|404-00215|Infused Product Manufacturer|Withdrawn|5454A County Road 346|Silt CO  81652|Silt|Garfield|CO|81652|
+EAGLE SPRINGS ORGANIC LLC|EAGLE SPRINGS ORGANIC LLC|403-00799|Optional Premises|Withdrawn|54 County Rd 346|Silt CO  81652|Silt|Garfield|CO|81652|
+EAGLE SPRINGS ORGANIC LLC|EAGLE SPRINGS ORGANIC LLC|402-00540|Center - Type 1|Withdrawn|5454A County Road 346|Silt CO  81652|Silt|Garfield|CO|81652|
+EARTH MEDICINES|EARTH MEDICINES|402-00534|Center - Type 1|Withdrawn|3055 E Hwy 50 Suite G|Canon City CO  81212|Canon City|Fremont|CO|81212|
+EARTH MEDICINES|EARTH MEDICINES|403-00791|Optional Premises|Withdrawn|3055 E Hwy 50 Suite G|Canon City CO  81212|Canon City|Fremont|CO|81212|
+EARTH SOLUTIONS INC|CANNA CABINET INC|402R-00648|Retail Marijuana Store|Withdrawn|2630 West Pueblo Boulevard, Suite A|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+EAST VAIL DESIGN LLC|EAST VAIL DESIGN LLC|402-00561|Center - Type 1|Withdrawn|4120 BRIGHTON BLVD #A32|DENVER CO  80216|DENVER|Denver|CO|80216|
+ECLECTIC GENETICS||403-00721|Optional Premises|Withdrawn|567 Squaw Apple Rd|Durango CO  81301|Durango|La Plata|CO|81301|
+ECOMED LLC|NATURES MEDICINE SALIDA|403-00909|Optional Premises|Withdrawn|5565 ARAPAHOE AVE UNITS F, G, AND H|Boulder CO  81201|Boulder|Boulder|CO|81201|
+EDIMEDS LLC|EDIMEDS LLC|404-00259|Infused Product Manufacturer|Withdrawn|4986 Morrison Rd Suite E|Denver CO  80202|Denver|Denver|CO|80202|
+EDIN LLC|THE GREEN WARD|402R-00319|Retail Marijuana Store|Withdrawn|11607 East Colfax Avenue|Aurora CO  80010|Aurora|Adams|CO|80010|
+EJB VENTURES LLC|HARMONY EXTRACTS|403R-00798|Retail Marijuana Cultivation Facility|Withdrawn|121 Mariposa Street|Denver CO  80223|Denver|Denver|CO|80223|
+ELGIN STREET LLC|DENVER MEDS|402-00221|Center - Type 1|Withdrawn|663 ELGIN PLACE|Denver CO  80205|Denver|Denver|CO|80205|
+ELGIN STREET LLC|DENVER MEDS|403-00322|Optional Premises|Withdrawn|663 ELGIN PLACE|Denver CO  80205|Denver|Denver|CO|80205|
+EMERALD CITY WELLNESS LLC|EMERALD CITY|404-00291|Infused Product Manufacturer|Withdrawn|5755 Industrial Pl |Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+EMERALD PATHWAY LLC|EMERALD PATHWAY LLC|402-00434|Center - Type 1|Withdrawn|4020 S College Ave, #11|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+EMERALD PATHWAY LLC|EMERALD PATHWAY LLC|403-00654|Optional Premises|Withdrawn|4020 S College Ave, #11|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+EMERALD PATHWAY LLC|EMERALD PATHWAY LLC|403-01105|Optional Premises|Withdrawn|1230 BLUE SPRUCE DR #4|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+EMERALD PATHWAYS LLC|Medicine Man Medical Market LLC|404-00240|Infused Product Manufacturer|Withdrawn|4972 Leetsdale Drive|Denver CO  80246|Denver|Denver|CO|80246|
+EUREKA EDIBLES, LLC||404-00272|Infused Product Manufacturer|Withdrawn|670 N. Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+EUREKA EDIBLES, LLC||403-01039|Optional Premises|Withdrawn|670 N. Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+EVERGREEN APOTHECARY LLC|EVERGREEN APOTHECARY LLC|403-00636|Optional Premises|Withdrawn|2121 South Jason St, Unit A|Denver CO  80223|Denver|Denver|CO|80223|
+EVOLUTION LLC|11:11 WELLNESS|403-00367|Optional Premises|Withdrawn|2300 CENTRAL AVE STE K|Boulder CO  80301|Boulder|Boulder|CO|80301|
+EWC LLC|THE WELLNESS SOURCE LLC|402-00560|Center - Type 1|Withdrawn|1351 PECAN ST|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+EWC LLC|THE WELLNESS CENTER LLC|403-00830|Optional Premises|Withdrawn|1351 PECAN ST|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+EWC LLC|ELEVATION WELLNESS CENTER|404-00220|Infused Product Manufacturer|Withdrawn|240 ARTHUR AVE|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+EXPANDING UNIVERSE||402R-00141|Retail Marijuana Store|Withdrawn|3814 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+EXPANDING UNIVERSE||403R-00186|Retail Marijuana Cultivation Facility|Withdrawn|3814 Walnut Street|Denver CO  80205|Denver|Denver|CO|80205|
+EXTRACTION CONSULTANTS LLC|EXTRACTION CONSULTANTS LLC|404-00263|Infused Product Manufacturer|Withdrawn|28606 CR58EE|Moffat CO  81143|Moffat|Saguache|CO|81143|
+F SQUARED ENTERPRISES LLC|NATURAL ORIGINS LLC|404-00073|Infused Product Manufacturer|Withdrawn|2326 E 46th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+F SQUARED ENTERPRISES LLC||403-00498|Optional Premises|Withdrawn|3880 Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+FALCON AMS LLC|ALTERNATIVE MEDICAL SUPPLIES LLC AND ROLLINSVILLE MOUNTAIN MEDS LLC - PARTNER COMPANIES|403-00676|Optional Premises|Withdrawn|11145 E Hwy 24|Peyton CO  80831|Peyton|El Paso|CO|80831|
+FALCON AMS LLC|ALTERNATIVE MEDICAL SUPPLIES LLC AND ROLLINSVILLE MOUNTAIN MEDS LLC - PARTNER COMPANIES|402-00813|Center - Type 2|Withdrawn|11145 E HWY 24|Peyton CO  80831|Peyton|El Paso|CO|80831|
+FEDERAL CORRIDOR INC|THE HEIGHTS|402-01087|Center - Type 1|Withdrawn|9462 Federal Boulevard|Federal Heights CO  80260|Federal Heights|Adams|CO|80260|
+FEDERAL CORRIDOR INC|THE HEIGHTS|403-01686|Optional Premises|Withdrawn|785 South Jason  Street|Denver CO  80223|Denver|Denver|CO|80223|
+FLOWER OF LIFE HEALING ARTS, INC|FLOWER OF LIFE HEALING ARTS, INC|402-00487|Center - Type 1|Withdrawn|1750 30th Street, Unit 84|Boulder CO  80301|Boulder|Boulder|CO|80301|
+FLOWER OF LIFE HEALING ARTS, INC|FLOWER OF LIFE HEALING ARTS, INC|403-00724|Optional Premises|Withdrawn|2510 N 47th St., Unit L|Boulder CO  80301|Boulder|Adams|CO|80301|
+FLOWER OF LIFE HEALING ARTS, INC|FLOWER OF LIFE HEALING ARTS, INC|404-00199|Infused Product Manufacturer|Withdrawn|2510 N 47th St Unit K|Boulder CO  80301|Boulder|Adams|CO|80301|
+FOCO COMPASSION CENTER LLC|FOCO COMPASSION CENTER LLC|402-00217|Center - Type 1|Withdrawn|232 E VINE ST|Fort Collins CO  80524|Fort Collins|Adams|CO|80524|
+FOCO COMPASSION CENTER LLC|FOCO COMPASSION CENTER LLC|403-00318|Optional Premises|Withdrawn|1225 BLUE SPRUCE DRIVE|Fort Collins CO  80524|Fort Collins|Adams|CO|80524|
+FOL LLC|FLOYDS OF LEADVILLE|404R-00249|Retail Marijuana Products Mfg|Withdrawn|1101 Poplar Street|Leadville CO  80461|Leadville|Lake|CO|80461|
+FOOTHILLS MANAGEMENT LLC|FOOTHILLS MANAGEMENT LLC|402-00219|Center - Type 1|Withdrawn|6859 N HILLS HWY, BUILDING C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+FOOTHILLS MANAGEMENT LLC|FOOTHILLS MANAGEMENT LLC|403-00320|Optional Premises|Withdrawn|6859 N HILLS HWY, BUILDING C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+FOOTHILLS MANAGEMENT LLC|FOOTHILLS MANAGEMENT LLC|404-00094|Infused Product Manufacturer|Withdrawn|6859 N HILLS HWY, BUILDING C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+FOOTPRINTS HEALTH & WELLNESS INC|FOOTPRINTS HEALTH & WELLNESS INC|402-00009|Center - Type 1|Withdrawn|8250 W COAL MINE AVE #4|LITTLETON CO  80123|LITTLETON||CO|80123|
+FOOTPRINTS HEALTH & WELLNESS INC|FOOTPRINTS HEALTH & WELLNESS INC|403-00011|Optional Premises|Withdrawn|8250 W COAL MINE AVE #4|Littleton CO  80123|Littleton|Jefferson|CO|80123|
+FREEDOM ROAD GARDEN LTD|FREEDOM ROAD|403-01664|Optional Premises|Withdrawn|2600 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREEDOM ROAD GARDEN LTD|FREEDOM ROAD|402-01067|Center - Type 1|Withdrawn|2600 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREEDOM ROAD GARDEN LTD|FREEDOM ROAD|402R-00452|Retail Marijuana Store|Withdrawn|2600 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREEDOM ROAD GARDEN LTD|FREEDOM ROAD|403R-00535|Retail Marijuana Cultivation Facility|Withdrawn|2600 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FRONT RANGE DISPENSATORY LLC|FRONT RANGE DISPENSATORY LLC|402-00518|Center - Type 1|Withdrawn|8850 FEDERAL BLVD|FEDERAL HEIGHTS CO  80260|FEDERAL HEIGHTS|Adams|CO|80260|
+FRONT RANGE DISPENSATORY LLC|FRONT RANGE DISPENSATORY LLC|403-00761|Optional Premises|Withdrawn|8850 FEDERAL BLVD|FEDERAL HEIGHTS CO  80260|FEDERAL HEIGHTS|Adams|CO|80260|
+FROZEN SMOKE LLC|FROZEN SMOKE|402R-00576|Retail Marijuana Store|Withdrawn|500 West Highway 50, Unit 103|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+F-SQUARED INDUSTRIES LLC|WELLMESS CENTER OF DENVER|403-00623|Optional Premises|Withdrawn|330 South Dayton Street|Denver CO  80247|Denver|Denver|CO|80247|
+Full Spectrum Holdings, Inc.|Full Spectrum Holdings, Inc.|402-00362|Center - Type 1|Withdrawn|4260 Kearney St, Ste D|Denver CO  80216|Denver|Denver|CO|80216|
+Full Spectrum Holdings, Inc.|Full Spectrum Holdings, Inc.|403-00541|Optional Premises|Withdrawn|4260 Kearney St, Ste C|Denver CO  80216|Denver|Denver|CO|80216|
+Full Spectrum Holdings, Inc.|Full Spectrum Holdings, Inc.|403-00542|Optional Premises|Withdrawn|4260 Kearney St, Ste E|Denver CO  80216|Denver|Denver|CO|80216|
+GAIAS GIFT INC|GAIAS GIFT INC |402-00742|Center - Type 1|Withdrawn|125 MAIN ST.|Central City CO  80427|Central City|Gilpin|CO|80427|
+GAIAS GIFT INC|GAIAS GIFT INC |403-01129|Optional Premises|Withdrawn|1650 EAST 47TH AVE.|Denver CO  80216|Denver|Denver|CO|80216|
+GAMMA HOLDINGS INC||402R-00634|Retail Marijuana Store|Withdrawn|130th & 140th W 84th Street|Denver CO  80260|Denver|Adams|CO|80260|
+GANJA GOURMET LLC|GANJA GOURMET |403-00988|Optional Premises|Withdrawn|5757 ARAPAHOE|Boulder CO  80303|Boulder|Boulder|CO|80303|
+GANJA GOURMET LLC|GANJA GOURMET LLC|404-00256|Infused Product Manufacturer|Withdrawn|1432 East 22nd Avenue|Denver CO  80210|Denver|Denver|CO|80210|
+GARDEN OF THE GODS INC||402R-00117|Retail Marijuana Store|Withdrawn|5050 York Street|Denver CO  80216|Denver|Denver|CO|80216|
+GARDEN OF THE GODS INC|GARDEN OF THE GODS INC|403R-00153|Retail Marijuana Cultivation Facility|Withdrawn|5050 York Street|Denver CO  80216|Denver|Denver|CO|80216|
+GARDEN OF THE GODS INC||403R-00154|Retail Marijuana Cultivation Facility|Withdrawn|4501 Wynkoop|Denver CO  80216|Denver|Denver|CO|80216|
+GARDEN OF THE GODS WELLNESS CENTER LLC|GARDEN OF THE GODS WELLNESS CENTER LLC|402-00054|Center - Type 1|Withdrawn|5030 BOARDWALK DR STE 1|Colorado Springs CO  80919|Colorado Springs|El Paso|CO|80919|
+GARDEN OF THE GODS WELLNESS CENTER LLC|GARDEN OF THE GODS WELLNESS CENTER LLC|403-00071|Optional Premises|Withdrawn|3625 BETTY DR UNIT D & E|Colorado Springs CO  80917|Colorado Springs|El Paso|CO|80917|
+GARDEN OF THE GODS WELLNESS CENTER LLC|GARDEN OF THE GODS WELLNESS CENTER LLC|403-00072|Optional Premises|Withdrawn|3625 BETTY DR UNIT A & B|Colorado Springs CO  80917|Colorado Springs|El Paso|CO|80917|
+GARDEN OF THE GODS WELLNESS CENTER LLC|GARDEN OF THE GODS WELLNESS CENTER LLC|403-00073|Optional Premises|Withdrawn|2549 WESTON DR|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+GARDEN OF THE GODS WELLNESS CENTER LLC|GARDEN OF THE GODS WELLNESS CENTER LLC|404-00018|Infused Product Manufacturer|Withdrawn|5030 BOARDWALK DR STE 2|Colorado Springs CO  80919|Colorado Springs|El Paso|CO|80919|
+GARDEN OF THE GODS WELLNESS CENTER LLC|GARDEN OF THE GODS WELLNESS CENTER LLC|404-00019|Infused Product Manufacturer|Withdrawn|5030 BOARDWALK DR STE 3|Colorado Springs CO  80919|Colorado Springs|El Paso|CO|80919|
+GDD LLC|GREEN DRAGON DENVER|403-01524|Optional Premises|Withdrawn|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GENERATIONS NATURAL MEDICINE LLC|GENERATIONS NATURAL MEDICINE LLC|403-00893|Optional Premises|Withdrawn|5636 KENDAL CT UNIT H|Arvada CO  80003|Arvada|Jefferson|CO|80003|
+GENOVATIONS CREATIONS LLC|GENOVATIONS LABORATORIES LLC (CT, LLC - PARENT COMPANY)|403-00521|Optional Premises|Withdrawn|957 E Fillmore St|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+GG-MMD INC|BUDS ON COLFAX|404-00114|Infused Product Manufacturer|Withdrawn|1515 Adams St|Denver CO  80206|Denver|Denver|CO|80206|
+GG-MMD INC|THE MESA|403-01581|Optional Premises|Withdrawn|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+GGT LLC|GREEN GRASS THORNTON|402R-00623|Retail Marijuana Store|Withdrawn|10258 Ura Lane|Thornton CO  80260|Thornton|Adams|CO|80260|
+GHS PARTNERS LLC|GHS PARTNERS LLC|404-00244|Infused Product Manufacturer|Withdrawn|4986 Morrison Road, Suite C|Denver CO  80219|Denver|Denver|CO|80219|
+GHS PARTNERS LLC|GHS PARTNERS LLC|403-00924|Optional Premises|Withdrawn|6859 N. FOOTHILLS HWY, STE. C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+GHS PARTNERS LLC|GHS PARTNERS LLC|403-01190|Optional Premises|Withdrawn|6859 N Foothill Hwy|Boulder CO  80302|Boulder|Boulder|CO|80302|
+GNSJV1, LLC||402-00523|Center - Type 1|Withdrawn|507 FRUITVALE COURT|Grand Junction CO  81504|Grand Junction|Mesa|CO|81504|
+GNSJV1, LLC||403-00773|Optional Premises|Withdrawn|507 FRUITVALE COURT|GRAND JUNCTION CO  81504|GRAND JUNCTION|Mesa|CO|81504|
+GOD'S GIFT LLC|GOD?S GIFT LLC|402-00541|Center - Type 1|Withdrawn|571 32 Road Unit B|Clifton CO  81520|Clifton|Mesa|CO|81520|
+GOD'S GIFT LLC|GOD?S GIFT LLC|403-00800|Optional Premises|Withdrawn|592 N. Commercial Drive #2|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+GOD'S GIFT LLC|GOD?S GIFT LLC|403-00801|Optional Premises|Withdrawn|3824 Highline Canal Drive|Palisade CO  81526|Palisade|Mesa|CO|81526|
+GOLDEN ALTERNATIVE CARE INC|GOLDEN MEDICAL MARIJUANA|402-00147|Center - Type 1|Withdrawn|807 14TH ST SUITE A|Golden CO  80401|Golden|Jefferson|CO|80401|
+GOLDEN CHEF INC|EARTHLY ELEMENTS|402-00596|Center - Type 1|Withdrawn|1335 W ELIZABETH ST STE 160|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+GOLDEN CHEF INC|EARTHLY ELEMENTS|403-00891|Optional Premises|Withdrawn|1228 W ELIZABETH ST #D1 & D2|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+GOOD HUMOR MEDS LLC|GOOD HUMOR MEDS LLC|402-00160|Center - Type 1|Withdrawn|720 PEARL ST|Boulder CO  80302|Boulder|Boulder|CO|80302|
+GOOFY GOODIES LLC|GOOFY GOODIES LLC|404-00227|Infused Product Manufacturer|Withdrawn|4086 F S CARSON ST|Aurora CO  80014|Aurora|Arapahoe|CO|80014|
+Grand Mesa Herbal Dispensary, LLC|Grand Mesa Herbal Center, LLC|402-00373|Center - Type 1|Withdrawn|12105 HWY 65|Eckert CO  81418|Eckert|Delta|CO|81418|
+Grand Mesa Herbal Dispensary, LLC|Grand Mesa Herbal Center, LLC|403-00559|Optional Premises|Withdrawn|21176 FRUIT GROWERS RD|Austin CO  81410|Austin|Delta|CO|81410|
+Grand Mesa Herbal Dispensary, LLC|Grand Mesa Herbal Center, LLC|403-00560|Optional Premises|Withdrawn|21176 FRUIT GROWERS RD|Austin CO  81410|Austin|Delta|CO|81410|
+Grand Mesa Herbal Dispensary, LLC|Grand Mesa Herbal Center, LLC|404-00154|Infused Product Manufacturer|Withdrawn|21176 FRUIT GROWERS RD|Austin CO  81410|Austin|Delta|CO|81410|
+GRANNIE'S EDIBLE'S LLC||404-00125|Infused Product Manufacturer|Withdrawn|936 S FEDERAL BLVD|Denver CO  80219|Denver|Denver|CO|80219|
+GRANNIE'S EDIBLE'S LLC|GRANNIE?S EDIBILE?S|403-00969|Optional Premises|Withdrawn|5105 East 38th Avenue, Unit 202|Denver CO  80207|Denver|Denver|CO|80207|
+GRANNY GREEN'S LLC||404-00060|Infused Product Manufacturer|Withdrawn|9900 WEST STANFORD AVE. SUITE 100|Littleton CO  80123|Littleton|Jefferson|CO|80123|
+GRASS ROOTS HEALTH AND WELLNESS CENTER|GRASS ROOTS HEALTH AND WELLNESS CENTER|402-00692|Center - Type 2|Withdrawn|3301 Brighton Blvd.|Denver CO  80216|Denver|Denver|CO|80216|
+GRASS ROOTS HEALTH AND WELLNESS CENTER|GRASS ROOTS HEALTH AND WELLNESS CENTER|403-01037|Optional Premises|Withdrawn|3301 BRIGHTON BLVD|Denver CO  80216|Denver|Denver|CO|80216|
+GRASS ROOTS HEALTH AND WELLNESS CENTER|GRASS ROOTS HEALTH AND WELLNESS CENTER|403-01038|Optional Premises|Withdrawn|3201 BRIGHTON BLVD|Denver CO  80216|Denver|Denver|CO|80216|
+GRASS ROOTS ORGANICA LLC|GRASS ROOTS ORGANICA LLC|402-00432|Center - Type 1|Withdrawn|399 S Harrison St|Denver CO  80209|Denver|Denver|CO|80209|
+GRASS ROOTS ORGANICA LLC|GRASS ROOTS ORGANICA LLC|402-00433|Center - Type 1|Withdrawn|3035 E Evans Ave|Denver CO  80210|Denver|Denver|CO|80210|
+GRASSROOTS LLC|GRASSROOTS LLC|402-00628|Center - Type 1|Withdrawn|4379 Tejon Street|Denver CO  80211|Denver|Denver|CO|80211|
+GRASSROOTS LLC|GRASSROOTS|403-00944|Optional Premises|Withdrawn|10142 Oxford Road|Longmont CO  80504|Longmont|Boulder|CO|80504|
+GRASSROOTS LLC|GRASSROOTS LLC|403-01289|Optional Premises|Withdrawn|4379 Tejon Street|Denver CO  80211|Denver|Denver|CO|80211|
+GRASSROOTS WELLNESS LLC|GRASSROOTS WELLNESS LLC|402-00003|Center - Type 1|Withdrawn|1545 W BAYAUD AVE #1|DENVER CO  80223|DENVER||CO|80223|
+GRASSROOTS WELLNESS LLC|GRASSROOTS WELLNESS LLC|404-00002|Infused Product Manufacturer|Withdrawn|1545 W BAYAUD AVE |DENVER CO  80223|DENVER||CO|80223|
+GRASSROOTS WELLNESS LLC|GRASSROOTS WELLNESS LLC|403-00004|Optional Premises|Withdrawn|1545 W BAYAUD AVE |DENVER CO  80223|DENVER||CO|80223|
+GRATEFUL GOODS LLC|GRATEFUL GOODS LLC|404-00093|Infused Product Manufacturer|Withdrawn|1224 COMMERCE CRT. SUITE 1|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+GREAT SCOTTS TOTAL CARE LLC|GREAT SCOTTS TOTAL CARE LLC|402-00235|Center - Type 1|Withdrawn|9187 W. JEWELL AVENUE|Lakewood CO  80232|Lakewood|Jefferson|CO|80232|
+GREAT SCOTTS TOTAL CARE LLC|GREAT SCOTTS TOTAL CARE LLC|403-00354|Optional Premises|Withdrawn|4242 ELIZABETH ST#3|Denver CO  80216|Denver|Denver|CO|80216|
+GREAT SCOTTS TOTAL CARE LLC|GREAT SCOTTS TOTAL CARE LLC|403-00355|Optional Premises|Withdrawn|505 BRYANT ST.#UNIT D|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN BELLY LLC|GREEN BELLY LLC|402-00336|Center - Type 2|Withdrawn|3330 Eldorado Springs Dr|Eldorado Springs CO  80025|Eldorado Springs|Boulder|CO|80025|
+GREEN BELLY LLC|GREEN BELLY LLC|403-00503|Optional Premises|Withdrawn|3330 Eldorado Springs Dr|ELDORADO SPRINGS CO  80025|ELDORADO SPRINGS||CO|80025|
+GREEN BELLY LLC|GREEN BELLY LLC|403-00504|Optional Premises|Withdrawn|11692 Kenosha Rd|LONGMONT CO  80504|LONGMONT||CO|80504|
+GREEN CROSS CLINIC LLC|GREEN CROSS CLINIC LLC|402-00646|Center - Type 1|Withdrawn|4925 FEDERAL BLVD|Denver CO  80221|Denver|Adams|CO|80221|
+GREEN CROSS CLINIC LLC|GREEN CROSS CLINIC LLC|403-00974|Optional Premises|Withdrawn|5573 S DATURA ST|Littleton CO  80120|Littleton|Arapahoe|CO|80120|
+GREEN CROSS LLC|GREEN CROSS OF CHERRY CREEK|403-00130|Optional Premises|Withdrawn|505 North Bryant, Unit F|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN CROSS SUPER STORE LLC||402R-00277|Retail Marijuana Store|Withdrawn|14200 East Colfax Avenue|Aurora CO  80011|Aurora|Adams|CO|80011|
+GREEN EARTH WELLNESS CENTER LLC|GREEN EARTH WELLNESS CENTER LLC|404-00027|Infused Product Manufacturer|Withdrawn|505 North 30th Street|COLORADO SPRINGS CO  80904|COLORADO SPRINGS||CO|80904|
+GREEN EARTH WELLNESS INC|THE GREEN SOLUTION|403-00824|Optional Premises|Withdrawn|389 WADSWORTH BLVD SUITE B|LAKEWOOD CO  80226|LAKEWOOD||CO|80226|
+GREEN EXCHANGE LLC|GREEN EXCHANGE|402R-00342|Retail Marijuana Store|Withdrawn|15531 East Colfax Avenue|Aurora CO  80011|Aurora|Adams|CO|80011|
+GREEN GARAGE LLC|GREEN MIRACLE MEDICINALS|402-00464|Center - Type 1|Withdrawn|985 Highway 133|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+GREEN GARAGE LLC|Green Miracle Medicinals|402-00723|Center - Type 1|Withdrawn|730 E COOPER AVE 103|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+GREEN GRASS LLC|FLATISON CAREGIVERS LLP|403-00728|Optional Premises|Withdrawn|1971 31 ST|Boulder CO  80301|Boulder|Boulder|CO|80301|
+GREEN HEALTH LLC|GREEN HEALTH LLC|403R-00968|Retail Marijuana Cultivation Facility|Withdrawn|Lot 25 GC 161|Kremmling CO  80459|Kremmling|Grand|CO|80459|
+GREEN HEART LTD|GREEN HEART LTD|402R-00326|Retail Marijuana Store|Withdrawn|60 North Potomac Street|Aurora CO  80011|Aurora|Adams|CO|80011|
+GREEN HOUSE LLC|HERB PERFECT|402-00427|Center - Type 1|Withdrawn|2403 Champa St|Denver CO  80205|Denver|Denver|CO|80205|
+GREEN HOUSE LLC|HERB PERFECT|403-00647|Optional Premises|Withdrawn|2403 Champa St|Denver CO  80205|Denver|Denver|CO|80205|
+GREEN HOUSE LLC|HERB PERFECT|404-00178|Infused Product Manufacturer|Withdrawn|2403 Champa St|Denver CO  80205|Denver|Denver|CO|80205|
+GREEN LEAF INC||402R-00278|Retail Marijuana Store|Withdrawn|715 Billings Street|Aurora CO  80011|Aurora|Adams|CO|80011|
+GREEN LIFE MEDICAL CENTER LLC|GREEN LIFE MEDICAL CENTER LLC|402-00625|Center - Type 1|Withdrawn|1265 Lake Plaza Drive|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+GREEN LIFE MEDICAL CENTER LLC|GREEN LIFE MEDICAL CENTER LLC|403-00937|Optional Premises|Withdrawn|1042 W. Highway 24|Woodland Park CO  80863|Woodland Park|Teller|CO|80863|
+GREEN LIFE MEDICAL CENTER LLC|GREEN LIFE MEDICAL CENTER LLC|403-00938|Optional Premises|Withdrawn|1265 Lake Plaza Drive|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+GREEN LIFE WELLNESS LLC|GREEN LOVE WELLNESS|402-00208|Center - Type 1|Withdrawn|1930 E PLATTE AVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+GREEN LIFE WELLNESS LLC|GREEN LIFE WELLNESS LLC|403-00300|Optional Premises|Withdrawn|410 S NEVADA AVE|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+GREEN MEADOWS WELLNESS LLC|GREEN MEADOWS WELLNESS LLC|402-00792|Center - Type 1|Withdrawn|1701 Kipling St  #104|LAKEWOOD CO  80215|LAKEWOOD||CO|80215|
+GREEN MEADOWS WELLNESS LLC|INFINITE WELLNESS CENTER|403-01198|Optional Premises|Withdrawn|999 Valejo |Denver CO  80216|Denver|Denver|CO|80216|
+GREEN MEADOWS WELLNESS LLC|INFINITE WELLNESS CENTER|403-01892|Optional Premises|Withdrawn|900 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+GREEN MEDICALS INC|GREEN DOOR WELLNESS CENTER|402-00730|Center - Type 1|Withdrawn|10781 Washington Street|Northglenn CO  80233|Northglenn|Adams|CO|80233|
+GREEN MEDICALS INC|GREEN DOOR WELLNESS#2|402-00750|Center - Type 1|Withdrawn|500 8th Street, Unit D|Dacono CO  80514|Dacono|Weld|CO|80514|
+GREEN MEDICALS INC|HOUSE OF HERB|403-01143|Optional Premises|Withdrawn|14726 LONG PEAK COURT|Longmont CO  80504|Longmont|Weld|CO|80504|
+GREEN MEDICALS WELLNESS CENTER #5 LLC|CANNABIS CARE WELLNESS CENTER|402R-00216|Retail Marijuana Store|Withdrawn|5740 South College Avenue, Unit C|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+GREEN MEDICALS WELLNESS CENTER #5 LLC|CANNABIS CARE WELLNESS CENTER|403R-00284|Retail Marijuana Cultivation Facility|Withdrawn|2515 7th Avenue|Garden City CO  80631|Garden City|Weld|CO|80631|
+GREEN MEDICINE LLC|GREEN MEDICINE WELLNESS|403-00820|Optional Premises|Withdrawn|2277 Housetop Mountain Road|Parachute CO  81635|Parachute|Garfield|CO|81635|
+GREEN MEDS INC|THE HIGHLANDS COMPANY|402-00014|Center - Type 1|Withdrawn|3355 W 38TH AVE|Denver CO  80212|Denver|Denver|CO|80212|
+GREEN MEDS INC||403-00016|Optional Premises|Withdrawn|2438 Larimer Street|Denver CO  80205|Denver|Denver|CO|80205|
+GREEN MOUNTAIN CARE GROUP LLC|GREEN MOUNTAIN CARE GROUP LLC|403-00380|Optional Premises|Withdrawn|390 Vallejo St|Denver CO  80223|Denver|Denver|CO|80223|
+GREEN MOUNTAIN DISTRIBUTION LLC||403R-00354|Retail Marijuana Cultivation Facility|Withdrawn|302 Meade Avenue|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+GREEN NATURAL SOLUTIONS INC|GREEN NATURAL SOLUTIONS, INC|403-00802|Optional Premises|Withdrawn|507 Fruitvale Ct.|Grand Junction CO  81504|Grand Junction|Mesa|CO|81504|
+GREEN NATURAL SOLUTIONS INC|GREEN NATURAL SOLUTIONS, INC|404-00216|Infused Product Manufacturer|Withdrawn|716 Grand Avenue|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN NATURAL SOLUTIONS LLC|GREEN NATURAL SOLUTIONS LLC|402-00522|Center - Type 1|Withdrawn|749 ROOD AVE UNIT C|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+GREEN NATURAL SOLUTIONS LLC|GREEN NATURAL SOLUTIONS LLC|403-00772|Optional Premises|Withdrawn|132 32 RD|Grand Junction CO  81503|Grand Junction|Mesa|CO|81503|
+GREEN RX LLC|GREEN RX LLC|404-00254|Infused Product Manufacturer|Withdrawn|4986 MORRISON ROAD |Denver CO  80219|Denver|Denver|CO|80219|
+GREEN SATIVA LLC||403R-00800|Retail Marijuana Cultivation Facility|Withdrawn|3990 Grape Street|Denver CO  80207|Denver|Denver|CO|80207|
+GREENBERRY LLC|GREENBERRY LLC|403-01234|Optional Premises|Withdrawn|120 COUNTY ROAD 207|Durango CO  81301|Durango|La Plata|CO|81301|
+GREENS & THINGS LLC|GREENS & THINGS LLC|402-00794|Center - Type 1|Withdrawn|609 S. Circle Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+GREENS & THINGS LLC|GREENS & THINGS LLC|403-01202|Optional Premises|Withdrawn|609 S. Circle Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+GREENWERKZ LLC|GREENWERKZ LLC|403-00226|Optional Premises|Withdrawn|38150 RIVER FRONTAGE RD.|New Castle CO  81647|New Castle|Garfield|CO|81647|
+GREENWERKZ LLC|GREENWERKZ LLC|403-00227|Optional Premises|Withdrawn|38150 RIVER FRONTAGE RD.|New Castle CO  81647|New Castle|Garfield|CO|81647|
+GREENWERKZ LLC||402R-00325|Retail Marijuana Store|Withdrawn|1400 North Havana Street|Aurora CO  80012|Aurora|Arapahoe|CO|80012|
+GREG INC||403R-01014|Retail Marijuana Cultivation Facility|Withdrawn|1920 Santa Fe Trail Drive|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+GREG INC||403R-01053|Retail Marijuana Cultivation Facility|Withdrawn|100 State Hghway 69|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+GROW LIFE LLC|GROW LIFE LLC|402-00141|Center - Type 1|Withdrawn|1516 DUSTRY DR|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+HAPPY GARDEN INC||403R-00995|Retail Marijuana Cultivation Facility|Withdrawn|3746 Canyon Heights Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+HARMONY GARDENS WELLNESS CENTER LLC|HARMONY GARDENS WELLNESS CENTER LLC|402-00620|Center - Type 1|Withdrawn|2839 S. College Ave., Suite 3 & 4|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+HARMONY GARDENS WELLNESS CENTER LLC|HARMONY GARDENS WELLNESS CENTER LLC|403-00925|Optional Premises|Withdrawn|5595 Arapahoe Ave.|Boulder CO  80301|Boulder|Boulder|CO|80301|
+HARVEST HOUSE LLC|HARVEST HOUSE|402-00525|Center - Type 1|Withdrawn|2701 Highway 50 Unit BC|Grand Junction CO  81503|Grand Junction|Mesa|CO|81503|
+HARVEST HOUSE LLC||403-00776|Optional Premises|Withdrawn|2513 WESLO AVE|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+HARVEST HOUSE LLC||404-00205|Infused Product Manufacturer|Withdrawn|2701 Highway 50 Unit BC|Grand Junction CO  81503|Grand Junction|Mesa|CO|81503|
+HARVEST MOONGROW LLC|HARVEST MOONGROW LLC|404-00361|Infused Product Manufacturer|Withdrawn|2084 Barrett Road|Colorado Springs CO  80926|Colorado Springs|El Paso|CO|80926|
+HARVEST MOONGROW LLC|HARVEST MOONGROW LLC|403-01402|Optional Premises|Withdrawn|2084 Barrett Road|Colorado Springs CO  80926|Colorado Springs|El Paso|CO|80926|
+HATCH WELLNESS CENTER OF LAKEWOOD LLC|HATCH WELLNESS CENTER OF LAKEWOOD LLC|402-00674|Center - Type 1|Withdrawn|10881 W. Asbury Avenue #220|Lakewood CO  80227|Lakewood|Jefferson|CO|80227|
+HATCH WELLNESS CENTER OF LAKEWOOD LLC|HATCH WELLNESS CENTER OF LAKEWOOD LLC|403-01016|Optional Premises|Withdrawn|579 E. County Line Road|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+HAYES MEDICAL LLC|LOWRY LEAF|402-00416|Center - Type 1|Withdrawn|729 Quebec St.|Denver CO  80220|Denver|Denver|CO|80220|
+HAYES MEDICAL LLC|LOWRY LEAF|403-00630|Optional Premises|Withdrawn|729 Quebec St|Denver CO  80220|Denver|Denver|CO|80220|
+HEALING HOUSE LAKEWOOD LLC|HEALING HOUSE LAKEWOOD, LLC|403R-00280|Retail Marijuana Cultivation Facility|Withdrawn|Lakeview Prairie TBD Hwy 96 or Rex Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+HEALING HOUSE LLC|HEALING HOUSE LLC|402-00314|Center - Type 1|Withdrawn|123 W. Alameda Ave|Denver CO  80223|Denver|Denver|CO|80223|
+HEALING HOUSE LLC|HEALING HOUSE LLC|403-00470|Optional Premises|Withdrawn|10712 W Alameda Ave|Denver CO  80226|Denver|Jefferson|CO|80226|
+HEALTH DEPOT LLC||404-00016|Infused Product Manufacturer|Withdrawn|4615 E COLFAX AVE UNIT B|Denver CO  80220|Denver|Denver|CO|80220|
+HEAVENLY HEALING LLC|HEAVENLY HEALING LLC|402-00106|Center - Type 1|Withdrawn|1225 North 23rd St., Unit 106|GRAND JUNCTION CO  81501|GRAND JUNCTION|Mesa|CO|81501|
+HEAVENLY HEALING LLC|HEAVENLY HEALING LLC|403-00151|Optional Premises|Withdrawn|1225 North 23rd St., Unit 106|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HEAVENLY HEALING LLC|HEAVENLY HEALING LLC|403-00152|Optional Premises|Withdrawn|840 1st Avenue|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HEAVENLY HEALING LLC|HEAVENLY HEALING LLC|404-00033|Infused Product Manufacturer|Withdrawn|1225 North 23rd St., Unit 106|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HEAVENLY MEDICAL INC|HEAVENLY MEDICAL CAREGIVER|402-00081|Center - Type 1|Withdrawn|5323 Montbello Lane|Colorado Springs CO  80918|Colorado Springs|El Paso|CO|80918|
+HEAVENLY MEDICAL INC|HEAVENLY MEDICAL CAREGIVER|403-00122|Optional Premises|Withdrawn|2130 Reliable Circle|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+HEAVENLY MEDICAL INC|HEAVENLY MEDICAL CAREGIVER|403-01823|Optional Premises|Withdrawn|2715 Delta Place|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+HERBAL CONNECTION & CONFECTIONS LLC|HERBAL CONNECTION & CONFECTIONS LLC|404-00249|Infused Product Manufacturer|Withdrawn|18208 Altamesa Drive|San Luis CO  81152|San Luis|Costilla|CO|81152|
+HERBAL CONNECTION & CONFECTIONS LLC|HERBAL CONNECTION & CONFECTIONS LLC|403-01240|Optional Premises|Withdrawn|18208 ALTAMESA DR|San Luis CO  81152|San Luis|Costilla|CO|81152|
+HERBAL CONNECTIONS LLC|HERBAL CONNECTIONS LLC|403-00960|Optional Premises|Withdrawn|1064 Snow Bush Drive|Montrose CO  81403|Montrose|Montrose|CO|81403|
+HERBAL CONNECTIONS LLC|HERBAL CONNECTIONS LLC|403-00963|Optional Premises|Withdrawn|2219 SOUTH JASON STREET|Denver CO  80223|Denver|Denver|CO|80223|
+HERBAL CONNECTIONS LLC|HERBAL CONNECTIONS LLC|403-00964|Optional Premises|Withdrawn|2211 SOUTH JASON STREET|Denver CO  80223|Denver|Denver|CO|80223|
+Herbal Connections LLC|Herbal Connections LLC|404-00317|Infused Product Manufacturer|Withdrawn|2209 W. 32nd Ave.|Denver CO  80211|Denver|Denver|CO|80211|
+HERBAL HEALTH LLC|HERBAL HEALTH LLC|403-00869|Optional Premises|Withdrawn|213 ASPEN GARDEN WAY UNIT 2|Woodland Park CO  80863|Woodland Park|Teller|CO|80863|
+HERBAL LOVE CAREGIVERS|HERBAL LOVE CAREGIVERS|402-00173|Center - Type 1|Withdrawn|3001 E PLATTE AVENUE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+HERBAL LOVE CAREGIVERS|HERBAL LOVE CAREGIVERS|403-00261|Optional Premises|Withdrawn|3001 E PLATTE AVENUE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+HERBAL MEDICAL INSTITUTE LLC|GREEN DRAGON BEVERAGES|404-00081|Infused Product Manufacturer|Withdrawn|14 Nelson Street|Ward CO  80481|Ward|Boulder|CO|80481|
+HERBAL MEDICAL INSTITUTE LLC|GREEN GREEN DRAGON PRODUCTS|404R-00056|Retail Marijuana Products Mfg|Withdrawn|4640 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+HERBAL MEDICAL INSTITUTE LLC|GREEN DRAGON PRODUCTS|403R-00814|Retail Marijuana Cultivation Facility|Withdrawn|4640 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+HERBAL MEDICAL INSTITUTE LLC|Green Dragon Products|403R-01110|Retail Marijuana Cultivation Facility|Withdrawn|4640 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+HERBAL OPTIONS LLC|GOOD MEDS|403-01119|Optional Premises|Withdrawn|3431 S FEDERAL BLVD UNIT G|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+HERBAL OUTFITTERS LLC|GREEN MEDICINE WELLNESS|404-00007|Infused Product Manufacturer|Withdrawn|109 W. 4th Street|Rifle CO  81650|Rifle|Garfield|CO|81650|
+HERBAL PARADISE|MESA ALTERNATIVE HEALTH & WELLNESS|402-00816|Center - Type 1|Withdrawn|605 GRAND AVE|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HERBAL PARADISE|MESA ALTERNATIVE HEALTH & WELLNESS|403-01236|Optional Premises|Withdrawn|605 GRAND AVE|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HERBAL REMEDIES INC|HERBAL REMEDIES INC|402-00654|Center - Type 3|Withdrawn|3200 W 72ND AVE|Westminster CO  80030|Westminster|Adams|CO|80030|
+HERBAL REMEDIES INC|HERBAL REMEDIES INC|403-00986|Optional Premises|Withdrawn|3653 COUNTY RD 17|Brighton CO  80603|Brighton|Weld|CO|80603|
+HERBAL WELLNESS|SWEET LEAF|402R-00231|Retail Marijuana Store|Withdrawn|4379 Tejon Street|Denver CO  80211|Denver|Denver|CO|80211|
+HERBAL WELLNESS|SWEET LEAF|403R-00306|Retail Marijuana Cultivation Facility|Withdrawn|110 Yuma Street, Unit 1|Denver CO  80223|Denver|Denver|CO|80223|
+HERBAL WELLNESS LLC|FREE MEDICAL MJ STORE|403-01051|Optional Premises|Withdrawn|7352 GREENRIDGE RD|Loveland CO  80538|Loveland|Larimer|CO|80538|
+HERBAL WELLNESS LLC|FREEMEDICAL MJ STORE|403-01052|Optional Premises|Withdrawn|6410 S College Ave, #B|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+HERBAL WELLNESS LLC|FREE MEDICAL MJ STORE|403-01054|Optional Premises|Withdrawn|22360 WELD CTY RD 54|Greeley CO  80631|Greeley|Weld|CO|80631|
+HERBAL WELLNESS LLC|FREE MEDICAL MJ STORE|404-00275|Infused Product Manufacturer|Withdrawn|6410 S COLLEGE #E|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+HERBOLOGY ASPEN LLC|HERBOLOGY ASPEN LLC|404-00274|Infused Product Manufacturer|Withdrawn|300 PUPPY SMITH ROAD|Aspen CO  81612|Aspen|Pitkin|CO|81612|
+HERBOLOGY ASPEN LLC|HERBOLOGY ASPEN LLC|403-01047|Optional Premises|Withdrawn|300 PUPPY SMITH ROAD|Aspen CO  81612|Aspen|Pitkin|CO|81612|
+HERBOLOGY INC|VIP CANNABIS|402-00013|Center - Type 1|Withdrawn|2527 FEDERAL BLVD|DENVER CO  80211|DENVER||CO|80211|
+HERBOLOGY INC|KUSHISIM|403-00015|Optional Premises|Withdrawn|4242 Elizabeth St #5|Denver CO  80216|Denver|Denver|CO|80216|
+HERBPOTHERB INC|HERB POTHHERB INC|402-00682|Center - Type 1|Withdrawn|2303 E. Platte Avenue|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+HERBPOTHERB INC|HERBPOTHERB INC|404-00266|Infused Product Manufacturer|Withdrawn|2303 E. Platte Avenue|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+HERBPOTHERB INC|HERB POTHHERB INC|403-01025|Optional Premises|Withdrawn|2303 E. Platte Avenue|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+HERBS NEST LLC|HERB HERB HERB IS THE WORD|403-01065|Optional Premises|Withdrawn|3887 Steele Street|Denver CO  80205|Denver|Denver|CO|80205|
+HERITAGE ORGANICS LLC||404-00023|Infused Product Manufacturer|Withdrawn|84 N Precision Dr|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HHM INC|HARVEST HOUSE MEDICINALS|402-00546|Center - Type 1|Withdrawn|211 Hwy 119|Nederland CO  80466|Nederland|Boulder|CO|80466|
+HHM INC|HARVEST HOUSE MEDICINALS|403-00808|Optional Premises|Withdrawn|211 Hwy 119|Nederland CO  80466|Nederland|Boulder|CO|80466|
+HIGH COUNTRY MEDICAL SOLUTIONS LLC|HIGH COUNTRY MEDICAL SOLUTIONS LLC|402-00707|Center - Type 1|Withdrawn|5783 SHERIDAN BLVD.#101|Arvada CO  80002|Arvada|Jefferson|CO|80002|
+HIGH COUNTRY MEDICAL SOLUTIONS LLC|HIGH COUNTRY MEDICAL SOLUTIONS LLC|403-01067|Optional Premises|Withdrawn|1001 LEE HILL ROAD UNIT 3A&3B|Boulder CO  80304|Boulder|Boulder|CO|80304|
+HIGH COUNTRY SUPPLY LLC|HIGH COUNTRY SUPPLY LLC|404-00074|Infused Product Manufacturer|Withdrawn|1178 S. Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+HIGH COUNTRY SUPPLY LLC|COLORADO HARVEST COMPANY|402R-00284|Retail Marijuana Store|Withdrawn|354 Havana St Unit 6|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+HIGH DEMAND LLC |High Demand|404-00637|Infused Product Manufacturer|Withdrawn|38 North Silicon Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HIGH DESERT HERBAL REMEDY CENTER|Desert High Herbal Remedy & Wellness Center|402-00557|Center - Type 1|Withdrawn|1753 MAIN ST|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HIGH DESERT HERBAL REMEDY CENTER|Desert High Herbal Remedy & Wellness Center|403-00826|Optional Premises|Withdrawn|1753 MAIN ST|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+HIGH GRADE ALTERNATIVES LLC|HIGH GRADE ALTERNATIVES LLC|402-00030|Center - Type 1|Withdrawn|3370 ARAPAHOE AVE|BOULDER CO  80303|BOULDER||CO|80303|
+HIGH GRADE ALTERNATIVES LLC|HIGH GRADE ALTERNATIVES LLC|403-00041|Optional Premises|Withdrawn|1840 COMMERCE AVE|BOULDER CO  80301|BOULDER||CO|80301|
+HIGH GRADE ALTERNATIVES LLC|HIGH GRADE ALTERNATIVES LLC|403-00042|Optional Premises|Withdrawn|6880 WINCHESTER CIR|Boulder CO  80301|Boulder|Boulder|CO|80301|
+HIGH OCTANE LLC||402R-00800|Retail Marijuana Store|Withdrawn|8910 South Interstate 25|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+HIGH VOLTAGE PRODUCTS LLC|HIGH VOLTAGE PRODUCTS|403R-00492|Retail Marijuana Cultivation Facility|Withdrawn|258 East 5th Street|Nederland CO  80466-3320|Nederland|Boulder|CO|804663320|
+HIGH VOLTAGE PRODUCTS LLC|HIGH VOLTAGE PRODUCTS|404R-00129|Retail Marijuana Products Mfg|Withdrawn|258 East 5th Street|Nederland CO  80466|Nederland|Boulder|CO|80466|
+HIGHER QUALITY LLC||403R-00862|Retail Marijuana Cultivation Facility|Withdrawn|28745 East US Hwy 160|Durango CO  81301|Durango|La Plata|CO|81301|
+HIGHJINX LLC||403R-00851|Retail Marijuana Cultivation Facility|Withdrawn|SE 1/4 SW 1/4 Section 13, Township 42 North, Range 9 East|Center CO  81125|Center|Saguache|CO|81125|
+HIGHLAND HEALTH DENVER LLC|RESERVE 1 DENVER|403-00477|Optional Premises|Withdrawn|4410 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HIGHLAND HEALTH DENVER LLC|RESERVE 1 DENVER|402-00333|Center - Type 1|Withdrawn|4440 Garfield Street, Unit 100|Denver CO  80206|Denver|Denver|CO|80206|
+HIGHLAND HEALTH DENVER LLC|RESERVE 1 DENVER|404-00134|Infused Product Manufacturer|Withdrawn|4440 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+HIGHLANDS WELLNESS CENTER LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|403-00199|Optional Premises|Withdrawn|1045 ZUNI ST|Denver CO  80204|Denver|Denver|CO|80204|
+HIGHLANDS WELLNESS CENTER LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|404-00047|Infused Product Manufacturer|Withdrawn|3460 W 32ND AVE|Denver CO  80211|Denver|Denver|CO|80211|
+HIGHWIRE COMPANY LLC|HIGHWIRE COMPANY LLC|402-00577|Center - Type 1|Withdrawn|8 CHESEBRO WAY|Eldorado Springs CO  80025|Eldorado Springs|Boulder|CO|80025|
+HIGHWIRE COMPANY LLC|HIGHWIRE COMPANY LLC|403-00857|Optional Premises|Withdrawn|8 CHESEBRO WAY|Eldorado Springs CO  80025|Eldorado Springs|Boulder|CO|80025|
+HIWAY 40 INC||402R-00459|Retail Marijuana Store|Withdrawn|8 County Road 821|Tabernash CO  80478|Tabernash|Grand|CO|80478|
+HMS AURORA LLC|THE CLINIC AURORA|402R-00273|Retail Marijuana Store|Withdrawn|15620 East 6th Avenue|Aurora CO  80011|Aurora|Adams|CO|80011|
+HOLD STEADY LLC|HOLD STEADY LLC|402-00034|Center - Type 1|Withdrawn|90 RIO GRANDE BLVD|Denver CO  80223|Denver|Denver|CO|80223|
+HOLD STEADY LLC|HOLD STEADY LLC|403-00046|Optional Premises|Withdrawn|90 RIO GRANDE BLVD|DENVER CO  80223|DENVER||CO|80223|
+HOLISTICAL LLC|SOUTH PARK FARMA|404R-00214|Retail Marijuana Products Mfg|Withdrawn|375 Kokanee Road|Fairplay CO  80440|Fairplay|Park|CO|80440|
+HOLLY MEDICINAL SERVICES LLC|THE CLINIC ON HOLLY|404-00043|Infused Product Manufacturer|Withdrawn|1479 S HOLLY ST|Denver CO  80222|Denver|Denver|CO|80222|
+HOLLY MEDICINAL SERVICES LLC|THE CLINIC ON HOLLY DBA THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|403-01222|Optional Premises|Withdrawn|1479 South Holly  Street|Denver CO  80222|Denver|Denver|CO|80222|
+HOSHTA LLC|HOSHTA LLC|404-00298|Infused Product Manufacturer|Withdrawn|1460 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HUMBOLDT CARE AND WELLNESS CENTER LLC|HUMBOLDT CARE AND WELLNESS CENTER LLC|403-00883|Optional Premises|Withdrawn|1324 GARDEN OF THE GODS ROAD WEST|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+HUMBOLDT CARE AND WELLNESS CENTER LLC|HUMBOLDT CARE AND WELLNESS CENTER LLC|404-00231|Infused Product Manufacturer|Withdrawn|1330 GARDEN OF THE GODS ROAD WEST|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+HUMBOLDT CARE AND WELLNESS CENTER LLC|HUMBOLDT CARE AND WELLNESS CENTER LLC|403-00885|Optional Premises|Withdrawn|6823 Space Village Avenue|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HUMBOLDT CARE AND WELLNESS CENTER LLC|HUMBOLDT CARE AND WELLNESS CENTER LLC|403-00886|Optional Premises|Withdrawn|1411 WOOLSEY HEIGHTS SUITE A|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HYDROPONIC CREATIONS INC|HYDROPONIC CREATIONS INC|402-00255|Center - Type 1|Withdrawn|6800 Hwy 82, Ste 3|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+HYDROPONIC CREATIONS INC|HYDROPONIC CREATIONS INC|403-00383|Optional Premises|Withdrawn|#3 Seven Oaks Rd|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+HYDROPONIC CREATIONS INC|HYDROPONIC CREATIONS INC|404-00327|Infused Product Manufacturer|Withdrawn|#3 Seven Oaks Rd|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+I & S LLC|I & S LLC|403-00680|Optional Premises|Withdrawn|1435 Selix Grove, Unit 120|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+IBANNABI INC||402R-00324|Retail Marijuana Store|Withdrawn|472 Laredo, Units A-J & P-S|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+IKAR LLC||403R-00841|Retail Marijuana Cultivation Facility|Withdrawn|14003 North Highway 17|Moffat CO  81143|Moffat|Saguache|CO|81143|
+IMG INDUSTRIES LLC|IMG Industries, LLC|404-00136|Infused Product Manufacturer|Withdrawn|4919 N Broadway, Units #20-21|Boulder CO  80304|Boulder|Boulder|CO|80304|
+IMG INDUSTRIES LLC|IMG Industries, LLC|403-00509|Optional Premises|Withdrawn|4919 N Broadway, Units #20-21|Boulder CO  80304|Boulder|Boulder|CO|80304|
+IN HARMONY WELLNESS INC||404-00243|Infused Product Manufacturer|Withdrawn|7352 Greenridge Road Unit A-8|Windsor CO  80550|Windsor|Weld|CO|80550|
+IN HARMONY WELLNESS INC||402-00617|Center - Type 1|Withdrawn|4630 Royal Vista Cir Unit 12|Windsor CO  80528|Windsor|Larimer|CO|80528|
+IN HARMONY WELLNESS INC||403-00915|Optional Premises|Withdrawn|7352 Greenridge Road Unit B-14|Windsor CO  80550|Windsor|Weld|CO|80550|
+INDICA RX|FORT COLLINS KINDEST, ALSO DBA FREUDIAN SIP|402-00337|Center - Type 1|Withdrawn|104 Pinon St|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+INDICA RX|FORT COLLINS KINDEST, ALSO DBA FREUDIAN SIP|403-00505|Optional Premises|Withdrawn|1225 Blue Spruce Dr Unit N|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+INDY 1 LLC INDISPENSARY|INDISPENSARY|402-00547|Center - Type 1|Withdrawn|123 E. Bijou St. |Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+INDY 1 LLC INDISPENSARY|INDISPENSARY|403-00809|Optional Premises|Withdrawn|123 E. Bijou St. |Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+INDY 2 LLC|INDISPENSARY|403-00811|Optional Premises|Withdrawn|3721 WILDHORN ROAD|Florissant CO  80816|Florissant|Teller|CO|80816|
+INDY 3 LLC|INDISPENSARY|403-00812|Optional Premises|Withdrawn|3031 E. Platte Avenue|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+INNOVATIVE THERAPIES LLC|INNOVATIVE THERAPIES LLC|402-00760|Center - Type 1|Withdrawn|1327 N Lincola Ave|Loveland CO  80537|Loveland|Larimer|CO|80537|
+INNOVATIVE THERAPIES LLC|INNOVATIVE THERAPIES LLC|403-01160|Optional Premises|Withdrawn|1327 N Lincola Ave|Loveland CO  80537|Loveland|Larimer|CO|80537|
+INTEGRATED CAREGIVERS SERVICES LLC||402-00238|Center - Type 1|Withdrawn|2579 DURANGO DR|COLORADO SPRINGS CO  80910|COLORADO SPRINGS||CO|80910|
+INTEGRATED CAREGIVERS SERVICES LLC||403-00360|Optional Premises|Withdrawn|2579 DURANGO DR|COLORADO SPRINGS CO  80910|COLORADO SPRINGS||CO|80910|
+ISLAND LLC|ISLAND LLC|404-00288|Infused Product Manufacturer|Withdrawn|1900 55TH ST. |Boulder CO  80301|Boulder|Boulder|CO|80301|
+ISLAND LLC|ISLAND LLC|403-01247|Optional Premises|Withdrawn|1900 55TH ST #202|Boulder CO  80301|Boulder|Boulder|CO|80301|
+J & J MOUNTAIN MEDICALS LLC|J & J MOUNTAIN MEDICALS LLC|403-00870|Optional Premises|Withdrawn|1896 BUTTERCUP ROAD|Elizabeth CO  80107|Elizabeth|Elbert|CO|80107|
+J&R PARTNERS LLC|J&R PARTNERS LLC|403-01416|Optional Premises|Withdrawn|4747 North Broadway Street, #C|Boulder CO  80304|Boulder|Boulder|CO|80304|
+JACT ENTERPRISES LLC||402R-00546|Retail Marijuana Store|Withdrawn|3900 East 48th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+JACT ENTERPRISES LLC||403R-00655|Retail Marijuana Cultivation Facility|Withdrawn|3900 East 48th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+JACT ENTERPRISES LLC||402-01147|Center - Type 1|Withdrawn|3900 East 48th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+JACT ENTERPRISES LLC||403-01757|Optional Premises|Withdrawn|3900 East 48th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+JDC LLC|JDC LLC|402-00296|Center - Type 1|Withdrawn|938 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+JDC LLC|JDC LLC|403-00443|Optional Premises|Withdrawn|938 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+JMC ENTERPRISES INC|JMC ENTERPRISES INC|404-00056|Infused Product Manufacturer|Withdrawn|19256 C.R 343|Buena Vista CO  81211|Buena Vista|Chaffee|CO|81211|
+JMMP ENTERPRISES INC|GRATEFUL MEDS|403-00734|Optional Premises|Withdrawn|6655 LOOKOUT ROAD|Boulder CO  80301|Boulder|Boulder|CO|80301|
+JOHN A. SQUIRE||403-00818|Optional Premises|Withdrawn|Rancho Durango|Durango CO  81301|Durango|La Plata|CO|81301|
+JOHNNY CANNASEED LLC||403R-00754|Retail Marijuana Cultivation Facility|Withdrawn|39331-A Harbour Road|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+JOINT VENTURES INC|JOINT VENTURES INC|404-00116|Infused Product Manufacturer|Withdrawn|7900 Silver St|Salida CO  81201|Salida|Chaffee|CO|81201|
+JOINT VENTURES INC|JOINT VENTURES INC|403-00427|Optional Premises|Withdrawn|7900 Silver St|SALIDA CO  81201|SALIDA||CO|81201|
+JOIS LLC|JOIS LLC|403-00494|Optional Premises|Withdrawn|1445 Selix Grove, Unit 130|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+JOIS LLC|JOIS LLC|403-00495|Optional Premises|Withdrawn|3428 N Hwy 105|Sedalia CO  80135|Sedalia|Douglas|CO|80135|
+JOJO ENTERPRISE LLC|SOUTH SPRINGMEDICAL|402-01037|Center - Type 1|Withdrawn|1507 Dustry Drive|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+JOJO ENTERPRISE LLC|SOUTH SPRINGMEDICAL|403-01629|Optional Premises|Withdrawn|1507 Dustry Drive|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+JOSHUA LORENZ||403-00817|Optional Premises|Withdrawn|567 Squaw Apple|Durango CO  81301|Durango|La Plata|CO|81301|
+JS INVESTMENTS AURORA LLC|EUFLORA|402R-00306|Retail Marijuana Store|Withdrawn|1050 South Sable Boulevard|Aurora CO  80012|Aurora|Arapahoe|CO|80012|
+JTR CAREGIVERS LLC|JTR CAREGIVERS LLC|404-00211|Infused Product Manufacturer|Withdrawn|2714 28th St|Boulder CO  80301|Boulder|Boulder|CO|80301|
+JTR CAREGIVERS LLC|JTR CAREGIVERS LLC|402R-00185|Retail Marijuana Store|Withdrawn|1021 Pearl Street, Suite B|Boulder CO  80302|Boulder|Boulder|CO|80302|
+JTR CAREGIVERS LLC|HELPING HANDS HERBALS|403R-00242|Retail Marijuana Cultivation Facility|Withdrawn|4715 North Broadway, C-1, C-2, C-3, C-8|Boulder CO  80304|Boulder|Boulder|CO|80304|
+JUS CUZ LLC|JUSCUZ LLC|404-00267|Infused Product Manufacturer|Withdrawn|1630 Carr Street, Unit B|Lakewood CO  80214|Lakewood|Jefferson|CO|80214|
+K.I.N.D. WELLNESS CENTER LLC|THE HERBAL COUNCIL|402-00741|Center - Type 1|Withdrawn|345 Colorado Avenue, Suite 103|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+K.I.N.D. WELLNESS CENTER LLC|THE HERBAL COUNCIL|403-01126|Optional Premises|Withdrawn|222 Ronce Lane|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+K.I.N.D. WELLNESS CENTER LLC|THE HERBAL COUNCIL|403-01128|Optional Premises|Withdrawn|17694 Highway 82|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+K.I.N.D. WELLNESS CENTER LLC|THE HERBAL COUNCIL|404-00287|Infused Product Manufacturer|Withdrawn|222 Ronce Lane|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+KA TET WELLNESS SERVICES LLC|KA TET WELLNESS SERVICES|402-00640|Center - Type 1|Withdrawn|489 N HWY 287 SUITE 201|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+KA TET WELLNESS SERVICES LLC|KA TET WELLNESS SERVICES|403-00968|Optional Premises|Withdrawn|1224 Commerce Court|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+KAZIMER LLC||403-00220|Optional Premises|Withdrawn|1700 55th Street|Boulder CO  80303|Boulder|Boulder|CO|80303|
+KAZIMER LLC||404-00054|Infused Product Manufacturer|Withdrawn|1700 55TH STREET|Boulder CO  80303|Boulder|Boulder|CO|80303|
+KAZIMER LLC|NKA JOIS LLC DBA CANNAMART|403-00684|Optional Premises|Withdrawn|1445 Selix Grove, Unit 100|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+KB UNLIMITED LLC|THE CABBAGE HOUSE|402-01001|Center - Type 1|Withdrawn|10665 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+KB UNLIMITED LLC|THE CABBAGE HOUSE|403-01573|Optional Premises|Withdrawn|10665 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+KB UNLIMITED LLC|THE CABBAGE HOUSE|404-00428|Infused Product Manufacturer|Withdrawn|10665 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+KENTON ST INC||402R-00285|Retail Marijuana Store|Withdrawn|1452 KENTON STREET|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+KIND CARE OF COLORADO LLC|KIND CARE OF COLORADO LLC|402-00120|Center - Type 1|Withdrawn|6617 South College Avenue Building A|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+KIND CARE OF COLORADO LLC|KIND CARE OF COLORADO LLC|403-00169|Optional Premises|Withdrawn|6617 South College Avenue Building A|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+KIND CARE OF COLORADO LLC|KIND CARE OF COLORADO LLC|403-00170|Optional Premises|Withdrawn|5716 Bueno Drive|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+KIND LOVE LLC|KIND LOVE LLC|403-00036|Optional Premises|Withdrawn|3955 NEWPORT ST UNIT B & C|Denver CO  80207|Denver|Denver|CO|80207|
+KIND LOVE LLC|KIND LOVE|402R-00647|Retail Marijuana Store|Withdrawn|140 West 84th Avenue|Denver CO  80260|Denver|Adams|CO|80260|
+KIND LOVE LLC|KIND LOVE|402-01236|Center - Type 1|Withdrawn|130 West 84th Avenue|Denver CO  80246|Denver|Arapahoe|CO|80246|
+KIND PAIN MANAGEMENT INC|KIND PAIN MANAGEMENT INC.|404-00251|Infused Product Manufacturer|Withdrawn|2636 Youngfield Street|Lakewood CO  80215|Lakewood|Jefferson|CO|80215|
+KIND THERAPEUTICS INC|KIND THERAPEAUTICS INC|404-00168|Infused Product Manufacturer|Withdrawn|4058 Palmer Park Blvd|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+KIRKE LLC|THE HEMP CENTER COLORADO SPRINGS|404-00232|Infused Product Manufacturer|Withdrawn|2501 W. Colorado Avenue, #106|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+KOKOPELLI WELLNESS CENTER|Kokopelli Wellness Center|402-00567|Center - Type 1|Withdrawn|115 W COLORADO AVE|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+KOKOPELLI WELLNESS CENTER|KOKOPELLI WELLNESS CENTER|403-00841|Optional Premises|Withdrawn|160 FRONT ST|Placerville CO  81430|Placerville|San Miguel|CO|81430|
+KOKOPELLI WELLNESS CENTER|KOKOPELLI WELLNESS CENTER|403-00842|Optional Premises|Withdrawn|749 V44 RD|Norwood CO  81423|Norwood|San Miguel|CO|81423|
+KOKOPELLI WELLNESS CENTER LLC|RIVERROCK LLC|403-00218|Optional Premises|Withdrawn|4955 YORK ST|Denver CO  80216|Denver|Denver|CO|80216|
+LADY BUDZ LLC|LADYBUDZ LLC|402-00626|Center - Type 1|Withdrawn|4421 Inca St.|Denver CO  80211|Denver|Denver|CO|80211|
+LADY BUDZ LLC|LADYBUDZ LLC|403-00939|Optional Premises|Withdrawn|4421 Inca St.|Denver CO  80211|Denver|Denver|CO|80211|
+LAKE CITY MEDICAL MARIJUANA DISTRIBUTION, LLC|LAKE CITY MEDICAL MARIJUANA DISTRIBUTION, LLC|402-00708|Center - Type 1|Withdrawn|207 N. Gunnison Ave|Lake City CO  81235|Lake City|Hinsdale|CO|81235|
+LAKE CITY MEDICAL MARIJUANA DISTRIBUTION, LLC|LAKE CITY MEDICAL MARIJUANA DISTRIBUTION, LLC|403-01068|Optional Premises|Withdrawn|207 N. Gunnison Ave|Lake City CO  81235|Lake City|Hinsdale|CO|81235|
+LAKE CITY MEDICAL MARIJUANA DISTRIBUTION, LLC|LAKE CITY MEDICAL MARIJUANA DISTRIBUTION, LLC|403-01069|Optional Premises|Withdrawn|311 N. Silver Street|Lake City CO  81235|Lake City|Hinsdale|CO|81235|
+LAKEWOOD PATIENT RESOURCE CENTER INC||402-00593|Center - Type 1|Withdrawn|7003 WEST COLFAX AVE|Denver CO  80214|Denver|Jefferson|CO|80214|
+LAKEWOOD PATIENT RESOURCE CENTER INC||403-00887|Optional Premises|Withdrawn|7003 WEST COLFAX AVE|Denver CO  80214|Denver|Jefferson|CO|80214|
+LARKSPUR ALTERNATIVE MEDICINE CENTER LLC|LARKSPUR ALTERNATIVE MEDICINE CENTER LLC|402-00757|Center - Type 1|Withdrawn|9080 SPRUCE MTN RD #A|Larkspur CO  80118|Larkspur|Douglas|CO|80118|
+LARKSPUR ALTERNATIVE MEDICINE CENTER LLC|LARKSPUR ALTERNATIVE MEDICINE CENTER LLC|403-01155|Optional Premises|Withdrawn|5755 INDUSTRIAL PL #C|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+LCM FARMS LLC|LCM FARMS LLC|403R-01142|Retail Marijuana Cultivation Facility|Withdrawn|16605 Highway 6|Rifle CO  81650|Rifle|Garfield|CO|81650|
+LEFT BANK LLC|LEFT BANK LLC|403-00165|Optional Premises|Withdrawn|6701Stapleton Drive North|Denver CO  80216|Denver|Denver|CO|80216|
+LEGAL MEDS LLC|LEGAL MEDS LLC|403-01071|Optional Premises|Withdrawn|790 28TH LANE|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+LEGALLY SUPPLIED MARIJUANA FOR TELLURIDE LLC||402-00271|Center - Type 1|Withdrawn|204 W Colorado Ave #B|TELLURIDE CO  81435|TELLURIDE||CO|81435|
+LEGALLY SUPPLIED MARIJUANA FOR TELLURIDE LLC||403-00405|Optional Premises|Withdrawn|204 W Colorado Ave #B|TELLURIDE CO  81435|TELLURIDE||CO|81435|
+LIGHTSHADE LABS LLC|LIGHTSHADE|402R-00642|Retail Marijuana Store|Withdrawn|101 W 84th Avenue|Denver CO  80260|Denver|Adams|CO|80260|
+LIGHTSHADE LABS LLC|LIGHTSHADE|402-01232|Center - Type 1|Withdrawn|101 West 84th Avenue|Thornton CO  80260|Thornton|Adams|CO|80260|
+LIGHTSHADE LABS LLC|LIGHTSHADE|403R-00977|Retail Marijuana Cultivation Facility|Withdrawn|4335 Race Street|Denver CO  80216|Denver|Denver|CO|80216|
+LIQUID CANNABIS LTD||404R-00437|Retail Marijuana Products Mfg|Withdrawn|15715 US Highway 40 #D304|Evergreen CO  80439|Evergreen|Clear Creek|CO|80439|
+LIVE GREEN AURORA LLC||402R-00308|Retail Marijuana Store|Withdrawn|813 South Havana Street|Aurora CO  80012|Aurora|Arapahoe|CO|80012|
+LIVWELL V LLC|LIVWELL|402R-00395|Retail Marijuana Store|Withdrawn|4540 Highway 6 & 24|De Beque CO  81630|De Beque|Mesa|CO|81630|
+LIVWELL VI LLC|PEACEFUL HERBS |402R-00330|Retail Marijuana Store|Withdrawn|124 Santa Fe Trail|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+LOCAL PRODUCT OF COLORADO LLC|LOCAL PRODUCT OF COLORADO LLC|402-00676|Center - Type 3|Withdrawn|1260 22nd Street|Denver CO  80202|Denver|Denver|CO|80202|
+LoHi Cannabis Club LLC|LoHi Cannabis Club|402-00366|Center - Type 1|Withdrawn|2511 - 17th St|Denver CO  80211|Denver|Denver|CO|80211|
+LoHi Cannabis Club LLC|LoHi Cannabis Club|403-00549|Optional Premises|Withdrawn|615 E. Elgin Place|Denver CO  80216|Denver|Denver|CO|80216|
+LoHi Cannabis Club LLC|LoHi Cannabis Club|403-01245|Optional Premises|Withdrawn|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+LONG GONE FARMS LLC||404R-00335|Retail Marijuana Products Mfg|Withdrawn|49 North Silicon Drive|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+LONG GONE FARMS LLC||403R-00936|Retail Marijuana Cultivation Facility|Withdrawn|49 North Silicon Drive|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+LP MANAGEMENT COMPANY LLC||407R-00014|RMJ Operator|Withdrawn|2350 North Springwood Court|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+LYONS FINEST CONFIDENTIAL CARE LLC||403-00408|Optional Premises|Withdrawn|4071 Ute Hwy|Lyons CO  80540|Lyons|Boulder|CO|80540|
+MAD HATTER COFFEE AND TEA CO LLC|MAD HATTER COFFEE AND TEA CO LLC|404-00188|Infused Product Manufacturer|Withdrawn|4330 Raleigh Street|Denver CO  80212|Denver|Denver|CO|80212|
+MAGGIES FARM LLC||402R-00331|Retail Marijuana Store|Withdrawn|10195 Montview Blvd|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+MAGIC'S EMPORIUM, LLC|MAGIC?S EMPORIUM, LLC|402-00479|Center - Type 1|Withdrawn|2432 E. 13th St.|Loveland CO  80537|Loveland|Larimer|CO|80537|
+MAGIC'S EMPORIUM, LLC|MAGIC?S EMPORIUM, LLC|403-00714|Optional Premises|Withdrawn|2432 E 13th St|Loveland CO  80537|Loveland|Larimer|CO|80537|
+MAGIC'S EMPORIUM, LLC|MAGIC'S EMPORIUM, LLC|404-00196|Infused Product Manufacturer|Withdrawn|2432 E 13th St|LOVELAND CO  80537|LOVELAND|Larimer|CO|80537|
+MAGNOLIA ROAD INC|MAGNOLIA ROAD CANNABIS CO|402R-00801|Retail Marijuana Store|Withdrawn|6101 Washington Street|Denver CO  80216|Denver|Denver|CO|80216|
+MALC OPERATIONS LLC|MALC OPERATIONS LLC|404-00144|Infused Product Manufacturer|Withdrawn|1032 Park Avenue West|Denver CO  80205|Denver|Denver|CO|80205|
+MAMA MANNA'S HERBALS||402-00657|Center - Type 1|Withdrawn|4340 East Kentucky # 344|Glendale CO  80246|Glendale|Arapahoe|CO|80246|
+MAMA MANNA'S HERBALS|MAMA MANNA?S HERBALS|403-00991|Optional Premises|Withdrawn|1760 10 ROAD |Mack CO  81525|Mack|Mesa|CO|81525|
+MAMA MANNA'S HERBALS|MAMA MANNA?S HERBALS|404-00258|Infused Product Manufacturer|Withdrawn|4340 East Kentucky, # 344|Glendale CO  80246|Glendale|Arapahoe|CO|80246|
+MANITOU ALTERNATIVE CENTER LLC|MANITOU ALTERNATIVE CENTER LLC|402-00781|Center - Type 1|Withdrawn|30 Manitou Ave|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+MANITOU ALTERNATIVE CENTER LLC|MANITOU ALTERNATIVE CENTER LLC|403-01186|Optional Premises|Withdrawn|30 Manitou Ave|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+MARI MAGIC LLC|MARI MAGIC LLC|403-00778|Optional Premises|Withdrawn|695 Buggy Circle|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+MARI MAGIC LLC|MARI MAGIC LLC|404-00206|Infused Product Manufacturer|Withdrawn|695 Buggy Circle|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+MARISOL THERAPEUTICS LLC|MARISOL THERAPEUTICS LLC|403-00253|Optional Premises|Withdrawn|19256 County Road #343|Buena Vista CO  81211|Buena Vista|Chaffee|CO|81211|
+MARISOL THERAPEUTICS LLC||402R-00320|Retail Marijuana Store|Withdrawn|695 Billings Street|Aurora CO  80011|Aurora|Adams|CO|80011|
+MARQAHA LLC||404-00083|Infused Product Manufacturer|Withdrawn|4800 Brighton Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+MARQAHA LLC||403-00868|Optional Premises|Withdrawn|4800 Brighton Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+MARTINS NATURAL MEDICINALS LLC|MEDICINE MAN OF GLENWOOD SPRINGS - PARTNER CO|404-00208|Infused Product Manufacturer|Withdrawn|216 6th Street Suite 1A|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+MARY JANES LLC|MARY JANES LLC|402-00210|Center - Type 1|Withdrawn|5073 SILVER PEAKS AVE. UNIT 103|Dacono CO  80514|Dacono|Weld|CO|80514|
+MARY JANES LLC|MARY JANES LLC|403-00302|Optional Premises|Withdrawn|5073 SILVER PEAKS AVE. UNIT 103|Dacono CO  80514|Dacono|Weld|CO|80514|
+MARY JANES LLC|MARY JANES LLC|404-00089|Infused Product Manufacturer|Withdrawn|5073 SILVER PEAKS AVE. UNIT 103|Dacono CO  80514|Dacono|Weld|CO|80514|
+MAX STRENGTH LLC|MAX STRENGTH LLC|402-00289|Center - Type 1|Withdrawn|5595 Arapahoe Ave, Ste C|BOULDER CO  80303|BOULDER||CO|80303|
+MCCW HOLDINGS LLC||403R-00364|Retail Marijuana Cultivation Facility|Withdrawn|756 County Road 224|Kremmling CO  80459|Kremmling|Grand|CO|80459|
+MDM, LLC|METRO CANNABIS ON HAMPDEN DBA METRO CANNABIS 2|402-00273|Center - Type 1|Withdrawn|3425 S Oleander Ct Unit B|Denver CO  80224|Denver|Denver|CO|80224|
+MDM, LLC|METRO CANNABIS ON HAMPDEN DBA METRO CANNABIS 2|403-01226|Optional Premises|Withdrawn|3425 S Oleander Ct Unit B|Denver CO  80224|Denver|Denver|CO|80224|
+MED STOP LLC|MED STOP LLC|402-00089|Center - Type 1|Withdrawn|709 West 8th Ave.|Denver CO  80204|Denver|Denver|CO|80204|
+MED STOP LLC|MED STOP LLC|403-00132|Optional Premises|Withdrawn|2565 Weston Road|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MEDIBIS LLC|MEDIBIS LLC|404-00300|Infused Product Manufacturer|Withdrawn|3701 N Nevada Ave|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MEDICAL 420||402-00098|Center - Type 1|Withdrawn|7595 W Hwy 50 Ste F|Salida CO  81201|Salida|Chaffee|CO|81201|
+MEDICAL 420||403-00143|Optional Premises|Withdrawn|62651 Suite A Hwy 50|Penrose CO  81240|Penrose|Fremont|CO|81240|
+MEDICAL CANNABIS & PARTNERS LLC|MEDICAL CANNABIS & PARTNERS LLC|402-00359|Center - Type 1|Withdrawn|304 Manitou Ave|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+MEDICAL CANNABIS & PARTNERS LLC|MEDICAL CANNABIS & PARTNERS LLC|403-00538|Optional Premises|Withdrawn|304 Manitou Ave|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+MEDICAL CANNABIS CAREGIVERS INC|MEDICAL CANNABIS CAREGIVERS INC|403-00069|Optional Premises|Withdrawn|3415 VAN TEYLINGEN DR UNIT E|COLORADO SPRINGS CO  80918|COLORADO SPRINGS||CO|80918|
+MEDICAL CANNABIS COLORADO LLC|CURE COLORADO|402R-00276|Retail Marijuana Store|Withdrawn|13698 East Iliff Avenue, Suite C|Aurora CO  80014|Aurora|Arapahoe|CO|80014|
+MEDICAL HERBS OF FOUNTAIN LLC|MEDICAL HERBS OF FOUNTAIN LLC|402-00412|Center - Type 1|Withdrawn|660 S Santa Fe Ave|Fountain CO  80817|Fountain|El Paso|CO|80817|
+MEDICAL HERBS OF FOUNTAIN LLC|MEDICAL HERBS OF FOUNTAIN LLC|403-00625|Optional Premises|Withdrawn|3860 N Holly St, Unit 102|DENVER CO  80216|DENVER||CO|80216|
+MEDICAL MARIJUANA OF THE ROCKIES LLC|MEDICAL MARIJUANA OF THE ROCKIES LLC|403-01149|Optional Premises|Withdrawn|1900 55TH ST. SUITE 203|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MEDICAL MARIJUANA OF THE ROCKIES LLC|MEDICAL MARIJUANA OF THE ROCKIES LLC|403-01151|Optional Premises|Withdrawn|1900 55TH ST. SUITE 205|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MEDICAL MARIJUANA OF THE ROCKIES LLC|MEDICAL MARIJUANA OF THE ROCKIES LLC|404-00289|Infused Product Manufacturer|Withdrawn|3989 ULSTER ST.|Denver CO  80207|Denver|Denver|CO|80207|
+MEDICAL MARIJUANA OF THE ROCKIES LLC|MEDICAL MARIJUANA OF THE ROCKIES|403-01267|Optional Premises|Withdrawn|720 Summit Blvd., Suite 101A|Frisco CO  80443|Frisco|Summit|CO|80443|
+MEDICAL MJ SUPPLY LLC|Medical MJ Supply|403-00579|Optional Premises|Withdrawn|4800 Lamar Street, Unit B 2nd floor|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+MEDICAL OASIS|MEDICAL OASIS|403-01181|Optional Premises|Withdrawn|1323 Harlow Lane #6|LOVELAND CO  80537|LOVELAND||CO|80537|
+MEDICAL OASIS|MEDICAL OASIS|404-00296|Infused Product Manufacturer|Withdrawn|1323 Harlow Lane #6|Loveland CO  80537|Loveland|Larimer|CO|80537|
+MEDICAL OASIS LLC|MEDICAL OASIS|402-00776|Center - Type 1|Withdrawn|1323 Harlow Lane #6|Loveland CO  80537|Loveland|Larimer|CO|80537|
+MEDICALM LTD||402-00086|Center - Type 1|Withdrawn|4202 North Garfield Ave|Loveland CO  80538|Loveland|Larimer|CO|80538|
+MEDICALM LTD||403-00129|Optional Premises|Withdrawn|516 W. 67th Street|Loveland CO  80538|Loveland|Larimer|CO|80538|
+MEDICINAL GARDENS OF COLORADO INC|MEDICINAL GARDENS OF COLORADO INC|402-00769|Center - Type 1|Withdrawn|420 South Howes St Unit D|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+MEDICINAL GARDENS OF COLORADO INC|MEDICINAL GARDENS OF COLORADO INC|403-01171|Optional Premises|Withdrawn|1736/1740 Willox Court|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+MEDICINAL OASIS LLC|MEDICINAL OASIS LLC|402-00826|Center - Type 2|Withdrawn|4400 E EVANS AVE|Denver CO  80222|Denver|Denver|CO|80222|
+MEDICINE BUTTE PRODUCTS|MEDICINE BUTTE (MARISOL THERAPEUTICS - AFFILIATED CENTER)|404-00193|Infused Product Manufacturer|Withdrawn|3328 CR 450|La Veta CO  81055|La Veta|Huerfano|CO|81055|
+MEDICINE BUTTE PRODUCTS|MEDICINE BUTTE (MARISOL THERAPEUTICS - AFFILIATED CENTER)|403-00706|Optional Premises|Withdrawn|3328 CR 450|La Veta CO  81055|La Veta|Huerfano|CO|81055|
+MEDICINE MAN LLC|EMERALD PATHWAY |403-00910|Optional Premises|Withdrawn|4972 Leetsdale Drive|Denver CO  80246|Denver|Denver|CO|80246|
+MEDS 2 U MEDICAL MARIJUANA DISPENSARY LLC|AMENDMENT 20 CAREGIVERS|403-00999|Optional Premises|Withdrawn|2848 DELTA DR|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+MEDS 2 U MEDICAL MARIJUANA DISPENSARY LLC|AMENDMENT 20 CAREGIVERS|403-01000|Optional Premises|Withdrawn|2852 DELTA DRIVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+MEDS 2 U MEDICAL MARIJUANA DISPENSARY LLC|AMENDMENT 20 CAREGIVERS|404-00261|Infused Product Manufacturer|Withdrawn|3225 S DRENNAN INDUSTRIAL LOOP|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+METRO CANNABIS INC|SILVER STEM FINE CANNABIS|403-00108|Optional Premises|Withdrawn|5200 County Road LL5|Idalia CO  80735|Idalia|Yuma|CO|80735|
+METRO INC||402R-00286|Retail Marijuana Store|Withdrawn|10351 East Jewell Avenue|Denver CO  80247|Denver|Denver|CO|80247|
+MILE HIGH DISPENSARY LLC|MILE HIGH DISPENSARY LLC|403-00455|Optional Premises|Withdrawn|4531 S Decatur St|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+MILE HIGH DISPENSARY LLC|MILE HIGH DISPENSARY LLC|402-00305|Center - Type 1|Withdrawn|3751 S Broadway |Englewood CO  80113|Englewood|Arapahoe|CO|80113|
+MILE HIGH DISPENSARY LLC|MILE HIGH DISPENSARY LLC|403-00456|Optional Premises|Withdrawn|4520 S. Decatur Street|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+MILE HIGH DISPENSARY LLC||403R-00571|Retail Marijuana Cultivation Facility|Withdrawn|54 Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH GREEN CROSS LLC|MILE HIGH GREEN CROSS LLC|403-00880|Optional Premises|Withdrawn|2175 S PLATTE RIVER DR #103|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH MEDICAL CANNABIS LLC|MILE HIGH MEDICAL CANNABIS LLC|403-00741|Optional Premises|Withdrawn|20530 CR 20|Lewis CO  81327|Lewis|Montezuma|CO|81327|
+MILE HIGH MEDICINE LLC|MILE HIGH MEDICINE LLC|402-00785|Center - Type 1|Withdrawn|2 Colorado Blvd.|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+MILE HIGH MEDICINE LLC|MILE HIGH MEDICINE LLC|403-01191|Optional Premises|Withdrawn|2 Colorado Blvd.|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+MILE HIGH WELLNESS CENTER LLC|MILE HIGH WELLNESS CENTER LLC|402-00414|Center - Type 1|Withdrawn|4895 E. 41st. Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+MILE HIGH XTRACTIONS LLC|MILE HIGH XTRACTIONS|404R-00151|Retail Marijuana Products Mfg|Withdrawn|9690 Dallas Street, Unit C|Henderson CO  80640|Henderson|Adams|CO|80640|
+MMCC LLC|MEDICAL MARIJUANA CENTER OF CARBONDALE|403-00752|Optional Premises|Withdrawn|0431 EMMA ROAD UNITS A&B|Basalt CO  81621|Basalt|Eagle|CO|81621|
+MMCC LLC|MEDICAL MARIJUANA CENTER OF CARDONDALE|403-00753|Optional Premises|Withdrawn|22572 CHEYENNE TRIL|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+MMJ THORNTON, LLC||402R-00635|Retail Marijuana Store|Withdrawn|130 West 84th Aveune|Denver CO  80260|Denver|Adams|CO|80260|
+MML LLC|HOLISTIC HEALTHCARE|403-00466|Optional Premises|Withdrawn|41000 US Hwy 6 & 24 Unit 1B|Vail CO  81657|Vail|Eagle|CO|81657|
+MODERN MEDICINE LLC|ALTITUDE ORGANIC MEDICINE|402R-00274|Retail Marijuana Store|Withdrawn|1537 Havana Street|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+MOLINA GARDENS WELLNESS CENTER||402-00497|Center - Type 1|Withdrawn|53146 LE-1/2 ROAD|Molina CO  81646|Molina|Mesa|CO|81646|
+MOLINA GARDENS WELLNESS CENTER||403-00735|Optional Premises|Withdrawn|53146 LE-1/2 ROAD|Molina CO  81646|Molina|Mesa|CO|81646|
+MONARCH AMERICA INC|MONARCH |402R-00322|Retail Marijuana Store|Withdrawn|555-A Havana Street|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+MONTEM PHARMLABS LIMITED||404R-00243|Retail Marijuana Products Mfg|Withdrawn|513 North Main Street|Alma CO  80420|Alma|Park|CO|80420|
+MOONLIT WELLNESS|MOONLIT WELLNESS |402-00445|Center - Type 1|Withdrawn|1031 E Hwy 50|Salida CO  81201|Salida|Chaffee|CO|81201|
+MOONLIT WELLNESS|MOONLIT WELLNESS |403-00669|Optional Premises|Withdrawn|90 Rio Grande Blvd|Denver CO  80223|Denver|Denver|CO|80223|
+MOTHER NATURES FINEST LLC|MOTHER NATURES FINEST LLC|402-00398|Center - Type 1|Withdrawn|49311 us hwy 50 west|Canon City CO  81212|Canon City|Fremont|CO|81212|
+MOTHER NATURES FINEST LLC|MOTHER NATURES FINEST LLC|403-00606|Optional Premises|Withdrawn|49311 us hwy 50 west|Canon City CO  81212|Canon City|Fremont|CO|81212|
+MOTHER NATURES FINEST LLC|MOTHER NATURES FINEST LLC|404-00166|Infused Product Manufacturer|Withdrawn|49311 us hwy 50 west|Canon City CO  81212|Canon City|Fremont|CO|81212|
+MOTHERS KITCHEN  LLC||404-00127|Infused Product Manufacturer|Withdrawn|38150 River Frontage Rd|New Castle CO  81647|New Castle|Garfield|CO|81647|
+MOTHERS KITCHEN  LLC||403-00467|Optional Premises|Withdrawn|38150 River Frontage Rd|New Castle CO  81647|New Castle|Garfield|CO|81647|
+MOTHER'S ORGANIC MEDICINE LLC||402-00311|Center - Type 1|Withdrawn|38150 River Frontage Rd|New Castle CO  81647|New Castle|Garfield|CO|81647|
+MOTHER'S ORGANIC MEDICINE LLC||403-00464|Optional Premises|Withdrawn|38150 River Frontage Rd|New Castle CO  81647|New Castle|Garfield|CO|81647|
+MOUNTAIN HIGH MEDICAL CAREGIVERS LLC|MOUNTAIN HIGH MEDICAL CAREGIVERS LLC|402-00619|Center - Type 1|Withdrawn|4325 N. Nevada Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MOUNTAIN HIGH MEDICAL CAREGIVERS LLC|MOUNTAIN HIGH MEDICAL CAREGIVERS LLC|403-00919|Optional Premises|Withdrawn|4325 N. Nevada Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+MOUNTAIN HIGH WELLNESS III LLC|Mountain High Wellness III|403-00548|Optional Premises|Withdrawn|1890 S Wadsworth Blvd|Denver CO  80232|Denver|Jefferson|CO|80232|
+MOUNTAIN HIGH WELLNESS IV|Mountain High Wellness IV|402-00364|Center - Type 1|Withdrawn|4575 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+MOUNTAIN HIGH WELLNESS IV|Mountain High Wellness IV|403-00547|Optional Premises|Withdrawn|4575 joliet st|Denver CO  80239|Denver|Denver|CO|80239|
+MOUNTAIN MEDICAL LEAF|MOUNTAIN MEDICAL LEAF|402-00802|Center - Type 1|Withdrawn|111 E. 5th Streeet|Loveland CO  80537|Loveland|Larimer|CO|80537|
+MOUNTAIN MEDICAL LEAF|MOUNTAIN MEDICAL LEAF|403-01211|Optional Premises|Withdrawn|115 E. 5th Street|Loveland CO  80537|Loveland|Larimer|CO|80537|
+MOUNTAIN MEDICAL LEAF|MOUNTAIN MEDICAL LEAF|403-01212|Optional Premises|Withdrawn|1040 E. 5th Avenue|Lyons CO  80540|Lyons|Boulder|CO|80540|
+Mountain Medicine Group, LLC|Mountain Medicine Group, LLC|402-00387|Center - Type 1|Withdrawn|2515 Broadway|Boulder CO  80302|Boulder|Boulder|CO|80302|
+Mountain Medicine Group, LLC||403-00581|Optional Premises|Withdrawn|2200 Central Ave, Unit B|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MOUNTAIN VIEW CANNIBUS LLC|MOUNTAIN VIEW CANNIBUS LLC|402-00407|Center - Type 1|Withdrawn|21 N Circle Dr|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+MOUNTAIN VIEW CANNIBUS LLC|MOUNTAIN VIEW CANNIBUS LLC|403-00617|Optional Premises|Withdrawn|21 N Circle Dr|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+MR GOOD BUDZ LLC|HOLISTIC LIFE|403-00236|Optional Premises|Withdrawn|8401 Baseline Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+MY SECRET GARDEN LLC|MY SECRET GARDEN LLC|404-00038|Infused Product Manufacturer|Withdrawn|3215 E 42ND AVENUE UNIT 101|Denver CO  80216|Denver|Denver|CO|80216|
+MY SECRET GARDEN LLC|MY SECRET GARDEN LLC|403-00174|Optional Premises|Withdrawn|3215 E 42ND AVENUE UNIT |Denver CO  80216|Denver|Denver|CO|80216|
+NATURAL ADVANTAGE, LLC|NATURAL ADVANTAGE, LLC|402-00476|Center - Type 1|Withdrawn|925 W Cucharras St|COLORADO SPRINGS CO  80905|COLORADO SPRINGS|El Paso|CO|80905|
+NATURAL ADVANTAGE, LLC|TRICHOME CONNECTION|403-00711|Optional Premises|Withdrawn|38 Buchanan|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+NATURAL ADVANTAGE, LLC|NATURAL ADVANTAGE, LLC|404-00195|Infused Product Manufacturer|Withdrawn|925 W Cucharras St|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+NATURAL ALTERNATIVES FOR HEALTH LLC|NATURAL ALTERNATIVES FOR HEALTH LLC|402-00505|Center - Type 1|Withdrawn|1630 N COLLEGE AVE|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+NATURAL ALTERNATIVES FOR HEALTH LLC|NATURAL ALTERNATIVES FOR HEALTH LLC|403-00745|Optional Premises|Withdrawn|1420 BLUE SPRUCE DR UNIT H|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+NATURAL GREEN SOLUTIONS LLC|NATURAL GREEN SOLUTIONS LLC|402-00478|Center - Type 1|Withdrawn|128 Main St.|Delta CO  81416|Delta|Delta|CO|81416|
+NATURAL GREEN SOLUTIONS LLC|NATURAL GREEN SOLUTIONS LLC|403-00713|Optional Premises|Withdrawn|6805 Church Rd|Olathe CO  81425|Olathe|Montrose|CO|81425|
+NATURAL HIGH LLC|CLOUD CITY COMPASSIONATE CARE|404-00029|Infused Product Manufacturer|Withdrawn|1013 Poplar Street, Unit 1|Leadville CO  80461|Leadville|Lake|CO|80461|
+NATURAL REMEDIES MMJ LLC|NATURAL REMEDIES MMJ LLC|402-00502|Center - Type 1|Withdrawn|408 S NEVADA|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+NATURAL REMEDIES MMJ LLC|NATURAL REMEDIES MMJ LLC|403-00742|Optional Premises|Withdrawn|1423 WOOLSEY HEIGHTS|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+NATURAL SELECTION|NATURAL SELECTION|402-00726|Center - Type 1|Withdrawn|1660 LAFAYETTE ST.|Denver CO  80218|Denver|Denver|CO|80218|
+NATURALS LLC|NATURALS LLC|402-00521|Center - Type 1|Withdrawn|624 RAE LYNN STREET|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+NATURALS LLC|NATURALS LLC|403-00764|Optional Premises|Withdrawn|785.5 22nd Road|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+NATURALS LLC|NATURALS LLC|403-00765|Optional Premises|Withdrawn|2020 V ROAD|Molina CO  81646|Molina|Mesa|CO|81646|
+NATURALS LLC|NATURALS LLC|403-00766|Optional Premises|Withdrawn|730 INDEPENDENT AVE|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+NATURALS LLC|NATURALS LLC|403-00767|Optional Premises|Withdrawn|38150 RIVERFRONTAGE ROAD|New Castle CO  81647|New Castle|Garfield|CO|81647|
+NATURALS LLC|NATURALS LLC|403-00768|Optional Premises|Withdrawn|676 39 ROAD|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+NATURALS LLC|NATURALS LLC|403-00769|Optional Premises|Withdrawn|1098 Q ROAD|Mack CO  81525|Mack|Mesa|CO|81525|
+NATURALS LLC|NATURALS LLC|403-00770|Optional Premises|Withdrawn|573 WEST CRETE CIRCLE SUITE 100|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+NATURALS LLC|NATURALS LLC|403-00771|Optional Premises|Withdrawn|586 COMMERCIAL DR|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+NATURE MED INC|KIND MEDS|402-00804|Center - Type 1|Withdrawn|260 North Santa Fe Drive|Denver CO  80223|Denver|Denver|CO|80223|
+NATURE MED INC|KIND MEDS|403-01215|Optional Premises|Withdrawn|5105  E. 38th Avenue Unit 104|Denver CO  80207|Denver|Denver|CO|80207|
+NATURE MED INC|KIND MEDS|402-01112|Center - Type 1|Withdrawn|745 Federal Boulevard|Denver CO  80204|Denver|Denver|CO|80204|
+Nature's Choice Caregiver Dispensary, LLC|Nature?s Choice Caregiver Dispensary, LLC|402-00379|Center - Type 2|Withdrawn|2128 S Albion St|Denver CO  80222|Denver|Denver|CO|80222|
+Nature's Choice Caregiver Dispensary, LLC|Nature?s Choice Caregiver Dispensary, LLC|403-00567|Optional Premises|Withdrawn|2175 S Jasmine St, #101|Denver CO  80222|Denver|Denver|CO|80222|
+Nature's Choice Caregiver Dispensary, LLC|Nature?s Choice Caregiver Dispensary, LLC|403-00568|Optional Premises|Withdrawn|2175 S Jasmine St, #105|Denver CO  80222|Denver|Denver|CO|80222|
+Nature's Choice Caregiver Dispensary, LLC|Nature?s Choice Caregiver Dispensary, LLC|403-00569|Optional Premises|Withdrawn|2175 S Jasmine St, #119|Denver CO  80222|Denver|Denver|CO|80222|
+NATURES CURE LLC|NATURES CURE LLC|403-00620|Optional Premises|Withdrawn|835 E. 50th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+NATURES EDIBLES LLC|NATURES EDIBLES LLC|404-00171|Infused Product Manufacturer|Withdrawn|4263 W Florida Ave|Denver CO  80219|Denver|Denver|CO|80219|
+NATURES EDIBLES LLC|NATURES EDIBLES LLC|403-00621|Optional Premises|Withdrawn|50 S Santa Fe Dr, Ste C #80|Denver CO  80203|Denver|Denver|CO|80203|
+NATURES HERBS & WELLNESS CENTER|NATURES HERBS & WELLNESS CENTER|403-01221|Optional Premises|Withdrawn|10376 WCR #6|Fort Lupton CO  80621|Fort Lupton|Weld|CO|80621|
+NATURES KISS CANNABIS SERVICES HEALTH & WELLNESS|NATURES KISS CANNABIS SERVICES HEALTH & WELLNESS|404-00176|Infused Product Manufacturer|Withdrawn|4332 S Broadway|Englewood CO  80113|Englewood|Arapahoe|CO|80113|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|402-00214|Center - Type 1|Withdrawn|7 W 1st St|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|403-00306|Optional Premises|Withdrawn|969 D BARK|DURANGO CO  81301|DURANGO||CO|81301|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|403-00309|Optional Premises|Withdrawn|26050 HWY 550|Durango CO  81301|Durango|La Plata|CO|81301|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|403-00310|Optional Premises|Withdrawn|1181 Cr 119A|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|403-00312|Optional Premises|Withdrawn|4299 CR 203|DURANGO CO  81301|DURANGO||CO|81301|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|403-00313|Optional Premises|Withdrawn|472 HERMOSA DR|DURANGO CO  81301|DURANGO||CO|81301|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|403-00314|Optional Premises|Withdrawn|217 CASSIDY DR.|DURANGO CO  81301|DURANGO||CO|81301|
+NATURES OWN WELLNESS CENTER|NATURES OWN WELLNESS CENTER|404-00091|Infused Product Manufacturer|Withdrawn|973 D Bark|Durango CO  81301|Durango|La Plata|CO|81301|
+NATURX LLC|NATURX LLC|402-00563|Center - Type 1|Withdrawn|10107 W 37TH PLACE|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+NATURX LLC|NATURX LLC|403-00836|Optional Premises|Withdrawn|3505 KIPLING ST|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+NATURX LLC|NATURX LLC|404-00221|Infused Product Manufacturer|Withdrawn|10107 W 37TH PLACE|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+NEW AGE ALTERNATIVE LLC||402-01137|Center - Type 1|Withdrawn|2000 South Dahlia Street 250B|Denver CO  80222|Denver|Denver|CO|80222|
+NEW AGE ALTERNATIVE LLC||403-01745|Optional Premises|Withdrawn|2000 South Dahlia Street 250D|Denver CO  80222|Denver|Denver|CO|80222|
+NEW AGE MEDICAL LLC|NEWAGE MEDICAL LLC|403-00304|Optional Premises|Withdrawn|68800 EAST COUNTY ROAD 38|BYERS CO  80103|BYERS||CO|80103|
+NEW AGE MEDICAL LLC|NEWAGE MEDICAL LLC|404-00090|Infused Product Manufacturer|Withdrawn|2553 SHERIDAN BLVD.|Edgewater CO  80214|Edgewater|Jefferson|CO|80214|
+NEW AGE MEDICAL LLC||403R-00855|Retail Marijuana Cultivation Facility|Withdrawn|801 West Bayaud Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+NEW AGE MEDICAL LLC||403R-00948|Retail Marijuana Cultivation Facility|Withdrawn|801 West Bayaud Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+NEW OPTIONS WELLNESS, LLC|NEW OPTIONS WELLNESS, LLC|402-00718|Center - Type 1|Withdrawn|2885 Aurora Ave Unit 40|Boulder CO  80303|Boulder|Boulder|CO|80303|
+NEW VISION ALTERNATIVES LLC|NEW VISION ALTERNATIVES LLC|402-00779|Center - Type 1|Withdrawn|2424 N Lincoln Ave|Loveland CO  80538|Loveland|Larimer|CO|80538|
+NEW VISION ALTERNATIVES LLC|NEW VISION ALTERNATIVES LLC|403-01184|Optional Premises|Withdrawn|36995 County Rd 162 #8|Agate CO  80101|Agate|Elbert|CO|80101|
+NHMC INC|NHMC INC|402-00345|Center - Type 1|Withdrawn|1675 Jet Wing Dr|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+NHMC INC|NHMC INC|403-00516|Optional Premises|Withdrawn|1657-1665 JET WING DR|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+NO-D-BO LLC|TASTEE YUMMEES|404-00269|Infused Product Manufacturer|Withdrawn|4300 Jason|Denver CO  80211|Denver|Denver|CO|80211|
+NO-D-BO LLC|TASTEE YUMMEES|403-01030|Optional Premises|Withdrawn|4300 Jason|Denver CO  80211|Denver|Denver|CO|80211|
+NORTH FEDERAL LLC||403-01597|Optional Premises|Withdrawn|4800 Nome Street|Denver CO  80239|Denver|Denver|CO|80239|
+NORTH FORK NATURAL HEALING CO-OP LLC|NORTH FORK NATURAL HEALING CO-OP LLC|402-00482|Center - Type 1|Withdrawn|236 Grand Ave|Paonia CO  81428|Paonia|Delta|CO|81428|
+NORTH FORK NATURAL HEALING CO-OP LLC|NORTH FORK NATURAL HEALING CO-OP LLC|403-00717|Optional Premises|Withdrawn|236 Grand Ave|Paonia CO  81428|Paonia|Delta|CO|81428|
+NORTH FORK NATURAL HEALING CO-OP LLC|NORTH FORK NATURAL HEALING CO-OP LLC|404-00225|Infused Product Manufacturer|Withdrawn|236 GRAND AVE|Paonia CO  81428|Paonia|Delta|CO|81428|
+NUTRITIONAL ELEMENTS INC|THE HEALTH CENTER DBA THC HEALTH|403-00463|Optional Premises|Withdrawn|736 Winchester Drive|Jefferson CO  80456|Jefferson|Park|CO|80456|
+NUTRITIONAL ELEMENTS INC|THE HEALTH CENTER DBA THC HEALTH|404-00126|Infused Product Manufacturer|Withdrawn|1107 North Lincoln Street|Denver CO  80203|Denver|Denver|CO|80203|
+NUTRITIONAL SUPPLEMENTS LLC|BUDDING HEALTH|402-00621|Center - Type 1|Withdrawn|1228 W. Elizabeth St., Suite D8|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+NUTRITIONAL SUPPLEMENTS LLC|BUDDING HEALTH|403-00926|Optional Premises|Withdrawn|2042 Arapahoe Street|Denver CO  80205|Denver|Denver|CO|80205|
+NUTRITIONAL SUPPLEMENTS LLC|BUDDING HEALTH|403-00927|Optional Premises|Withdrawn|1228 W. Elizabeth St., Suite D8|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+NUTRITIONAL SUPPLEMENTS LLC|BUDDING HEALTH|403-00928|Optional Premises|Withdrawn|1885 Dartmouth Ave., Units 6 & 8|Denver CO  80223|Denver|Denver|CO|80223|
+NUTRITIONAL SUPPLEMENTS LLC|BUDDING HEALTH|403-00929|Optional Premises|Withdrawn|3887 steele st|Denver CO  80205|Denver|Denver|CO|80205|
+NUTRITIONAL SUPPLEMENTS LLC|BUDDING HEALTH|403-00931|Optional Premises|Withdrawn|1791 County Road 36|Berthoud CO  80513|Berthoud|Larimer|CO|80513|
+O LIMITED|SILVER STEM FINE CANNABIS|403R-00703|Retail Marijuana Cultivation Facility|Withdrawn|1110 West Virginia Avenue, Unit 4|Denver CO  80223|Denver|Denver|CO|80223|
+OLD WORLD PHARMACEUTICAL LLC|OLD WORLD PHARMACEUTICAL LLC|402-00056|Center - Type 1|Withdrawn|3605 E PLATTE AVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+OLD WORLD PHARMACEUTICAL LLC|OLD WORLD PHARMACEUTICAL LLC|403-00076|Optional Premises|Withdrawn|3605 E PLATTE AVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+OLD WORLD PHARMACEUTICAL LLC|OLD WORLD PHARMACEUTICAL LLC|404-00021|Infused Product Manufacturer|Withdrawn|3605 E PLATTE AVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ON TASK IN OVER DRIVE|ON TASK IN OVER DRIVE|403-01256|Optional Premises|Withdrawn|14490 WCR 1|Longmont CO  80504|Longmont|Weld|CO|80504|
+ON TASK IN OVER DRIVE LLP|ON TASK IN OVER DRIVE LLP|404-00270|Infused Product Manufacturer|Withdrawn|14490 WCR1|Longmont CO  80504|Longmont|Weld|CO|80504|
+OPTI NATURAL CAREGIVERS INC|OPTI NATURAL CAREGIVERS INC|402-00354|Center - Type 1|Withdrawn|2510 - 47th St, #A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+ORGANIC ALTERNATIVES INC|Organic Alternatives LLC|402-00361|Center - Type 1|Withdrawn|346 East Mountain Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+ORGANIC ALTERNATIVES INC|Organic Alternatives LLC|403-00540|Optional Premises|Withdrawn|337 Hickory Street|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+ORGANIC ALTERNATIVES INC|Organic Alternatives LLC|404-00146|Infused Product Manufacturer|Withdrawn|337 Hickory Street|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+ORGANIC GROWERS LLC|ORGANIC GROWERS LLC|402-00295|Center - Type 1|Withdrawn|5454B County Rd 346|Silt CO  81652|Silt|Garfield|CO|81652|
+ORGANIC GROWERS LLC|ORGANIC GROWERS LLC|403-00442|Optional Premises|Withdrawn|5454B County Road 346|SILT CO  81652|SILT||CO|81652|
+ORGANIC GROWERS LLC|ORGANIC GROWERS LLC|404-00120|Infused Product Manufacturer|Withdrawn|5454B CR 346|Silt CO  81652|Silt|Garfield|CO|81652|
+ORGANIC KINDNESS LLC||402-00469|Center - Type 1|Withdrawn|5595 Arapahoe Rd Ste C1 + C2|Boulder CO  80303|Boulder|Boulder|CO|80303|
+ORGANIC KINDNESS LLC||403-00703|Optional Premises|Withdrawn|5595 Arapahoe Rd|Boulder CO  80303|Boulder|Boulder|CO|80303|
+ORGANIC SOLUTIONS LLC|ORGANIC SOLUTIONS LLC|402-00303|Center - Type 1|Withdrawn|7704 S Hwy 287/7704 S College Ave|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+ORGANIC SOLUTIONS LLC|ORGANIC SOLUTIONS LLC|403-00454|Optional Premises|Withdrawn|Pie 1VW L5 Blk1 Rep Van Why Acres 1st|Ault CO  80610|Ault|Weld|CO|80610|
+ORGANIC SOLUTIONS LLC|ORGANIC SOLUTIONS LLC|404-00124|Infused Product Manufacturer|Withdrawn|Pie 1VW L5 Blk1 Rep Van Why Acres 1st|Ault CO  80610|Ault|Weld|CO|80610|
+P & C EXPRESS LLC|P&C EXPRESS LLC|404-00229|Infused Product Manufacturer|Withdrawn|4860 N. Townsend Avenue|Montrose CO  81401|Montrose|Montrose|CO|81401|
+PAIN MANAGEMENT OF GOVERNORS PARK LLC|PAIN MANAGEMENT OF COLORADO|403-00479|Optional Premises|Withdrawn|1791 County Road 36|Berthoud CO  80513|Berthoud|Larimer|CO|80513|
+PAONIA HYDRO|PAONIA HYDRO|402-00538|Center - Type 1|Withdrawn|136 GRAND AVE|Paonia CO  81428|Paonia|Delta|CO|81428|
+PAONIA HYDRO|PAONIA HYDRO|403-00795|Optional Premises|Withdrawn|12347 3600 Rd|Hotchkiss CO  81419|Hotchkiss|Delta|CO|81419|
+PARADISE CITY CAREGIVERS LLC||402-00067|Center - Type 1|Withdrawn|1244 N Lincoln Ave|Loveland CO  80537|Loveland|Larimer|CO|80537|
+PARADISE CITY CAREGIVERS LLC||403-00090|Optional Premises|Withdrawn|1244 N Lincoln Ave|Loveland CO  80537|Loveland|Larimer|CO|80537|
+PARADISE CITY CAREGIVERS LLC||403-00091|Optional Premises|Withdrawn|5505 W Hwy 34 Unit A|Loveland CO  80538|Loveland|Larimer|CO|80538|
+PATIENT CARE RESOURCES LLC|PCR|403-00520|Optional Premises|Withdrawn|4754 N Chestnut Dr|Colorado Springs CO  80919|Colorado Springs|El Paso|CO|80919|
+PATIENTS CHOICE OF COLORADO LLC|PATIENTS CHOICE OF COLORADO LLC|403-00561|Optional Premises|Withdrawn|1445 Lamar Street|Lakewood CO  80214|Lakewood|Jefferson|CO|80214|
+PATIENTS PLUS LLC||403R-00310|Retail Marijuana Cultivation Facility|Withdrawn|505 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+PE Harmony LLC|PE Harmony LLC|402-00360|Center - Type 1|Withdrawn|985 Lake Ave|Fountain CO  80817|Fountain|El Paso|CO|80817|
+PE Harmony LLC|PE Harmony LLC|403-00539|Optional Premises|Withdrawn|9090 Rustique Dr|Fountain CO  80817|Fountain|El Paso|CO|80817|
+PEAK HOLDINGS GROUP LLC|PEAK |402R-00346|Retail Marijuana Store|Withdrawn|10590 East Tennessee|Aurora CO  80012|Aurora|Arapahoe|CO|80012|
+PEORIA STREET LLC|SATICA|402R-00266|Retail Marijuana Store|Withdrawn|1390 Peoria Street|Aurora CO  80011|Aurora|Adams|CO|80011|
+PERSONALIZED ORGANIC TREATMENTS LLC||402R-00435|Retail Marijuana Store|Withdrawn|219 Vallejo Street|Denver CO  80223|Denver|Denver|CO|80223|
+PERSONALIZED ORGANIC TREATMENTS LLC||403R-00500|Retail Marijuana Cultivation Facility|Withdrawn|11122 East 47th Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+PHD LLC|PHD LLC|404-00276|Infused Product Manufacturer|Withdrawn|281 PATCH CT.|Fairplay CO  80456|Fairplay|Park|CO|80456|
+PHD LLC|PHD LLC|403-01060|Optional Premises|Withdrawn|281 PATCH CT.|Denver CO  80216|Denver|Denver|CO|80216|
+PHYSICIAN PREFERRED PRODUCTS LLC|PHYSICIAN PREFERRED PRODUCTS, LLC|402-00634|Center - Type 1|Withdrawn|1118 Manitou Avenue|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+PHYSICIAN PREFERRED PRODUCTS LLC|PHYSICIAN PREFERRED PRODUCTS, LLC|403-00956|Optional Premises|Withdrawn|1118 Manitou Avenue|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+PIKES PEAK NATURAL WONDERS LLC|JD GROW LLC - PARTNER COMPANY|402-00105|Center - Type 1|Withdrawn|4157 Centennial Blvd|Colorado Springs CO  80907|Colorado Springs|Adams|CO|80907|
+PIKES PEAK NATURAL WONDERS LLC|JD GROW LLC - PARTNER COMPANY|403-00150|Optional Premises|Withdrawn|4159 Centennial Blvd|COLORADO SPRINGS CO  80907|COLORADO SPRINGS||CO|80907|
+PINE TREES LLC||402R-00357|Retail Marijuana Store|Withdrawn|316 Mount Evans Boulevard, Suite 2|Pine CO  80470|Pine|Jefferson|CO|80470|
+PINE TREES LLC|PINE TREES LLC|403R-00395|Retail Marijuana Cultivation Facility|Withdrawn|67377 Highway 285, Unit 1|Pine CO  80470|Pine|Jefferson|CO|80470|
+PINKY'S ROSE GARDEN, INC.|BUDS ON FEDERAL|402-00280|Center - Type 1|Withdrawn|82 S Federal Blvd|Denver CO  80219|Denver|Denver|CO|80219|
+PKOM VENTURES LLC|THE MED SHED|402-00636|Center - Type 1|Withdrawn|4483 N Broadway Ave|Boulder CO  80304|Boulder|Boulder|CO|80304|
+PLANTS 4 LIFE LLC|PLANTS 4 LIFE LLC|402-00298|Center - Type 1|Withdrawn|121 N Wilcox St|Castle Rock CO  80104|Castle Rock|Douglas|CO|80104|
+PLANTS 4 LIFE LLC|PLANTS 4 LIFE LLC|403-00445|Optional Premises|Withdrawn|8401 BASELINE RD|Boulder CO  80303|Boulder|Boulder|CO|80303|
+PLATTE VALLEY DISPENSARY LLC|PLATTE VALLEY DISPENSARY LLC|403-00874|Optional Premises|Withdrawn|4665 NAUTILUS CT SUITE 200|Boulder CO  80301|Boulder|Boulder|CO|80301|
+PMOC LAKEWOOD LLC|PAIN MANAGEMENT OF LAKEWOOD DBA PAIN MANAGEMENT OF COLORADO|402-00321|Center - Type 1|Withdrawn|9114 W 6th Ave|Lakewood CO  80202|Lakewood|Denver|CO|80202|
+PMOC LAKEWOOD LLC|PAIN MANAGEMENT OF LAKEWOOD DBA PAIN MANAGEMENT OF COLORADO|403-00480|Optional Premises|Withdrawn|1127 W 46th Ave|Denver CO  80211|Denver|Denver|CO|80211|
+PMOC LAKEWOOD LLC|PAIN MANAGEMENT OF LAKEWOOD DBA PAIN MANAGEMENT OF COLORADO|403-00481|Optional Premises|Withdrawn|1791 CR 36|Berthoud CO  80513|Berthoud|Larimer|CO|80513|
+PND LLC|A CUT ABOVE (BND LLC DBA A CUT ABOVE  HOBBY FARMS LLC AND MYLAR GROUP LLC - PARTNER COMPANIES)|403-00528|Optional Premises|Withdrawn|1150 E Fillmore St|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+Pot Pie, LLC||402-00275|Center - Type 1|Withdrawn|202 Colorado Ave|Sugar City CO  81076|Sugar City|Crowley|CO|81076|
+Pot Pie, LLC||403-00409|Optional Premises|Withdrawn|8989 CR CC Ste A + E|Las Animas CO  81054|Las Animas|Bent|CO|81054|
+PRIDE EDIBLES LLC|PRIDE EDIBLES LLC|404-00271|Infused Product Manufacturer|Withdrawn|22 SOUTH GALAPAGO ST|Denver CO  80223|Denver|Denver|CO|80223|
+PRIDE EDIBLES LLC|PRIDE EDIBLES LLC|403-01034|Optional Premises|Withdrawn|22 SOUTH GALAPAGO ST|Denver CO  80223|Denver|Denver|CO|80223|
+PRIME FARMS LLC||403R-00837|Retail Marijuana Cultivation Facility|Withdrawn|6475 Galbreth Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+PRIME FARMS LLC||403R-00880|Retail Marijuana Cultivation Facility|Withdrawn|6475 Galbreth Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+PRISY & ASSOCIATES LLC|The Healthy Connections|403-00124|Optional Premises|Withdrawn|114 E. Ramona #3|COLORADO SPRINGS CO  80905|COLORADO SPRINGS||CO|80905|
+PRISY & ASSOCIATES LLC|WELLSTONE|402-01091|Center - Type 1|Withdrawn|4306 North Nevada Avenue|Colorado Springs CO  80918|Colorado Springs|El Paso|CO|80918|
+PROVENANCE CARE|PROVENANCE CARE|402-00073|Center - Type 1|Withdrawn|6422 North Academy Blvd|Colorado Springs CO  80918|Colorado Springs|El Paso|CO|80918|
+PROVENANCE CARE|PROVENANCE CARE|403-00105|Optional Premises|Withdrawn|3225 S Drennan Industrial Loop|Colorado Springs CO  80916|Colorado Springs|El Paso|CO|80916|
+PUEBLO ANALYTICAL LAB|PUEBLO LABORATORY|405R-00031|RMJ Testing Facility|Withdrawn|1149 South Prairie Avenue|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+PURE INDUSTRIES LLC|PURE INDUSTRIES LLC|403-00323|Optional Premises|Withdrawn|6390 GUNPARK DR. UNIT D|Boulder CO  80301|Boulder|Boulder|CO|80301|
+PURE MEDICAL LLC|PURE MEDICAL LLC|403-00518|Optional Premises|Withdrawn|4756 N Chestnut Drive|Colorado Springs CO  80919|Colorado Springs|El Paso|CO|80919|
+QUALITY CULTIVATORS INC.|QUALITY CULTIVATORS INC.|402-00438|Center - Type 1|Withdrawn|2139 W Cucharras St|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+QUALITY CULTIVATORS INC.|QUALITY CULTIVATORS INC.|403-00658|Optional Premises|Withdrawn|2139 W Cucharras St|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+QUALITY CULTIVATORS INC.|QUALITY CULTIVATORS INC.|404-00182|Infused Product Manufacturer|Withdrawn|2139 W Cucharras St|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+RB CONTRACTING LLC||404-00217|Infused Product Manufacturer|Withdrawn|561 Sagewood Drive|Ignacio CO  81137|Ignacio|La Plata|CO|81137|
+RB CONTRACTING LLC|HERBAL PARADISE/MESA ALTERNATIVE HEALTH & WELLNESS|403-00805|Optional Premises|Withdrawn|605 Grand Avenue|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+REFER TWIST INC|REFER TWIST INC|404-00131|Infused Product Manufacturer|Withdrawn|6625 Leetsdale Dr, #B|Denver CO  80224|Denver|Denver|CO|80224|
+REMEDY CARE CENTER LLC||402-00392|Center - Type 1|Withdrawn|1850 South Federal Blvd|Denver CO  80219|Denver|Denver|CO|80219|
+REMEDY CARE CENTER LLC||403-00596|Optional Premises|Withdrawn|1015 West Evans Avenue, Unit EB|Denver CO  80223|Denver|Denver|CO|80223|
+REMEDY CARE CENTER LLC||403-00597|Optional Premises|Withdrawn|1015 West Evans Ave|Denver CO  80223|Denver|Denver|CO|80223|
+REVTEC LLC|REVTEC LLC|403-01478|Optional Premises|Withdrawn|2640 East 43rd Avenue, Unit A|Denver CO  80216|Denver|Denver|CO|80216|
+REVTEC LLC||403R-00393|Retail Marijuana Cultivation Facility|Withdrawn|2145 West Evans Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+RIFLE MOUNTAIN DISPENSARY INC|RIFLE MOUNTAIN DISPENSARY, INC.|402-00605|Center - Type 1|Withdrawn|7800 Highway 82, Suite 110-111|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+RIFLE MOUNTAIN DISPENSARY INC|RIFLE MOUNTAIN DISPENSARY, INC.|403-00902|Optional Premises|Withdrawn|7800 Highway 82, Suite 101-106|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+RIFLE MOUNTAIN DISPENSARY INC|RIFLE MOUNTAIN DISPENSARY, INC.|403-00903|Optional Premises|Withdrawn|0314 County Road 110, Bldg. A-1|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+RIFLE MOUNTAIN DISPENSARY INC|RIFLE MOUNTAIN DISPENSARY|403-01270|Optional Premises|Withdrawn|6859 N. Foothills Hwy., Bldg G, Unit C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+RIFLE REMEDIES LLC|RIFLE REMEDIES LLC|404-00203|Infused Product Manufacturer|Withdrawn|120 E THIRD STREET SUITE A|Rifle CO  81650|Rifle|Garfield|CO|81650|
+RINO SUPPLY CO INC|RINO SUPPLY CO INC.|403-01199|Optional Premises|Withdrawn|3100 Blake St.|Denver CO  80205|Denver|Denver|CO|80205|
+RJJ 225 LLC|NATIVE ROOTS 225|402R-00283|Retail Marijuana Store|Withdrawn|14107 East Colfax Avenue|Aurora CO  80011|Aurora|Adams|CO|80011|
+RJJ 285 LLC|NATIVE ROOTS SHERIDAN|402-01151|Center - Type 1|Withdrawn|3150 South Sheridan Boulevard|Denver CO  80227|Denver|Jefferson|CO|80227|
+RJJ 285 LLC||403-01763|Optional Premises|Withdrawn|4990 Dahlia Street|Denver CO  80227|Denver|Jefferson|CO|80227|
+RJJ 285 LLC||402R-00551|Retail Marijuana Store|Withdrawn|3150 South Sheridan Boulevard|Denver CO  80227|Denver|Jefferson|CO|80227|
+RJJ CHAMBERS LLC|NATIVE ROOTS CHAMBERS |402R-00282|Retail Marijuana Store|Withdrawn|1704-06 South Chambers Road|Aurora CO  80017|Aurora|Arapahoe|CO|80017|
+RJJ ILIFF LLC|NATIVE ROOTS ILIFF |402R-00281|Retail Marijuana Store|Withdrawn|16821 East Iliff|Aurora CO  80013|Aurora|Arapahoe|CO|80013|
+RJJ KINGSTON LLC|NATIVE ROOTS KINGSTON|402R-00280|Retail Marijuana Store|Withdrawn|11075 East Colfax Avenue|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+ROAN|ROAN|402-00195|Center - Type 1|Withdrawn|3954 WILLIAMS ST|DENVER CO  80205|DENVER||CO|80205|
+ROAN|ROAN|404-00084|Infused Product Manufacturer|Withdrawn|3954 WILLIAMS ST|DENVER CO  80205|DENVER||CO|80205|
+ROCKBROOK INC|ROCKBROOK INC|402-00771|Center - Type 1|Withdrawn|2865 S Colorado Blvd. Ste 232|Denver CO  80222|Denver|Denver|CO|80222|
+ROCKBROOK INC|ROCKBROOK INC|403-01173|Optional Premises|Withdrawn|3201 N BRIGHTON BLVD UNIT X|Denver CO  80216|Denver|Denver|CO|80216|
+ROCKBROOK INC|ROCKBROOK INC|404-00293|Infused Product Manufacturer|Withdrawn|1150 W. 5TH ST., UNIT 130|Denver CO  80204|Denver|Denver|CO|80204|
+ROCKY MOUNTAIN CAREGIVERS OF COLORADO|GREEN ACRES FARMACY|402-00307|Center - Type 1|Withdrawn|4478 Tennyson Street|Denver CO  80212|Denver|Denver|CO|80212|
+ROCKY MOUNTAIN FARMACY INC||404-00061|Infused Product Manufacturer|Withdrawn|1719 EMERSON|DENVER CO  80218|DENVER||CO|80218|
+ROCKY MOUNTAIN FARMACY INC||404-00062|Infused Product Manufacturer|Withdrawn|1719 EMERSON(1721)|Denver CO  80218|Denver|Denver|CO|80218|
+ROCKY MOUNTAIN FARMACY INC||404-00063|Infused Product Manufacturer|Withdrawn|695 Bryant Street #1000|Denver CO  80204|Denver|Denver|CO|80204|
+ROCKY MOUNTAIN FARMACY INC|ROCKY MOUNTAIN FARMACY INC|404-00064|Infused Product Manufacturer|Withdrawn|675 BRYANT ST|Denver CO  80204|Denver|Denver|CO|80204|
+ROCKY MOUNTAIN FARMACY INC||404-00065|Infused Product Manufacturer|Withdrawn|6302 E COLFAX AVENUE|Denver CO  80220|Denver|Denver|CO|80220|
+ROCKY MOUNTAIN FARMACY INC||404-00066|Infused Product Manufacturer|Withdrawn|2420 S COLORADO BLVD|Denver CO  80222|Denver|Denver|CO|80222|
+ROCKY MOUNTAIN FARMACY INC||404-00067|Infused Product Manufacturer|Withdrawn|2420 S COLORADO BLVD|Denver CO  80222|Denver|Denver|CO|80222|
+ROCKY MOUNTAIN FARMACY INC|THE RETREAT|402R-00008|Retail Marijuana Store|Withdrawn|2420 South Colorado Boulevard|Denver CO  80222|Denver|Denver|CO|80222|
+ROCKY MOUNTAIN FARMACY INC||403R-00010|Retail Marijuana Cultivation Facility|Withdrawn|695 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+ROCKY MOUNTAIN HERBAL HEALTH CENTER||402-00629|Center - Type 1|Withdrawn|434 S. McCulloch Blvd. Suite 1|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+ROCKY MOUNTAIN HERBAL HEALTH CENTER|ROCKY MOUNTAIN HERBAL HEALTH CENTER |403-00947|Optional Premises|Withdrawn|516 Arrawanna St.|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ROCKY MOUNTAIN INDOOR GARDENS LLC|ROCKY MOUNTAIN INDOOR GARDENS LLC|404-00088|Infused Product Manufacturer|Withdrawn|138 MAIN ST|Lyons CO  80540|Lyons|Boulder|CO|80540|
+ROCKY MOUNTAIN KIND|RMK|402-00480|Center - Type 1|Withdrawn|1710 E. Eisenhower Blvd., #5|Loveland CO  80537|Loveland|Larimer|CO|80537|
+ROCKY MOUNTAIN KIND|RMK LLC|403-00715|Optional Premises|Withdrawn|1355 SOUTH HURON STREET UNIT B|Denver CO  80223|Denver|Denver|CO|80223|
+ROCKY MOUNTAIN MEDICAL MARIJUANA LLC||402-00022|Center - Type 1|Withdrawn|1126 South SHERIDAN BLVD|Denver CO  80232|Denver|Jefferson|CO|80232|
+ROCKY MOUNTAIN MEDICAL MARIJUANA LLC||403-00024|Optional Premises|Withdrawn|1126 S SHERIDAN BLVD|Denver CO  80232|Denver|Jefferson|CO|80232|
+ROCKY MOUNTAIN MIRACLES LLC|RICKY MOUNTAIN MIRACLES LLC|403-00317|Optional Premises|Withdrawn|2312 E BIJOU ST|COLORADO SPRINGS CO  80909|COLORADO SPRINGS||CO|80909|
+ROCKY MOUNTAIN MIRACLES LLC||404-00092|Infused Product Manufacturer|Withdrawn|2312 E BIJOU ST|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ROCKY MOUNTAIN NATURAL WELLNESS LLC||404-00167|Infused Product Manufacturer|Withdrawn|104 Jankowski Dr|Rollinsville CO  80474|Rollinsville|Gilpin|CO|80474|
+ROCKY MOUNTAIN PRODUCTION I LLC||402R-00329|Retail Marijuana Store|Withdrawn|1901 SOUTH HAVANA|Aurora CO  80014|Aurora|Arapahoe|CO|80014|
+ROCKY MOUNTAIN WAY WELLNESS CENTER LLC||402-00138|Center - Type 1|Withdrawn|1435 SELIX GROVE|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+ROCKY MOUNTAIN WAY WELLNESS CENTER LLC||403-00202|Optional Premises|Withdrawn|1435 SELIX GROVE|COLORADO SPRINGS CO  80915|COLORADO SPRINGS||CO|80915|
+ROCKY MOUNTAIN WELLNESS CENTER EAST LLC|(DENVER CANNA CLUB LLC #2)|402-00461|Center - Type 1|Withdrawn|2232 Bruce Randolph St|Denver CO  80205|Denver|Denver|CO|80205|
+ROCKY MOUNTAIN WELLNESS CENTER EAST LLC|ROCKY MOUNTAIN WELLNESS CENTER EAST|403-00695|Optional Premises|Withdrawn|665 Kalamath|Denver CO  80206|Denver|Denver|CO|80206|
+ROCKY MOUNTAIN WELLNESS CENTER LLC|ROCKY MOUNTAIN WELLNESS CENTER LLC|402-00684|Center - Type 1|Withdrawn|1630 Carr Street|Lakewood CO  80214|Lakewood|Jefferson|CO|80214|
+ROCKY MOUNTAIN WELLNESS CENTER LLC|ROCKY MOUNTAIN WELLNESS CENTER LLC|403-01027|Optional Premises|Withdrawn|1630 Carr Street|Denver CO  80214|Denver|Jefferson|CO|80214|
+ROCKY MOUNTAIN WELLNESS LLC||403R-00462|Retail Marijuana Cultivation Facility|Withdrawn|855 Highway 105|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+ROCKY MOUNTAIN WELLNESS LLC||404R-00112|Retail Marijuana Products Mfg|Withdrawn|855 Highway 105|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+ROCKY MOUNTAIN WELLNESS LLC||404R-00121|Retail Marijuana Products Mfg|Withdrawn|855 Highway  105|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+ROCKY MOUNTAIN WELLNESS LLC||403R-00482|Retail Marijuana Cultivation Facility|Withdrawn|855 Highway 105|Palmer Lake CO  80133|Palmer Lake|El Paso|CO|80133|
+ROCKY ROAD REMEDIES LLC|ROCKY ROAD REMEDIES LLC|402-00862|Center - Type 1|Withdrawn|4401 Zenobia Street|Colorado Springs CO  80935|Colorado Springs|El Paso|CO|80935|
+ROLLINSVILLE MOUNTAIN MEDS LLC|ALTERNATIVE MEDICAL SUPPLIES LLC AND FALCON AMS LLC - PARTNER COMPANIES|402-00450|Center - Type 1|Withdrawn|60 1/2 B Main St|Rollinsville CO  80474|Rollinsville|Gilpin|CO|80474|
+ROLLINSVILLE MOUNTAIN MEDS LLC|ALTERNATIVE MEDICAL SUPPLIES LLC AND FALCON AMS LLC - PARTNER COMPANIES|403-00677|Optional Premises|Withdrawn|60 1/2 B Main St|Rollinsville CO  80474|Rollinsville|Gilpin|CO|80474|
+ROYS CANNABIS CONNECTION|ROYS CANNABIS CONNECTION|402-00093|Center - Type 1|Withdrawn|2360 East Platte Ave|COLORADO SPRINGS CO  80909|COLORADO SPRINGS|El Paso|CO|80909|
+ROYS CANNABIS CONNECTION|ROYS CANNABIS CONNECTION|403-00136|Optional Premises|Withdrawn|2372 E. Platte Ave|COLORADO SPRINGS CO  80909|COLORADO SPRINGS|El Paso|CO|80909|
+ROYS CANNABIS CONNECTION|ROYS CANNABIS CONNECTION|403-00137|Optional Premises|Withdrawn|2360 E PLATTE AVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+S.E.C.A.M. LLC|S.E.C.A.M. LLC|402-00627|Center - Type 1|Withdrawn|7517 E. Highway 86|Franktown CO  80116|Franktown|Douglas|CO|80116|
+S.E.C.A.M. LLC|S.E.C.A.M. LLC|403-00941|Optional Premises|Withdrawn|2102 Golden Valley Road|Loveland CO  80537|Loveland|Larimer|CO|80537|
+S.E.C.A.M. LLC|S.E.C.A.M. LLC|403-00942|Optional Premises|Withdrawn|33443 County Road 21|Elizabeth CO  80107|Elizabeth|Elbert|CO|80107|
+S.E.C.A.M. LLC|S.E.C.A.M. LLC|403-00943|Optional Premises|Withdrawn|11950 County Road 174|Kiowa CO  80117|Kiowa|Elbert|CO|80117|
+S.S.I. CARE CENTER|S.S.I CARE CENTER |403-00506|Optional Premises|Withdrawn|549 E Cimarron|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+S.S.I. CARE CENTER|S.S.I CARE CENTER |404-00135|Infused Product Manufacturer|Withdrawn|549 E Cimarron|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+S.S.I. CARE CENTERS|S.S.I CARE CENTER |402-00338|Center - Type 1|Withdrawn|549 E Cimarron|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+SANIVEK INC.|SANIVEK INC.|402-00711|Center - Type 1|Withdrawn|3129 Delta Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+SANIVEK INC.|THE SPRINGS CONNECTION LLC|403-01074|Optional Premises|Withdrawn|3129 Delta Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+SATIVAS LLC|SHIRE SATIVAS LLC|402-00250|Center - Type 1|Withdrawn|29 Kalamath St|Denver CO  80223|Denver|Denver|CO|80223|
+SATIVAS LLC|SHIRE SATIVAS LLC|403-00374|Optional Premises|Withdrawn|29 Kalamath St|Denver CO  80223|Denver|Denver|CO|80223|
+SENSIMILL II LLC|SENSIMILL II LLC|402-00641|Center - Type 1|Withdrawn|2589 S LEWIS WAY|Denver CO  80227|Denver|Jefferson|CO|80227|
+SENSIMILL LLC|SENSIMILL, LLC|403-01035|Optional Premises|Withdrawn|5105 E 38TH ST#101,102|Denver CO  80207|Denver|Denver|CO|80207|
+SENSIMILL LLC||402R-00118|Retail Marijuana Store|Withdrawn|468 South Federal Boulevard|Denver CO  80219|Denver|Denver|CO|80219|
+SENSIMILL LLC|SENSIMILL LLC|403R-00155|Retail Marijuana Cultivation Facility|Withdrawn|5040 York Street|Denver CO  80216|Denver|Denver|CO|80216|
+SENSITIVA HOLISTIC THERAPEUTICS LLC|SENSITIVA HOLISTIC THERAPEUTICS LLC|403-00641|Optional Premises|Withdrawn|5005 CR 59|Center CO  81125|Center|Rio Grande|CO|81125|
+SERENDIPITY ENTERPRISES INCORPORATED|SATICA|403-01007|Optional Premises|Withdrawn|1013 N. Nepal Street|Aurora CO  80018|Aurora|Arapahoe|CO|80018|
+Serene LLC||402-00384|Center - Type 1|Withdrawn|676 N Circle Dr|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+Serene LLC||403-00576|Optional Premises|Withdrawn|676 N Circle Dr|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+Serene LLC||403-00577|Optional Premises|Withdrawn|676 N Circle Dr|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+Serene LLC||404-00157|Infused Product Manufacturer|Withdrawn|6160 Red Creek Rd West|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+SEVEN LEAVES LLC||403R-00366|Retail Marijuana Cultivation Facility|Withdrawn|413-425 JOE MARTINEZ BOULEVARD|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+SEVEN LEAVES LLC||404R-00089|Retail Marijuana Products Mfg|Withdrawn|413-425 JOE MARTINEZ BOULEVARD|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+SEVEN LEAVES LLC||402R-00288|Retail Marijuana Store|Withdrawn|413-425 JOE MARTINEZ BOULEVARD|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+SEVEN LEAVES LLC||402-00979|Center - Type 1|Withdrawn|413-425 S. Joe Martinez Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+SEVEN LEAVES LLC|SEVEN LEAVES LLC|403-01545|Optional Premises|Withdrawn|425 Joe Martinez Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+SEVEN LEAVES LLC||404-00416|Infused Product Manufacturer|Withdrawn|413-425 Joe Martinez Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+SHAUN D HADLEY|CRAIG APOTHECARY|403-00710|Optional Premises|Withdrawn|40800 Valley Dr|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+SIBANNAC LLC|SIBANNAC LLC|402-00071|Center - Type 1|Withdrawn|586 South Academy Blvd|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+SIBANNAC LLC|SIBANNAC LLC|403-00103|Optional Premises|Withdrawn|817 Wooten Road|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+SIBANNAC LLC|SIBANNAC LLC|404-00025|Infused Product Manufacturer|Withdrawn|817 Wooten Road|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+SIMPLE CARE WELLNESS CENTER LLC|SIMPLE CARE WELLNESS CENTER LLC|402-00652|Center - Type 1|Withdrawn|8270 RAZORBACK RD|Colorado Springs CO  80920|Colorado Springs|El Paso|CO|80920|
+SIMPLE CARE WELLNESS CENTER LLC|SIMPLE CARE WELLNESS CENTER LLC|403-00983|Optional Premises|Withdrawn|8290 RAZORBACK RD|Colorado Springs CO  80920|Colorado Springs|El Paso|CO|80920|
+SISTEM 8 LLC|SILVER STEM FINE CANNABIS|402-01133|Center - Type 1|Withdrawn|4300 East 8th Avenue, Unit 2|Denver CO  80220|Denver|Denver|CO|80220|
+SISTEM 8 LLC|SILVER STEM FINE CANNABIS|403-01741|Optional Premises|Withdrawn|1235 Umatilla Street|Denver CO  80204|Denver|Denver|CO|80204|
+SJW3R LLC|Mile High Medicals|402-00187|Center - Type 1|Withdrawn|4095 JACKSON ST.|Denver CO  80216|Denver|Denver|CO|80216|
+SJW3R LLC|MILE HIGH MEDICALS|403-00277|Optional Premises|Withdrawn|4095 JACKSON ST.|DENVER CO  80216|DENVER||CO|80216|
+SLAM ENTERPRISES LLC|SLAM ENTERPRISES LLC|403-00797|Optional Premises|Withdrawn|319 N. Tejon|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+SLR WELLNESS LLC|HERBAL SPA |402-00287|Center - Type 1|Withdrawn|4347 N. Tennyson Street|Denver CO  80212|Denver|Denver|CO|80212|
+SLR WELLNESS LLC|HERBAL SPA |403-00425|Optional Premises|Withdrawn|1617 W. 12th Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+SMART CARE LLC||404-00484|Infused Product Manufacturer|Withdrawn|4696 Glencoe Street|Denver CO  80216|Denver|Denver|CO|80216|
+SMART CARE LLC||403-01708|Optional Premises|Withdrawn|4696 Glencoe Street|Denver CO  80216|Denver|Denver|CO|80216|
+SMART SPACE DEVELOPMENT LAKEWOOD LLC|C^3 COLORADO SPRINGS LLC (ASSOCIATED BIZ)|402-00685|Center - Type 1|Withdrawn|1677 Wadsworth Blvd|Denver CO  80214|Denver|Jefferson|CO|80214|
+SMART SPACE DEVELOPMENT LAKEWOOD LLC|C^3 COLORADO SPRINGS LLC (ASSOCIATED BIZ)|403-01028|Optional Premises|Withdrawn|1677 Wadsworth Blvd|LAKEWOOD CO  80214|LAKEWOOD||CO|80214|
+SMART SPACE DEVELOPMENT LAKEWOOD LLC|C^3 COLORADO SPRINGS LLC (ASSOCIATED BIZ)|404-00268|Infused Product Manufacturer|Withdrawn|1677 Wadsworth Blvd|Lakewood CO  80214|Lakewood|Jefferson|CO|80214|
+SMITHSTONIAN CANNABIS CLUB OF LOVELAND LLC|SMITHSTONIAN CANNABIS CLUB OF LOVELAND LLC|402-00466|Center - Type 1|Withdrawn|123 N Lincoln|Loveland CO  80537|Loveland|Larimer|CO|80537|
+SMITHSTONIAN CANNABIS CLUB OF LOVELAND LLC|SMITHSTONIAN CANNABIS CLUB OF LOVELAND LLC|403-00700|Optional Premises|Withdrawn|3860 N Holly St, Unit 107|Denver CO  80207|Denver|Denver|CO|80207|
+SMOKED 2 INC||402R-00289|Retail Marijuana Store|Withdrawn|9698 Montview Boulevard|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+SMOKED INC||402R-00287|Retail Marijuana Store|Withdrawn|519 North Sable Boulevard, Suite A|Aurora CO  80011|Aurora|Adams|CO|80011|
+SMOKIN JOES MEDICAL MARIJUANA DISPENSARY LLC|SMOKIN JOES MEDICAL MARIJUANA DISPENSARY LLC|402-00764|Center - Type 1|Withdrawn|721 Main|Fairplay CO  80440|Fairplay|Park|CO|80440|
+SMOKIN JOES MEDICAL MARIJUANA DISPENSARY LLC|SMOKIN JOES MEDICAL MARIJUANA DISPENSARY LLC|403-01165|Optional Premises|Withdrawn|721 Main|Fairplay CO  80440|Fairplay|Park|CO|80440|
+SNOWSHINE LLC|SNOWSHINE LLC|402-00400|Center - Type 1|Withdrawn|14 Nelson St|Ward CO  80481|Ward|Boulder|CO|80481|
+SNOWSHINE LLC|SNOWSHINE LLC|403-00609|Optional Premises|Withdrawn|14 Nelson St|Ward CO  80481|Ward|Boulder|CO|80481|
+SOLACE MEDS LLC|SOLACE MEDS LLC|404-00003|Infused Product Manufacturer|Withdrawn|301 SMOKEY ST UNIT A|FORT COLLINS CO  80525|FORT COLLINS||CO|80525|
+SOLACE MEDS LLC|SOLACE MEDS LLC|403-00005|Optional Premises|Withdrawn|301 Smokey Street, Unit B|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+SOUTH PARK C.C. INC|SOUTH PARK C.C. INC|402-00446|Center - Type 1|Withdrawn|99 S Main St|Alma CO  80420|Alma|Park|CO|80420|
+SOUTH PARK C.C. INC|SOUTH PARK C.C. INC|403-00670|Optional Premises|Withdrawn|131 N Main St|Alma CO  80420|Alma|Park|CO|80420|
+SOUTH PARK C.C. INC|SOUTH PARK C.C. INC|403-00671|Optional Premises|Withdrawn|99 S Main St|Alma CO  80420|Alma|Park|CO|80420|
+SOUTHWEST ALTERNATIVE CARE LLC||402R-00456|Retail Marijuana Store|Withdrawn|3937 West Colfax Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+SOUTHWEST ALTERNATIVE CARE LLC||403R-00542|Retail Marijuana Cultivation Facility|Withdrawn|6390 Gunpark Drive, Unit A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SOUTHWEST CANNABIS GROWERS ASSOCIATION LLC|SOUTHWEST CANNABIS GROWERS ASSOCIATION LLC|403-00815|Optional Premises|Withdrawn|672 County Rd 230|Durango CO  81301|Durango|La Plata|CO|81301|
+SOVEREIGN SALUD LLC|SOVEREIGN SALUD LLC|403-00235|Optional Premises|Withdrawn|695 BUGGY CIRCLE SUITE B|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+SPRINGS HEALTH ALLIANCE LLC||402-00672|Center - Type 1|Withdrawn|3470 Chelton Loop North Unit H|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+SPRINGS HEALTH ALLIANCE LLC||404-00264|Infused Product Manufacturer|Withdrawn|3470 Chelton Loop North Unit H|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+SPRINGS HEALTH ALLIANCE LLC||403-01014|Optional Premises|Withdrawn|Tract 8 Wagon Wheel Ranch|Rush CO  80833|Rush|El Paso|CO|80833|
+ST. VRAINS WELLNESS & EXTRACTION CENTER|COLORADO EXTRACTS|403R-00365|Retail Marijuana Cultivation Facility|Withdrawn|2705 FARABAUGH LANE|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+STAINED GLASS INCORPORATED|STAINED GLASS INCORPORATED|402-00986|Center - Type 1|Withdrawn|123 North Union Boulevard|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+STAINED GLASS INCORPORATED|STAINED GLASS INCORPORATED|403-01555|Optional Premises|Withdrawn|123 North Union Boulevard|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+STARBUDS AURORA LLC|STARBUDS AURORA LLC|402R-00268|Retail Marijuana Store|Withdrawn|14591 East Alameda Avenue|Aurora CO  80012|Aurora|Arapahoe|CO|80012|
+STARBUDS THORNTON LLC|STARBUDS|402R-00620|Retail Marijuana Store|Withdrawn|8910 Colorado Boulevard|Denver CO  80229|Denver|Adams|CO|80229|
+STAY NATIVE MEDICINE|STAY NATIVE MEDICINE|402-00639|Center - Type 1|Withdrawn|430 LAWRENCE ST SUITE C|Central City CO  80427|Central City|Gilpin|CO|80427|
+STAY NATIVE MEDICINE|STAY NATIVE MEDICINE|403-00967|Optional Premises|Withdrawn|7161 Valtec Court Unit S|Boulder CO  80302|Boulder|Boulder|CO|80302|
+STAY NATIVE MEDICINE|STAY NATIVE MEDICINE|404-00315|Infused Product Manufacturer|Withdrawn|430 LAWRENCE ST SUITE C|Littleton CO  80129|Littleton|Douglas|CO|80129|
+STONE MOUNTAIN WELLNESS LLC|STONE MOUNTAIN WELLNESS LLC|402-00467|Center - Type 1|Withdrawn|600 Airport Blvd, Bldg A - Ste F1|Longmont CO  80503|Longmont|Boulder|CO|80503|
+STONE MOUNTAIN WELLNESS LLC|STONE MOUNTAIN WELLNESS LLC|403-00701|Optional Premises|Withdrawn|3880 Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+SUCKERS R US|SUCKERS R US|404-00022|Infused Product Manufacturer|Withdrawn|231 CHASE ST|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+SUNNYSIDE ALTERNATIVE MEDICINE LLC|SUNNYSIDE ALTERNATIVE MEDICINE LLC|403-00012|Optional Premises|Withdrawn|2715 W HOLDEN PL|DENVER CO  80204|DENVER||CO|80204|
+SUPREME CARE STRAINS AND WELLNESS|SUPREME CARE STRAINS AND WELLNESS|402-00259|Center - Type 1|Withdrawn|6767 E 39th Ave, Ste 107|Denver CO  80207|Denver|Denver|CO|80207|
+SUPREME CARE STRAINS AND WELLNESS|SUPREME CARE STRAINS AND WELLNESS|403-00389|Optional Premises|Withdrawn|90 N Rio Grande Blvd|Denver CO  80207|Denver|Denver|CO|80207|
+SWEET LEAF LLC|SWEET LEAF|403-01332|Optional Premises|Withdrawn|831 Cedar Hills Road|Penrose CO  81240|Penrose|Fremont|CO|81240|
+SWEET LEAF PIONEER LLC|SWEET LEAF PIONEER|404-00241|Infused Product Manufacturer|Withdrawn|0245 MARMOT LANE #5|Eagle CO  81631|Eagle|Eagle|CO|81631|
+SWEETLEAF COMPASSION CENTER LLC|SWEETLEAF COMPASSION CENTER LLC|402-00222|Center - Type 2|Withdrawn|5301 LEETSDALE DR.|Denver CO  80246|Denver|Denver|CO|80246|
+SWEETWATER PARTNERS LLC|THE GEM|402-00679|Center - Type 1|Withdrawn|1471 Josephine Street|Denver CO  80210|Denver|Denver|CO|80210|
+SWISS MEDICAL INDUSTRIES LLC|SWISS MEDICAL INDUSTRIES|403-01175|Optional Premises|Withdrawn|479 County Rd 6|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+SWISS MEDICAL INDUSTRIES LLC|SWISS MEDICAL INDUSTRIES|403-01177|Optional Premises|Withdrawn|479 County Rd 6|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+SWISS MEDICAL INDUSTRIES LLC||402-00876|Center - Type 1|Withdrawn|1126 South Sheridan Boulevard|Denver CO  80202|Denver|Denver|CO|80202|
+SWISS MEDICAL INDUSTRIES LLC||403-01370|Optional Premises|Withdrawn|400 Quivas|Denver CO  80204|Denver|Denver|CO|80204|
+SYNERGY ACRES LLC||403-00816|Optional Premises|Withdrawn|672 County Rd 230|Durango CO  81301|Durango|La Plata|CO|81301|
+TABLE MESA WELLNESS CENTER - FORT COLLINS LLC|TABLE MESA WELLNESS CENTER - FORT COLLINS LLC|402-00644|Center - Type 1|Withdrawn|1612 LAPORTE AVE|Fort Collins CO  80521|Fort Collins|Larimer|CO|80521|
+TABLE MESA WELLNESS CENTER - FORT COLLINS LLC|TABLE MESA WELLNESS CENTER - FORT COLLINS LLC|403-00972|Optional Premises|Withdrawn|7849 WCR 24|Longmont CO  80504|Longmont|Weld|CO|80504|
+TARA GREEN LLC||402R-00339|Retail Marijuana Store|Withdrawn|3202 Peoria Street, Suite B|Aurora CO  80010|Aurora|Arapahoe|CO|80010|
+TAYLOR MEDS LLC|Altitude Organic Medicine|402-00121|Center - Type 1|Withdrawn|204 MOUNTAINVIEW BUILDING, 1D|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+TAYLOR MEDS LLC|Altitude Organic Medicine|403-00171|Optional Premises|Withdrawn|228 S CIMMARON (B)|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+TEA ALCHEMY LLC|TEA ALCHEMY LLC|402-00441|Center - Type 1|Withdrawn|2321 E Mulberry|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+TEA POT LLC|GREEN ELEMENT TECHNOLOGIES LLC|403R-00777|Retail Marijuana Cultivation Facility|Withdrawn|2121 East 44th Street|Denver CO  80216|Denver|Denver|CO|80216|
+TENDERFOOT HEALTH COLLECTIVE|TENDERFOOT HEALTH COLLECTIVE LLC|403-01058|Optional Premises|Withdrawn|4939 N. Broadway, #57|Boulder CO  80304|Boulder|Boulder|CO|80304|
+TERPS N PURPS LLC|TERPS N PURPS|402R-00681|Retail Marijuana Store|Withdrawn|417 North Commercial Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+THE ACCEPTUS GROUP LLC|THE ACCEPTUS GROUP LLC|404-00121|Infused Product Manufacturer|Withdrawn|83 Davidson Creek Rd, Unit B|Durango CO  81301|Durango|La Plata|CO|81301|
+THE ALTERNATIVE WELLNESS CENTER INC|THE ALTERNATIVE WELLNESS CENTER INC|402-00233|Center - Type 1|Withdrawn|2647 W. 38TH AVENUE|Denver CO  80211|Denver|Denver|CO|80211|
+THE ALTERNATIVE WELLNESS CENTER INC|THE ALTERNATIVE WELLNESS CENTER INC|403-00350|Optional Premises|Withdrawn|1194-1196 S BANNOCK ST|Denver CO  80223|Denver|Denver|CO|80223|
+THE BLUEBERRY TWIST LLC|THE BLUEBERRY TWIST LLC|402-00677|Center - Type 1|Withdrawn|725 Main Street|Longmont CO  80501|Longmont|Boulder|CO|80501|
+THE BLUEBERRY TWIST LLC|THE BLUEBERRY TWIST LLC|403-01020|Optional Premises|Withdrawn|4421 N. Inca Street|Denver CO  80211|Denver|Denver|CO|80211|
+THE BLUEBERRY TWIST LLC|THE BLUEBERRY TWIST LLC|403-01241|Optional Premises|Withdrawn|3762 IMPERIAL |Dacono CO  80514|Dacono|Weld|CO|80514|
+THE BRECKENRIDGE LOFT LLC||402-00509|Center - Type 1|Withdrawn|320 S MAIN ST|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+THE BRECKENRIDGE LOFT LLC||403-00749|Optional Premises|Withdrawn|1795 AIRPORT RD UNIT A-4|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+THE CLONE STORE||403R-00380|Retail Marijuana Cultivation Facility|Withdrawn|4571 North Ivy Street|Denver CO  80219|Denver|Denver|CO|80219|
+THE COMMUNITY COLLABORATIVE LLC||403R-01149|Retail Marijuana Cultivation Facility|Withdrawn|822 Joey Lane|Moffat CO  81143|Moffat|Saguache|CO|81143|
+THE FARMACY LTC|MAYFLOWER WELLNESS|402-00559|Center - Type 1|Withdrawn|1400 MARKET ST., STE 200|Denver CO  80202|Denver|Denver|CO|80202|
+THE FARMACY LTC|MAYFLOWER WELLNESS|403-00828|Optional Premises|Withdrawn|1400 MARKET ST., STE 200|Denver CO  80202|Denver|Denver|CO|80202|
+THE FARMACY LTC|MAYFLOWER WELLNESS|403-00829|Optional Premises|Withdrawn|2920 LARIMER ST|Denver CO  80205|Denver|Denver|CO|80205|
+THE GAMMA HOLDINGS INC||402-01231|Center - Type 1|Withdrawn|130th & 140th W 84th Street|Denver CO  80260|Denver|Adams|CO|80260|
+THE GREEN GECKO LLC||402-00021|Center - Type 1|Withdrawn|1101 S. Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+THE GREEN HOUSE LLC|THE  GREEN HOUSE |402-00036|Center - Type 1|Withdrawn|520 E Cooper Avenue, Sutie 202|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+THE GREEN HOUSE LLC|THE  GREEN HOUSE LLC |404-00013|Infused Product Manufacturer|Withdrawn|110 CR 121|CARBONDALE CO  81623|CARBONDALE||CO|81623|
+THE GREEN HOUSE LLC|THE  GREEN HOUSE LLC |403-00048|Optional Premises|Withdrawn|110 CR 121|CARBONDALE CO  81623|CARBONDALE||CO|81623|
+THE GREEN HOUSE LLC|THE  GREEN HOUSE LLC |403-00049|Optional Premises|Withdrawn|1058 CR 100|Carbondale CO  81623|Carbondale|Adams|CO|81623|
+THE GREEN SOLUTION LLC|THE GREEN SOLUTION LLC|403-01275|Optional Premises|Withdrawn|4394 Grape Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||402-01179|Center - Type 1|Withdrawn|1995 Wewatta Street|Denver CO  80202|Denver|Denver|CO|80202|
+THE GROWERY INC|FRESH REPUBLIC|402-00600|Center - Type 1|Withdrawn|1335 BROADWAY UNIT #A|Boulder CO  80302|Boulder|Boulder|CO|80302|
+THE GROWERY INC|FRESH REPUBLIC|404-00233|Infused Product Manufacturer|Withdrawn|4665 NAUTILUS CT SUITE 400|Boulder CO  80301|Boulder|Boulder|CO|80301|
+THE HILL CANNABIS CLUB AND WELLNESS CENTER|THE HILL CANNABIS CLUB AND WELLNESS CENTER|402-00659|Center - Type 1|Withdrawn|1121 Broadway St. Suite G-1|Boulder CO  80302|Boulder|Boulder|CO|80302|
+THE HILL CANNABIS CLUB AND WELLNESS CENTER|THE HILL CANNABIS CLUB AND WELLNESS CENTER|403-00994|Optional Premises|Withdrawn|4944 PEARL ST SUITE K|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE KIND NEIGHBOR|THE KIND NEIGHBOR|402-00758|Center - Type 1|Withdrawn|6335 E. Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+THE KIND NEIGHBOR|THE KIND NEIGHBOR|403-01156|Optional Premises|Withdrawn|6335 E PLATTE AVE|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+THE KIND NEIGHBOR|THE KIND NEIGHBOR|404-00290|Infused Product Manufacturer|Withdrawn|6335 E PLATTE AVE|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+THE LAUGHING DOG GROUP LLC||404-00500|Infused Product Manufacturer|Withdrawn|500 Buggy Circle LL 3&4 and UL 2&3|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+THE LAUGHING DOG GROUP LLC||404R-00185|Retail Marijuana Products Mfg|Withdrawn|500 Buggy Circle LL 3&4 and UL 2&3|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+THE LONGMONT APOTHCARY LLC|THE LONGMONT APOTHCARY LLC|404-00273|Infused Product Manufacturer|Withdrawn|1314 COFFMAN ST.|Longmont CO  80501|Longmont|Boulder|CO|80501|
+THE LONGMONT APOTHECARY LLC|THE LONGMONT APOTHCARY LLC|402-00695|Center - Type 1|Withdrawn|1314 COFFMAN ST.|Longmont CO  80501|Longmont|Boulder|CO|80501|
+THE LONGMONT APOTHECARY LLC|THE LONGMONT APOTHCARY LLC|403-01046|Optional Premises|Withdrawn|1314 COFFMAN ST.|Longmont CO  80501|Longmont|Boulder|CO|80501|
+THE MEDICATION COMPANY INC|THE MEDICATION COMPANY INC|402-00648|Center - Type 1|Withdrawn|161 LAWRENCE STREET|Central City CO  80427|Central City|Gilpin|CO|80427|
+THE MEDICATION COMPANY INC|THE MEDICATION COMPANY INC|403-00976|Optional Premises|Withdrawn|161 LAWRENCE STREET|Central City CO  80427|Central City|Gilpin|CO|80427|
+THE ORIGINAL ROCKY MOUNTAIN PIZZA INC|MILE HIGH EDIBLES|404-00071|Infused Product Manufacturer|Withdrawn|2180 S DELAWARE ST|Denver CO  80223|Denver|Denver|CO|80223|
+THE PLEASURE CAFÉ LLC|THE PLEASURE CAFÉ LLC|404-00181|Infused Product Manufacturer|Withdrawn|9900 W Stanford Ave, Ste #113|DENVER CO  80123|DENVER||CO|80123|
+THE PURPLE DRAGON LLC||403R-00835|Retail Marijuana Cultivation Facility|Withdrawn|4015 North Elati Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE SILVER LIZARD LLC|THE SILVER LIZARD LLC|402-00020|Center - Type 1|Withdrawn|4400 Grape Street, Unit A|Denver CO  80216|Denver|Denver|CO|80216|
+THE SILVER LIZARD LLC|THE SILVER LIZARD LLC|403-00022|Optional Premises|Withdrawn|4400 GRAPE ST UNIT C|Denver CO  80216|Denver|Denver|CO|80216|
+THE SILVER LIZARD LLC||403-00916|Optional Premises|Withdrawn|6859 N Foothills Hwy Bldg C Ste C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+THERAPEUTIC COMPASSION CENTER|THERAPEUTIC COMPASSION CENTER|402-00706|Center - Type 1|Withdrawn|1501 LEE HILL RD.#22A|Boulder CO  80304|Boulder|Boulder|CO|80304|
+THERAPEUTIC COMPASSION CENTER|THERAPEUTIC COMPASSION CENTER|403-01066|Optional Premises|Withdrawn|1501 LEE HILL RD.#22A|Boulder CO  80304|Boulder|Boulder|CO|80304|
+THERAPEUTIC HERBAL CENTER|MESA ALTERNATIVE SPA & CLUB|402-00817|Center - Type 1|Withdrawn||Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+THERAPEUTIC HERBAL CENTER|MESA ALTERNATIVE SPA & CLUB|403-01237|Optional Premises|Withdrawn||Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+THORNTON RETAIL GROUP|FATTO|402R-00644|Retail Marijuana Store|Withdrawn|130-140 W 84th Avenue|Thornton CO  80260|Thornton|Adams|CO|80260|
+THORNTON WELLNESS LLC|GOLDEN MEDS|403-01872|Optional Premises|Withdrawn|890 7th Street|Penrose CO  81240|Penrose|Fremont|CO|81240|
+THORNTON WELLNESS LLC||402R-00618|Retail Marijuana Store|Withdrawn|10300 Washington Street|Thornton CO  80229|Thornton|Adams|CO|80229|
+THORNTON WELLNESS LLC|GOLDEN MEDS|402-01226|Center - Type 1|Withdrawn|10300 Washington Street|Thornton CO  80229|Thornton|Adams|CO|80229|
+TIMBERLINE HERBAL CLINIC AND WELLNESS CENTER LLC|TIMBERLINE HERBAL CLINIC LLC|403-00422|Optional Premises|Withdrawn|5721 Arapahoe Avenue|Boulder CO  80303|Boulder|Boulder|CO|80303|
+TINGLY TREATS LLC|TINGLY TREATS LLC|404-00012|Infused Product Manufacturer|Withdrawn|1005 N FEDERAL BLVD|DENVER CO  80204|DENVER||CO|80204|
+TLC INVESTMENTS GROUP LLC|TLC INVESTMENTS GROUP LLC|402-00884|Center - Type 1|Withdrawn|755 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+TLC INVESTMENTS GROUP LLC|TLC INVESTMENTS GROUP LLC|403-01399|Optional Premises|Withdrawn|755 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+TLC TENDER LOVING CAREGIVERS LLC|TLC TENDER LOVING CAREGIVERS LLC|402-00258|Center - Type 1|Withdrawn|755 S Jason St|Denver CO  80223|Denver|Denver|CO|80223|
+TLC TENDER LOVING CAREGIVERS LLC|TLC TENDER LOVING CAREGIVERS LLC|403-00388|Optional Premises|Withdrawn|755 S Jason St|Denver CO  80223|Denver|Denver|CO|80223|
+TOBAR FARMS LLC|THE ROSIN COMPANY|404R-00309|Retail Marijuana Products Mfg|Withdrawn|3441 Grand Avenue, Unit C-2|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+TOBAR FARMS LLC|THE ROSIN COMPANY|404-00585|Infused Product Manufacturer|Withdrawn|3441 Grand Avenue, Unit C-2|Glenwood Springs CO  81602|Glenwood Springs|Garfield|CO|81602|
+TODAYS HEALTH CARE II LLC|THC MEDS|402-00291|Center - Type 1|Withdrawn|6351 E Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TODAYS HEALTH CARE II LLC|THC MEDS|403-00431|Optional Premises|Withdrawn|6351 E Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TODAYS HEALTH CARE II LLC|THC MEDS|403-00432|Optional Premises|Withdrawn|4010 Clear View Frontage Rd|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+TODAYS HEALTH CARE II LLC|TODAYS HEALTH CARE II LLC|402-00293|Center - Type 3|Withdrawn|95 E 1st St|Nederland CO  80466|Nederland|Boulder|CO|80466|
+TODAYS HEALTH CARE II LLC|TODAYS HEALTH CARE II LLC|403-00435|Optional Premises|Withdrawn|4010 Clear View Frontage Rd|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+TODAYS HEALTH CARE II LLC|TODAYS HEALTH CARE II LLC|403-00436|Optional Premises|Withdrawn|6351 E Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TODAYS HEALTH CARE II LLC|TODAYS HEALTH CARE II LLC|403-00437|Optional Premises|Withdrawn|6345 E Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TODAYS HEALTH CARE II LLC|TODAYS HEALTH CARE II LLC|404-00118|Infused Product Manufacturer|Withdrawn|95 E 1st St|Nederland CO  80466|Nederland|Boulder|CO|80466|
+TODAYS HEALTH CARE II LLC|TODAYS HEALTH CARE II LLC|403-00438|Optional Premises|Withdrawn|95 E 1st St|Nederland CO  80466|Nederland|Boulder|CO|80466|
+TODAYS HEALTH CARE II LLC|THC MEDS|404-00119|Infused Product Manufacturer|Withdrawn|6345 E Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TODAYS HEALTH CARE II LLC|THC MEDS|403-00439|Optional Premises|Withdrawn|6345 E Platte Ave|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TODAYS HEALTH CARE LLC|TODAYS HEALTH CARE LLC|404-00347|Infused Product Manufacturer|Withdrawn|1015 Hwy 115|Penrose CO  81240|Penrose|Fremont|CO|81240|
+TOP BUDS LLC|(DENVER CANNA CLUB LLC #4)|402-00463|Center - Type 1|Withdrawn|575 Valley St Unit 10|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+TOP BUDS LLC|(DENVER CANNA CLUB LLC #4)|403-00697|Optional Premises|Withdrawn|3860 N Holly St #101|Denver CO  80206|Denver|Denver|CO|80206|
+TOP SHELF ALTERNATIVES LLC|TOP SHELF ALTERNATIVES LLC|402-00770|Center - Type 1|Withdrawn|1327 Spruce Street Ste 300|Boulder CO  80302|Boulder|Boulder|CO|80302|
+TOP SHELF ALTERNATIVES LLC|TOP SHELF ALTERNATIVES LLC|403-01172|Optional Premises|Withdrawn|4699 Nautilus Court Sout Unit 501, 502, & 503|Boulder CO  80302|Boulder|Boulder|CO|80302|
+TOP SHELF COLORADO INC|TOP SHELF COLORADO INC|402-00315|Center - Type 2|Withdrawn|1101 Academy Ct, Unit 4|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+TOP SHELF COLORADO INC|TOP SHELF COLORADO INC|403-00471|Optional Premises|Withdrawn|116 Smokey St|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+TOP SHELF COLORADO INC|TOP SHELF COLORADO INC|403-00472|Optional Premises|Withdrawn|1012 NE Frontage Rd|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+TOP SHELF ORGANICS INC|MariTrust|402-00026|Center - Type 1|Withdrawn|4662 GLENCOE ST|Denver CO  80216|Denver|Denver|CO|80216|
+TOP SHELF ORGANICS INC|MARITRUST|403-00033|Optional Premises|Withdrawn|4662 GLENCOE ST|Denver CO  80216|Denver|Denver|CO|80216|
+TOTAL HEALTH CONCEPTS LLC||402-00201|Center - Type 1|Withdrawn|23 MCKINLEY PLACE|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+TOTAL HEALTH CONCEPTS LLC|TOTAL HEALTH CONCEPTS LLC|403-00293|Optional Premises|Withdrawn|3103 KAREN PLACE SUITE 100|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+TOTAL HEALTH CONCEPTS LLC||402-00202|Center - Type 1|Withdrawn|2059 BRYANT ST.|Denver CO  80211|Denver|Denver|CO|80211|
+TOTAL HEALTH CONCEPTS LLC||403-00294|Optional Premises|Withdrawn|3103 KAREN PLACE SUITE 100|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+TOTAL HEALTH CONCEPTS LLC|TOTAL HEALTH CONCEPTS LLC|403-01227|Optional Premises|Withdrawn|2059 BRYANT ST|Denver CO  80211|Denver|Denver|CO|80211|
+TREATMENTS UNLIMITED LLC|TREATMENTS UNLIMITED LLC|403-00397|Optional Premises|Withdrawn|5735 Arapahoe Ave, Unit E|BOULDER CO  80303|BOULDER||CO|80303|
+TREE LINE PREMIER BOULDER LLC|WELL DISPENSARY|403-01188|Optional Premises|Withdrawn|2200 Central Ave Suite H|Boulder CO  80301|Boulder|Boulder|CO|80301|
+TREE OF WELLNESS INC|TREE OF WELLNESS|403-00665|Optional Premises|Withdrawn|1301 SOUTH COUNTY ROAD 241|Deer Trail CO  80105|Deer Trail|Arapahoe|CO|80105|
+TRENT HADDEN|TRENT HADDEN|403-01238|Optional Premises|Withdrawn|1027 THUNDER RD|Norwood CO  81423|Norwood|San Miguel|CO|81423|
+TRICHOME HEALTH CONSULTANTS|TRICHOME HEALTH CONSULTANTS|403-00340|Optional Premises|Withdrawn|7162 COLE VW.|COLORADO SPRINGS CO  80915|COLORADO SPRINGS|El Paso|CO|80915|
+TRICHOME HEALTH CONSULTANTS|TRICHOME HEALTH CONSULTANTS|403-00348|Optional Premises|Withdrawn|3382 SILOAM RD|Beulah CO  81023|Beulah|Pueblo|CO|81023|
+TRILL EVOLUTIONS LLC|TRILL EVOLUTIONS|402R-00632|Retail Marijuana Store|Withdrawn|8551 Washington Street|Thornton CO  80229|Thornton|Adams|CO|80229|
+TRILL THERAPEUTICS LLC||403R-00899|Retail Marijuana Cultivation Facility|Withdrawn|4765 Oakland Street|Denver CO  80239|Denver|Denver|CO|80239|
+TRIPLE W LLC|PENTOLA|402R-00637|Retail Marijuana Store|Withdrawn|8551 Washington Street|Thornton CO  80229|Thornton|Adams|CO|80229|
+TRIPLE W LLC|PENTOLA|402R-00638|Retail Marijuana Store|Withdrawn|15980 Quebec Street|Thornton CO  80602|Thornton|Adams|CO|80602|
+TRUE EARTH MEDICINE LLC|True Earth Medicine LLC|403-01263|Optional Premises|Withdrawn|2694 CR 222|Durango CO  81301|Durango|La Plata|CO|81301|
+TW LLC|MINDFUL|402R-00636|Retail Marijuana Store|Withdrawn|8551 Washington Street|Thornton CO  80229|Thornton|Adams|CO|80229|
+TZ FINANCIAL LLC|HIGH COUNTRY HEALING|403-00332|Optional Premises|Withdrawn|91 COLUMBINE RD|Woodland Park CO  80863|Woodland Park|Teller|CO|80863|
+TZ FINANCIAL LLC|HIGH COUNTRY HEALING|403-00333|Optional Premises|Withdrawn|2520 WESTON RD|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+UNIQUEITMINDS INC|CHRONORADO|402R-00491|Retail Marijuana Store|Withdrawn|6625 Leetsdale Drive, Unit A|Denver CO  80224|Denver|Denver|CO|80224|
+UNIQUEITMINDS INC|CHRONORADO|403R-00582|Retail Marijuana Cultivation Facility|Withdrawn|6625 Leetsdale Drive, Unit A|Denver CO  80224|Denver|Denver|CO|80224|
+UNIVERSAL HERBS LLC||403-00553|Optional Premises|Withdrawn|1730 Blake Street, Suite 420|Denver CO  80202|Denver|Denver|CO|80202|
+UNIVERSAL HERBS LLC||403-00554|Optional Premises|Withdrawn|1730 Blake Street, Suite 420|Denver CO  80202|Denver|Denver|CO|80202|
+URBAN HEALTH & WELLNESS INC||403-00627|Optional Premises|Withdrawn|1000 W. Mississippi Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+URBAN HEALTH & WELLNESS INC||403-00628|Optional Premises|Withdrawn|1100 S. Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+URBAN HEALTH & WELLNESS INC||403-01097|Optional Premises|Withdrawn|150 Tejon Street|Denver CO  80223|Denver|Denver|CO|80223|
+VAIL BUD BREWERY LLC|VAIL BUD BREWERY LLC|402R-00256|Retail Marijuana Store|Withdrawn|40690 Highway 6|Avon CO  81620|Avon|Eagle|CO|81620|
+VALLEY GROWN INC.|VALLEY GROWN INC.|404-00214|Infused Product Manufacturer|Withdrawn|2999 North Avenue|Grand Junction CO  81507|Grand Junction|Mesa|CO|81507|
+VALLEY GROWN INC.|VALLEY GROWN INC.|403-00798|Optional Premises|Withdrawn|2999 North Avenue|Grand Junction CO  81507|Grand Junction|Mesa|CO|81507|
+VERY BEST MEDICINE LLC|VERY BEST MEDICINE, LLC|404-00239|Infused Product Manufacturer|Withdrawn|6853 Leetsdale Drive|Denver CO  80224|Denver|Denver|CO|80224|
+VIP WELLNESS CENTER LLC|VIP CANNABIS|402-00393|Center - Type 3|Withdrawn|2949 West Alameda Avenue|Denver CO  80219|Denver|Denver|CO|80219|
+VIP WELLNESS CENTER LLC|VIP CANNABIS|403-00598|Optional Premises|Withdrawn|4802 Brighton Blvd.|Denver CO  80216|Denver|Denver|CO|80216|
+VIP WELLNESS CENTER LLC|ELIZABETH'S END LLC - PARTNER COMPANY|403-00599|Optional Premises|Withdrawn|2640 EAST 43RD AVE|Denver CO  80216|Denver|Denver|CO|80216|
+VIP WELLNESS CENTER LLC|ELIZABETH'S END LLC - PARTNER COMPANY|403-00600|Optional Premises|Withdrawn|755 s jason st|Denver CO  80223|Denver|Denver|CO|80223|
+VIP WELLNESS CENTER LLC|ELIZABETH'S END LLC - PARTNER COMPANY|404-00164|Infused Product Manufacturer|Withdrawn|2949 W Alameda Ave|Denver CO  80219|Denver|Denver|CO|80219|
+VIRTUAL MARKETING LLC|MAGGIE'S FARM|403R-00469|Retail Marijuana Cultivation Facility|Withdrawn|4803 North Interstate 25|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+VISAJ UNITY LLC|METRO CANNABIS|402R-00294|Retail Marijuana Store|Withdrawn|18881 East Colfax Avenue, Suite 2|Aurora CO  80011|Aurora|Adams|CO|80011|
+VVS1R INC||404R-00415|Retail Marijuana Products Mfg|Withdrawn|2424 East 43rd Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+VVS1R INC||404-00633|Infused Product Manufacturer|Withdrawn|2424 East 43rd Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+WE GROW COLORADO LLC|WE GROW COLORADO LLC|403-00040|Optional Premises|Withdrawn|2502 E. Bijou Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+WEEDS HEALTH LLC||402-00095|Center - Type 1|Withdrawn|719 Pitkin Ave #2|Grand Junction CO  81501|Grand Junction|Mesa|CO|81501|
+WEEDS HEALTH LLC||403-00139|Optional Premises|Withdrawn|708 23 1/10 Road Unit A-1|Grand Junction CO  81505|Grand Junction|Mesa|CO|81505|
+WELLNESS CENTERS OF COLORADO LLC|A-WELLNESS CENTER|404-00201|Infused Product Manufacturer|Withdrawn|2599 E WILLIAMETTE AVE|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+WEST ELIZABETH INC|THE VISTA|402R-00378|Retail Marijuana Store|Withdrawn|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+WEST ELIZABETH INC|THE VISTA|402-01004|Center - Type 1|Withdrawn|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+WEST ELIZABETH INC|THE VISTA|403-01582|Optional Premises|Withdrawn|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+WESTERN SLOPE ALTERNATIVES LLC|WESTERN SLOPE ALTERNATIVES, LLC|402-00477|Center - Type 1|Withdrawn|601 Elm Ave|Crawford CO  81415|Crawford|Delta|CO|81415|
+WESTERN SLOPE CAREGIVERS LLC|WESTERN SLOPE CAREGIVERS|403-00123|Optional Premises|Withdrawn|9559 County Road 320|RIFLE CO  81650|RIFLE|Adams|CO|81650|
+WESTERN SLOPE MEDICAL MARIJUANA LTD|WESTERN SLOPE MEDICAL MARIJUANA LTD|402-00488|Center - Type 1|Withdrawn|0515 Stover Valley Rd|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+WESTERN SLOPE MEDICAL MARIJUANA LTD|WESTERN SLOPE MEDICAL MARIJUANA LTD|403-00725|Optional Premises|Withdrawn|0515 Stover Valley Rd|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+WESTSIDE WELLNESS CENTER LLC||403-00357|Optional Premises|Withdrawn|114 East Ramona|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+WESTSIDE WELLNESS CENTER LLC||403-00359|Optional Premises|Withdrawn|114 E RAMONA #6|COLORADO SPRINGS CO  80906|COLORADO SPRINGS||CO|80906|
+WHISPER WOODS LLC|WEEDIBLES|404-00311|Infused Product Manufacturer|Withdrawn|530 PINE DR|Windsor CO  80550|Windsor|Weld|CO|80550|
+WHITE DIAMOND BOTANICALS LLC||403R-00489|Retail Marijuana Cultivation Facility|Withdrawn|157 E Industrial Blvd|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+WHITE MOUNTAIN MEDICINE LLC|THE MMJ DISPENSARY|403-00917|Optional Premises|Withdrawn|4000 N Nevada Ave|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+WHITE MOUNTAIN MEDICINE LLC|THE MMJ DISPENSARY|403-00918|Optional Premises|Withdrawn|3226 N Nevada Ave|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+WINPARK I LLC|THE HERBAN CENTER|402-00224|Center - Type 1|Withdrawn|4010 CLEAR VIEW FRONTAGE RD #101|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+WINPARK I LLC|THE HERBAN CENTER|403-00326|Optional Premises|Withdrawn|4010 CLEAR VIEW FRONTAGE RD #117|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+WINPARK I LLC|THE HERBAN CENTER|403-00327|Optional Premises|Withdrawn|4010 CLEAR VIEW FRONTAGE RD #105/101|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+WINPARK I LLC|THE HERBAN CENTER|404-00096|Infused Product Manufacturer|Withdrawn|4010 CLEAR VIEW FRONTAGE RD #105|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+WINPARK I LLC|THE HERBAN CENTER|402-00225|Center - Type 1|Withdrawn|6530 S ACADEMY BLVD SUITE 110|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+WINPARK I LLC|THE HERBAN CENTER|403-00328|Optional Premises|Withdrawn|6530 S ACADEMY BLVD SUITE 110|Colorado Springs CO  80906|Colorado Springs|El Paso|CO|80906|
+WINPARK I LLC|THE HERBAN CENTER|403-00329|Optional Premises|Withdrawn|3131 Hwy 7|Estes Park CO  80517|Estes Park|Larimer|CO|80517|
+WINPARK I LLC|THE HERBAN CENTER|403-01225|Optional Premises|Withdrawn|4010 Clear View Frontage Rd #101A|Colorado Springs CO  80911|Colorado Springs|El Paso|CO|80911|
+WISE CANNABIS CO LLC||404R-00193|Retail Marijuana Products Mfg|Withdrawn|21950 Highway 285|Fairplay CO  80440|Fairplay|Park|CO|80440|
+WORLD APOTHIC LLC||403R-00923|Retail Marijuana Cultivation Facility|Withdrawn|3630 County Road 650|Rye CO  81069|Rye|Pueblo|CO|81069|
+WTJ FAMILY ENTERPRISES LLC|WTJ FAMILY ENTERPRISES LLC|404-00059|Infused Product Manufacturer|Withdrawn|319 Mount View|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+YEOMANSAX LLC|THE HEALTH CENTER|402R-00328|Retail Marijuana Store|Withdrawn|12600 East Smith Road|Aurora CO  80011|Aurora|Adams|CO|80011|
+YUMA WAY LLC|CHERRY PEAK|402-01299|Center - Type 1|Withdrawn|4601 East Mississippi Avenue|Glendale CO  80246|Glendale|Arapahoe|CO|80246|
+ZAPOTK CORPORATION LTD||403R-00781|Retail Marijuana Cultivation Facility|Withdrawn|778 County Road 230|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+ZEN FARMACY LLC|THE ZEN FARMACY LLC|402-00668|Center - Type 1|Withdrawn|323 3RD AVE|Longmont CO  80501|Longmont|Boulder|CO|80501|
+ZUNI WELLNESS CENTER LLC|THE CLINIC ALTERNATIVE MEDICINE DBA THE CLINIC|402-00136|Center - Type 1|Withdrawn|1045 ZUNI ST|Denver CO  80204|Denver|Denver|CO|80204|

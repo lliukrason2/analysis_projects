@@ -1,0 +1,5 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+Andrea Altman Block||M88459|Ind. Temp Appointee Registration|Approved|||||||
+Beatrice Pacheco||M88397|Ind. Temp Appointee Registration|Approved|||||||
+Pamela Goetze Van Steyn||M83288|Ind. Temp Appointee Registration|Approved|||||||
+Richard Anthony Block||M88462|Ind. Temp Appointee Registration|Approved|||||||

@@ -1,0 +1,925 @@
+full_name|doing_business_as|license_no|license_type_name|license_status_name|addr_line_1|addr_line_4|addr_city|addr_county|addr_state|addr_zipcode|
+1 STOP SHOP LLC||403-01534|Optional Premises|Voluntary Surrender|400 South Lipan Street, Unit 6|Denver CO  80223|Denver|Denver|CO|80223|
+1332 SYSTEMS LLC||404-00570|Infused Product Manufacturer|Voluntary Surrender|1332 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+1332 SYSTEMS LLC||403-01858|Optional Premises|Voluntary Surrender|1332 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+136 DENVER DEVELOPER LLC|EUFLORA|402R-00643|Retail Marijuana Store|Voluntary Surrender|13621 Washington Street|Thornton CO  80023|Thornton|Adams|CO|80023|
+21000 INC||403R-00359|Retail Marijuana Cultivation Facility|Voluntary Surrender|21000 E 32nd Pkwy|Aurora CO  80011|Aurora|Adams|CO|80011|
+21000 INC||404R-00085|Retail Marijuana Products Mfg|Voluntary Surrender|21000 E 32nd Pkwy|Aurora CO  80011|Aurora|Adams|CO|80011|
+3BUDS LLC|CAUSE+MEDIC|404R-00223|Retail Marijuana Products Mfg|Voluntary Surrender|4340 East Kentucky Avenue, Suite 215|Glendale CO  80246|Glendale|Arapahoe|CO|80246|
+3-D DENVERS DISCREET DISPENSARY LLC|3D cannabis Center|403R-00323|Retail Marijuana Cultivation Facility|Voluntary Surrender|7706 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+434 GROUP LLC|VIOLAS EXTRACTS|404-00186|Infused Product Manufacturer|Voluntary Surrender|4645 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+434 GROUP LLC|VIOLAS EXTRACTS|403-01778|Optional Premises|Voluntary Surrender|4645 Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+4625 E COLFAX LLC|THE CLINIC ON COLFAX|403R-00059|Retail Marijuana Cultivation Facility|Voluntary Surrender|4625 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+4625 E COLFAX LLC|THE CLINIC ON COLFAX|403R-00061|Retail Marijuana Cultivation Facility|Voluntary Surrender|5098 Paris Street|Denver CO  80239|Denver|Denver|CO|80239|
+5110 RACE LLC|THE SANCTUARY|403R-00003|Retail Marijuana Cultivation Facility|Voluntary Surrender|2424 East 43rd Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+5110 RACE LLC|THE SANCTUARY|403R-00318|Retail Marijuana Cultivation Facility|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+5B1S LLC|1859|403-00698|Optional Premises|Voluntary Surrender|3880 Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+5B1S LLC|1859|402-00952|Center - Type 1|Voluntary Surrender|231 Gregory Street|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+5B1S LLC|1859|403R-00561|Retail Marijuana Cultivation Facility|Voluntary Surrender|3880 Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+ABSOLUTE MANITOU WELLNESS CENTER LLC||403-00499|Optional Premises|Voluntary Surrender|4400 Garfield|Denver CO  80216|Denver|Denver|CO|80216|
+ABSOLUTE MANITOU WELLNESS CENTER LLC||402-00688|Center - Type 1|Voluntary Surrender|2 Manitou Avenue|Manitou Springs CO  80829|Manitou Springs|El Paso|CO|80829|
+ABSOLUTE MANITOU WELLNESS CENTER LLC|RESERVE 1 GLENDALE|402-00888|Center - Type 1|Voluntary Surrender|4182 East Virginia Street, Unit C|Glendale CO  80246|Glendale|Arapahoe|CO|80246|
+ABSOLUTE MANITOU WELLNESS CENTER LLC||403-01408|Optional Premises|Voluntary Surrender|4400 Garfield Street|Denver CO  80216|Denver|Denver|CO|80216|
+ACADEMY OF THE HEALING ARTS LLC|HIGH VALLEY HEALING CENTER|402-00102|Center - Type 1|Voluntary Surrender|116 South Alder Street, Suite B|Crestone CO  81131|Crestone|Saguache|CO|81131|
+ACADEMY OF THE HEALING ARTS LLC|GOLDEN HARVEST GROWERS|403-00147|Optional Premises|Voluntary Surrender|17505 County Road 52|Saguache CO  81149|Saguache|Saguache|CO|81149|
+ACES PLACE LLC||402R-00425|Retail Marijuana Store|Voluntary Surrender|1101 Academy Court, #4 |Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+ACME DISPENSARY INC||402-00519|Center - Type 1|Voluntary Surrender|309 Belleview Avenue Unit 1A|Crested Butte CO  81224|Crested Butte|Gunnison|CO|81224|
+ACME DISPENSARY INC||403-00762|Optional Premises|Voluntary Surrender|22327 Highway 550 Lot B|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+ACME DISPENSARY INC||402R-00156|Retail Marijuana Store|Voluntary Surrender|309 Belleview Avenue Unit 1A|Crested Butte CO  81224|Crested Butte|Gunnison|CO|81224|
+ACME DISPENSARY INC||403R-00205|Retail Marijuana Cultivation Facility|Voluntary Surrender|22327 US Hwy 550 LOT B|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+ACME HEALING CENTER OF GUNNISON LLC||402R-00503|Retail Marijuana Store|Voluntary Surrender|620 South 9th Street|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+ACME HEALING CENTER OF RIDGWAY II LLC||402R-00314|Retail Marijuana Store|Voluntary Surrender|157 N Highway 550|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+ADG HERBAL MEDICINE INC|FROSTED LEAF|403-00693|Optional Premises|Voluntary Surrender|2365 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+ADVANCED MEDICAL ALTERNATIVES LLC||403-00978|Optional Premises|Voluntary Surrender|2252 South Kalamath Street, Unit B|Denver CO  80223|Denver|Denver|CO|80223|
+ADVANCED MEDICAL ALTERNATIVES LLC||403-01535|Optional Premises|Voluntary Surrender|400 South Lipan Street, Unit 23|Denver CO  80223|Denver|Denver|CO|80223|
+ADVANCED MEDICAL ALTERNATIVES LLC|ADVANCED MEDICAL ALTERNATIVES|404-00480|Infused Product Manufacturer|Voluntary Surrender|1269 Elati Street|Denver CO  80204|Denver|Denver|CO|80204|
+ADVANCED MEDICAL ALTERNATIVES LLC||403-01750|Optional Premises|Voluntary Surrender|3550 36th Lane|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+ADVANCED MEDICAL ALTERNATIVES LLC|ADVANCED MEDICAL ALTERNATIVES & ELEVATED EDIBLES|404R-00284|Retail Marijuana Products Mfg|Voluntary Surrender|1269 Elati Street|Denver CO  80204|Denver|Denver|CO|80204|
+AJO HOLDINGS LLC|HIGH SOCIETY MEDICAL CANNABIS|402-00927|Center - Type 1|Voluntary Surrender|920 West 104th Avenue|Northglenn CO  80234|Northglenn|Adams|CO|80234|
+AJO HOLDINGS LLC|HIGH SOCIETY MEDICAL CANNABIS|403-01462|Optional Premises|Voluntary Surrender|4335 Race Street|Denver CO  80216|Denver|Denver|CO|80216|
+AJO HOLDINGS LLC|NATURAL SELECTIONS|403R-00416|Retail Marijuana Cultivation Facility|Voluntary Surrender|5757 Arapahoe Avenue, Unit C2|Boulder CO  80303|Boulder|Boulder|CO|80303|
+AJO HOLDINGS LLC|NATURAL SELECTIONS|402-01106|Center - Type 1|Voluntary Surrender|9364 Federal Boulevard|Federal Heights CO  80260|Federal Heights|Adams|CO|80260|
+ALCC LLC|THE DAB BY NEXT HARVEST|402-00117|Center - Type 1|Voluntary Surrender|2748 West Alameda Avenue|Denver CO  80219|Denver|Denver|CO|80219|
+ALCC LLC|NEXT HARVEST WELLNESS|403-00166|Optional Premises|Voluntary Surrender|6859 North Foothills Highway, Building C, Suite C-400|Boulder CO  80302|Boulder|Boulder|CO|80302|
+ALCC LLC|THE DAB BY NEXT HARVEST|403-00555|Optional Premises|Voluntary Surrender|750 Canosa Court|Denver CO  80204|Denver|Denver|CO|80204|
+ALMA CANNABIS THERAPEUTICS LLC||402-00506|Center - Type 1|Voluntary Surrender|447 North Main Street|Alma CO  80420|Alma|Park|CO|80420|
+ALMA CANNABIS THERAPEUTICS LLC||403-00746|Optional Premises|Voluntary Surrender|447 North Main Street|Alma CO  80420|Alma|Park|CO|80420|
+ALPENGLOW BOTANICALS LLC||402-00139|Center - Type 1|Voluntary Surrender|1805 Airport Road, Unit B1C,|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+ALPENGLOW BOTANICALS LLC||403-00203|Optional Premises|Voluntary Surrender|1805 Airport Road, Unit B1C,|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+ALPENGLOW BOTANICALS LLC|ALPENGLOW BOTANICALS|404-00395|Infused Product Manufacturer|Voluntary Surrender|1805 Airport Road, #B1C|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+ALPINE HERBAL WELLNESS LLC|FROSTED LEAF|403-00692|Optional Premises|Voluntary Surrender|50 Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+ALPINE HERBAL WELLNESS LLC||402-00936|Center - Type 1|Voluntary Surrender|445 Federal Boulevard|Denver CO  80204|Denver|Denver|CO|80204|
+ALPINE SERVICES LLC|ASCENT EXTRACTS|404R-00318|Retail Marijuana Products Mfg|Voluntary Surrender|77 North Laser Drive, Suite I|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+ALPINE SERVICES LLC|ASCENT EXTRACTS|404-00586|Infused Product Manufacturer|Voluntary Surrender|77 North Laser Drive, Suite I|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+ALPINE WELLNESS LLC||402-00112|Center - Type 1|Voluntary Surrender|300 West Colorado Avenue, Unit 2C Suites B-H|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+ALPINE WELLNESS LLC||403-00159|Optional Premises|Voluntary Surrender|765 Vance Drive |Telluride CO  81435|Telluride|San Miguel|CO|81435|
+ALPINE WELLNESS LLC|ALPINE WELLNESS|404R-00020|Retail Marijuana Products Mfg|Voluntary Surrender|757 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+ALPINE WELLNESS LLC|ALPINE WELLNESS|403R-00116|Retail Marijuana Cultivation Facility|Voluntary Surrender|765 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+ALPINE WELLNESS LLC|ALPINE WELLNESS ALPINE INFUSIONS|404-00486|Infused Product Manufacturer|Voluntary Surrender|757 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+ALTERMEDS LLC|ALTERMEDS|402-00038|Center - Type 1|Voluntary Surrender|1156 West Dillon Road, Suite 3|Louisville CO  80027|Louisville|Boulder|CO|80027|
+ALTERMEDS LLC|ALTERMEDS LLC|403-00052|Optional Premises|Voluntary Surrender|2510 N. 47th Street, Unit E|Boulder CO  80301|Boulder|Boulder|CO|80301|
+ALTERNATIVE HOLISTIC HEALING LLC|ALTERNATIVE HOLISTIC HEALING|402-00061|Center - Type 1|Voluntary Surrender|5312 Hwy 119 Unit B|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE HOLISTIC HEALING LLC|ABUNDANT HEALING|403-00082|Optional Premises|Voluntary Surrender|5312 Hwy 119 Unit B|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE HOLISTIC HEALING LLC|ROCKY MTN ORGANICS|403R-00421|Retail Marijuana Cultivation Facility|Voluntary Surrender|7445 Rex Road|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+ALTERNATIVE MEDICAL SOLUTIONS LTD||402-00944|Center - Type 1|Voluntary Surrender|106 S Mill St Suite 201 and 202|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+ALTERNATIVE MEDICAL SOLUTIONS LTD||403-01490|Optional Premises|Voluntary Surrender|1605 South Tejon Street, Unit 106|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+ALTERNATIVE MEDICAL SUPPLIES LLC||403-00678|Optional Premises|Voluntary Surrender|9 Karlann Drive|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE MEDICAL SUPPLIES LLC||402-00812|Center - Type 1|Voluntary Surrender|9 Karlann Drive|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE MEDICAL SUPPLIES LLC||402R-00143|Retail Marijuana Store|Voluntary Surrender|9 Karlann Drive|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE MEDICAL SUPPLIES LLC||403R-00189|Retail Marijuana Cultivation Facility|Voluntary Surrender|9 Karlann Drive|Black Hawk CO  80422|Black Hawk|Gilpin|CO|80422|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS APOTHECARY|403-00626|Optional Premises|Voluntary Surrender|4990 Dahlia Street |Denver CO  80216|Denver|Denver|CO|80216|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS APOTHECARY|403R-00032|Retail Marijuana Cultivation Facility|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS APOTHECARY|403R-00559|Retail Marijuana Cultivation Facility|Voluntary Surrender|4990 Dahlia Street |Denver CO  80216|Denver|Denver|CO|80216|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS|402-01228|Center - Type 1|Voluntary Surrender|12720 Colorado Boulevard|Thornton CO  80241|Thornton|Adams|CO|80241|
+ALTERNATIVE MEDICINE ON THE MALL LLC|NATIVE ROOTS|402R-00625|Retail Marijuana Store|Voluntary Surrender|12720 Colorado Boulevard|Thornton CO  80241|Thornton|Adams|CO|80241|
+ALTITUDE WELLNESS CENTER LLC|NATURE'S HERBS DTC|403R-00815|Retail Marijuana Cultivation Facility|Voluntary Surrender|1131, 1133, 1135 South Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+AMERICAN INDUSTRY LLC|DENVER CLONE STORE|403R-00451|Retail Marijuana Cultivation Facility|Voluntary Surrender|4571 North Ivy Street|Denver CO  80216|Denver|Denver|CO|80216|
+AMERIGREEN OF COLORADO SPRINGS ILCT LLC|THE AMERIGREEN COMPANY|404-00138|Infused Product Manufacturer|Voluntary Surrender|957 East Fillmore Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+AMERIGREEN OF COLORADO SPRINGS ILCT LLC|THE AMERIGREEN COMPANY|402-00348|Center - Type 1|Voluntary Surrender|907 East Fillmore Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+AMERIGREEN OF COLORADO SPRINGS ILCT LLC|THE AMERIGREEN COMPANY|403-00523|Optional Premises|Voluntary Surrender|905 East Fillmore Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+ANCIENT ALTERNATIVES LLC|GREEN TREE MEDICINALS|403-00429|Optional Premises|Voluntary Surrender|6859 North Foothills Hwy|Boulder CO  80302|Boulder|Boulder|CO|80302|
+ANCIENT ALTERNATIVES LLC|GREEN TREE MEDICINALS|402-00472|Center - Type 1|Voluntary Surrender|12625 North 107th Street|Longmont CO  80501|Longmont|Boulder|CO|80501|
+ANCIENT ALTERNATIVES LLC|GREEN TREE MEDICINALS|403-00707|Optional Premises|Voluntary Surrender|5565 Arapahoe Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+ANNIES TOBACCO EMPORIUM LLC|ANNIE'S DISPENSARY|402-00394|Center - Type 1|Voluntary Surrender|135 Nevada Street|Central City CO  80427|Central City|Gilpin|CO|80427|
+ANNIES TOBACCO EMPORIUM LLC|ANNIE'S DISPENSARY|403R-00002|Retail Marijuana Cultivation Facility|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+APOTHECARY OF COLORADO LLC||402-00316|Center - Type 1|Voluntary Surrender|10625 East 51st Avenue, Suite 100|Denver CO  80239|Denver|Denver|CO|80239|
+APOTHECARY OF COLORADO LLC||403-00473|Optional Premises|Voluntary Surrender|10625 East 51st Avenue, Unit 103|Denver CO  80239|Denver|Denver|CO|80239|
+AREN & DAVES DREAM LLC|SERGEANT GREEN LEAF|403R-00172|Retail Marijuana Cultivation Facility|Voluntary Surrender|803 South Jason Street|Denver CO  80231|Denver|Denver|CO|80231|
+ASPEN ORGANICS LLC||403R-00396|Retail Marijuana Cultivation Facility|Voluntary Surrender|24505 Highway 82, Unit 3A|Basalt CO  81621|Basalt|Pitkin|CO|81621|
+AURORA PACKAGING AND DISTRIBUTION INC||404R-00188|Retail Marijuana Products Mfg|Voluntary Surrender|17600 East Expostion Avenue, Suite B|Aurora CO  80017|Aurora|Arapahoe|CO|80017|
+AXENICO LLC||405R-00014|RMJ Testing Facility|Voluntary Surrender|6767 East 39th Avenue, Suite 103 & 104|Denver CO  80207|Denver|Denver|CO|80207|
+BEDDOR CLAUDE LLC|CHRONIC THERAPY|402-00850|Center - Type 1|Voluntary Surrender|10030 West 27th Avenue|Wheat Ridge CO  80215|Wheat Ridge|Jefferson|CO|80215|
+BEDDOR CLAUDE LLC|CRONIC THERAPY|403-01310|Optional Premises|Voluntary Surrender|10030 West 27th Avenue|Wheat Ridge CO  80215|Wheat Ridge|Jefferson|CO|80215|
+BEDDOR CLAUDE LLC|CHRONIC THERAPY|402R-00517|Retail Marijuana Store|Voluntary Surrender|5401 Dahlia Street|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+BERKELEY MMC LLC|TRU CANNABIS BERKELEY|402-00149|Center - Type 1|Voluntary Surrender|4103 Sheridan Boulevard|Mountain View CO  80212|Mountain View|Jefferson|CO|80212|
+BERKELEY MMC LLC|TRU CANNABIS BERKELEY|403-00216|Optional Premises|Voluntary Surrender|4103 Sheridan Boulevard|Mountain View CO  80212|Mountain View|Jefferson|CO|80212|
+BERLIN INTERNATIONAL LLC|CANNIKA|402-00932|Center - Type 1|Voluntary Surrender|210 Edwards Village Boulevard, Suite D109|Edwards CO  81632|Edwards|Eagle|CO|81632|
+BERLIN INTERNATIONAL LLC||402R-00227|Retail Marijuana Store|Voluntary Surrender|210 Edwards Village Boulevard|Edwards CO  81632|Edwards|Eagle|CO|81632|
+BEST BUDZ LLC|BEST BUDZ |403-00610|Optional Premises|Voluntary Surrender|2545-2547 East Platte Place|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+BEST BUDZ LLC|BEST BUDZ|404-00527|Infused Product Manufacturer|Voluntary Surrender|3850 1/2 North Nevada Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+BEST BUDZ LLC|BEST BUDZ|403-01787|Optional Premises|Voluntary Surrender|3850 1/2 North Nevada Avenue|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+BEYOND BROADWAY LLC|LIVWELL|403-00922|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|LIVWELL|403-01248|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|LIVWELL|403-01372|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|LIVWELL|403-01373|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|LIVWELL|403-01374|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|LIVWELL|403-01375|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|LIVWELL|403R-00217|Retail Marijuana Cultivation Facility|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BEYOND BROADWAY LLC|BEYOND BROADWAY, LLC|403R-00218|Retail Marijuana Cultivation Facility|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+BGOOD VENTURES LLC|ELEVATIONS|403-01518|Optional Premises|Voluntary Surrender|1031 West Center Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+BIOENERGETIC HEALING CENTER LLC||402-00132|Center - Type 1|Voluntary Surrender|842 North Summit Boulevard, Suite 13|Frisco CO  80443|Frisco|Summit|CO|80443|
+BIOENERGETIC HEALING CENTER LLC|BIOENERGETIC HEALING CENTER|404-00042|Infused Product Manufacturer|Voluntary Surrender|842 N. Summit Blvd., #13|Frisco CO  80443|Frisco|Summit|CO|80443|
+BIOENERGETIC HEALING CENTER LLC||403-01346|Optional Premises|Voluntary Surrender|7851 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+BIOENERGETIC HEALING CENTER LLC||403-01347|Optional Premises|Voluntary Surrender|7851 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+BIOENERGETIC HEALING CENTER LLC||403-01348|Optional Premises|Voluntary Surrender|7851 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+BIOENERGETIC HEALING CENTER LLC|HERBAL BLISS|404R-00026|Retail Marijuana Products Mfg|Voluntary Surrender|842 North Summit Boulevard, Unit 13|Frisco CO  80443|Frisco|Summit|CO|80443|
+BIOENERGETIC HEALING CENTER LLC||403R-00164|Retail Marijuana Cultivation Facility|Voluntary Surrender|7851 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+BIOENERGETIC HEALING CENTER LLC||403R-00165|Retail Marijuana Cultivation Facility|Voluntary Surrender|7851 County Road 150|Salida CO  81201|Salida|Chaffee|CO|81201|
+BIOMEDS LLC|BIOMEDS |404-00418|Infused Product Manufacturer|Voluntary Surrender|2301 Rand Avenue|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+BOOM TOWN LLC|CRESTED BUTTE ALTERNATIVE MEDICINE|402-00530|Center - Type 1|Voluntary Surrender|310 North Belleview Avenue, Suite 2|Crested Butte CO  81224|Crested Butte|Gunnison|CO|81224|
+BOOM TOWN LLC|CRESTED BUTTE ALTERNTIVE MEDICINE|403-00781|Optional Premises|Voluntary Surrender|5595 Arapahoe Avenue, Suite F|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOTANICO INC|BOTANICO |402-00153|Center - Type 1|Voluntary Surrender|3054 Larimer Street|Denver CO  80205|Denver|Denver|CO|80205|
+BOTANICO INC||403-00222|Optional Premises|Voluntary Surrender|4668 Glencoe Street|Denver CO  80216|Denver|Denver|CO|80216|
+BOTANICO INC|BOTANICO|404-00354|Infused Product Manufacturer|Voluntary Surrender|4668 Glencoe Street|Denver CO  80216|Denver|Denver|CO|80216|
+BOULDER ALTERNATIVE CARE LLC|THE GREEN ROOM|402-00762|Center - Type 1|Voluntary Surrender|2750 Glenwood Drive, #8|Boulder CO  80304|Boulder|Boulder|CO|80304|
+BOULDER ALTERNATIVE CARE LLC|The Green Room|403-01162|Optional Premises|Voluntary Surrender|3554 Pearl Street|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER COUNTY CAREGIVERS LLC|COLORADO DISPENSARY SERVICES|403-00296|Optional Premises|Voluntary Surrender|5110 Race Street|Denver CO  80216|Denver|Denver|CO|80216|
+BOULDER RX LLC|NATIVE ROOTS BY THE DANDELION|402-00575|Center - Type 1|Voluntary Surrender|1146 Pearl Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+BOULDER RX LLC|BOULDER RX |403-00855|Optional Premises|Voluntary Surrender|1880 South Flatiron Court, Suite E|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER RX LLC|NATIVE ROOTS BOULDER|403R-00229|Retail Marijuana Cultivation Facility|Voluntary Surrender|1880 South Flatiron Court, Unit E|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER SWEET GRASS LLC|SWEET MARY JANE|403-01483|Optional Premises|Voluntary Surrender|1224 Commerce Court, Unit 3|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+BOULDER VITAL HERBS LLC||402-00148|Center - Type 1|Voluntary Surrender|2850 Iris Avenue, Suite North|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BOULDER VITAL HERBS LLC|BOULDER VITAL HERBS|403-00213|Optional Premises|Voluntary Surrender|1900 55th Street, Building B, Unit 105B|Boulder CO  80304|Boulder|Boulder|CO|80304|
+BOULDER WELLNESS CENTER LLC||403-00970|Optional Premises|Voluntary Surrender|2200 Central Avenue, Suite A-1|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BRAND NEW LLC||403R-00475|Retail Marijuana Cultivation Facility|Voluntary Surrender|5595 Arapahoe Avenue Suite F|Boulder CO  80303|Boulder|Boulder|CO|80303|
+BRECKENRIDGE CANNABIS CLUB LLC||402-00809|Center - Type 1|Voluntary Surrender|226 South Main Street|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+BRECKENRIDGE CANNABIS CLUB LLC|BRECKENRIDGE CANNABIS CLUB|403-01220|Optional Premises|Voluntary Surrender|1795 A-3 Airport Road|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+BRECKENRIDGE CANNABIS CLUB LLC||403R-00141|Retail Marijuana Cultivation Facility|Voluntary Surrender|1795 Airport Road, Unit A3|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+BRECKENRIDGE ORGANIC THERAPY LLC|BRECKENRIDGE ORGANIC THERAPHY, LLC|402-00702|Center - Type 1|Voluntary Surrender|1900 Airport Road, Unit A-1|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+BRECKENRIDGE ORGANIC THERAPY LLC|BRECKENRIDGE ORGANIC THERAPHY, LLC|403-01059|Optional Premises|Voluntary Surrender|1800 Commerce Street|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BRECKENRIDGE ORGANIC THERAPY LLC||403R-00237|Retail Marijuana Cultivation Facility|Voluntary Surrender|1800 Commerce Street, Unit North A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+BROTHERS FOR LIFE LLC|STARBUDS|402R-00722|Retail Marijuana Store|Voluntary Surrender|1600 Hover Street Unit B2|Longmont CO  80501|Longmont|Boulder|CO|80501|
+BUD MED HEALTH CENTERS LLC|LIVE GREEN CANNABIS|402-00582|Center - Type 1|Voluntary Surrender|2517 Sheridan Boulevard|Edgewater CO  80214|Edgewater|Jefferson|CO|80214|
+BUD MED HEALTH CENTERS LLC|LIVE GREEN CANNABIS|403-00863|Optional Premises|Voluntary Surrender|5775 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+BUD MED HEALTH CENTERS LLC|LIVE GREEN CANNABIS|403R-00064|Retail Marijuana Cultivation Facility|Voluntary Surrender|5775 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+C A WILLIAMS ENTERPRISES LLC||403R-00759|Retail Marijuana Cultivation Facility|Voluntary Surrender|2298 East State Highway 96|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|402-00686|Center - Type 1|Voluntary Surrender|201 North Academy Boulevard|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|403-01285|Optional Premises|Voluntary Surrender|685 Highway 115, Unit A|Penrose CO  81240|Penrose|Fremont|CO|81240|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|403-01286|Optional Premises|Voluntary Surrender|685 Highway 115, Unit B|Penrose CO  81240|Penrose|Fremont|CO|81240|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|402-01128|Center - Type 1|Voluntary Surrender|2565 North I-25 Frontage Road|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+C^3 COLORADO SPRINGS LLC|PURE INTENTIONS WELLNESS CENTER|403-01734|Optional Premises|Voluntary Surrender|2565 North I-25 Frontage Road|Pueblo CO  81008|Pueblo|Pueblo|CO|81008|
+CAM CORPORATION|CAM CORP|402-00019|Center - Type 2|Voluntary Surrender|2394 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+CANNA COMPANY|CANNACO|402-01247|Center - Type 1|Voluntary Surrender|3019 Toupal Drive|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+CANNA COMPANY|CANNACO|404-00596|Infused Product Manufacturer|Voluntary Surrender|3019 Toupal Drive|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+CANNABICARE INC|THE CARE|403-01378|Optional Premises|Voluntary Surrender|3512 North Tejon Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+CANNABIS CORP|THE JOINT BY CANNABIS|402-00198|Center - Type 1|Voluntary Surrender|4735 West 38th Avenue|Denver CO  80212|Denver|Denver|CO|80212|
+CANNABIS CORP|CANNABIS|404-00495|Infused Product Manufacturer|Voluntary Surrender|9670 Dallas Street, Unit K|Henderson CO  80640|Henderson|Adams|CO|80640|
+CANNABIS CORP|CANNABIS|404R-00172|Retail Marijuana Products Mfg|Voluntary Surrender|9670 Dallas Street, Unit K|Henderson CO  80640|Henderson|Adams|CO|80640|
+CANNABIS FOR HEALTH LLC||403-00207|Optional Premises|Voluntary Surrender|3835 North Paris Street|Denver CO  80239|Denver|Denver|CO|80239|
+CANNABIS KING LLC|GREEN DRAGON COLORADO|402-00154|Center - Type 1|Voluntary Surrender|930 West Byers Place|Denver CO  80223|Denver|Denver|CO|80223|
+CANNABIS KING LLC|GREENWERKZ|403-00224|Optional Premises|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+CANNABIS KING LLC|GREENWERKZ|403R-00044|Retail Marijuana Cultivation Facility|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+CANNAMOUNT FARMS LLC||403R-00675|Retail Marijuana Cultivation Facility|Voluntary Surrender|7820 Soda Creek Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+CANNATONIC LLC||403R-00442|Retail Marijuana Cultivation Facility|Voluntary Surrender|400 Industrial Park Road|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+CANNXTRACTS LLC||403-01087|Optional Premises|Voluntary Surrender|5595 Arapahoe, Unit A,|Boulder CO  80303|Boulder|Boulder|CO|80303|
+CANNXTRACTS LLC||404-00364|Infused Product Manufacturer|Voluntary Surrender|5595 Arapahoe Avenue, Unit D1|Boulder CO  80303|Boulder|Boulder|CO|80303|
+CANNXTRACTS LLC||403-01407|Optional Premises|Voluntary Surrender|5595 Arapahoe Avenue, Unit D1|Boulder CO  80303|Boulder|Boulder|CO|80303|
+CAREGIVERS FOR LIFE LLC||403-00452|Optional Premises|Voluntary Surrender|2744 West 4th Avenue, Unit 200|Denver CO  80219|Denver|Denver|CO|80219|
+CARMIC INVESTMENT LLC|THE GOLDEN GOAT|402-00797|Center - Type 2|Voluntary Surrender|7801 E. Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+CARMIC INVESTMENT LLC|THE GOLDEN GOAT|403-01205|Optional Premises|Voluntary Surrender|4242 Elizabeth Street|Denver CO  80216|Denver|Denver|CO|80216|
+CATTLE CREEK CULTIVATIONS LLC||403R-00345|Retail Marijuana Cultivation Facility|Voluntary Surrender|420 Upper Cattle Creek Road, Lot 4|Carbondale CO  81623|Carbondale|Eagle|CO|81623|
+CBC INDUSTRIES LLC||403R-00890|Retail Marijuana Cultivation Facility|Voluntary Surrender|80 Buckley Drive|Crested Butte CO  81224|Crested Butte|Gunnison|CO|81224|
+CC GROUP|CANNA CAREGIVERS WEST|402-00931|Center - Type 1|Voluntary Surrender|1914 West Uintah Street|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+CEDAR KEY CANNABIS LLC|CEDAR KEY CANNABIS|404R-00242|Retail Marijuana Products Mfg|Voluntary Surrender|100 Campbell Lane, Unit B|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+CERES COLORADO LLC|CERES GROUP|404R-00173|Retail Marijuana Products Mfg|Voluntary Surrender|3815 County Road 2 |Silverton CO  81433|Silverton|San Juan|CO|81433|
+CG NETWORK LLC|GROUNDSWELL|403-00237|Optional Premises|Voluntary Surrender|4360 Vine Street|Denver CO  80216|Denver|Denver|CO|80216|
+CG NETWORK LLC|GROUNDSWELL|403-00546|Optional Premises|Voluntary Surrender|4360 Vine Street|Denver CO  80216|Denver|Denver|CO|80216|
+CGFR GROUP INC|KRYSTALEAVES|402-01257|Center - Type 1|Voluntary Surrender|5301 Vasquez Boulevard Unit 101|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+CGFR GROUP INC|KRYSTALEAVES|403-01900|Optional Premises|Voluntary Surrender|5301 Vasquez Boulevard Unit 102|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+CGFR GROUP INC|KRYSTALEAVES|404-00610|Infused Product Manufacturer|Voluntary Surrender|5301 Vasquez Boulevard Unit 102|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+CHARAS SCIENTIFIC COLORADO LLC|CHARAS SCIENTIFIC|405R-00013|RMJ Testing Facility|Voluntary Surrender|3795 Paris Street, Unit A|Denver CO  80239|Denver|Denver|CO|80239|
+CJJ SERVICES LLC|SACRED SEED PHARMS|404-00101|Infused Product Manufacturer|Voluntary Surrender|5885 East Evans Avenue|Denver CO  80222|Denver|Denver|CO|80222|
+CL PROCESSES LLC||404-00575|Infused Product Manufacturer|Voluntary Surrender|3770 North Joliet Street|Denver CO  80239|Denver|Denver|CO|80239|
+CLAUDETTE HOMEGROWN LLC|MOUNTAIN MEDICINES|404-00265|Infused Product Manufacturer|Voluntary Surrender|334 East Colfax Avenue|Denver CO  80203|Denver|Denver|CO|80203|
+CLAUDETTE HOMEGROWN LLC|MOUNTAIN MEDICINES|404R-00007|Retail Marijuana Products Mfg|Voluntary Surrender|334 East Colfax Avenue|Denver CO  80203|Denver|Denver|CO|80203|
+CLAYSTONE CONSULTING INC|Mile High MIPS|404-00041|Infused Product Manufacturer|Voluntary Surrender|3945 East 50th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+CLAYSTONE CONSULTING INC|ARTISAN EDIBLES OF DENVER|404R-00062|Retail Marijuana Products Mfg|Voluntary Surrender|3896 Morrison Road|Denver CO  80219|Denver|Denver|CO|80219|
+CMT LABORATORIES LLC||405R-00004|RMJ Testing Facility|Voluntary Surrender|6767 East 39th Avenue, Unit 103|Denver CO  80207|Denver|Denver|CO|80207|
+CMT LABORATORIES LLC||405-00009|MMJ Testing Facility|Voluntary Surrender|6767 East 39th Avenue, Unit 103|Denver CO  80207|Denver|Denver|CO|80207|
+COG LLC|CALIFORNIA ORIGINAL GENETICS |403R-00710|Retail Marijuana Cultivation Facility|Voluntary Surrender|901 West 9th Street, Unit 100|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+COG2 LLC||403R-00662|Retail Marijuana Cultivation Facility|Voluntary Surrender|901 West 9th Street, Unit 200|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+COLES COLORADO CANNABIS||403R-00909|Retail Marijuana Cultivation Facility|Voluntary Surrender|46103 County Road N|Saguache CO  81149|Saguache|Saguache|CO|81149|
+COLLIENTI ENTERPRISES INC|CANNABIS QUEEN JERKY|404R-00141|Retail Marijuana Products Mfg|Voluntary Surrender|214C Aspen Airport Business Center|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLLIENTI ENTERPRISES INC|CANNABIS QUEEN JERKY|404-00465|Infused Product Manufacturer|Voluntary Surrender|214C Aspen Airport Business Center|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COLORADO ALTERNATIVE HEALTH CARE LTD|PALISADES HEALTH CARE|403-01512|Optional Premises|Voluntary Surrender|3824 Highline Canal Road|Palisade CO  81526|Palisade|Mesa|CO|81526|
+COLORADO APOTHECARY & WELLNESS CENTER INC|Colorado Apothecary & Wellness Center, Inc.|403-00557|Optional Premises|Voluntary Surrender|2160 S Lipan St|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO APOTHECARY & WELLNESS CENTER INC|Colorado Apothecary & Wellness Center, Inc.|403-00558|Optional Premises|Voluntary Surrender|2160 S Lipan St|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO APOTHECARY & WELLNESS CENTER INC|Colorado Apothecary & Wellness Center, Inc.|404-00153|Infused Product Manufacturer|Voluntary Surrender|2160 S Lipan St|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO CARE FACILITY INC|TRU CANNABIS COLFAX|402-00104|Center - Type 1|Voluntary Surrender|5130 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+COLORADO CARE FACILITY INC||403-00149|Optional Premises|Voluntary Surrender|4980 Jackson Street|Denver CO  80216|Denver|Denver|CO|80216|
+COLORADO CARE FACILITY INC|TRU CANNABIS COLFAX|403-01296|Optional Premises|Voluntary Surrender|4600 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+COLORADO CULTIVATORS LLC|COLORADO CULTIVATORS |403R-00707|Retail Marijuana Cultivation Facility|Voluntary Surrender|626 Sage Road|Montrose CO  81403|Montrose|Ouray|CO|81403|
+COLORADO DISTRIBUTING LLC|NATURES NUGS|402R-00589|Retail Marijuana Store|Voluntary Surrender|893 East Enterprise Drive |Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+COLORADO HEALING LLC|HEADQUARTERS|403-01254|Optional Premises|Voluntary Surrender|4727 North Broadway, Unit I|Boulder CO  80304|Boulder|Adams|CO|80304|
+COLORADO HEALING LLC|HEADQUARTERS|402-00863|Center - Type 1|Voluntary Surrender|537 Canyon Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+COLORADO HEALING LLC|HEADQUARTERS CANNABIS CO|402R-00233|Retail Marijuana Store|Voluntary Surrender|537 Canyon Boulevard|Boulder CO  80302|Boulder|Boulder|CO|80302|
+COLORADO HEALING LLC|HEADQUARTERS|403-01506|Optional Premises|Voluntary Surrender|4734 Pearl Street|Boulder CO  80301|Boulder|Boulder|CO|80301|
+COLORADO KIND CARE LLC|THE VILLAGE GREEN SOCIETY|402-00027|Center - Type 1|Voluntary Surrender|2043 16th Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+COLORADO KIND CARE LLC|Cannamart|403-00683|Optional Premises|Voluntary Surrender|2731 West Short Place|Denver CO  80204|Denver|Denver|CO|80204|
+COLORADO LOGISTICS LLC||406R-00001|RMJ Transporter|Voluntary Surrender|2145 South Platte River Drive|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO LOGISTICS LLC||406-00003|MMJ Transporter|Voluntary Surrender|2145 South Platte River Drive|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO LOGISTICS LLC||406R-00006|RMJ Transporter|Voluntary Surrender|2145 South Platte River Drive|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO MEDICAL MARIJUANA SUPPLY INC|THE ORIGINAL LEAF|402R-00428|Retail Marijuana Store|Voluntary Surrender|1337 Main Street|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COLORADO MYTHOLOGY LLC||404-00349|Infused Product Manufacturer|Voluntary Surrender|110 Snyder Street|Nederland CO  80466|Nederland|Boulder|CO|80466|
+COLORADO PRODUCT SERVICES LLC|DOCTOR'S GARDEN|403R-00382|Retail Marijuana Cultivation Facility|Voluntary Surrender|184 Gas Court|Rifle CO  81650|Rifle|Garfield|CO|81650|
+COLORADO SPRINGS MEDICAL GROUP LLC|TREE OF WELLNESS II|402-01013|Center - Type 1|Voluntary Surrender|705 North Nevada Avenue|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+COLORADO SPRINGS MEDICAL GROUP LLC|TREE OF WELLNESS II|403-01603|Optional Premises|Voluntary Surrender|705 North Nevada Avenue|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+COLORADO WELLNESS INC||403R-00124|Retail Marijuana Cultivation Facility|Voluntary Surrender|2050 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADO WELLNESS INC||403-01690|Optional Premises|Voluntary Surrender|2050 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+COLORADOS BEST INC|LACONTES CLONE BAR & DISPENSARY|403-00162|Optional Premises|Voluntary Surrender|5194 Washington Street|Denver CO  80216|Denver|Denver|CO|80216|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|402-00167|Center - Type 3|Voluntary Surrender|3404 West Colorado Avenue|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-00248|Optional Premises|Voluntary Surrender|2755 Ore Mill Road, Units 17/18|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-00250|Optional Premises|Voluntary Surrender|1440 Pando Avenue|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+COMPLIANCE INITIATIVES LLC|STRAWBERRY FIELDS ALTERNATIVE HEALTH AND WELLNESS|403-00251|Optional Premises|Voluntary Surrender|1440 Pando Avenue|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+CONCENTRATE LLC|CONCENTRATE|403-00243|Optional Premises|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+CONCENTRATE LLC|CONCENTRATE|403-01314|Optional Premises|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+CONCENTRATE LLC|CONCENTRATE|403R-00006|Retail Marijuana Cultivation Facility|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+CONCENTRATE LLC|CONCENTRATE|403-01502|Optional Premises|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+CONCENTRATE LLC|CONCENTRATE|403-01503|Optional Premises|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+CONCENTRATE LLC|CONCENTRATE|403-01505|Optional Premises|Voluntary Surrender|11100 East 51st Avenue |Denver CO  80239|Denver|Denver|CO|80239|
+CONCENTRATE LLC|CONCENTRATE|403-01523|Optional Premises|Voluntary Surrender|11100 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+CONNOISSEURS GENETICS & CONCENTRATES LLC||403R-00681|Retail Marijuana Cultivation Facility|Voluntary Surrender|2255 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+CONSCIOUS CONFECTIONS II LLC|NATIVE ROOTS EXTRACTS|404-00080|Infused Product Manufacturer|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+CONSCIOUS CONFECTIONS II LLC|NATIVE ROOTS EXTRACTS|404-00494|Infused Product Manufacturer|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+CONSCIOUS CONFECTIONS II LLC|NATIVE ROOTS EXTRACTS|404R-00174|Retail Marijuana Products Mfg|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+COOPER MASON VENTURES 2 LLC||402-00889|Center - Type 1|Voluntary Surrender|520 East Cooper Avenue, Suite LL1|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COOPER MASON VENTURES 2 LLC||403-01409|Optional Premises|Voluntary Surrender|11556 Hwy 133|Carbondale CO  81623|Carbondale|Pitkin|CO|81623|
+COOPER MASON VENTURES 2 LLC||402R-00225|Retail Marijuana Store|Voluntary Surrender|520 East Cooper Avenue, Suite LL1|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COOPER MASON VENTURES 2 LLC||403R-00298|Retail Marijuana Cultivation Facility|Voluntary Surrender|11556 Highway 133|Carbondale CO  81623|Carbondale|Pitkin|CO|81623|
+COOPER MASON VENTURES 3 LLC||402-00890|Center - Type 1|Voluntary Surrender|520 East Cooper Avenue, Suite LL3|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+COOPER MASON VENTURES 3 LLC|COOPER MASON VENTURES 3 LLC|403-01410|Optional Premises|Voluntary Surrender|11556 Highway 133|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COOPER MASON VENTURES LLC|SILVERPEAK APOTHECARY|403-00449|Optional Premises|Voluntary Surrender|444 Conestoga Way|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+COOPER MASON VENTURES LLC|SILVERPEAK APOTHECARY|403-00814|Optional Premises|Voluntary Surrender|444 Conestoga Way|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+COOPER MASON VENTURES LLC|SILVERPEAK APOTHECARY|403-01207|Optional Premises|Voluntary Surrender|11556 Highway 133|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+COOPER MASON VENTURES LLC|SILVERPEAK APOTHECARY|403R-00185|Retail Marijuana Cultivation Facility|Voluntary Surrender|11556 Highway 133|Carbondale CO  81623|Carbondale|Pitkin|CO|81623|
+COOPER MASON VENTURES LLC|SILVERPEAK APOTHECARY|403R-00379|Retail Marijuana Cultivation Facility|Voluntary Surrender|24530 Highway 82|Basalt CO  81621|Basalt|Pitkin|CO|81621|
+CORPORE SANO LLC||403R-01068|Retail Marijuana Cultivation Facility|Voluntary Surrender|19751 County Road 59|Moffat CO  81143|Moffat|Saguache|CO|81143|
+CORPORE SANO LLC||404R-00397|Retail Marijuana Products Mfg|Voluntary Surrender|19751 County Road 59|Moffat CO  81143|Moffat|Saguache|CO|81143|
+COS INVESTMENTS LLC|HIGH HOPES|402-00801|Center - Type 1|Voluntary Surrender|5156 North Centennial Boulevard|Colorado Springs CO  80919|Colorado Springs|El Paso|CO|80919|
+COS INVESTMENTS LLC|HIGH HOPES|403-01210|Optional Premises|Voluntary Surrender|288 South Academy Boulevard, Unit C|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+CRESTED BUTTE WELLNESS CENTER LLC||402-00761|Center - Type 1|Voluntary Surrender|329 Belleview # A|Crested Butte CO  81224|Crested Butte|Gunnison|CO|81224|
+CRESTED BUTTE WELLNESS CENTER LLC||403-01161|Optional Premises|Voluntary Surrender|240 Arthur Avenue, Suite C|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+CRESTED BUTTE WELLNESS CENTER LLC|KAYAK CANNABIS|403R-00302|Retail Marijuana Cultivation Facility|Voluntary Surrender|240 Arthur Avenue|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+CRYSTAL RIVER GROWERS LLC||403R-00523|Retail Marijuana Cultivation Facility|Voluntary Surrender|220 North 12th Street, Unit A|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+CURE PUEBLO LLC||403R-00436|Retail Marijuana Cultivation Facility|Voluntary Surrender|63490 East Highway 96|Boone CO  81025|Boone|Pueblo|CO|81025|
+D and C MEDICAL MARIJUANA LLC|GOLDEN LEAF|403-00716|Optional Premises|Voluntary Surrender|2052 Snow Bowl Plaza|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+D and C MEDICAL MARIJUANA LLC|GOLDEN LEAF|403-01426|Optional Premises|Voluntary Surrender|2730 Downhill Drive, #103|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+DABS THIRTY LLC||404R-00231|Retail Marijuana Products Mfg|Voluntary Surrender|521 Santa Fe Drive|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+DACONO MEDS LLC|DACONO MEDS|402-00922|Center - Type 1|Voluntary Surrender|730 Glen Creighton Drive, Unit C|Dacono CO  80514|Dacono|Weld|CO|80514|
+DACONO MEDS LLC|DACONO MEDS|403-01456|Optional Premises|Voluntary Surrender|730 Glen Creighton Drive, Unit C|Dacono CO  80514|Dacono|Weld|CO|80514|
+DAY DREAMZ LLC|DAY DREAMZ|402-00912|Center - Type 1|Voluntary Surrender|1805 Santa Fe Drive, Suites D, E, F & G|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+DAY DREAMZ LLC|DAY DREAMZ|403-01438|Optional Premises|Voluntary Surrender|1805 Santa Fe Drive, Suites F & G|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+DEBEST CONSULTING LLC|TREEHOUSE|404R-00183|Retail Marijuana Products Mfg|Voluntary Surrender|482 Laredo Street, Unit A|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+DELANY & ASSOCIATES LLC|GOOD EARTH MEDS|402-00489|Center - Type 1|Voluntary Surrender|600 Cloman Boulevard, Suite 1 |Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+DELANY & ASSOCIATES LLC|GOOD EARTH MEDS|403-00726|Optional Premises|Voluntary Surrender|600 Cloman Boulevard, #5, 6, 7, 8|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+DELILAH LLC||402-00302|Center - Type 1|Voluntary Surrender|753 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+DELILAH LLC||403-00453|Optional Premises|Voluntary Surrender|753 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+DELILAH LLC||404-00123|Infused Product Manufacturer|Voluntary Surrender|753 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+DELILAH LLC|DELILAH LLC|402-00906|Center - Type 1|Voluntary Surrender|115 West Colorado Avenue|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+DELILAH LLC|DELILAH LLC|403-01433|Optional Premises|Voluntary Surrender|753 & 755 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+DELILAH LLC|DELILAH LLC|403R-00238|Retail Marijuana Cultivation Facility|Voluntary Surrender|753 & 755 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+DENVER PATIENTS CENTER LLC|IHC/SANTE|402-00131|Center - Type 1|Voluntary Surrender|2070 South Huron Street|Denver CO  80223|Denver|Denver|CO|80223|
+DENVER PATIENTS GROUP LLC|LIVWELL|403-01109|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+DENVER PATIENTS GROUP LLC|LIVWELL|403R-00219|Retail Marijuana Cultivation Facility|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+DEP LLC||403R-00072|Retail Marijuana Cultivation Facility|Voluntary Surrender|4455 East 46th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+DESSIMALS INC|LUCKY MONKEY BUDS|402-01090|Center - Type 1|Voluntary Surrender|137 West Cedar Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+DESSIMALS INC|LUCKY MONKEY BUDS|403-01689|Optional Premises|Voluntary Surrender|137 West Cedar Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+DESSIMALS INC|LUCKY MONKEY BUDS|404-00470|Infused Product Manufacturer|Voluntary Surrender|137 West Cedar Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+DGP 38TH LLC|SWEET LEAF|403-00175|Optional Premises|Voluntary Surrender|124 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+DGP WILLIAMS LLC|SWEET LEAF|403-01673|Optional Premises|Voluntary Surrender|3954 Williams Street|Denver CO  80205|Denver|Denver|CO|80205|
+DKC LLC|DENVER KUSH CLUB|403-00806|Optional Premises|Voluntary Surrender|4960 North Jackson Street|Denver CO  80216|Denver|Denver|CO|80216|
+DRAGON BREATH FARM INC|DRAGON BREATH FARM|403-01731|Optional Premises|Voluntary Surrender|4985 North Colorado Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+DRAGON BREATH FARM INC|DRAGON BREATH FARM|404-00506|Infused Product Manufacturer|Voluntary Surrender|4985 North Colorado Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+DURANGO HEALING CENTER LLC|ACME HEALING CENTER|402-00553|Center - Type 1|Voluntary Surrender|572 East 3rd Avenue|Durango CO  81301|Durango|La Plata|CO|81301|
+DURANGO HEALING CENTER LLC|ACME HEALING CENTER|403R-00525|Retail Marijuana Cultivation Facility|Voluntary Surrender|22327 Highway 550, Lot B|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+DURANGO ORGANICS LLP|DO CORTEZ LLP|403-00722|Optional Premises|Voluntary Surrender|1104 East Main Street|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+EBBU LLC||404-00398|Infused Product Manufacturer|Voluntary Surrender|4980 Kipling Street, Units A14-17|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+EBBU LLC||404-00440|Infused Product Manufacturer|Voluntary Surrender|35715 U.S. Highway 40, Unit D101-D103|Evergreen CO  80439|Evergreen|Clear Creek|CO|80439|
+EBBU LLC||404R-00119|Retail Marijuana Products Mfg|Voluntary Surrender|35715 U.S. Highway 40, Unit D101-D103|Evergreen CO  80439|Evergreen|Clear Creek|CO|80439|
+EC LABS LLC|ENDOCANNA; BETTER CONCENTRATES|404-00336|Infused Product Manufacturer|Voluntary Surrender|4300 Forest Street, Suite 150 |Denver CO  80216|Denver|Denver|CO|80216|
+ECOMED LLC|NATURES MEDICINE; NATURES MEDICINE SALIDA|402-00612|Center - Type 1|Voluntary Surrender|230 West 16th Street, Suite C|Salida CO  81201|Salida|Chaffee|CO|81201|
+ECOMED LLC|NATURES MEDICINE SALIDA|403-01282|Optional Premises|Voluntary Surrender|7729 County Road 150, Units A-C|Salida CO  81201|Salida|Chaffee|CO|81201|
+ELIOT GROUP LLC||403-01811|Optional Premises|Voluntary Surrender|5200 East Smith Road, Suite 130|Denver CO  80216|Denver|Denver|CO|80216|
+ELIOT GROUP LLC||404-00540|Infused Product Manufacturer|Voluntary Surrender|5200 East Smith Road, Suite 130|Denver CO  80216|Denver|Denver|CO|80216|
+EMERALD CITY WELLNESS LLC|EMERALD CITY|403R-00449|Retail Marijuana Cultivation Facility|Voluntary Surrender|123 Pine Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+EMERALD CITY WELLNESS LLC|EMERALD CITY|402R-00392|Retail Marijuana Store|Voluntary Surrender|520 Nevada Avenue|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+EMERGE FARMS LLC||403R-00794|Retail Marijuana Cultivation Facility|Voluntary Surrender|401 & 411 Capital Street|Hayden CO  81639|Hayden|Routt|CO|81639|
+EVER-GREEN HERBAL REMEDIES LLC|EVER-GREENS|402-00270|Center - Type 1|Voluntary Surrender|15 Colorado Blvd, Unit A|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+EVER-GREEN HERBAL REMEDIES LLC|EVER-GREENS|403-00404|Optional Premises|Voluntary Surrender|15 Colorado Blvd., Unit B|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+EVOLUTION LLC|11:11 WELLNESS|402-00244|Center - Type 1|Voluntary Surrender|1111 13TH ST|Boulder CO  80302|Boulder|Boulder|CO|80302|
+EVOLUTIONARY HOLDINGS LLC|CHAMPION CANNABIS|402-00378|Center - Type 1|Voluntary Surrender|82 South Federal Boulevard|Denver CO  80219|Denver|Denver|CO|80219|
+EVOLUTIONARY HOLDINGS LLC|CHAMPION CANNABIS|403-00566|Optional Premises|Voluntary Surrender|5231 Monroe Street, Suite 200|Denver CO  80216|Denver|Denver|CO|80216|
+EVOLUTIONARY HOLDINGS LLC|CHAMPION CANNABIS|403R-00657|Retail Marijuana Cultivation Facility|Voluntary Surrender|5231 North Monroe Street Suite 200|Denver CO  80216|Denver|Denver|CO|80216|
+EXCELLENCE RX LLC|EXCELLENCE RX|403R-00644|Retail Marijuana Cultivation Facility|Voluntary Surrender|21000 East 32nd Avenue Parkway, Unit B|Aurora CO  80011|Aurora|Adams|CO|80011|
+EZRA ENTERPRISES INC|THE DELTA 9 DEPOT|402R-00612|Retail Marijuana Store|Voluntary Surrender|927 Highway 3|Durango CO  81301|Durango|La Plata|CO|81301|
+FIDDLERS GREEN LLC||402-00963|Center - Type 1|Voluntary Surrender|550 Hunter Parkway|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+FIDDLERS GREEN LLC||403-01521|Optional Premises|Voluntary Surrender|550 Hunter Parkway|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+FIFTY2EIGHTY LLC||403-01287|Optional Premises|Voluntary Surrender|2181 10th Street South|Rifle CO  81650|Rifle|Garfield|CO|81650|
+FIFTY2EIGHTY LLC||403R-00224|Retail Marijuana Cultivation Facility|Voluntary Surrender|2181 South 10th Street|Rifle CO  81650|Rifle|Garfield|CO|81650|
+FLAVORED ESSENTIALS LLC|FLAVORED ESSENTIALS LLC|402R-00051|Retail Marijuana Store|Voluntary Surrender|3955 Oneida Street|Denver CO  80207|Denver|Denver|CO|80207|
+FLAVORED ESSENTIALS LLC|FLAVORED ESSENTIALS LLC|403R-00065|Retail Marijuana Cultivation Facility|Voluntary Surrender|3955 Oneida Street|Denver CO  80207|Denver|Denver|CO|80207|
+FREDRICK JENKINS LLC|MT GROWERS|404R-00158|Retail Marijuana Products Mfg|Voluntary Surrender|705 Elm Street|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+FREEDOM ROAD GARDEN LTD|FREEDOM ROAD|404R-00246|Retail Marijuana Products Mfg|Voluntary Surrender|2600 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREEDOM ROAD GARDEN LTD|FREEDOM ROAD|404-00558|Infused Product Manufacturer|Voluntary Surrender|2600 Freedom Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREEDOM ROAD GARDEN MAIN LLC|FREEDOM ROAD|402-01212|Center - Type 1|Voluntary Surrender|514 West Main Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREEDOM ROAD GARDEN MAIN LLC|FREEDOM ROAD|403-01860|Optional Premises|Voluntary Surrender|2600 Freedom Road |Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+FREQUENCY ENTERPRISES LLC|HIGH FREQUENCIES|403R-00708|Retail Marijuana Cultivation Facility|Voluntary Surrender|77 North Laser Drive, Suite H|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+FRESH BAKED LLC||402-00254|Center - Type 1|Voluntary Surrender|2539 Pearl Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+FRESH BAKED LLC| |403-00381|Optional Premises|Voluntary Surrender|735 West Bayaud|Denver CO  80223|Denver|Denver|CO|80223|
+FRESH BAKED LLC||403-00945|Optional Premises|Voluntary Surrender|4600 North Ironton, Suite 103|Denver CO  80239|Denver|Denver|CO|80239|
+FRONT RANGE BOTANICAL LLC|SOUTH PARK FARMA|403R-01033|Retail Marijuana Cultivation Facility|Voluntary Surrender|5715 Fairfax Street|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+FRONT RANGE BOTANICAL LLC|SOUTH PARK FARMA|404R-00381|Retail Marijuana Products Mfg|Voluntary Surrender|5715 Fairfax Street|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+FRONT RANGE BOTANICAL LLC|SOUTH PARK FARMA|404-00619|Infused Product Manufacturer|Voluntary Surrender|5715 Fairfax Street|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+FRONT RANGE BOTANICAL LLC|SOUTH PARK FARMA|403-01912|Optional Premises|Voluntary Surrender|5715 Fairfax Street|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+FSK VENDING LLC|THE DANKERY|403-01637|Optional Premises|Voluntary Surrender|3745 Interpark Drive|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+G SQUARE ENTERPRISES LLC|Gray Wolf Cultivation|403R-00340|Retail Marijuana Cultivation Facility|Voluntary Surrender|8620 Colorado Highway 103|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+GAMBEL OAK GROUP LLC||403R-00638|Retail Marijuana Cultivation Facility|Voluntary Surrender|3555 Moline Street, Unit A|Aurora CO  80010|Aurora|Adams|CO|80010|
+GARDEN GREENS LLC|STRAWBERRY FIELDS|402-01036|Center - Type 1|Voluntary Surrender|4116 Nature Center Road|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+GARDEN GREENS LLC|STRAWBERRY FIELDS|403-01628|Optional Premises|Voluntary Surrender|4116 Nature Center Road|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+GDD LLC|GREEN DRAGON DENVER|402-00955|Center - Type 1|Voluntary Surrender|424 Lincoln Street|Denver CO  80203|Denver|Denver|CO|80203|
+GDD LLC|GREEN DRAGON DENVER|403-01501|Optional Premises|Voluntary Surrender|424 Lincoln Street|Denver CO  80203|Denver|Denver|CO|80203|
+GDD LLC|GREEN DRAGON DENVER|403-01590|Optional Premises|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GG MERCANTILE LLC|REDEYE RELEAF|402-00727|Center - Type 1|Voluntary Surrender|1410 South Santa Fe|Denver CO  80223|Denver|Denver|CO|80223|
+GG MERCANTILE LLC|REDEYE RELEAF|403-01098|Optional Premises|Voluntary Surrender|1410 South Santa Fe|Denver CO  80223|Denver|Denver|CO|80223|
+GM CO SPRINGS LLC|GOLDEN MEDS|404-00313|Infused Product Manufacturer|Voluntary Surrender|3895 North Cascade Avenue (Lower Level)|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+GM CO SPRINGS LLC|GOLDEN MEDS|403-01473|Optional Premises|Voluntary Surrender|3895 North Cascade Avenue (Lower Level)|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+GMC LLC|GREEN MAN CANNABIS|403R-00201|Retail Marijuana Cultivation Facility|Voluntary Surrender|2175 South Platte River Drive|Denver CO  80223|Denver|Denver|CO|80223|
+GOOD DAY LLC|ELEVATED EDIBLES|404R-00225|Retail Marijuana Products Mfg|Voluntary Surrender|101 Cardinal Way, Units 8 & 9,|Parachute CO  81635|Parachute|Garfield|CO|81635|
+GOOD LIFE COLORADO LLC|GOOD LIFE PRODUCTS|404-00450|Infused Product Manufacturer|Voluntary Surrender|5475 Peoria Street #4-110|Denver CO  80239|Denver|Denver|CO|80239|
+GPS TRANSPORTATION LLC||406R-00002|RMJ Transporter|Voluntary Surrender|446 South McCulloch Boulevard, Suite 2|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+GPS TRANSPORTATION LLC||406-00001|MMJ Transporter|Voluntary Surrender|446 South McCulloch Boulevard, Suite 2|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+GRAND LAKE MANAGEMENT LLC|GROWHOUSE GRAND LAKE|402R-00490|Retail Marijuana Store|Voluntary Surrender|12525 US Highway 34|Grand Lake CO  80447|Grand Lake|Grand|CO|80447|
+GRANNY HASH LLC|GRANNYS HIGH ALTITUDE SPROUT HOUSE|402R-00260|Retail Marijuana Store|Voluntary Surrender|38321 Highway 24|Lake George CO  80827|Lake George|Park|CO|80827|
+GRANNY HASH LLC|GRANNYS HIGH ALTITUDE SPROUT HOUSE|403R-00343|Retail Marijuana Cultivation Facility|Voluntary Surrender|38321 Highway 24|Lake George CO  80827|Lake George|Park|CO|80827|
+GREEN ACRES EMPORIUM LLC||404-00408|Infused Product Manufacturer|Voluntary Surrender|6033 Hwy 78 W|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GREEN ACRES EMPORIUM LLC||403-01517|Optional Premises|Voluntary Surrender|6033 Highway 78 West|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GREEN ACRES EMPORIUM LLC||404R-00088|Retail Marijuana Products Mfg|Voluntary Surrender|6033 Highway 78|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GREEN ACRES EMPORIUM LLC||403R-00363|Retail Marijuana Cultivation Facility|Voluntary Surrender|6033 Highway 78 West|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GREEN CROSS COLORADO LLC|GREEN CROSS COLORADO|403-00673|Optional Premises|Voluntary Surrender|660 Bryant Street, Unit 102|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN CROSS COLORADO LLC|GREEN CROSS COLORADO|403R-00112|Retail Marijuana Cultivation Facility|Voluntary Surrender|660 Bryant Street, Unit 102|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN EARTH GROWERS LLC|BILLY BUDZ|403R-00736|Retail Marijuana Cultivation Facility|Voluntary Surrender|2200 Pope Valley Ranch Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+GREEN ESSENTIALS MEDICAL LLC|GREEN DRAGON COLORADO|402-00115|Center - Type 1|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|ASPEN GREEN DRAGON|402-00881|Center - Type 1|Voluntary Surrender|409 East Hyman Avenue|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+GREEN ESSENTIALS MEDICAL LLC||403-01450|Optional Premises|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|ASPEN GREEN DRAGON|403-01451|Optional Premises|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC||403R-00246|Retail Marijuana Cultivation Facility|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|GREEN DRAGON - BASALT|402R-00310|Retail Marijuana Store|Voluntary Surrender|180 Southside Dr Unit 7A|Basalt CO  81621|Basalt|Pitkin|CO|81621|
+GREEN ESSENTIALS MEDICAL LLC|GREEN DRAGON - BASALT|403R-00367|Retail Marijuana Cultivation Facility|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|GREEN DRAGON - BASALT|402-00968|Center - Type 1|Voluntary Surrender|180 Southside Drive, Unit 7A|Basalt CO  81621|Basalt|Pitkin|CO|81621|
+GREEN ESSENTIALS MEDICAL LLC|GREEN DRAGON - BASALT|403-01525|Optional Premises|Voluntary Surrender|1420 Devereux Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|GRAND EDIBLES|404-00439|Infused Product Manufacturer|Voluntary Surrender|919 Grand Avenue|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|GRAND EDIBLES|404R-00117|Retail Marijuana Products Mfg|Voluntary Surrender|919  Grand Avenue|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN ESSENTIALS MEDICAL LLC|GREEN DRAGON GLENWOOD|402R-00414|Retail Marijuana Store|Voluntary Surrender|919 Grand Avenue|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREEN GRASS LLC|GREEN GRASS CENTRAL CITY|403-00459|Optional Premises|Voluntary Surrender|670 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN GRASS LLC|GREEN GRASS CENTRAL CITY|402-00491|Center - Type 1|Voluntary Surrender|440 Lawrence Street|Central City CO  80427|Central City|Gilpin|CO|80427|
+GREEN GRASS LLC|GREEN GRASS CENTRAL CITY|403R-00084|Retail Marijuana Cultivation Facility|Voluntary Surrender|670 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN KIWI 2 LLC|LIVWELL|403R-00147|Retail Marijuana Cultivation Facility|Voluntary Surrender|1660 East 40th Avenue|Denver CO  80205|Denver|Denver|CO|80205|
+GREEN KIWI 3 LLC|LivWell|402R-00439|Retail Marijuana Store|Voluntary Surrender|4540 Highway 6 & 24|De Beque CO  81630|De Beque|Mesa|CO|81630|
+GREEN LEAF LLC||403-00107|Optional Premises|Voluntary Surrender|890 Navajo Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREEN MEADOWS WELLNESS LLC|INFINITE WELLNESS CENTER|402-00791|Center - Type 1|Voluntary Surrender|1701 Kipling Street, Suite 104|Lakewood CO  80215|Lakewood|Jefferson|CO|80215|
+GREEN MEADOWS WELLNESS LLC|INFINITE WELLNESS CENTER|403-01197|Optional Premises|Voluntary Surrender|2981 Sterling Court|Boulder CO  80301|Boulder|Boulder|CO|80301|
+GREEN MEADOWS WELLNESS LLC|INFINITE WELLNESS CENTER|403-01290|Optional Premises|Voluntary Surrender|900 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+GREEN MEADOWS WELLNESS LLC|INFINITE WELLNESS CENTER|404R-00108|Retail Marijuana Products Mfg|Voluntary Surrender|900 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+GREEN MEDICALS INC|EMERALD CITY ORGANICS LLC|403-01176|Optional Premises|Voluntary Surrender|6859 N. Foothills Hwy, Bldg C, units 200 & 300|Boulder CO  80302|Boulder|Boulder|CO|80302|
+GREEN MEDICALS INC|EMERALD CITY ORGANICS|403-01269|Optional Premises|Voluntary Surrender|6859 North Foothills Hwy, Bldg G, Units A & B|Boulder CO  80302|Boulder|Boulder|CO|80302|
+GREEN STREET DISPENSARY LLC||403R-00362|Retail Marijuana Cultivation Facility|Voluntary Surrender|29420 Highway 160 East, Unit B|Durango CO  81303|Durango|La Plata|CO|81303|
+GREENER PASTURE COMPASSION CENTER LLC|VERDE|402R-00028|Retail Marijuana Store|Voluntary Surrender|5101 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+GREENLINE FEDERAL LLC|PASSION  BUD|402-00962|Center - Type 1|Voluntary Surrender|2527 Federal Boulevard|Denver CO  80211|Denver|Denver|CO|80211|
+GREENLINE FEDERAL LLC|PASSION  BUD|403-01520|Optional Premises|Voluntary Surrender|2640 East 43rd Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+GREENWERKZ LLC|GREEN DRAGON COLORADO|402-00155|Center - Type 1|Voluntary Surrender|5840 West 25th Avenue|Edgewater CO  80214|Edgewater|Jefferson|CO|80214|
+GREENWERKZ LLC|GREEN DRAGON COLORADO|402-00156|Center - Type 1|Voluntary Surrender|2922 South Glen Avenue|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+GREENWERKZ LLC||403-00228|Optional Premises|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREENWERKZ LLC||403-00229|Optional Premises|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREENWERKZ LLC||403-00500|Optional Premises|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREENWERKZ LLC||403R-00121|Retail Marijuana Cultivation Facility|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREENWERKZ LLC||403R-00122|Retail Marijuana Cultivation Facility|Voluntary Surrender|830 North Wyandot Street|Denver CO  80204|Denver|Denver|CO|80204|
+GREENWERKZ LLC|GREENWERKZ|404R-00103|Retail Marijuana Products Mfg|Voluntary Surrender|16661 East 2nd Avenue|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+GROW MECHANICS LLC|FABLE|404-00401|Infused Product Manufacturer|Voluntary Surrender|516 West Colorado Avenue|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+GROW MECHANICS LLC|FABLE|403-01504|Optional Premises|Voluntary Surrender|516 West Colorado Avenue|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+GROWHOUSE PUEBLO LLC||403R-00511|Retail Marijuana Cultivation Facility|Voluntary Surrender|1325 Cheyenne Avenue|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+GROWHOUSE PUEBLO LLC||404R-00133|Retail Marijuana Products Mfg|Voluntary Surrender|1325 Cheyenne Avenue|Pueblo CO  81003|Pueblo|Pueblo|CO|81003|
+GT INDUSTRIES LLC|HUSH CANNABIS & CONFECTIONS|403R-00718|Retail Marijuana Cultivation Facility|Voluntary Surrender|40833 Highway 6|Avon CO  81620|Avon|Eagle|CO|81620|
+GT MANUFACTURING LLC||403R-00998|Retail Marijuana Cultivation Facility|Voluntary Surrender|59 North Fabrication Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HASHISH HOUSE LLC|HASHISH HOUSE|402-00907|Center - Type 1|Voluntary Surrender|428 South McCulloch Boulevard|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+HASHISH HOUSE LLC|HASHISH HOUSE|403-01434|Optional Premises|Voluntary Surrender|428 South McCulloch Boulevard|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+HASHISH HOUSE LLC||403R-00233|Retail Marijuana Cultivation Facility|Voluntary Surrender|63500 East  Highway 96|Boone CO  81025|Boone|Pueblo|CO|81025|
+HCH2 LLC||402-00227|Center - Type 1|Voluntary Surrender|40 South Main Street|Alma CO  80420|Alma|Park|CO|80420|
+HCH2 LLC||403-00331|Optional Premises|Voluntary Surrender|40 South Main Street|Alma CO  80420|Alma|Park|CO|80420|
+HEADQUARTERS EMPORIUM AND DISPENSARY LLC||402R-00391|Retail Marijuana Store|Voluntary Surrender|138 East Main Street, Units 4 & 5|Lyons CO  80540|Lyons|Boulder|CO|80540|
+HEADQUARTERS EMPORUIM AND DISPENSARY LLC||402-00777|Center - Type 1|Voluntary Surrender|138 East Main Street|Lyons CO  80540|Lyons|Boulder|CO|80540|
+HEADQUARTERS EMPORUIM AND DISPENSARY LLC||403-01182|Optional Premises|Voluntary Surrender|1501 Lee Hill Drive, Unit 9|Boulder CO  80304|Boulder|Boulder|CO|80304|
+HEALTH DEPOT LLC|STICKY BUDS COLFAX|402-00048|Center - Type 1|Voluntary Surrender|4615 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+HEALTH DEPOT LLC|STICKY BUDS COLFAX|403-00063|Optional Premises|Voluntary Surrender|2219 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+HEALTH DEPOT LLC|STICKY BUDS BROADWAY|402-00775|Center - Type 1|Voluntary Surrender|2262 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+HEALTH DEPOT LLC|STICKY BUDS BROADWAY|403-01180|Optional Premises|Voluntary Surrender|2219 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+HEALTH SERVICES LLC|GREEN DREAM CANNABIS|402-00380|Center - Type 1|Voluntary Surrender|6700 Lookout Road, Suite 5|Boulder CO  80301|Boulder|Boulder|CO|80301|
+HEALTH SERVICES LLC|GREEN DREAM CANNABIS|403-00570|Optional Premises|Voluntary Surrender|4700 Sterling Drive, Unit H|Boulder CO  80301|Boulder|Boulder|CO|80301|
+HEALTH SERVICES LLC|GREEN DREAM CANNABIS|403-01279|Optional Premises|Voluntary Surrender|6390 Gunpark Drive, Unit B|Boulder CO  80301|Boulder|Boulder|CO|80301|
+HEALTH SERVICES LLC|GREEN DREAM CANNABIS|403-01414|Optional Premises|Voluntary Surrender|4700 Sterling Drive, Unit A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+HEARTLAND INDUSTRIES LLC||403R-00356|Retail Marijuana Cultivation Facility|Voluntary Surrender|9000 South Interstate 25|Colorado City CO  81019|Colorado City|Pueblo|CO|81019|
+HERBAL HEALING LLC|HERBAL HEALING|403-01497|Optional Premises|Voluntary Surrender|1785 North Academy Boulevard Suite165|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+HERBAL HEALING LLC|HERBAL HEALING|403-01774|Optional Premises|Voluntary Surrender|5025 Galley Road|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HERBAL HEALING LLC|HERBAL HEALING|403-01776|Optional Premises|Voluntary Surrender|5025 Galley Road|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HERBAL HEALTH LLC|LOCAL PRODUCT OF COLORADO|402R-00195|Retail Marijuana Store|Voluntary Surrender|419 West 13th Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+HERBAL HEALTH LLC|LOCAL PRODUCT OF COLORADO|403R-00253|Retail Marijuana Cultivation Facility|Voluntary Surrender|3930 North Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+HERBAL WELLNESS LLC||403-01053|Optional Premises|Voluntary Surrender|1224 Commerce Court, Bay 4&5|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+HERITAGE ORGANICS LLC|HERITAGE ORGANICS|402-01045|Center - Type 1|Voluntary Surrender|78 North Precision Dr, Suite A|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HERITAGE ORGANICS LLC|HERITAGE ORGANICS|403-01640|Optional Premises|Voluntary Surrender|78 North Precision Drive |Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HERITAGE ORGANICS LLC|HERITAGE ORGANICS|403R-00611|Retail Marijuana Cultivation Facility|Voluntary Surrender|84 North Precision Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+HIDEEZ SOLUTIONS LLC||403R-00628|Retail Marijuana Cultivation Facility|Voluntary Surrender|1750 Siloam Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+HIGH COUNTRY FARMS LLC|HIGH COUNTRY FARMS|403R-00460|Retail Marijuana Cultivation Facility|Voluntary Surrender|1860 Copper Spur Road|Bond CO  80423|Bond|Eagle|CO|80423|
+HIGH STREET GROWERS LLC||403R-00215|Retail Marijuana Cultivation Facility|Voluntary Surrender|4500 Jason Street|Denver CO  80211|Denver|Denver|CO|80211|
+HIGHLANDS WELLNESS CENTER LLC|THE CLINIC HIGHLANDS|403R-00050|Retail Marijuana Cultivation Facility|Voluntary Surrender|2675 South Santa Fe Drive, Units 6C, 6D, 6E, 6F, 6G & 6H|Denver CO  80222|Denver|Denver|CO|80222|
+HIGHLANDS WELLNESS CENTER LLC|THE CLINIC HIGHLANDS|403R-00051|Retail Marijuana Cultivation Facility|Voluntary Surrender|5098 Paris Street|Denver CO  80239|Denver|Denver|CO|80239|
+HIGHLANDS WELLNESS CENTER LLC|THE CLINIC HIGHLANDS|403R-00886|Retail Marijuana Cultivation Facility|Voluntary Surrender|5098 Paris Street Building #1|Denver CO  80239|Denver|Denver|CO|80239|
+HIS WAY HERBS LLC|BOULDER PHARMA|404-00382|Infused Product Manufacturer|Voluntary Surrender|5595 Arapahoe Avenue, Units C,D and E,|Boulder CO  80303|Boulder|Boulder|CO|80303|
+HIS WAY HERBS LLC|BOULDER PHARMA|403-01465|Optional Premises|Voluntary Surrender|5595 Arapahoe Avenue, Units C, D and E,|Boulder CO  80303|Boulder|Boulder|CO|80303|
+HIS WAY HERBS LLC|BOULDER PHARMA|404R-00122|Retail Marijuana Products Mfg|Voluntary Surrender|5595 Arapahoe Avenue, Units C, D & E|Boulder CO  80303|Boulder|Boulder|CO|80303|
+HIS WAY HERBS LLC|BOULDER PHARMA|403R-00483|Retail Marijuana Cultivation Facility|Voluntary Surrender|5595 Arapahoe Avenue, Units C, D & E|Boulder CO  80303|Boulder|Boulder|CO|80303|
+HOLLY MEDICINAL SERVICES LLC|THE CLINIC COLORADO|403R-00098|Retail Marijuana Cultivation Facility|Voluntary Surrender|1127 West 46th Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+HOLLY MEDICINAL SERVICES LLC|THE CLINIC COLORADO|403R-00099|Retail Marijuana Cultivation Facility|Voluntary Surrender|5098 Paris Street|Denver CO  80239|Denver|Denver|CO|80239|
+HOSHTA LLC|NEW HORIZONS|402-00778|Center - Type 1|Voluntary Surrender|1460 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+HOSHTA LLC|NEW HORIZONS|403-01183|Optional Premises|Voluntary Surrender|1460 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+I & S LLC|SILVER STEM FINE CANNABIS|403-00679|Optional Premises|Voluntary Surrender|1086 West Littleton Boulevard|Littleton CO  80122|Littleton|Arapahoe|CO|80122|
+IHN HOLDINGS LLC|5280 WEEDERY LLC|403-01874|Optional Premises|Voluntary Surrender|1955 South Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+INDOOR HORTICULTURE CENTERS LLC|SANTE ALTERNATIVE WELLNESS|403-00307|Optional Premises|Voluntary Surrender|2694 County Road 222|Durango CO  81303|Durango|La Plata|CO|81303|
+INDOOR HORTICULTURE CENTERS LLC|SANTE ALTERNATIVE WELLNESS|403-00308|Optional Premises|Voluntary Surrender|26044 Highway 550 North|Durango CO  81301|Durango|La Plata|CO|81301|
+INDOOR HORTICULTURE CENTERS LLC|SANTE ALTERNATIVE WELLNESS|403R-00543|Retail Marijuana Cultivation Facility|Voluntary Surrender|2694 County Road 222|Durango CO  81303|Durango|La Plata|CO|81303|
+INDOOR HORTICULTURE CENTERS LLC|SANTE ALTERNATIVE WELLNESS|403R-00609|Retail Marijuana Cultivation Facility|Voluntary Surrender|26044 Highway 550 North|Durango CO  81301|Durango|La Plata|CO|81301|
+INDOOR HORTICULTURE CENTERS LLC|SANTE ALTERNATIVE WELLNESS|403R-00860|Retail Marijuana Cultivation Facility|Voluntary Surrender|2694 County Road 222|Durango CO  81303|Durango|La Plata|CO|81303|
+INDY 2 LLC|INDISPENSARY|403-00810|Optional Premises|Voluntary Surrender|3721 Wildhorn Road|Florissant CO  80816|Florissant|Teller|CO|80816|
+INDY 3 LLC|INDISPENSARY|403-00813|Optional Premises|Voluntary Surrender|3721 Wildhorn Road|Florissant CO  80816|Florissant|Teller|CO|80816|
+INFUZIONZ LLC|NECTAR BEE|403R-00021|Retail Marijuana Cultivation Facility|Voluntary Surrender|4394 Grape Street|Denver CO  80216|Denver|Denver|CO|80216|
+INSITE COMMERCIAL & TRADING LIMITED GROUP LLC||404R-00203|Retail Marijuana Products Mfg|Voluntary Surrender|2310 Pope Valley Ranch Road, Unit B|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+IVITA WELLNESS II LLC|IVITA|403-00962|Optional Premises|Voluntary Surrender|2150 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+IVITA WELLNESS LLC|IVITA|403-01394|Optional Premises|Voluntary Surrender|1660 East 40th Avenue, Unit A|Denver CO  80205|Denver|Denver|CO|80205|
+IVITA WELLNESS LLC|IVITA|403-01395|Optional Premises|Voluntary Surrender|1660 E. 40th Avenue, Unit A|Denver CO  80205|Denver|Denver|CO|80205|
+IVITA WELLNESS LLC|IVITA|403-01396|Optional Premises|Voluntary Surrender|1660 East 40th Avenue, Unit A|Denver CO  80205|Denver|Denver|CO|80205|
+IVXX INFUZIONZ LLC|INFUZIONZ|403-01276|Optional Premises|Voluntary Surrender|4394 Grape Street|Denver CO  80219|Denver|Denver|CO|80219|
+IVXX INFUZIONZ LLC|INFUZIONZ|403-01385|Optional Premises|Voluntary Surrender|5285-5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+IVXX INFUZIONZ LLC|INFUZIONZ|403-01388|Optional Premises|Voluntary Surrender|2600 West Barberry Place|Denver CO  80219|Denver|Denver|CO|80219|
+J and J ENTERPRISES INC|PAGOSA THERAPEUTICS|402-00871|Center - Type 1|Voluntary Surrender|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+J and J ENTERPRISES INC|PAGOSA THERAPEUTICS|403-01356|Optional Premises|Voluntary Surrender|235 Bastille Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+JEM DUTCH ACRES LLC|CLOUD CITY COMPASSIONATE CARE|402-00094|Center - Type 1|Voluntary Surrender|1013 Poplar Street, Suite 1|Leadville CO  80461|Leadville|Lake|CO|80461|
+JEM DUTCH ACRES LLC|CLOUD CITY COMPASSIONATE CARE|403-00138|Optional Premises|Voluntary Surrender|1900 County Road 8|Leadville CO  80461|Leadville|Lake|CO|80461|
+JJF HOLDINGS LLC||403R-00891|Retail Marijuana Cultivation Facility|Voluntary Surrender|1610 Siloam Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+JJ'S WAXWORKS LLC|JJ's WAXWORKS|404-00371|Infused Product Manufacturer|Voluntary Surrender|4257 South Navajo Street|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+JJ'S WAXWORKS LLC|JJ?S WAXWORKS|403-01444|Optional Premises|Voluntary Surrender|4257 South Navajo Street|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+JJ'S WAXWORKS LLC|JJ'S WAXWORKS|404-00414|Infused Product Manufacturer|Voluntary Surrender|1195 West Custer Place, Unit 101|Denver CO  80223|Denver|Denver|CO|80223|
+JMC ENTERPRISES INC|FREMONT COUNTY CANNABIS|403-00230|Optional Premises|Voluntary Surrender|19256 County Road 343, Unit D|Buena Vista CO  81211|Buena Vista|Chaffee|CO|81211|
+JOSEPH ARTHUR BOTANICALS LLC||403R-00418|Retail Marijuana Cultivation Facility|Voluntary Surrender|728 Ventura Street, Unit B & C|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+JP LABS LLC||403-01527|Optional Premises|Voluntary Surrender|288 South Academy Boulevard,  Suite B|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+JPJR AND ASSOCIATES LLC||403-00652|Optional Premises|Voluntary Surrender|11975 East 40th Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+JRD ENTERPRISES LLC|SILVERTON HASH WORKS|403-00758|Optional Premises|Voluntary Surrender|951 Greene Street|Silverton CO  81433|Silverton|San Juan|CO|81433|
+JRD ENTERPRISES LLC|SILVER HASH WORKS|404-00328|Infused Product Manufacturer|Voluntary Surrender|951 Greene Street|Silverton CO  81433|Silverton|San Juan|CO|81433|
+JRD ENTERPRISES LLC|SILVERTON HASHWORKS LLC|404R-00070|Retail Marijuana Products Mfg|Voluntary Surrender|951 Greene Street|Silverton CO  81433|Silverton|San Juan|CO|81433|
+JRD ENTERPRISES LLC|SILVERTON HASHWORKS LLC|403R-00316|Retail Marijuana Cultivation Facility|Voluntary Surrender|951 Greene Street|Silverton CO  81433|Silverton|San Juan|CO|81433|
+JS INVESTMENTS LLC|JS INVESTMENTS LLC|402-00882|Center - Type 1|Voluntary Surrender|401 16th Street|Denver CO  80202|Denver|Denver|CO|80202|
+JS INVESTMENTS LLC|JS INVESTMENTS LLC|403-01380|Optional Premises|Voluntary Surrender|401 16th Street|Denver CO  80202|Denver|Denver|CO|80202|
+JULIE & KATE BAKED GOODS LLC|JULIES NATURAL EDIBLES|404-00236|Infused Product Manufacturer|Voluntary Surrender|8070 East 40th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+JULIE & KATE BAKED GOODS LLC|JULIES NATURAL EDIBLES|404R-00048|Retail Marijuana Products Mfg|Voluntary Surrender|8070 East 40th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+JULIE CAMILLE LLC|SWEET GRASS KITCHEN|403-01441|Optional Premises|Voluntary Surrender|1135 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+K.I.N.D. WELLNESS CENTER LLC|STASH|402-00740|Center - Type 1|Voluntary Surrender|300 AABC, Suite B|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+K.I.N.D. WELLNESS CENTER LLC|STASH|403-01127|Optional Premises|Voluntary Surrender|102 North River Road|Snowmass CO  81654|Snowmass|Pitkin|CO|81654|
+KARING KIND LLC|KARING KIND LLC|402-00485|Center - Type 1|Voluntary Surrender|5854 Rawhide Court., Suite C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+KARING KIND LLC|KARING KIND LLC|403-00720|Optional Premises|Voluntary Surrender|5854 Rawhide Court, Unit C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+KARING KIND LLC|KARING KIND LLC|404-00316|Infused Product Manufacturer|Voluntary Surrender|5854 Rawhide Court, Unit C|Boulder CO  80302|Boulder|Boulder|CO|80302|
+KC ISLAND GREENERY LLC||403R-00551|Retail Marijuana Cultivation Facility|Voluntary Surrender|7445 Rex Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+KENDALL MOUNTAIN LLC|SILVERTON GREEN WORKS|403R-00347|Retail Marijuana Cultivation Facility|Voluntary Surrender|124 East 13th Street, Unit A|Silverton CO  81433|Silverton|San Juan|CO|81433|
+KGN LLC||404R-00201|Retail Marijuana Products Mfg|Voluntary Surrender|16668 East 2nd Avenue|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+KIND LOVE LLC||403-00035|Optional Premises|Voluntary Surrender|2116 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+KIND LOVE LLC||404-00351|Infused Product Manufacturer|Voluntary Surrender|4890 Joliet Street|Denver CO  80239-2520|Denver|Denver|CO|802392520|
+KIND LOVE LLC|KL LLC|402-00878|Center - Type 1|Voluntary Surrender|3425 South Oleander Court, Suite B|Denver CO  80224|Denver|Denver|CO|80224|
+KIND LOVE LLC|KL|403-01439|Optional Premises|Voluntary Surrender|2116 South Kalamath Street|Denver CO  80223|Denver|Denver|CO|80223|
+KIND LOVE LLC|KL|403-01440|Optional Premises|Voluntary Surrender|4155 Grape Street|Denver CO  80216|Denver|Denver|CO|80216|
+KORU HEALING LLC|KORU HEALING|404R-00287|Retail Marijuana Products Mfg|Voluntary Surrender|345 Rogers Lane|Durango CO  81303|Durango|La Plata|CO|81303|
+KORU HEALING LLC|KORU HEALING|403R-00832|Retail Marijuana Cultivation Facility|Voluntary Surrender|345 Rogers Lane|Durango CO  81303|Durango|La Plata|CO|81303|
+KP LLC|BINSKE|402R-00565|Retail Marijuana Store|Voluntary Surrender|108 South Mill Street Space A and Space B|Aspen CO  81611|Aspen|Pitkin|CO|81611|
+L'EAGLE SERVICES LLC|L?EAGLE|402-00119|Center - Type 1|Voluntary Surrender|380 Quivas Street|Denver CO  80223|Denver|Denver|CO|80223|
+L'EAGLE SERVICES LLC|L'EAGLE|403-00168|Optional Premises|Voluntary Surrender|380 Quivas Street|Denver CO  80223|Denver|Denver|CO|80223|
+LEFT BANK LLC|DIXIE ELIXIRS|403-01445|Optional Premises|Voluntary Surrender|4990 Oakland Street|Denver CO  80239|Denver|Denver|CO|80239|
+LIGHTSHADE LABS LLC|LIGHTSHADE|403-00900|Optional Premises|Voluntary Surrender|3950 Holly Street|Denver CO  80207|Denver|Denver|CO|80207|
+LIGHTSHADE LABS LLC|LIGHTSHADE LABS|402-00749|Center - Type 1|Voluntary Surrender|745 East 6th Avenue|Denver CO  80203|Denver|Denver|CO|80203|
+LIGHTSHADE LABS LLC|LIGHTSHADE|402-01275|Center - Type 1|Voluntary Surrender|1533 Main Street|Longmont CO  80501|Longmont|Boulder|CO|80501|
+LIGHTSHADE LABS LLC|LIGHTSHADE|402R-00727|Retail Marijuana Store|Voluntary Surrender|1533 Main Street|Longmont CO  80501|Longmont|Boulder|CO|80501|
+LITTLE GREEN PHARMACY INC|LITTLE GREEN PHARMACY|403-01017|Optional Premises|Voluntary Surrender|1331 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+LIVE GREEN CONSULTING LLC|PATIENTS CHOICE ON MORRISON ROAD|403-00993|Optional Premises|Voluntary Surrender|5775 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+LIVWELL I LLC|LIVWELL|403-00894|Optional Premises|Voluntary Surrender|2647 8th Avenue, Unit B|Garden City CO  80631|Garden City|Weld|CO|80631|
+LIVWELL III LLC|LIVWELL|403-01004|Optional Premises|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+LIVWELL III LLC|LIVWELL|403R-00220|Retail Marijuana Cultivation Facility|Voluntary Surrender|5141 Franklin Street|Denver CO  80216|Denver|Denver|CO|80216|
+LJ CONSTRUCTION MANAGEMENT LLC||404R-00195|Retail Marijuana Products Mfg|Voluntary Surrender|5305 Vasquez Boulevard|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+LJ CONSTRUCTION MANAGEMENT LLC|LJ Construction LLC|403R-00669|Retail Marijuana Cultivation Facility|Voluntary Surrender|5305 Vasquez Boulevard|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+LOST CREEK VENTURES INC|BONFIRE CANNABIS COMPANY|402R-00611|Retail Marijuana Store|Voluntary Surrender|4837 North Washington Street, Suite 100|Denver CO  80216|Denver|Denver|CO|80216|
+LUCKY SWEETS LLC|LUCKY EDIBLES|403-01392|Optional Premises|Voluntary Surrender|3980 Franklin Street|Denver CO  80205|Denver|Denver|CO|80205|
+LUCKY SWEETS LLC|LUCKY EDIBLES|403R-00146|Retail Marijuana Cultivation Facility|Voluntary Surrender|3980 Franklin Street|Denver CO  80205|Denver|Denver|CO|80205|
+LYONS LAKE CORP||403R-00055|Retail Marijuana Cultivation Facility|Voluntary Surrender|4209 N. Delaware Street|Denver CO  80216|Denver|Denver|CO|80216|
+MAC CORP|MAC|402-01165|Center - Type 1|Voluntary Surrender|4755 Lima Street|Denver CO  80239|Denver|Denver|CO|80239|
+MAC CORP|MAC|403-01779|Optional Premises|Voluntary Surrender|4755 Lima Street|Denver CO  80239|Denver|Denver|CO|80239|
+MAC CORP|MAC|402-01200|Center - Type 1|Voluntary Surrender|4425 East Virginia|Glendale CO  80246|Glendale|Arapahoe|CO|80246|
+MACLONE OPERATIONS LLC||403R-00758|Retail Marijuana Cultivation Facility|Voluntary Surrender|9670 Dallas Street, Unit 2|Henderson CO  80640|Henderson|Adams|CO|80640|
+MADISON ENTERPRISES LLC|PINK HOUSE CHERRY|403-00242|Optional Premises|Voluntary Surrender|4900 Colorado Boulevard|Denver CO  80216|Denver|Denver|CO|80216|
+MAGGIES FARM LLC||403-01153|Optional Premises|Voluntary Surrender|4211 Fremont County Road 84|Florence CO  81226|Florence|Fremont|CO|81226|
+MAGGIES FARM LLC||403R-00290|Retail Marijuana Cultivation Facility|Voluntary Surrender|3900 North 27th Lane|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+MAGGIES FARM LLC||403R-00303|Retail Marijuana Cultivation Facility|Voluntary Surrender|3900 North 27th Lane|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+MAGNA MARKETING INC|HERBS 4 YOU|402-00064|Center - Type 1|Voluntary Surrender|20 East 9th Avenue|Denver CO  80203|Denver|Denver|CO|80203|
+MAGNA MARKETING INC|HERBS 4 YOU|403-00087|Optional Premises|Voluntary Surrender|1325 South Inca Street Unit B|Denver CO  80223|Denver|Denver|CO|80223|
+MAGNA MARKETING INC|HERBS 4 YOU|403R-00095|Retail Marijuana Cultivation Facility|Voluntary Surrender|1325 South Inca Street, Unit B|Denver CO  80223|Denver|Denver|CO|80223|
+MAKERSMIPS LLC|PURE COLORADO|404R-00303|Retail Marijuana Products Mfg|Voluntary Surrender|9690 Dallas Street, Unit L|Henderson CO  80640-8484|Henderson|Adams|CO|806408484|
+MAKERSMIPS LLC|PURE COLORADO|404-00582|Infused Product Manufacturer|Voluntary Surrender|9690 Dallas Street, Unit L|Henderson CO  80640|Henderson|Adams|CO|80640|
+MARISOL THERAPEUTICS LLC||403R-00080|Retail Marijuana Cultivation Facility|Voluntary Surrender|2204 Hickory Lane|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+MARTINS NATURAL MEDICINALS LLC|MEDICINE MAN OF GLENWOOD SPRINGS|402-00529|Center - Type 1|Voluntary Surrender|216 6th Street, Suite A|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+MARTINS NATURAL MEDICINALS LLC||403-01261|Optional Premises|Voluntary Surrender|3768 Highway 82, Unit 203|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+MARY JANES MEDICINALS LLC|MARY JANES MEDICINALS|403-01595|Optional Premises|Voluntary Surrender|761 Vance Drive|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+MARYS LLC||402-00077|Center - Type 1|Voluntary Surrender|200 South Sharp Avenue|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+MARYS LLC||403-00111|Optional Premises|Voluntary Surrender|209 Nancy Crawford Boulevard|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+MARYS LLC||403-00112|Optional Premises|Voluntary Surrender|209 Nancy Crawford Boulevard|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+MEDICAL CANNABIS COLORADO LLC|CURE COLORADO|403-01587|Optional Premises|Voluntary Surrender|63510 East Highway 96|Boone CO  81025|Boone|Pueblo|CO|81025|
+MEDICAL CANNABIS COLORADO LLC|CURE COLORADO|402-01204|Center - Type 1|Voluntary Surrender|1315 Elm Avenue|Rocky Ford CO  81067|Rocky Ford|Otero|CO|81067|
+MEDICAL CANNABIS COLORADO LLC|CURE COLORADO|403-01854|Optional Premises|Voluntary Surrender|1315 Elm Avenue|Rocky Ford CO  81067|Rocky Ford|Otero|CO|81067|
+MEDICAL MARIJUANA OF THE ROCKIES LLC||402-00753|Center - Type 1|Voluntary Surrender|720 Summit Boulevard|Frisco CO  80443|Frisco|Summit|CO|80443|
+MEDICAL MARIJUANA OF THE ROCKIES LLC||403-01150|Optional Premises|Voluntary Surrender|5385 Montezuma Road|Montezuma CO  80435|Montezuma|Summit|CO|80435|
+MEDICAL MARIJUANA OF THE ROCKIES LLC||403-01323|Optional Premises|Voluntary Surrender|720 Summit Boulevard, Suite 101-A|Frisco CO  80443|Frisco|Summit|CO|80443|
+MEDICAL MARIJUANA OF THE ROCKIES LLC|SUMMIT MARIJUANA|402R-00384|Retail Marijuana Store|Voluntary Surrender|1121 Dillon Dam Road, Unit 20|Frisco CO  80443|Frisco|Summit|CO|80443|
+MEDICAL MARIJUANA OF THE ROCKIES LLC|SUMMIT MARIJUANA|403R-00427|Retail Marijuana Cultivation Facility|Voluntary Surrender|1121 Dillon Dam Road|Frisco CO  80443|Frisco|Summit|CO|80443|
+MEDICAL MJ SUPPLY LLC|Medical MJ Supply|403-00580|Optional Premises|Voluntary Surrender|4845-55 Van Gordon Street|Wheat Ridge CO  80033|Wheat Ridge|Jefferson|CO|80033|
+MEDICAL MJ SUPPLY LLC|BESTCOLORADOMEDS.ORG|403R-00490|Retail Marijuana Cultivation Facility|Voluntary Surrender|120 Hemlock Street, Suites 110 & 120|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+MEDICAL MJ SUPPLY LLC|BEST COLORADO MEDS.ORG|402R-00426|Retail Marijuana Store|Voluntary Surrender|810 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+MEDICINAL WELLNESS CENTER LLC|OASIS CANNABIS SUPER STORE|402-00562|Center - Type 2|Voluntary Surrender|5430 West 44th Avenue|Mountain View CO  80212|Mountain View|Jefferson|CO|80212|
+MEDICINAL WELLNESS CENTER LLC|OASIS CANNABIS CONCENTRATES|404R-00014|Retail Marijuana Products Mfg|Voluntary Surrender|5195 East 39th Avenue, #101|Denver CO  80207|Denver|Denver|CO|80207|
+MEDICINAL WELLNESS CENTER LLC|MEDICINAL OASIS LLC|403R-00129|Retail Marijuana Cultivation Facility|Voluntary Surrender|5195 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+MEDS 2 U MEDICAL MARIJUANA DISPENSARY LLC|AMENDMENT 20 CAREGIVERS|402-00663|Center - Type 1|Voluntary Surrender|2727 Palmer Park Blvd.|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+MEDS 2 U MEDICAL MARIJUANA DISPENSARY LLC|AMENDMENT 20 CAREGIVERS|403-00998|Optional Premises|Voluntary Surrender|3225 S. Drennan Industrial Loop|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+MESA GREENS LLC|MESA GREENS |402-01003|Center - Type 1|Voluntary Surrender|1805 Santa Fe Drive|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+MESA GREENS LLC|MESA GREENS |403-01576|Optional Premises|Voluntary Surrender|1805 Santa Fe Drive, Suite F, G|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+MESA ORGANICS LTD|MESA ORGANICS|403-01670|Optional Premises|Voluntary Surrender|30899 Highway 50 East|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+MESA ORGANICS LTD|MESA ORGANICS|404-00460|Infused Product Manufacturer|Voluntary Surrender|30899 Highway 50 East|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+MESA ORGANICS LTD|MESA ORGANICS|402-01073|Center - Type 1|Voluntary Surrender|30899 Highway 50 East|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+METROPOLIS MEDICAL LLC|TRU CANNABIS OFF HAVANA|403-00612|Optional Premises|Voluntary Surrender|4600 Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+MGI INC|KINDMAN|402-00133|Center - Type 1|Voluntary Surrender|4125 Elati Street|Denver CO  80216|Denver|Denver|CO|80216|
+MGI INC|KINDMAN|403-00186|Optional Premises|Voluntary Surrender|4125 Elati Street|Denver CO  80216|Denver|Denver|CO|80216|
+MGI INC|KINDMAN|403-00187|Optional Premises|Voluntary Surrender|4715 Colorado Blvd.|Denver CO  80216|Denver|Denver|CO|80216|
+MHG ENTERPRISES LLC||404-00521|Infused Product Manufacturer|Voluntary Surrender|4550 Jason Street|Denver CO  80211|Denver|Denver|CO|80211|
+MHG ENTERPRISES LLC||403-01768|Optional Premises|Voluntary Surrender|4550 Jason Street|Denver CO  80211|Denver|Denver|CO|80211|
+MHG ENTERPRISES LLC||404R-00302|Retail Marijuana Products Mfg|Voluntary Surrender|4550 Jason Street|Denver CO  80211|Denver|Denver|CO|80211|
+MIDDLE BOULDER MANAGEMENT LLC|ICEBOX FLOWER NEDERLAND|404R-00142|Retail Marijuana Products Mfg|Voluntary Surrender|150 North Jefferson Street, Units B3 & B7|Nederland CO  80466|Nederland|Boulder|CO|80466|
+MIDWEST RANCH LLC||403R-00261|Retail Marijuana Cultivation Facility|Voluntary Surrender|50100 East Highway 96, Suite B|Boone CO  81025|Boone|Pueblo|CO|81025|
+MIKE SQUARED LLC|BOULDER MARIJUANA COMPANY|402-00183|Center - Type 1|Voluntary Surrender|2111 30th Street, Unit A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MIKE SQUARED LLC|BOULDER MEDICAL MARIJUANA DISPENSARY|403-00273|Optional Premises|Voluntary Surrender|2480 49th Street, Unit H|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MIKE SQUARED LLC|BOULDER MARIJUANA CO.|402R-00183|Retail Marijuana Store|Voluntary Surrender|2111 30th Street, Unit A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MILAGRO WELLNESS HEALING LLC|MIND BODY SPIRIT 2|403R-00191|Retail Marijuana Cultivation Facility|Voluntary Surrender|811 County Road 308 |Downieville CO  80436|Downieville|Clear Creek|CO|80436|
+MILE HIGH GREEN CROSS LLC||403-00881|Optional Premises|Voluntary Surrender|1015 West Evans Avenue, Units A & B|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH GREEN CROSS LLC||403-01125|Optional Premises|Voluntary Surrender|1015 West Evans Avenue, Unit A/B|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH GREEN CROSS LLC||403R-00527|Retail Marijuana Cultivation Facility|Voluntary Surrender|1015 West Evans Avenue, Unit A/B|Denver CO  80223|Denver|Denver|CO|80223|
+MILE HIGH MEDICAL CANNABIS LLC||403-00740|Optional Premises|Voluntary Surrender|4209 Delaware Street (Rear Warehouse)|Denver CO  80216|Denver|Denver|CO|80216|
+MILE HIGH WELLNESS LLC||402-00178|Center - Type 1|Voluntary Surrender|4905 East 41st Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+MJ DURANGO LLC||403R-00592|Retail Marijuana Cultivation Facility|Voluntary Surrender|28753 East US Highway 160|Durango CO  81301|Durango|La Plata|CO|81301|
+MK WHOLESALE LLC||403R-00717|Retail Marijuana Cultivation Facility|Voluntary Surrender|462 Laredo Street, Unit G|Aurora CO  80017|Aurora|Arapahoe|CO|80017|
+MMCC LLC|MEDICAL MARIJUANA CENTER OF CARBONDALE|402-00511|Center - Type 1|Voluntary Surrender|60 N 3rd St|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+MMCC LLC|MEDICAL MARIJUANA CENTER OF CARDONDALE|403-00751|Optional Premises|Voluntary Surrender|60 North 3rd Street|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+MMCC LLC|THE CENTER|402R-00213|Retail Marijuana Store|Voluntary Surrender|60 N 3rd St|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+MMCC LLC|THE CENTER|403R-00279|Retail Marijuana Cultivation Facility|Voluntary Surrender|60 N 3rd St|Carbondale CO  81623|Carbondale|Garfield|CO|81623|
+MMD OF COLORADO LLC||403-01349|Optional Premises|Voluntary Surrender|4700 Kingston Street|Denver CO  80239|Denver|Denver|CO|80239|
+MMJ AMERICA INC|BOULDER MMJ|403-00423|Optional Premises|Voluntary Surrender|1617 West 12th Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+MMJ AMERICA INC|BOULDER MMJ|402R-00202|Retail Marijuana Store|Voluntary Surrender|1909 Broadway Street, Suite LL|Boulder CO  80302|Boulder|Boulder|CO|80302|
+MMJ AMERICA INC|BOULDER MMJ|403R-00262|Retail Marijuana Cultivation Facility|Voluntary Surrender|1617 West 12th Avenue|Denver CO  80204|Denver|Denver|CO|80204|
+MMJ SHERIDAN LLC|MMJ AMERICA SHERIDAN|403-01675|Optional Premises|Voluntary Surrender|1205 West Evans Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+MMK LIMITED|GRAND LIFE SOLUTIONS|402R-00350|Retail Marijuana Store|Voluntary Surrender|62429 US Highway 40, Unit 3|Granby CO  80446|Granby|Grand|CO|80446|
+MMK LIMITED|GRAND LIFE SOLUTIONS|403R-00388|Retail Marijuana Cultivation Facility|Voluntary Surrender|62429 US Highway 40, Unit A&B|Granby CO  80446|Granby|Grand|CO|80446|
+MMST LLC|WELLSPRING COLLECTIVE |403-01024|Optional Premises|Voluntary Surrender|1285 West Byers Place, Unit B,|Denver CO  80223|Denver|Denver|CO|80223|
+MOJO ENTOURAGE LLC|MOJO ENTOURAGE|403R-00642|Retail Marijuana Cultivation Facility|Voluntary Surrender|21000 East 32nd Avenue Parkway, Unit C|Aurora CO  80011|Aurora|Adams|CO|80011|
+MOTHER SPRING MANAGEMENT LLC|GROWHOUSE PAGOSA SPRINGS|402R-00520|Retail Marijuana Store|Voluntary Surrender|2149 Eagle Drive|Pagosa Springs CO  81147|Pagosa Springs|Archuleta|CO|81147|
+MOUNTAIN GIRL LPT INC||404-00431|Infused Product Manufacturer|Voluntary Surrender|794 East 51st Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+MOUNTAIN GIRL LPT INC||403-01588|Optional Premises|Voluntary Surrender|794 East 51st Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+MOUNTAIN HIGH PRODUCTS LLC|WANA|403R-00403|Retail Marijuana Cultivation Facility|Voluntary Surrender|7161 Valtec Court, Units A, D & E|Boulder CO  80301|Boulder|Boulder|CO|80301|
+MOUNTAIN HIGH SUCKERS LLC|MOUNTAIN HIGH SUCKERS|403-00363|Optional Premises|Voluntary Surrender|400 South Lipan Street, Unit 11|Denver CO  80223|Denver|Denver|CO|80223|
+MOUNTAIN HIGH SUCKERS LLC|MOUNTAIN HIGH SUCKERS|403-01794|Optional Premises|Voluntary Surrender|400 South Lipan Street, Unit 11|Denver CO  80223|Denver|Denver|CO|80223|
+MOUNTAIN MEDICINALS INC|MOUNTAIN MEDICINALS WELLNESS CENTER|402-00282|Center - Type 1|Voluntary Surrender|2313 Colorado Boulevard|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+MOUNTAIN MEDICINALS INC|MOUNTAIN MEDICINALS WELLNESS CENTER|403-00416|Optional Premises|Voluntary Surrender|2313 Colorado Boulevard|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+NATIONAL GREEN SOURCE LLC||403R-00447|Retail Marijuana Cultivation Facility|Voluntary Surrender|1900 South Freeway |Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+NATIONAL GREEN SOURCE LLC||403R-00448|Retail Marijuana Cultivation Facility|Voluntary Surrender|1900 South Freeway|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+NATIONAL GREEN SOURCE LLC||404R-00110|Retail Marijuana Products Mfg|Voluntary Surrender|1900 South Freeway|Pueblo CO  81004|Pueblo|Pueblo|CO|81004|
+NATURAL CHOICE CO-OP|NATURAL CHOICE|404-00295|Infused Product Manufacturer|Voluntary Surrender|2835 Downhill Plaza, Unit 603|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+NATURAL CHOICE CO-OP|NATURAL CHOICE|404R-00028|Retail Marijuana Products Mfg|Voluntary Surrender|2835 Downhill Plaza, Unit 604|Steamboat Springs CO  80487|Steamboat Springs|Routt|CO|80487|
+NATURES BEST LLC||402-00006|Center - Type 1|Voluntary Surrender|4601 East Mississippi Avenue|Glendale CO  80246-8202|Glendale|Arapahoe|CO|802468202|
+NATURES BEST LLC||403-00008|Optional Premises|Voluntary Surrender|1240 South Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+NATURES BEST LLC||403-01489|Optional Premises|Voluntary Surrender|1240 South Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+NATURES BEST LLC||403R-00556|Retail Marijuana Cultivation Facility|Voluntary Surrender|1240 South Bannock Street|Denver CO  80223|Denver|Denver|CO|80223|
+NATURES CURE III LLC|THE COLFAX POT SHOP|403R-00035|Retail Marijuana Cultivation Facility|Voluntary Surrender|635 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|
+NATURES HERBS & WELLNESS CENTER|NATURES HERBS & WELLNESS CENTER|403-01357|Optional Premises|Voluntary Surrender|540 27th Street|Garden City CO  80631|Garden City|Weld|CO|80631|
+NATURES HERBS & WELLNESS CENTER II LLC||403R-00259|Retail Marijuana Cultivation Facility|Voluntary Surrender|17224 North Frontage Road|Log Lane Village CO  80705|Log Lane Village|Morgan|CO|80705|
+NATURES WAY WELLNESS CENTER INC|SINSEMILLA GARDENS|402-00457|Center - Type 1|Voluntary Surrender|5012 North Academy Boulevard|Colorado Springs CO  80918|Colorado Springs|El Paso|CO|80918|
+NATURES WAY WELLNESS CENTER INC|SINSEMILLA GARDENS|403-00690|Optional Premises|Voluntary Surrender|2815 North El Paso Street Units A, C & D|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+NATURES WAY WELLNESS CENTER INC|SINSEMILLA GARDENS|402-00892|Center - Type 1|Voluntary Surrender|2815 North El Paso Street, Unit D|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+NATURES WAY WELLNESS CENTER INC|SINSEMILLA GARDENS|403-01412|Optional Premises|Voluntary Surrender|2815 North El Paso Street Unit D|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+NEW AGE MEDICAL LLC||403-00686|Optional Premises|Voluntary Surrender|5156 Clarkson Street, Building 2, Unit B|Denver CO  80216|Denver|Denver|CO|80216|
+NEW AGE MEDICAL LLC||403-00882|Optional Premises|Voluntary Surrender|1453 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+NEW AGE MEDICAL LLC||403-00884|Optional Premises|Voluntary Surrender|1453 Woolsey Heights|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+NEW AGE MEDICAL LLC||402-00592|Center - Type 1|Voluntary Surrender|6823 Space Village Avenue|Colorado Springs CO  80915|Colorado Springs|El Paso|CO|80915|
+NEW HOPE WELLNESS CENTER|NEW HOPE WELLNESS CENTER|403-00232|Optional Premises|Voluntary Surrender|5325 COUNTY ROAD 154, STE 202|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+NEW HOPE WELLNESS CENTER LLC|TUMBLEWEED DISPENSARY EDWARDS|402-00158|Center - Type 1|Voluntary Surrender|57 Edwards Access Road, Suite 18|Edwards CO  81632|Edwards|Eagle|CO|81632|
+NEW HOPE WELLNESS CENTER LLC||403-00231|Optional Premises|Voluntary Surrender|210 Edwards Village Boulevard, Unit B-210|Edwards CO  81632|Edwards|Eagle|CO|81632|
+NEW HOPE WELLNESS CENTER LLC||403R-00342|Retail Marijuana Cultivation Facility|Voluntary Surrender|210 Edwards Village Boulevard, Unit B-210|Edwards CO  81632|Edwards|Eagle|CO|81632|
+NEW WORLD ALTERNATIVE HEALTHCARE LLC||402-00111|Center - Type 1|Voluntary Surrender|135 South Spruce Street|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+NEW WORLD ALTERNATIVE HEALTHCARE LLC||403-00823|Optional Premises|Voluntary Surrender|135 South Spruce Street|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+NINE POUND HAMMER LLC||402R-00527|Retail Marijuana Store|Voluntary Surrender|1325 South Public Road|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+NORTH FEDERAL LLC||403-01397|Optional Premises|Voluntary Surrender|NW/4 of the NW/4 of Sec 18, T, 19S, R. 68W|Penrose CO  81240|Penrose|Fremont|CO|81240|
+NORTHERN LIGHTS NATURALS LLC|NORTHERN LIGHTS CANNABIS CO|403-00390|Optional Premises|Voluntary Surrender|4444 York Street Suite B|Denver CO  80216|Denver|Denver|CO|80216|
+NORTHERN LIGHTS NATURALS LLC|NORTHERN LIGHTS CANNABIS CO|403R-00052|Retail Marijuana Cultivation Facility|Voluntary Surrender|4444 York Street|Denver CO  80216|Denver|Denver|CO|80216|
+NUTRITIONAL SUPPLEMENTS LLC|PEACE IN MEDICINE CENTER|402-00622|Center - Type 1|Voluntary Surrender|2647 W. 38th Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+NUTRITIONAL SUPPLEMENTS LLC||404-00245|Infused Product Manufacturer|Voluntary Surrender|4986 Morrison Road, Suite E|Denver CO  80219|Denver|Denver|CO|80219|
+NUTRITIONAL SUPPLEMENTS LLC||403-00930|Optional Premises|Voluntary Surrender|38150 River Frontage Road Bldg 2 A,B,C,D|New Castle CO  81647|New Castle|Garfield|CO|81647|
+NUTRITIONAL SUPPLEMENTS LLC| PEACE IN MEDICINE CENTER|403-00932|Optional Premises|Voluntary Surrender|38150 River Frontage Road, Bldg 3 D|New Castle CO  81647|New Castle|Garfield|CO|81647|
+NUTRITIONAL SUPPLEMENTS LLC|RED EYED RAM|402-00838|Center - Type 1|Voluntary Surrender|1228 W. Elizabeth Street, Unit D8|Ft Collins CO  80521-4583|Ft Collins|Larimer|CO|805214583|
+O LIMITED|Cannamart|403-00681|Optional Premises|Voluntary Surrender|1110 West Virginia Ave, Units 1-3|Denver CO  80223|Denver|Denver|CO|80223|
+O LIMITED|SILVER STEM FINE CANNABIS|403R-00152|Retail Marijuana Cultivation Facility|Voluntary Surrender|1235 Umatilla Street|Denver CO  80204|Denver|Denver|CO|80204|
+OG MEDICINALS LLC||402-01105|Center - Type 1|Voluntary Surrender|4995 Lima Street|Denver CO  80239|Denver|Denver|CO|80239|
+ONE RIVER LLC||403R-00896|Retail Marijuana Cultivation Facility|Voluntary Surrender|11556 Highway 133|Carbondale CO  81623|Carbondale|Pitkin|CO|81623|
+OPTIONS MEDICAL CENTER LLC|COLORADO CULTIVATORS ASSOCIATION|402-00759|Center - Type 3|Voluntary Surrender|1534 55th Street|Boulder CO  80301|Boulder|Boulder|CO|80301|
+OPTIONS MEDICAL CENTER LLC|COLORADO CULTIVATORS ASSOCIATION|403-01157|Optional Premises|Voluntary Surrender|1900 55th Street, Suite A-101|Boulder CO  80301|Boulder|Boulder|CO|80301|
+OPTIONS MEDICAL CENTER LLC||403-01158|Optional Premises|Voluntary Surrender|5595 Arapahoe, Suite D|Boulder CO  80301|Boulder|Boulder|CO|80301|
+OPTIONS MEDICAL CENTER LLC|ELEMENTS|403R-00257|Retail Marijuana Cultivation Facility|Voluntary Surrender|1900 55th Street Unit A 101|Boulder CO  80301|Boulder|Boulder|CO|80301|
+OPTIONS MEDICAL CENTER WR LLC|OPTIONS MEDICAL CENTER WR LLC|403-01341|Optional Premises|Voluntary Surrender|1880 South Flat Irons Court, Suite D|Boulder CO  80303|Boulder|Boulder|CO|80303|
+OPTIONS MEDICAL CENTER WR LLC||403-01413|Optional Premises|Voluntary Surrender|1700 South 120th Street, Unit B1|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+OPTIONS MEDICAL CENTER WR LLC|OPTIONS|403-01648|Optional Premises|Voluntary Surrender|1700 South 120th Street, Unit B1, B2, B3A|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+OPTIONS MEDICAL CENTER WR LLC|OPTIONS|404-00452|Infused Product Manufacturer|Voluntary Surrender|1700 South 120th Street, Unit B1A|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+OPTIONS MEDICAL CENTER WR LLC|OPTIONS|404R-00191|Retail Marijuana Products Mfg|Voluntary Surrender|1700 South 120th Street, Unit B1A|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+ORGANIX LLC|BRECKENRIDGE ORGANIX|404-00040|Infused Product Manufacturer|Voluntary Surrender|1795 Airport Road, A2|Breckenridge CO  80424|Breckenridge|Summit|CO|80424|
+P2C3 LLC|THE SECRET STASH|403-00006|Optional Premises|Voluntary Surrender|3895 N. Cascade Avenue|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+PAIN MANAGEMENT OF GOVERNORS PARK LLC|THE CLINIC CAPITOL HILL|403R-00047|Retail Marijuana Cultivation Facility|Voluntary Surrender|1127 West 46th Avenue|Denver CO  80211|Denver|Denver|CO|80211|
+PAIN MANAGEMENT OF GOVERNORS PARK LLC|THE CLINIC CAPITOL HILL|403R-00048|Retail Marijuana Cultivation Facility|Voluntary Surrender|2675 South Santa Fe Drive, Units 6C, 6D & 6, 6E, 6F, 6G & 6H|Denver CO  80222|Denver|Denver|CO|80222|
+PALO VERDE LLC||403R-00360|Retail Marijuana Cultivation Facility|Voluntary Surrender|78 N Silicon Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+PALO VERDE LLC||404R-00086|Retail Marijuana Products Mfg|Voluntary Surrender|78 N Silicon Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+PATIENT CARE RESOURCES LLC|PCR|404-00137|Infused Product Manufacturer|Voluntary Surrender|19 North Tejon Street, Suite 108|Colorado Springs CO  80903|Colorado Springs|El Paso|CO|80903|
+PATIENTS CHOICE OF COLORADO LLC|PATIENTS CHOICE OF COLORADO|403-00562|Optional Premises|Voluntary Surrender|5775 East 39th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+PATIENTS PLUS LLC||403-00140|Optional Premises|Voluntary Surrender|795 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+PATINELLA ENTERPRISES LLC||403R-00484|Retail Marijuana Cultivation Facility|Voluntary Surrender|444 Conestoga Way|Hesperus CO  81326|Hesperus|La Plata|CO|81326|
+PEACE PIPE LLC|PEACE PIPE LLC|402-00267|Center - Type 1|Voluntary Surrender|316 Mt. Evans Blvd, #2|Pine CO  80470|Pine|Park|CO|80470|
+PEACE PIPE LLC|PEACE PIPE LLC|403-00400|Optional Premises|Voluntary Surrender|67337 Hwy 285, Unit 1|Pine CO  80470|Pine|Park|CO|80470|
+PEARL CENTER LLC|PINK HOUSE PEARL|402R-00029|Retail Marijuana Store|Voluntary Surrender|1445 South Pearl Street|Denver CO  80210|Denver|Denver|CO|80210|
+PEARL CENTER LLC|PINK HOUSE PEARL|403R-00034|Retail Marijuana Cultivation Facility|Voluntary Surrender|4925 East 38th Avenue|Denver CO  80207|Denver|Denver|CO|80207|
+PEGASUS FARMS LLC||403R-00979|Retail Marijuana Cultivation Facility|Voluntary Surrender|1760 Pope Valley Ranch Road Lot 3|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+PG GROW II LLC|PURE GREENS|403R-00248|Retail Marijuana Cultivation Facility|Voluntary Surrender|7800 County Road 152|Salida CO  81201|Salida|Chaffee|CO|81201|
+PG GROW II LLC|PURE GREENS|403R-00471|Retail Marijuana Cultivation Facility|Voluntary Surrender|7800 County Road 152|Salida CO  81201|Salida|Chaffee|CO|81201|
+PG GROW II LLC|PURE GREENS|403R-00528|Retail Marijuana Cultivation Facility|Voluntary Surrender|7800 County Road 152|Salida CO  81201|Salida|Chaffee|CO|81201|
+PHILOSOPHIZE LLC|HIGH ROLLERS|403-01866|Optional Premises|Voluntary Surrender|7660 East Jewell Avenue|Denver CO  80231|Denver|Denver|CO|80231|
+PI ORGANICS INC||403R-00531|Retail Marijuana Cultivation Facility|Voluntary Surrender|77 North Laser Drive, Suites I-1,l-2|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+PIKES PEAK ALTERNATIVE HEALTH & WELLNESS CENTER INC.|THE 710 CLUB|402-00531|Center - Type 1|Voluntary Surrender|1605 South Tejon Street, Suite 101|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+PIKES PEAK ALTERNATIVE HEALTH & WELLNESS CENTER INC.|THE 710 CLUB|403-00782|Optional Premises|Voluntary Surrender|1605 South Tejon Street, Suite 101|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+PIKES PEAK ALTERNATIVE HEALTH & WELLNESS CENTER INC.|The 710 Club|404-00209|Infused Product Manufacturer|Voluntary Surrender|1605 South Tejon Street, Suite 101|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+PIKES PEAK CANNABIS CAREGIVERS LLC|PIKES PEAK CANNABIS CAREGIVERS LLC|403-00173|Optional Premises|Voluntary Surrender|4919 N. Broadway, #23 & 53|Boulder CO  80304|Boulder|Boulder|CO|80304|
+PIKES PEAK CANNABIS CAREGIVERS LLC||403-01328|Optional Premises|Voluntary Surrender|4747 Pearl Street Unit M2|Boulder CO  80301|Boulder|Boulder|CO|80301|
+PLATTE VALLEY DISPENSARY LLC|BUDS ON FEDERAL|403-00414|Optional Premises|Voluntary Surrender|794 East 51st Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+PLATTE VALLEY DISPENSARY LLC||403-00873|Optional Premises|Voluntary Surrender|2323 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+PLATTE VALLEY DISPENSARY LLC|PLATTE VALLEY DISPENSARY LLC|403-00876|Optional Premises|Voluntary Surrender|2301 B 7th Street|Denver CO  80211|Denver|Denver|CO|80211|
+PM ET AL LLC||404R-00232|Retail Marijuana Products Mfg|Voluntary Surrender|1667 Butterfield Road|Hartsel CO  80449|Hartsel|Park|CO|80449|
+PM ET AL LLC||403R-00747|Retail Marijuana Cultivation Facility|Voluntary Surrender|1667 Butterfield Road|Hartsel CO  80449|Hartsel|Park|CO|80449|
+POR LA NOCHE LLC|GREENGROWS|407R-00010|RMJ Operator|Voluntary Surrender|215 Lincoln Avenue|Moffat CO  81143|Moffat|Saguache|CO|81143|
+POTCO LLC|POTCO|403-01216|Optional Premises|Voluntary Surrender|11101 East 51st Avenue|Denver CO  80239|Denver|Denver|CO|80239|
+PREMIER ELEVATIONS LLC|PREMIER ELEVATIONS LLC|404R-00233|Retail Marijuana Products Mfg|Voluntary Surrender|462 Laredo Street, Unit D|Aurora CO  80011|Aurora|Arapahoe|CO|80011|
+PUEBLO AGRICULTURE LLC||403R-00524|Retail Marijuana Cultivation Facility|Voluntary Surrender|386 South 29th Lane|Pueblo CO  81006|Pueblo|Pueblo|CO|81006|
+PUEBLO WEST ORGANICS LLC||403-01298|Optional Premises|Voluntary Surrender|56 North Precision Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+PUEBLO WEST ORGANICS LLC||403-01420|Optional Premises|Voluntary Surrender|609 East Enterprise Drive Units 120,130 & 140|Pueblo CO  81007|Pueblo|Pueblo|CO|81007|
+PUFFIN FINE HERBS LLC|PUFFIN FINE HERBS|403R-00399|Retail Marijuana Cultivation Facility|Voluntary Surrender|23 Old Stage Coach Road|Bailey CO  80421|Bailey|Park|CO|80421|
+PURE INDUSTRIES LLC|SOMA WELLNESS LOUNGE|403-00958|Optional Premises|Voluntary Surrender|6655 Lookout Road #107|Boulder CO  80301|Boulder|Boulder|CO|80301|
+PURE INDUSTRIES LLC|SOMA WELLNESS LOUNGE|402-00678|Center - Type 1|Voluntary Surrender|1810 30th Street, Unit C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+PURE INDUSTRIES LLC|SOMA WELLNESS LOUNGE|403-01021|Optional Premises|Voluntary Surrender|2500 47th Street, Unit 2|Boulder CO  80301|Boulder|Boulder|CO|80301|
+QUALITY CHOICE ALTERNATIVE CARE CENTER LLC|QUALITY CHOICE|403-01867|Optional Premises|Voluntary Surrender|39325 Harbour Road|Avondale CO  81022|Avondale|Pueblo|CO|81022|
+RAINDROP LLC||403R-00721|Retail Marijuana Cultivation Facility|Voluntary Surrender|5018 West Graneros Road|Colorado City CO  81019|Colorado City|Pueblo|CO|81019|
+RATON PASS MANAGEMENT LLC|GROWHOUSE TRINIDAD|402R-00506|Retail Marijuana Store|Voluntary Surrender|419 West Main Street|Trinidad CO  81082-2623|Trinidad|Las Animas|CO|810822623|
+RAWRX LLC|RAWRX|404R-00250|Retail Marijuana Products Mfg|Voluntary Surrender|36900 El Moro Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+RAWRX LLC|RAWRX|403R-00791|Retail Marijuana Cultivation Facility|Voluntary Surrender|36900 El Moro Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+RAWRX LLC|RAWRX|404-00562|Infused Product Manufacturer|Voluntary Surrender|36900 El Moro Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+RAWRX LLC|RAWRX|403-01849|Optional Premises|Voluntary Surrender|36900 El Moro Road|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+RECREATIONAL RELEAF DISPENSARY BAR LLC||402R-00420|Retail Marijuana Store|Voluntary Surrender|404 10th Street,  Suite A|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+REVERED INC||403R-00480|Retail Marijuana Cultivation Facility|Voluntary Surrender|3590 Revere Street|Aurora CO  80011|Aurora|Adams|CO|80011|
+RFSC LLC|ROOTS RX|403R-00327|Retail Marijuana Cultivation Facility|Voluntary Surrender|421 Upper Cattle Creek Rd|Carbondale CO  81623-8512|Carbondale|Eagle|CO|816238512|
+RFSC LLC|ROOTSRX|403R-00668|Retail Marijuana Cultivation Facility|Voluntary Surrender|421 Highway 24|Leadville CO  80461|Leadville|Lake|CO|80461|
+RFSCPX LLC|ROOTSRX|402R-00723|Retail Marijuana Store|Voluntary Surrender|12000 Rogers Road|Longmont CO  80501|Longmont|Boulder|CO|80501|
+RIFLE MOUNTAIN LLC|RIFLE MOUNTAIN DISPENSARY INC|402-00606|Center - Type 1|Voluntary Surrender|124 West 3rd Street|Rifle CO  81650|Rifle|Garfield|CO|81650|
+RIFLE MOUNTAIN LLC||403-01123|Optional Premises|Voluntary Surrender|7173 North Foothills Highway #F-2|Boulder CO  80302|Boulder|Boulder|CO|80302|
+RIFLE REMEDIES LLC|GREEN CROSS RIFLE|402-00520|Center - Type 1|Voluntary Surrender|1435 Airport Road|Rifle CO  81650|Rifle|Garfield|CO|81650|
+RIFLE REMEDIES LLC|THE GROW HOUSE|403-00763|Optional Premises|Voluntary Surrender|0208 County Road 227|Rifle CO  81650|Rifle|Garfield|CO|81650|
+RINO SUPPLY CO INC||402R-00558|Retail Marijuana Store|Voluntary Surrender|3100 Blake Street|Denver CO  80205|Denver|Denver|CO|80205|
+RIVERSIDE WELLNESS LLC|RIVERSIDE WELLNESS|402-00072|Center - Type 1|Voluntary Surrender|3722 Chestnut Place|Denver CO  80216|Denver|Denver|CO|80216|
+RIVERSIDE WELLNESS LLC||403-00104|Optional Premises|Voluntary Surrender|3722 Chestnut Place|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ ASPEN LLC|NATIVE ROOTS ASPEN|402-01047|Center - Type 1|Voluntary Surrender|308 South Hunter Street |Aspen CO  81611|Aspen|Pitkin|CO|81611|
+RJJ ASPEN LLC|NATIVE ROOTS ASPEN|403-01642|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ COLORADO SPRINGS LLC|NATIVE ROOTS COLORADO SPRINGS|403-01887|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ COLORADO SPRINGS LLC|NATIVE ROOTS COLORADO SPRINGS|403-01889|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ FRISCO LLC|NATIVE ROOTS FRISCO|403-01888|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ FRISCO LLC|NATIVE ROOTS FRISCO|403-01890|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ LONGMONT LLC|NATIVE ROOTS LONGMONT|403-01891|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ MEL RAY LLC|NATIVE ROOTS GLENWOOD SPRINGS|402R-00658|Retail Marijuana Store|Voluntary Surrender|23 Mel Ray Road|Glenwood Springs CO  81601|Glenwood Springs|Garfield|CO|81601|
+RJJ MORRISON II LLC|NATIVE ROOTS WEST DENVER|402-00658|Center - Type 1|Voluntary Surrender|4000 Morrison Road|Denver CO  80219|Denver|Denver|CO|80219|
+RJJ MORRISON LLC|NATIVE ROOTS BEAR VALLEY|402-01114|Center - Type 1|Voluntary Surrender|3150 South Sheridan, Unit 2|Denver CO  80227|Denver|Denver|CO|80227|
+RJJ MORRISON LLC|NATIVE ROOTS BEAR VALLEY|403-01715|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ MORRISON LLC|WEEDIRECT MORRISON|403-01845|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ MORRISON LLC|WEEDIRECT MORRISON|403-01846|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ MORRISON LLC|WEEDIRECT MORRISON|403-01847|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ MORRISON LLC|WEEDIRECT MORRISON|403-01848|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ MORRISON LLC|NATIVE ROOTS BEAR VALLEY|402R-00593|Retail Marijuana Store|Voluntary Surrender|3150 South Sheridan Boulvard, Unit 2|Denver CO  80227|Denver|Denver|CO|80227|
+RJJ SANTA FE LLC|NATIVE ROOTS SANTA FE|403-01802|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ SANTA FE LLC|NATIVE ROOTS SANTA FE|403-01803|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ SHERIDAN LLC|NATIVE ROOTS LITTLETON|403-01841|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ SHERIDAN LLC|NATIVE ROOTS LITTLETON|403-01842|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ SHERIDAN LLC|NATIVE ROOTS LITTLETON|403-01843|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ SHERIDAN LLC|NATIVE ROOTS LITTLETON|403-01844|Optional Premises|Voluntary Surrender|4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+RJJ TOWER LLC|NATIVE ROOTS DENVER AIRPORT|402R-00598|Retail Marijuana Store|Voluntary Surrender|7050 Tower Road|Denver CO  80249|Denver|Denver|CO|80249|
+RJJ TOWER LLC|NATIVE ROOTS TOWER|402R-00599|Retail Marijuana Store|Voluntary Surrender|1905 Division Street|Denver CO  80202|Denver|Denver|CO|80202|
+RJJ TOWER LLC|NATIVE ROOTS TOWER|402-01206|Center - Type 1|Voluntary Surrender|1905 Division Street|Denver CO  80202|Denver|Denver|CO|80202|
+RK ENTERPRISES LTD|ROCKY MOUNTAIN REMEDIES|403-00116|Optional Premises|Voluntary Surrender|4919 North Broadway #11|Boulder CO  80304|Boulder|Boulder|CO|80304|
+RK ENTERPRISES LTD|ROCKY MOUNTAIN REMEDIES|403-00119|Optional Premises|Voluntary Surrender|4919 North Broadway #8|Boulder CO  80304|Boulder|Boulder|CO|80304|
+RME GROUP LLC|AFFINITY|403-00415|Optional Premises|Voluntary Surrender|4155 Grape Street|Denver CO  80216|Denver|Denver|CO|80216|
+ROCKY MOUNTAIN CANNABIS INC||402-00100|Center - Type 1|Voluntary Surrender|465 Valley Road|Canon City CO  81212|Canon City|Fremont|CO|81212|
+ROCKY MOUNTAIN CANNABIS INC||403-00145|Optional Premises|Voluntary Surrender|465 Valley Road |Canon City CO  81212|Canon City|Fremont|CO|81212|
+ROCKY MOUNTAIN CAREGIVERS INC|THE GREEN SOLUTION|403-01283|Optional Premises|Voluntary Surrender|4394 Grape Street|Denver CO  80216|Denver|Denver|CO|80216|
+ROCKY MOUNTAIN CAREGIVERS INC||403-01389|Optional Premises|Voluntary Surrender|2600 West Barberry Place|Denver CO  80219|Denver|Denver|CO|80219|
+ROCKY MOUNTAIN FARMACY INC|THE SHELTER|403-01430|Optional Premises|Voluntary Surrender|890 7th Street|Penrose CO  81240|Penrose|Fremont|CO|81240|
+ROCKY MOUNTAIN FARMACY INC|THE RETREAT|403-01431|Optional Premises|Voluntary Surrender|890 7th Street|Penrose CO  81240|Penrose|Fremont|CO|81240|
+ROCKY MOUNTAIN GREEN INC||404R-00212|Retail Marijuana Products Mfg|Voluntary Surrender|3386 Longhorn Road|Boulder CO  80302|Boulder|Boulder|CO|80302|
+ROCKY MOUNTAIN HIGH KITCHEN LLC||403-00113|Optional Premises|Voluntary Surrender|209 Nancy Crawford Boulevard|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+ROCKY MOUNTAIN MIRACLES LLC|ROCKY MOUNTAIN MIRACLES LLC|404-00358|Infused Product Manufacturer|Voluntary Surrender|2312 E Bijou Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+ROCKY MOUNTAIN WAYS LLC|GOOD MEDS LAKEWOOD|404-00372|Infused Product Manufacturer|Voluntary Surrender|866 Navajo Street|Denver CO  80223|Denver|Denver|CO|80223|
+ROCKY ROAD REMEDIES LLC|ROCKY ROAD REFINARY|404R-00064|Retail Marijuana Products Mfg|Voluntary Surrender|2648 McCormick Avenue|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+ROCKY ROAD REMEDIES LLC|ROCKY ROAD REFINERY|403R-00299|Retail Marijuana Cultivation Facility|Voluntary Surrender|2656 McCormick Avenue|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+SAN LUIS ORGANICS LLC|PRIMO|403R-00649|Retail Marijuana Cultivation Facility|Voluntary Surrender|33620 County Road 58EE|Villa Grove CO  81155|Villa Grove|Saguache|CO|81155|
+SENSE OF HEALING LLC|MED GRASS|403-00649|Optional Premises|Voluntary Surrender|1344 West Cedar Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+SENSE OF HEALING LLC||402R-00089|Retail Marijuana Store|Voluntary Surrender|1005 Federal Boulevard|Denver CO  80204|Denver|Denver|CO|80204|
+SENSE OF HEALING LLC||403R-00114|Retail Marijuana Cultivation Facility|Voluntary Surrender|1344 West Cedar Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+SERENE WELLNESS FRASER LLC||402-00828|Center - Type 1|Voluntary Surrender|228 Byers Avenue|Fraser CO  80442|Fraser|Grand|CO|80442|
+SERENE WELLNESS FRASER LLC||403-01266|Optional Premises|Voluntary Surrender|13 East Park Avenue|Empire CO  80438|Empire|Clear Creek|CO|80438|
+SERENE WELLNESS LLC||402-00215|Center - Type 1|Voluntary Surrender|13 East Park Avenue|Empire CO  80438|Empire|Clear Creek|CO|80438|
+SERENE WELLNESS LLC||403-00315|Optional Premises|Voluntary Surrender|13 East Park Avenue|Empire CO  80438|Empire|Clear Creek|CO|80438|
+SERENE WELLNESS LLC||403R-00082|Retail Marijuana Cultivation Facility|Voluntary Surrender|433 East Park Avenue|Empire CO  80438|Empire|Clear Creek|CO|80438|
+SERENE WELLNESS MEDICAL LLC||402-00990|Center - Type 1|Voluntary Surrender|433 East Park Avenue|Empire CO  80438|Empire|Clear Creek|CO|80438|
+SERENE WELLNESS MEDICAL LLC||403-01561|Optional Premises|Voluntary Surrender|13 East Park Avenue|Empire CO  80438|Empire|Clear Creek|CO|80438|
+SERENITY MOON WELLNESS CENTER LLC|FROSTED LEAF|402-00177|Center - Type 1|Voluntary Surrender|6302 East Colfax Avenue|Denver CO  80220|Denver|Denver|CO|80220|
+SEVEN LEAVES LLC||404R-00273|Retail Marijuana Products Mfg|Voluntary Surrender|413-425 Joe Martinez Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+SHAUN D HADLEY|CRAIG APOTHECARY|403-00831|Optional Premises|Voluntary Surrender|240 Arthur Avenue, Suite A|Oak Creek CO  80467|Oak Creek|Routt|CO|80467|
+SHINING MOUNTAIN LLC|SHINING MOUNTAIN LLC|404R-00132|Retail Marijuana Products Mfg|Voluntary Surrender|5636 County Road 23|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+SHINING MOUNTAIN LLC||404-00459|Infused Product Manufacturer|Voluntary Surrender|5636 County Road 23|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+SIMPLY PURE EDIBLES COLORADO LLC|Colorado Apothecary & Wellness Center, Inc.|402-00372|Center - Type 1|Voluntary Surrender|2160 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+SIPES MOUNTAIN TRADERS LLC|NATURES SPIRIT|402-00144|Center - Type 1|Voluntary Surrender|113 East 7th Street|Leadville CO  80461|Leadville|Lake|CO|80461|
+SIPES MOUNTAIN TRADERS LLC|NATURES SPIRIT|403-00209|Optional Premises|Voluntary Surrender|11976 SOUTH HWY 24|Leadville CO  80461|Leadville|Lake|CO|80461|
+SKINNY PINEAPPLE INC|THE FARM|403-00135|Optional Premises|Voluntary Surrender|3095 Sterling Circle, Unit 3|Boulder CO  80302|Boulder|Boulder|CO|80302|
+SKINNY PINEAPPLE INC|THE FARM|402-00357|Center - Type 3|Voluntary Surrender|2801 Iris Avenue|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|THE FARM|403-00535|Optional Premises|Voluntary Surrender|4725 S. Nautilus Court, Unit 3|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|THE FARM|403-00536|Optional Premises|Voluntary Surrender|5441 Western Ave, Suite 2|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|THE FARM|403-00961|Optional Premises|Voluntary Surrender|3065 West Sterling Circle, Unit C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|SKINNY PINEAPPLE INC|403-01324|Optional Premises|Voluntary Surrender|1265 Rock Creek Circle, Unit A|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+SKINNY PINEAPPLE INC|THE FARM|403-01325|Optional Premises|Voluntary Surrender|1265 Rock Creek Circle, Unit B|Lafayette CO  80026|Lafayette|Boulder|CO|80026|
+SKINNY PINEAPPLE INC|THE FARM|403R-00270|Retail Marijuana Cultivation Facility|Voluntary Surrender|5441 Western Avenue Suite #2|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|THE FARM|403R-00271|Retail Marijuana Cultivation Facility|Voluntary Surrender|4725 South Nautilus Court Suite #3|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|THE FARM|403R-00272|Retail Marijuana Cultivation Facility|Voluntary Surrender|3095 West Sterling Circle, Unit #3,|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKINNY PINEAPPLE INC|THE FARM|403R-00273|Retail Marijuana Cultivation Facility|Voluntary Surrender|3065 West Sterling Circle, Unit #C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+SKY UNLIMITED LLC|SKY UNLIMITED LLC|403R-00518|Retail Marijuana Cultivation Facility|Voluntary Surrender|59 North Fabrication Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+SKY UNLIMITED LLC||403R-00985|Retail Marijuana Cultivation Facility|Voluntary Surrender|9001 Highway 96 West|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+SL ALCHEMY LLC|SWEET LEAF|404R-00169|Retail Marijuana Products Mfg|Voluntary Surrender|12001 East 33rd Avenue, Unit K|Aurora CO  80010|Aurora|Adams|CO|80010|
+SMART INNOVATIVE SOLUTIONS LLC||403R-00849|Retail Marijuana Cultivation Facility|Voluntary Surrender|39475 Highway 24|Lake George CO  80827|Lake George|Park|CO|80827|
+SMOKED COLORADO INC||404-00512|Infused Product Manufacturer|Voluntary Surrender|1986 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+SMOKED COLORADO INC|MIGHTY TREE|403-01754|Optional Premises|Voluntary Surrender|1994 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+SOFA KING MEDICINAL WELLNESS PRODUCTS LLC|SKM|402R-00748|Retail Marijuana Store|Voluntary Surrender|1181 County Road 308|Dumont CO  80436|Dumont|Clear Creek|CO|80436|
+SOLACE MEDS LLC|SOLACE MEDS LLC|403-01297|Optional Premises|Voluntary Surrender|301 Smokey Street, Unit B|Fort Collins CO  80525|Fort Collins|Larimer|CO|80525|
+SOPRIS VERDE LLC|SOPRIS VERDE|403R-00770|Retail Marijuana Cultivation Facility|Voluntary Surrender|5353 West Sopris Creek Road|Basalt CO  81621|Basalt|Pitkin|CO|81621|
+SOUTHWEST ALTERNATIVE CARE LLC||403-01001|Optional Premises|Voluntary Surrender|6390 Gunpark Drive, Unit A|Boulder CO  80301|Boulder|Boulder|CO|80301|
+ST VRAIN INDUSTRIES LLC||403R-00532|Retail Marijuana Cultivation Facility|Voluntary Surrender|1040 5th Avenue|Lyons CO  80540|Lyons|Boulder|CO|80540|
+STARBUDS NIWOT LLC|STARBUDS|402R-00594|Retail Marijuana Store|Voluntary Surrender|6924 North 79th Street|Niwot CO  80503|Niwot|Boulder|CO|80503|
+STAYCON LLC|Craft|404-00417|Infused Product Manufacturer|Voluntary Surrender|688 Bryant Street, Suite 105|Denver CO  80204|Denver|Denver|CO|80204|
+STEEL CITY DEVELOPMENT LLC|PLATINUM ORGANICS|404R-00144|Retail Marijuana Products Mfg|Voluntary Surrender|77 North Magento Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+STEEL CITY SUPPLY LLC||403R-00785|Retail Marijuana Cultivation Facility|Voluntary Surrender|4391 Little Burnt Mill Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+STONE T.M.C. LLC|THE STONE DISPENSARY|402R-00036|Retail Marijuana Store|Voluntary Surrender|4820 Morrison Road|Denver CO  80219|Denver|Denver|CO|80219|
+STONE T.M.C. LLC|THE STONE DISPENSARY|403R-00042|Retail Marijuana Cultivation Facility|Voluntary Surrender|4820 Morrison Road|Denver CO  80219|Denver|Denver|CO|80219|
+STRYKER INDUSTRY LLC|PARAGON|404-00588|Infused Product Manufacturer|Voluntary Surrender|12011 County Road 45|Center CO  81125|Center|Saguache|CO|81125|
+STRYKER INDUSTRY LLC|PARAGON|403-01876|Optional Premises|Voluntary Surrender|12011 County Road 45|Center CO  81149|Center|Saguache|CO|81149|
+STRYKER INDUSTRY LLC|PARAGON|403R-00904|Retail Marijuana Cultivation Facility|Voluntary Surrender|12011 County Road 45|Center CO  81125|Center|Saguache|CO|81125|
+STRYKER INDUSTRY LLC|PARAGON |404R-00324|Retail Marijuana Products Mfg|Voluntary Surrender|12011 County Road 45|Center CO  81125|Center|Saguache|CO|81125|
+SUMMIT WELLNESS LLC|SUMMIT WELLNESS|402-00042|Center - Type 1|Voluntary Surrender|2117 Larimer Street, #1|Denver CO  80205|Denver|Denver|CO|80205|
+SUMMIT WELLNESS LLC|SUMMIT WELLNESS|403-00057|Optional Premises|Voluntary Surrender|2211 South Jason Street|Denver CO  80223|Denver|Denver|CO|80223|
+SUNNYSIDE ALTERNATIVE MEDICINE LLC|SUNNYSIDE ALTERNATIVE MEDICINE LLC|402-00010|Center - Type 1|Voluntary Surrender|1406 W 38TH AVE|Denver CO  80211|Denver|Denver|CO|80211|
+SUNSTRAIN LLC||404R-00167|Retail Marijuana Products Mfg|Voluntary Surrender|8380 West Highway 96|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+SWEET LEAF LLC|SWEET LEAF|403-00377|Optional Premises|Voluntary Surrender|110 Yuma Street, Unit 4|Denver CO  80223-1200|Denver|Denver|CO|802231200|
+SWEET LEAF LLC|SWEET LEAF |404-00353|Infused Product Manufacturer|Voluntary Surrender|136 Yuma Street|Denver CO  80223|Denver|Denver|CO|80223|
+SWEET LEAF PRODUCTIONS LLC|7SACRED|404-00412|Infused Product Manufacturer|Voluntary Surrender|900 Aurum Street|Ophir CO  81426|Ophir|San Miguel|CO|81426|
+SWEET LEAF PRODUCTIONS LLC|7SACRED|404R-00152|Retail Marijuana Products Mfg|Voluntary Surrender|900 Aurum Street|Ophir CO  81426|Ophir|San Miguel|CO|81426|
+SWISS MEDICAL INDUSTRIES LLC||402-00772|Center - Type 1|Voluntary Surrender|6859 North Foothills Hwy, Bldg C, Suite A|Boulder CO  80302|Boulder|Boulder|CO|80302|
+SWISS MEDICAL INDUSTRIES LLC||403-01174|Optional Premises|Voluntary Surrender|6859 North Foothills Hwy, Bldg C, Suite A|Boulder CO  80302|Boulder|Boulder|CO|80302|
+SWISS MEDICAL INDUSTRIES LLC||404-00294|Infused Product Manufacturer|Voluntary Surrender|6859 North Foothills Hwy, Bldg C, Suite A|Boulder CO  80302|Boulder|Boulder|CO|80302|
+T.P. MAIN STREET LLC|TRINIDAD LEAF|402-00948|Center - Type 1|Voluntary Surrender|821 East Main Street|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+T.P. MAIN STREET LLC|TRINIDAD LEAF|403-01494|Optional Premises|Voluntary Surrender|16018 Manilla Lane|Boncarbo CO  81024|Boncarbo|Las Animas|CO|81024|
+TAYLOR HOLDINGS AND CAPITAL LTD||403R-00903|Retail Marijuana Cultivation Facility|Voluntary Surrender|215 Lincoln Avenue|Moffat CO  81143|Moffat|Saguache|CO|81143|
+TDM LLC|TREES|402-01082|Center - Type 1|Voluntary Surrender|5005 South Federal Boulevard|Englewood CO  80110|Englewood|Arapahoe|CO|80110|
+TDM LLC|TREES|403-01877|Optional Premises|Voluntary Surrender|4140 North York Street, Suite 130|Denver CO  80216|Denver|Denver|CO|80216|
+TELLURIDE GREEN ROOM LLC|TELLURIDE GREEN ROOM|403-00709|Optional Premises|Voluntary Surrender|711E South Park Road Units E & F|Telluride CO  81435|Telluride|San Miguel|CO|81435|
+TEMUJIN CAPITAL LTD||403R-00496|Retail Marijuana Cultivation Facility|Voluntary Surrender|1115 Siloam Road|Pueblo CO  81005|Pueblo|Pueblo|CO|81005|
+THCULTIVATION LLC|THCULTIVATION|403R-00494|Retail Marijuana Cultivation Facility|Voluntary Surrender|5492 County Road 23|Ridgway CO  81432|Ridgway|Ouray|CO|81432|
+THE ACCEPTUS GROUP LLC|THE COLORADO GROW COMPANY|402-00300|Center - Type 1|Voluntary Surrender|555 Rivergate Lane, Suite B2-135|Durango CO  81301|Durango|La Plata|CO|81301|
+THE ACCEPTUS GROUP LLC||403-00448|Optional Premises|Voluntary Surrender|83 Davidson Creek Rd, Unit A|Durango CO  81301|Durango|La Plata|CO|81301|
+THE DANDELION|THE DANDELION LLC|403-00285|Optional Premises|Voluntary Surrender|6880 Winchester Circle, Unit C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+THE DANDELION|THE DANDELION LLC|403R-00479|Retail Marijuana Cultivation Facility|Voluntary Surrender| 4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE DANDELION|THE DANDELION LLC|403R-00633|Retail Marijuana Cultivation Facility|Voluntary Surrender| 4990 Dahlia Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE DANDELION LLC|THE DANDELION|403-00037|Optional Premises|Voluntary Surrender|4727 North Broadway, Unit C|Boulder CO  80304|Boulder|Boulder|CO|80304|
+THE EPIC REMEDY LLC|THE REFINERY|403-01305|Optional Premises|Voluntary Surrender|2280  East Bijou Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+THE EPIC REMEDY LLC|THE ER|403-01711|Optional Premises|Voluntary Surrender|2280 East Bijou Street|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+THE EPIC REMEDY LLC||404-00545|Infused Product Manufacturer|Voluntary Surrender|2585 Weston Road|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+THE GENETIC LOCKER INC|TERRAPIN CARE STATION|403-01281|Optional Premises|Voluntary Surrender|5140 Clarkson Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GENETIC LOCKER INC|TERRAPIN CARE STATION|402-00846|Center - Type 2|Voluntary Surrender|1795 Folsom Street|Boulder CO  80302|Boulder|Boulder|CO|80302|
+THE GENETIC LOCKER INC|TERRAPIN CARE STATION|403-01302|Optional Premises|Voluntary Surrender|6420 Gunpark Drive, Unit C|Boulder CO  80301|Boulder|Boulder|CO|80301|
+THE GENETIC LOCKER INC|TERRAPIN CARE STATION|402-00447|Center - Type 1|Voluntary Surrender|1 Broadway, Unit A-150|Denver CO  80203|Denver|Denver|CO|80203|
+THE GREEN SCIENCE DISPENSARY INC||402-01220|Center - Type 1|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+THE GREEN SCIENCE DISPENSARY INC||403-01865|Optional Premises|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+THE GREEN SCIENCE DISPENSARY INC||403R-00854|Retail Marijuana Cultivation Facility|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+THE GREEN SCIENCE DISPENSARY INC||402R-00610|Retail Marijuana Store|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+THE GREEN SOLUTION LLC||402-00127|Center - Type 3|Voluntary Surrender|470 Malley Drive|Northglenn CO  80233|Northglenn|Adams|CO|80233|
+THE GREEN SOLUTION LLC||403-00179|Optional Premises|Voluntary Surrender|2600 West Barberry Place|Denver CO  80204|Denver|Denver|CO|80204|
+THE GREEN SOLUTION LLC||402-00143|Center - Type 3|Voluntary Surrender|2601 West Alameda Avenue|Denver CO  80219|Denver|Denver|CO|80219|
+THE GREEN SOLUTION LLC||403-00653|Optional Premises|Voluntary Surrender|2600 West Barberry Place|Denver CO  80204|Denver|Denver|CO|80204|
+THE GREEN SOLUTION LLC||402-00835|Center - Type 3|Voluntary Surrender|4400 Grape Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||403-01284|Optional Premises|Voluntary Surrender|5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||403-01292|Optional Premises|Voluntary Surrender|810 North College Avenue|Fort Collins CO  80524|Fort Collins|Larimer|CO|80524|
+THE GREEN SOLUTION LLC||403-01382|Optional Premises|Voluntary Surrender|5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||403-01383|Optional Premises|Voluntary Surrender|5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||403-01386|Optional Premises|Voluntary Surrender|5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||403-01387|Optional Premises|Voluntary Surrender|2600 W. Barberry Place|Denver CO  80219|Denver|Denver|CO|80219|
+THE GREEN SOLUTION LLC||403R-00016|Retail Marijuana Cultivation Facility|Voluntary Surrender| 5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||403R-00017|Retail Marijuana Cultivation Facility|Voluntary Surrender|106 South Mill Street |Aspen CO  81611|Aspen|Pitkin|CO|81611|
+THE GREEN SOLUTION LLC||403R-00019|Retail Marijuana Cultivation Facility|Voluntary Surrender|5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||402-00964|Center - Type 1|Voluntary Surrender|645 Water St|Silver Plume CO  80476|Silver Plume|Clear Creek|CO|80476|
+THE GREEN SOLUTION LLC||402-00965|Center - Type 1|Voluntary Surrender|6020 W 20th Ave|Edgewater CO  80214|Edgewater|Jefferson|CO|80214|
+THE GREEN SOLUTION LLC||403-01544|Optional Premises|Voluntary Surrender|5305 Steele Street|Denver CO  80216|Denver|Denver|CO|80216|
+THE GREEN SOLUTION LLC||402-01191|Center - Type 1|Voluntary Surrender|1995 Wewatta Street|Denver CO  80202|Denver|Denver|CO|80202|
+THE GREEN SOLUTION LLC||402R-00629|Retail Marijuana Store|Voluntary Surrender|9651 Welby Road|Thornton CO  80229|Thornton|Adams|CO|80229|
+THE GREEN SOLUTION LLC||402R-00630|Retail Marijuana Store|Voluntary Surrender|9162 Huron Street|Denver CO  80260|Denver|Adams|CO|80260|
+THE GROW FOUNDRY INC|CODA SIGNATURE|403R-00514|Retail Marijuana Cultivation Facility|Voluntary Surrender|1105 Constitution Drive|Trinidad CO  81082|Trinidad|Las Animas|CO|81082|
+THE GROWING KITCHEN LLC|THE GROWING KITCHEN|404-00107|Infused Product Manufacturer|Voluntary Surrender|8401 Baseline Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE GROWING KITCHEN LLC|THE GROWING KITCHEN|403-00398|Optional Premises|Voluntary Surrender|8401 Baseline Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE GROWING KITCHEN LLC|THE GROWING KITCHEN|404R-00037|Retail Marijuana Products Mfg|Voluntary Surrender|8401 Baseline Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE GROWING KITCHEN LLC|THE GROWING KITCHEN|403R-00222|Retail Marijuana Cultivation Facility|Voluntary Surrender|8401 Baseline Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE GROWING KITCHEN LLC|THE GROWING KITCHEN|402R-00532|Retail Marijuana Store|Voluntary Surrender|8401 Baseline Road|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE HEALING CENTER OF COLORADO LLC|THE HEALING CENTER OF COLORADO LLC|402R-00172|Retail Marijuana Store|Voluntary Surrender|1452 Poplar Street|Denver CO  80220|Denver|Denver|CO|80220|
+THE HEALING CENTER OF COLORADO LLC|THE HEALING CENTER OF COLORADO LLC|403R-00226|Retail Marijuana Cultivation Facility|Voluntary Surrender|1452 Poplar Street|Denver CO  80220|Denver|Denver|CO|80220|
+THE HEALING LEAF LLC|GLOBEVILLE MEDS|403-01307|Optional Premises|Voluntary Surrender|5757 Arapahoe Avenue|Boulder CO  80303|Boulder|Boulder|CO|80303|
+THE HERBAL CENTER LLC||402-00023|Center - Type 2|Voluntary Surrender|1909 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+THE HERBAL CENTER LLC||403-00025|Optional Premises|Voluntary Surrender|1909 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+THE HERBAL CENTER LLC||403-00026|Optional Premises|Voluntary Surrender|1346 West Cedar Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+THE HERBAL CENTER LLC||403-00027|Optional Premises|Voluntary Surrender|1994 South Cherokee Street|Denver CO  80210|Denver|Denver|CO|80210|
+THE HERBAL CENTER LLC||403-00028|Optional Premises|Voluntary Surrender|3825 Grape Street|Denver CO  80207|Denver|Denver|CO|80207|
+THE HERBAL CENTER LLC||402R-00097|Retail Marijuana Store|Voluntary Surrender|1909 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+THE HERBAL CENTER LLC||403R-00125|Retail Marijuana Cultivation Facility|Voluntary Surrender|1909 South Broadway|Denver CO  80210|Denver|Denver|CO|80210|
+THE HERBAL CENTER LLC||403R-00126|Retail Marijuana Cultivation Facility|Voluntary Surrender|1346 West Cedar Avenue|Denver CO  80223|Denver|Denver|CO|80223|
+THE HERBAL CENTER LLC||403R-00127|Retail Marijuana Cultivation Facility|Voluntary Surrender|1994 South Cherokee Street|Denver CO  80210|Denver|Denver|CO|80210|
+THE HERBAL CENTER LLC||403R-00128|Retail Marijuana Cultivation Facility|Voluntary Surrender|3825 Grape Street|Denver CO  80207|Denver|Denver|CO|80207|
+THE HIGH COUNTRY CANNABIS COMPANY LLC||402R-00265|Retail Marijuana Store|Voluntary Surrender|54530 Highway 9|Alma CO  80420|Alma|Park|CO|80420|
+THE HIGH COUNTRY CANNABIS COMPANY LLC||403R-00348|Retail Marijuana Cultivation Facility|Voluntary Surrender|54530 Highway 9|Alma CO  80420|Alma|Park|CO|80420|
+THE KINE MINE LLC||402-00189|Center - Type 1|Voluntary Surrender|2818 Colorado Boulevard|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+THE KINE MINE LLC|THE KINE MINE LLC|403-00279|Optional Premises|Voluntary Surrender|2058 CO. RD.314|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+THE KINE MINE LLC||403-00280|Optional Premises|Voluntary Surrender|2820 Colorado Boulevard|Idaho Springs CO  80452|Idaho Springs|Clear Creek|CO|80452|
+THE MEDICINE MAN LLC|THE MEDICINE MAN LLC|403R-00444|Retail Marijuana Cultivation Facility|Voluntary Surrender|2301 South Broadway|Cortez CO  81321|Cortez|Montezuma|CO|81321|
+THE ORGANIC SEED LLC|CANNASSEUR|402-00928|Center - Type 1|Voluntary Surrender|41 North Precision Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+THE POT SHOP LLC|THE POT SHOP LLC|402R-00254|Retail Marijuana Store|Voluntary Surrender|71440 U.S. Highway 50|Sargents CO  81248|Sargents|Saguache|CO|81248|
+THE POT SHOP LLC||403R-00337|Retail Marijuana Cultivation Facility|Voluntary Surrender|67085 US Highway 50|Gunnison CO  81230-8729|Gunnison|Saguache|CO|812308729|
+THE POT SHOP LLC|THE POT SHOP LLC|402R-00566|Retail Marijuana Store|Voluntary Surrender|905 North Main Street, Suite B|Gunnison CO  81230|Gunnison|Gunnison|CO|81230|
+THE RECEIVER GROUP LLC||407-00003|MMJ Operator|Voluntary Surrender|640 South Garfield Street|Denver CO  80209|Denver|Denver|CO|80209|
+THE RECEIVER GROUP LLC||407R-00005|RMJ Operator|Voluntary Surrender|640 South Garfield Street|Denver CO  80209|Denver|Denver|CO|80209|
+THE RELEAF CENTER LLC||402-00594|Center - Type 1|Voluntary Surrender|2000 W 32ND AVE|Denver CO  80211|Denver|Denver|CO|80211|
+THE RELEAF CENTER LLC||403-00888|Optional Premises|Voluntary Surrender|2000 West 32nd Avenue|Denver CO  80221|Denver|Adams|CO|80221|
+THE RELEAF CENTER LLC||403-00889|Optional Premises|Voluntary Surrender|7450 East Jewell Avenue, Suite F|Denver CO  80231|Denver|Denver|CO|80231|
+TMED LLC|THE GRASS STATION|402-00879|Center - Type 1|Voluntary Surrender|7200 East Smith Road|Denver CO  80207|Denver|Denver|CO|80207|
+TMED LLC|THE GRASS STATION|403-01376|Optional Premises|Voluntary Surrender|7200 East Smith Road |Denver CO  80207|Denver|Denver|CO|80207|
+TMED LLC||403-01419|Optional Premises|Voluntary Surrender|890 7th Street|Penrose CO  81240|Penrose|Fremont|CO|81240|
+TNT FARMS LLC||403R-00547|Retail Marijuana Cultivation Facility|Voluntary Surrender|96 North Precision Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TNT FARMS LLC||404R-00143|Retail Marijuana Products Mfg|Voluntary Surrender|96 North Precision Drive|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TODAYS HEALTH CARE LLC||402-00914|Center - Type 1|Voluntary Surrender|286 South Purcell Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TODAYS HEALTH CARE LLC||403-01442|Optional Premises|Voluntary Surrender|286 South Purcell Boulevard|Pueblo West CO  81007|Pueblo West|Pueblo|CO|81007|
+TONKA CONSTRUCTION LLC|TONKA CONSTRUCTION LLC|403R-00381|Retail Marijuana Cultivation Facility|Voluntary Surrender|3030 Galahad Way|Hartsel CO  80449|Hartsel|Park|CO|80449|
+TOTAL CONTROL LLC|ABSOLUTE TERPS|404-00381|Infused Product Manufacturer|Voluntary Surrender|959 East Fillmore Street|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+TOTAL HEALTH CONCEPTS LLC|TOTAL HEALTH CONCEPTS LLC|402-00200|Center - Type 1|Voluntary Surrender|502 S WEBER ST.|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+TOTAL HEALTH CONCEPTS LLC||403-00292|Optional Premises|Voluntary Surrender|3103 KAREN PLACE SUITE 100|Colorado Springs CO  80907|Colorado Springs|El Paso|CO|80907|
+TREATMENTS UNLIMITED LLC|ALTITUDE THE DISPENSARY|403-01500|Optional Premises|Voluntary Surrender|3895 East 45th Avenue|Denver CO  80216|Denver|Denver|CO|80216|
+TREATMENTS UNLIMITED LLC|ALTITUDE EAST|403-01547|Optional Premises|Voluntary Surrender|2252 South Kalamath Street, Unit A|Denver CO  80223|Denver|Denver|CO|80223|
+TREE LINE PREMIER NEDERLAND LLC|TREE LINE PREMIER|403-01187|Optional Premises|Voluntary Surrender|150 N Jefferson|Nederland CO  80466|Nederland|Boulder|CO|80466|
+TREE LINE PREMIER NEDERLAND LLC|NEDICATE|402-00784|Center - Type 1|Voluntary Surrender|150 North Jefferson St, Suite B3|Nederland CO  80466|Nederland|Boulder|CO|80466|
+TREE LINE PREMIER NEDERLAND LLC|NEDICATE|403-01189|Optional Premises|Voluntary Surrender|150 North Jefferson, Suite B7|Nederland CO  80466|Nederland|Boulder|CO|80466|
+TRICHOME HEALTH CONSULTANTS|TRICHOME HEALTH CONSULTANTS|403-00342|Optional Premises|Voluntary Surrender|135 East Brookside|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+TRICHOME HEALTH CONSULTANTS|TRICHOME HEALTH CONSULTANTS|403-00343|Optional Premises|Voluntary Surrender|131 E BROOKSIDE|Colorado Springs CO  80905|Colorado Springs|El Paso|CO|80905|
+TRICHOME HEALTH CONSULTANTS|TRICHOME HEALTH CONSULTANTS|403-00345|Optional Premises|Voluntary Surrender|3515 E. St. Vrain Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+TRICHOME HEALTH CONSULTANTS INC|TRICHOME HEALTH CONSULTANTS|403-00347|Optional Premises|Voluntary Surrender|2117 West Colorado Avenue|Colorado Springs CO  80904|Colorado Springs|El Paso|CO|80904|
+TRILL THERAPEUTICS LLC|TRILL ALTERNATIVES|403-00645|Optional Premises|Voluntary Surrender|5589 Arapahoe Aveune, Unit 101|Boulder CO  80302|Boulder|Boulder|CO|80302|
+UISC LLC||404R-00241|Retail Marijuana Products Mfg|Voluntary Surrender|5303 Vasquez Boulevard unit 102|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+UISC LLC||403R-00768|Retail Marijuana Cultivation Facility|Voluntary Surrender|5303 Vasquez Boulevard unit 102|Commerce City CO  80022|Commerce City|Adams|CO|80022|
+UNIQUEITMINDS INC|CHRONORADO MEDICAL|403-00487|Optional Premises|Voluntary Surrender|400 South Lipan Street, Units 3 & 7|Denver CO  80223|Denver|Denver|CO|80223|
+UNIQUEITMINDS INC|CCO1 CONSULTING|403-00923|Optional Premises|Voluntary Surrender|400 South Lipan Street, #19|Denver CO  80223|Denver|Denver|CO|80223|
+URBAN CANNABIS LLC||403-00533|Optional Premises|Voluntary Surrender|2480 49th Street, Suite F2|Boulder CO  80303|Boulder|Boulder|CO|80303|
+VERY BEST MEDICINE LLC||402-00611|Center - Type 1|Voluntary Surrender|6853 Leetsdale Drive|Denver CO  80224|Denver|Denver|CO|80224|
+VERY BEST MEDICINE LLC||403-00908|Optional Premises|Voluntary Surrender|2130 South Lipan Street|Denver CO  80223|Denver|Denver|CO|80223|
+VITA MEDS LLC|PHAT DADDY 2|404-00151|Infused Product Manufacturer|Voluntary Surrender|1397 South Cherokee Street|Denver CO  80223|Denver|Denver|CO|80223|
+WAHATOYA FARMS LLC|WAHATOYA FARMS LLC|403R-00536|Retail Marijuana Cultivation Facility|Voluntary Surrender|25462 West US Highway 160|Walsenburg CO  81089|Walsenburg|Huerfano|CO|81089|
+WALKING RAVEN LLC||403-00441|Optional Premises|Voluntary Surrender|3936 Niagara Street|Denver CO  80207|Denver|Denver|CO|80207|
+WANNA LLC|NORTHERN LIGHTS CANNABIS CO|403-00047|Optional Premises|Voluntary Surrender|1865 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+WANNA LLC|ALAMEDA WELLNESS CENTER|403-00278|Optional Premises|Voluntary Surrender|1865 South Acoma|Denver CO  80223|Denver|Denver|CO|80223|
+WANNA LLC|NORTHERN LIGHTS CANNABIS CO|403R-00131|Retail Marijuana Cultivation Facility|Voluntary Surrender|1865 South Acoma Street|Denver CO  80223|Denver|Denver|CO|80223|
+WASH PARK BOUTIQUE LLC|LUCY SKY DISPENSARY|404-00524|Infused Product Manufacturer|Voluntary Surrender|4525 North Ironton|Denver CO  80239|Denver|Denver|CO|80239|
+WASH PARK BOUTIQUE LLC|LUCY SKY DISPENSARY|403-01772|Optional Premises|Voluntary Surrender|366 North Vallejo Street|Denver CO  80228|Denver|Jefferson|CO|80228|
+WASH PARK BOUTIQUE LLC|LUCY SKY DISPENSARY|403-01825|Optional Premises|Voluntary Surrender|4525 North Ironton Street|Denver CO  80239|Denver|Denver|CO|80239|
+WASH PARK BOUTIQUE LLC|LUCY SKY DISPENSARY|402R-00572|Retail Marijuana Store|Voluntary Surrender|3480 South Galena Street, Unit B4|Denver CO  80231|Denver|Denver|CO|80231|
+WE GROW COLORADO LLC|WE GROW COLORADO LLC|402-00029|Center - Type 1|Voluntary Surrender|2502 E. Bijou Street|Colorado Springs CO  80909|Colorado Springs|El Paso|CO|80909|
+WE GROW COLORADO LLC|WE GROW COLORADO LLC|403-00039|Optional Premises|Voluntary Surrender|2611 Durango Drive|Colorado Springs CO  80910|Colorado Springs|El Paso|CO|80910|
+WELLNESS CENTER OF THE ROCKIES INC||402-01141|Center - Type 1|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80222|Commerce City|Adams|CO|80222|
+WELLNESS CENTER OF THE ROCKIES INC||403-01748|Optional Premises|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80224|Commerce City|Denver|CO|80224|
+WELLNESS CENTER OF THE ROCKIES INC||402R-00539|Retail Marijuana Store|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80222|Commerce City|Adams|CO|80222|
+WELLNESS CENTER OF THE ROCKIES INC||403R-00650|Retail Marijuana Cultivation Facility|Voluntary Surrender|5275 Quebec Street, Suite 105|Commerce City CO  80222|Commerce City|Adams|CO|80222|
+WESTSIDE WELLNESS CENTER LLC|MAGGIES FARM LLC|403R-00293|Retail Marijuana Cultivation Facility|Voluntary Surrender|3900 North 27th Lane|Pueblo CO  81001|Pueblo|Pueblo|CO|81001|
+XENSET LLC|ROCKY MOUNTAIN CANNABIS|402-01196|Center - Type 1|Voluntary Surrender|200 Water Street|Canon City CO  81212|Canon City|Fremont|CO|81212|
+XENSET LLC|ROCKY MOUNTAIN CANNABIS|403-01839|Optional Premises|Voluntary Surrender|200 Water Street|Canon City CO  81212|Canon City|Fremont|CO|81212|
+XG PLATINUM CORPORATION||402-00564|Center - Type 1|Voluntary Surrender|2506 6th Avenue|Garden City CO  80631|Garden City|Weld|CO|80631|
+XG PLATINUM CORPORATION||403-00837|Optional Premises|Voluntary Surrender|422 26th Street|Garden City CO  80631|Garden City|Weld|CO|80631|
+XG PLATINUM CORPORATION||403-00838|Optional Premises|Voluntary Surrender|525 Bryant Street|Denver CO  80204|Denver|Denver|CO|80204|

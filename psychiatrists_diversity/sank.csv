@@ -1,0 +1,49 @@
+race,variable,value
+American Indian/Alaska Native,psychiatry,31.0
+Asian,psychiatry,1640.0
+Black/African American,psychiatry,555.0
+Hispanic_ Latino_/of Spanish Origin,psychiatry,437.0
+Native Hawaiian/Other Pacific Islander,psychiatry,10.0
+White,psychiatry,1752.0
+Other Race/Ethnicity,psychiatry,217.0
+Unknown Race/Ethnicity,psychiatry,308.0
+American Indian/Alaska Native,orthopaedic,15.0
+Asian,orthopaedic,198.0
+Black/African American,orthopaedic,83.0
+Hispanic_ Latino_/of Spanish Origin,orthopaedic,107.0
+Native Hawaiian/Other Pacific Islander,orthopaedic,2.0
+White,orthopaedic,863.0
+Other Race/Ethnicity,orthopaedic,39.0
+Unknown Race/Ethnicity,orthopaedic,105.0
+American Indian/Alaska Native,urology,2.0
+Asian,urology,93.0
+Black/African American,urology,20.0
+Hispanic_ Latino_/of Spanish Origin,urology,35.0
+Native Hawaiian/Other Pacific Islander,urology,1.0
+White,urology,258.0
+Other Race/Ethnicity,urology,15.0
+Unknown Race/Ethnicity,urology,31.0
+American Indian/Alaska Native,pediatrics,19.0
+Asian,pediatrics,1500.0
+Black/African American,pediatrics,540.0
+Hispanic_ Latino_/of Spanish Origin,pediatrics,512.0
+Native Hawaiian/Other Pacific Islander,pediatrics,16.0
+White,pediatrics,2479.0
+Other Race/Ethnicity,pediatrics,199.0
+Unknown Race/Ethnicity,pediatrics,336.0
+American Indian/Alaska Native,surgerygen,54.0
+Asian,surgerygen,1510.0
+Black/African American,surgerygen,567.0
+Hispanic_ Latino_/of Spanish Origin,surgerygen,628.0
+Native Hawaiian/Other Pacific Islander,surgerygen,19.0
+White,surgerygen,3033.0
+Other Race/Ethnicity,surgerygen,270.0
+Unknown Race/Ethnicity,surgerygen,440.0
+American Indian/Alaska Native,familymedicine,78.0
+Asian,familymedicine,3769.0
+Black/African American,familymedicine,1438.0
+Hispanic_ Latino_/of Spanish Origin,familymedicine,1168.0
+Native Hawaiian/Other Pacific Islander,familymedicine,21.0
+White,familymedicine,4612.0
+Other Race/Ethnicity,familymedicine,522.0
+Unknown Race/Ethnicity,familymedicine,681.0

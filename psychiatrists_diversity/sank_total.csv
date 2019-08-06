@@ -1,0 +1,101 @@
+specialty,variable,value
+Internal Medicine,native american,8
+Transitional Year,native american,6
+Surgery-General,native american,12
+Family Medicine,native american,10
+Pediatrics,native american,4
+Emergency Medicine,native american,3
+Anesthesiology,native american,5
+Psychiatry,native american,2
+Obstetrics and Gynecology,native american,1
+Radiology-Diagnostic,native american,1
+Internal Medicine,asian,2258
+Transitional Year,asian,845
+Surgery-General,asian,612
+Family Medicine,asian,507
+Pediatrics,asian,498
+Emergency Medicine,asian,316
+Anesthesiology,asian,440
+Psychiatry,asian,356
+Obstetrics and Gynecology,asian,193
+Radiology-Diagnostic,asian,340
+Internal Medicine,black,593
+Transitional Year,black,208
+Surgery-General,black,264
+Family Medicine,black,383
+Pediatrics,black,201
+Emergency Medicine,black,173
+Anesthesiology,black,171
+Psychiatry,black,134
+Obstetrics and Gynecology,black,172
+Radiology-Diagnostic,black,79
+Internal Medicine,hispanic,526
+Transitional Year,hispanic,220
+Surgery-General,hispanic,220
+Family Medicine,hispanic,223
+Pediatrics,hispanic,147
+Emergency Medicine,hispanic,147
+Anesthesiology,hispanic,114
+Psychiatry,hispanic,118
+Obstetrics and Gynecology,hispanic,89
+Radiology-Diagnostic,hispanic,88
+Internal Medicine,native hawaiian,3
+Transitional Year,native hawaiian,0
+Surgery-General,native hawaiian,2
+Family Medicine,native hawaiian,3
+Pediatrics,native hawaiian,0
+Emergency Medicine,native hawaiian,1
+Anesthesiology,native hawaiian,1
+Psychiatry,native hawaiian,1
+Obstetrics and Gynecology,native hawaiian,1
+Radiology-Diagnostic,native hawaiian,0
+Internal Medicine,white,3947
+Transitional Year,white,1670
+Surgery-General,white,1626
+Family Medicine,white,1531
+Pediatrics,white,1375
+Emergency Medicine,white,1330
+Anesthesiology,white,845
+Psychiatry,white,781
+Obstetrics and Gynecology,white,792
+Radiology-Diagnostic,white,647
+Internal Medicine,other,199
+Transitional Year,other,77
+Surgery-General,other,69
+Family Medicine,other,56
+Pediatrics,other,41
+Emergency Medicine,other,36
+Anesthesiology,other,39
+Psychiatry,other,39
+Obstetrics and Gynecology,other,16
+Radiology-Diagnostic,other,34
+Internal Medicine,multiple race/ethnicity,638
+Transitional Year,multiple race/ethnicity,274
+Surgery-General,multiple race/ethnicity,307
+Family Medicine,multiple race/ethnicity,272
+Pediatrics,multiple race/ethnicity,190
+Emergency Medicine,multiple race/ethnicity,181
+Anesthesiology,multiple race/ethnicity,157
+Psychiatry,multiple race/ethnicity,151
+Obstetrics and Gynecology,multiple race/ethnicity,124
+Radiology-Diagnostic,multiple race/ethnicity,112
+Internal Medicine,unknown race/ethnicity,85
+Transitional Year,unknown race/ethnicity,44
+Surgery-General,unknown race/ethnicity,31
+Family Medicine,unknown race/ethnicity,14
+Pediatrics,unknown race/ethnicity,17
+Emergency Medicine,unknown race/ethnicity,18
+Anesthesiology,unknown race/ethnicity,17
+Psychiatry,unknown race/ethnicity,13
+Obstetrics and Gynecology,unknown race/ethnicity,9
+Radiology-Diagnostic,unknown race/ethnicity,12
+Internal Medicine,non-citizen or permanent resident,170
+Transitional Year,non-citizen or permanent resident,67
+Surgery-General,non-citizen or permanent resident,63
+Family Medicine,non-citizen or permanent resident,46
+Pediatrics,non-citizen or permanent resident,25
+Emergency Medicine,non-citizen or permanent resident,16
+Anesthesiology,non-citizen or permanent resident,33
+Psychiatry,non-citizen or permanent resident,20
+Obstetrics and Gynecology,non-citizen or permanent resident,18
+Radiology-Diagnostic,non-citizen or permanent resident,26
